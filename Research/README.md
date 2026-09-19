@@ -56,7 +56,7 @@ status of migrated derivations and experiment folders.
 | [L003 Coupled Oscillator](L003_coupled_oscillator_cosmic_mechanism/) | v1 | 3 source-traced records; V2.13 planned | PAUSED |
 | [L004 Hidden State](L004_hidden_state_observer_accessibility/) | v1 | 3 source-traced records; reproduction required | PARTIAL |
 | [L005 Complementary Channels](L005_complementary_channel_unification/) | v1 | 2 source-traced records; residual test blocked | OPEN |
-| [L006 S-infinity / B-infinity](L006_s_infinity_b_infinity_relational_substrate/) | v1 | 3 source-traced records; controls planned | IN_PROGRESS |
+| [L006 S-infinity / B-infinity](L006_s_infinity_b_infinity_relational_substrate/) | v2 | 4 source-traced records; E006 reproduction queue; E007-E009 planned | IN_PROGRESS |
 
 ## Phase 4 evidence policy
 

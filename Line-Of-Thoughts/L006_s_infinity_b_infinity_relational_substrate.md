@@ -3,7 +3,8 @@
 **Status:** IN_PROGRESS — the most prominent/most developed line in the
 `indian-mythology-modern-science` chat-archive reconstruction; several sub-questions (ordered
 coverage, hidden state) are shared with L001 and L004 rather than being fully separate
-**Domain:** physics (relational substrate, emergent geometry, persistence, observer reconstruction)
+**Domain:** physics (relational substrate, emergent geometry, persistence, observer reconstruction,
+tensorial/causal structure)
 
 ## Goal
 
@@ -31,12 +32,14 @@ flowchart LR
     A010["A010 Indra Net"] --> L006
     A011["A011 Meru Prastara"] --> L006
     A003["A003 VCR/Cinema<br/>Sequential Coverage"] --> L006
+    A001["A001 Damru<br/>repeated interaction"] --> L006
+    A004["A004 Audio/Video<br/>multi-channel"] --> L006
     L006[["L006 S∞/B∞ Relational<br/>Substrate<br/>🟠 IN_PROGRESS"]] --> R006["R006 Requirements"]
     R006 --> Res006["Research/L006 runbook"]
     L006 -.shares sub-question.-> L001
     L006 -.shares sub-question.-> L004
 
-    class A018,A006,A007,A009,A010,A011,A003 mechanism;
+    class A018,A006,A007,A009,A010,A011,A003,A001,A004 mechanism;
     class L006 active;
     class R006,Res006 gate;
 ```
@@ -50,6 +53,8 @@ flowchart LR
 - [Analogies/A010_indra_net.md](../Analogies/A010_indra_net.md) — relational propagation of a local perturbation through the substrate.
 - [Analogies/A011_meru_prastara.md](../Analogies/A011_meru_prastara.md) — the combinatorial coarse-graining mechanism connecting the total state space to accessible/observed classes.
 - [Analogies/A003_vcr_cinema_sequential_coverage.md](../Analogies/A003_vcr_cinema_sequential_coverage.md) — the ordered-coverage/observer-reconstruction sub-question, shared with L001.
+- [Analogies/A001_damru.md](../Analogies/A001_damru.md) — repeated local interaction and candidate persistence mechanisms; literal cosmic-mechanism claims remain closed.
+- [Analogies/A004_audio_video_channels.md](../Analogies/A004_audio_video_channels.md) — possible multi-channel manifestation; EM/GW identity and common substrate remain unestablished.
 
 ## Why these analogies were combined
 
@@ -120,6 +125,33 @@ Following \(indian-mythology-modern-science/research/S_{INFINITY}_B_INFINITY/HIS
   system, through ordered dynamical coverage and observer-accessible channels, produce persistent
   observable manifestations while recovering the required limits of established physics?"
 
+## Newly recovered chat branch (historical, requires reproduction)
+
+The records `CHAT_0158`–`CHAT_0246` add a more explicit hierarchy without upgrading any chat claim
+to independently reproduced evidence:
+
+1. **Infinity taxonomy:** M∞ (mathematical), P∞ (physical), and O∞ (perceived) are distinct
+  categories. S∞, R∞, and B∞ are proposed structures within the P∞ hypothesis, not the three
+  types of infinity ([CHAT_0204](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0204_now-i-want-to-return-back-to-infinity-can-u-summarize-what-we-discussed-about-infinity-its-n.md)).
+2. **Gravity boundary:** the scalar H model can match a weak-field/00-sector pattern, but the
+  scalar-derived tensor fails the vacuum spatial-component test. A tensorial fabric branch is
+  proposed; deriving its actor coupling and comparing it with Einstein's tensor remains open
+  ([CHAT_0158](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0158_pls-continue-straight-to-eienstein-gravity-equation.md),
+  [CHAT_0159](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0159_pga-lets-run-the-einstein-tensor-closure-test-directly.md),
+  [CHAT_0160](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0160_pga-we-now-move-from-the-scalar-eq-h-to-the-minimal-tensorial-fabric-model.md)).
+3. **Persistence boundary:** S↔B feedback produced interaction and a B response, but the minimal
+  localized excitation dispersed. QZE-like repetition and topology are candidate stabilizers;
+  the historical topological toy inserted its double-well sectors ([CHAT_0192](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0192_pga-we-have-now-hit-the-first-genuinely-informative-failure-of-the-new-hypothesis.md),
+  [CHAT_0196](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0196_pga-i-ran-the-topological-localization-test-this-gives-us-a-much-more-interesting-result-tha.md)).
+4. **Frame boundary:** ordinary symmetric exchange generated a mass-like mode gap but left the
+  common massless speed unchanged. A metric-free test kept a ratio invariant only when matched
+  transformations were chosen; a pure relational network must derive any stable ratio
+  ([CHAT_0197](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0197_pga-i-think-the-frame-speed-test-gives-us-a-very-important-correction.md),
+  [CHAT_0203](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0203_pga-lets-run-the-minimal-frame-speed-emergence-test-without-putting-eq-c-a-metric-or-physica.md)).
+
+The branch therefore returns to one primitive question: **what interaction law, if any, is actually
+meant by S∞↔B∞?** All downstream interpretations remain conditional on that law.
+
 ## What this line of thought must NOT claim
 
 - That S∞ and B∞ are established physical entities — they are explicitly working conceptual labels
@@ -133,3 +165,5 @@ Following \(indian-mythology-modern-science/research/S_{INFINITY}_B_INFINITY/HIS
   "What this does NOT show").
 - Any claim of a proven, new, novel, unified, gravitational, or particle theory — none is supported
   by the archive (\(research/S_{INFINITY}_B_INFINITY/README.md\)).
+- That tensorial fabric, Lorentzian structure, a stable frame ratio, topology, QZE stabilization,
+  or particle formation follows from S∞↔B∞ by definition; each is a separate gate.

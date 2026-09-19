@@ -52,6 +52,11 @@ rather than merely decorative.
   (`research/DAMRU/HISTORY.md`).
 - Provided a lens for asking whether coherent oscillation could select a gravitational (tensor)
   mode over other sectors.
+- The later S∞↔B∞ branch sharpened the repeated-impact reading: successive local interactions
+  can maintain a collective response when the interaction interval is shorter than recovery, but
+  the minimal feedback model still dispersed a localized excitation. QZE-like stabilization and
+  topological protection remain candidate mechanisms, not Damru results ([CHAT_0192](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0192_pga-we-have-now-hit-the-first-genuinely-informative-failure-of-the-new-hypothesis.md)
+  and [CHAT_0196](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0196_pga-i-ran-the-topological-localization-test-this-gives-us-a-much-more-interesting-result-tha.md)).
 
 ## ⚠️ What it does NOT explain
 
@@ -61,6 +66,8 @@ rather than merely decorative.
 - Coherent oscillation did not, in the historical toy tests, naturally transfer energy into the
   gravitational/tensor sector (see \(research/FAILED_{AND}_ABANDONED_PATHS.md\): "Damru rhythm → gravity").
 - It is not evidence that gravitational waves are literally produced by a Damru-like mechanism.
+- It does not show that repeated S∞↔B∞ interaction autonomously creates a particle; the historical
+  feedback test found interaction without self-localization.
 
 ## 🧪 Testable component
 

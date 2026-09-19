@@ -46,8 +46,13 @@ as such (\(research/ANALOGY_{MAP}.md\): "Did not establish: Derivation of GR").
 
 ## 🧪 Testable component
 
-None directly — it is a descriptive/illustrative layer over whatever formal backreaction model is
-actually being tested (see Damru-derived toy models, A001).
+The fabric image itself remains non-testable, but the associated formal question is now sharper:
+can an explicitly derived tensorial fabric disturbance \(h_{\mu\nu}\) generate a divergence-free
+geometric tensor, recover the scalar weak-field sector, and obtain its source coupling without
+inserting Einstein's equation? The scalar H branch failed as a complete vacuum Einstein field;
+the tensorial branch is only a proposed test ([CHAT_0158](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0158_pls-continue-straight-to-eienstein-gravity-equation.md),
+[CHAT_0159](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0159_pga-lets-run-the-einstein-tensor-closure-test-directly.md),
+and [CHAT_0160](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0160_pga-we-now-move-from-the-scalar-eq-h-to-the-minimal-tensorial-fabric-model.md)).
 
 ## 🪞 Non-testable / metaphorical component
 

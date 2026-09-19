@@ -92,6 +92,11 @@ relabeled scan parameter.
   and requiring reproduction (\(research/REPRODUCTION_{QUEUE}.md\), R002).
 - The explicit required boundary from A003 remains binding: do not assign the traversal/scan
   parameter `s = t` and then treat the outcome as emergent time.
+- The newer S∞↔B∞ branch adds a second boundary: a stable frame ratio
+  \(c_F=\Delta L/\Delta\tau\) is not physical time or invariant speed merely because it is
+  numerically constant in a constructed toy model. It must emerge from a metric-free relational
+  network and survive matched-scaling, shuffled, and null controls ([CHAT_0197](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0197_pga-i-think-the-frame-speed-test-gives-us-a-very-important-correction.md),
+  [CHAT_0203](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0203_pga-lets-run-the-minimal-frame-speed-emergence-test-without-putting-eq-c-a-metric-or-physica.md)).
 
 ## What this line of thought must NOT claim
 

@@ -35,6 +35,10 @@ its source.
 | S∞/B∞ element | Mapped concept |
 |---|---|
 | S∞ (small infinity) | A localized/finite-scale manifestation |
+| M∞ (mathematical infinity) | Formal structures such as infinite sets, limits, cardinalities, and infinite-dimensional spaces |
+| P∞ (physical infinity) | A conjectured unbounded or inexhaustible physical relational structure; not established |
+| O∞ (perceived infinity) | A physically finite multiplicity or recursive structure that exceeds an observer's practical enumeration/access capacity |
+| R∞ (relational possibility) | Relations, paths, histories, and configurations between or within manifestations |
 | B∞ (big infinity) | The background relational/spacetime-like context |
 | Interaction between S∞ and B∞ | Observable manifestation arising from a relation between local and background structure |
 | \(M\infty \neq P\infty \neq O\infty\) (where used in source) | Mathematical infinity ≠ physical infinity ≠ perceived infinity |
@@ -62,6 +66,15 @@ established physics (\(E001_s_infinity_b_infinity_origin.md\), section 1).
 - Directly produced the E001 (historical reconstruction) and E002 (ordered-coverage) experiment
   records, and connects to the VCR/ordered-coverage line (A003) and the hidden-state/accessibility
   line (A009/A010) as sub-questions within the same broader hypothesis.
+- The later chat reconstruction corrected an important naming error: the three kinds of infinity
+  are **M∞ (mathematical), P∞ (physical), and O∞ (perceived)**. S∞, R∞, and B∞ are proposed
+  structures within the physical-infinity hypothesis, not the three kinds of infinity themselves
+  (historical records [CHAT_0204](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0204_now-i-want-to-return-back-to-infinity-can-u-summarize-what-we-discussed-about-infinity-its-n.md)
+  and [CHAT_0208](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0208_pga-we-have-now-reached-the-point-where-we-should-stop-adding-analogies-and-actually-test-th.md)).
+- The strongest surviving primitive is stated as S∞↔B∞ interaction. Damru, VCR, audio/video,
+  QZE, topology, and GR are manifestations, mathematical languages, or tests of that primitive,
+  not independently established mechanisms ([CHAT_0188](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0188_pga-i-see-how-u-enter-into-specifics-so-the-ultimate-hypothesis-is-small-infinity-big-infini.md)
+  and [CHAT_0203](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0203_pga-lets-run-the-minimal-frame-speed-emergence-test-without-putting-eq-c-a-metric-or-physica.md)).
 
 ## ⚠️ What it does NOT explain
 
@@ -80,6 +93,19 @@ established physics (\(E001_s_infinity_b_infinity_origin.md\), section 1).
   of robust ordered reconstruction" (E002).
 - A massless/massive normal-mode split in a two-channel toy model is known field-theory behavior,
   not evidence for S∞/B∞ specifically (E001, section 4.3, 6).
+- A simple S↔B feedback model produced a nonzero B response but the localized S excitation
+  spread; feedback alone therefore did not establish self-localization ([CHAT_0192](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0192_pga-we-have-now-hit-the-first-genuinely-informative-failure-of-the-new-hypothesis.md)).
+- A double-well/topological toy model produced a kink-like localized transition, but the
+  degenerate states and topology were inserted. It demonstrates a possible stabilization
+  mechanism, not that S↔B dynamics generate topology ([CHAT_0196](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0196_pga-i-ran-the-topological-localization-test-this-gives-us-a-much-more-interesting-result-tha.md)).
+- The scalar fabric variable H can reproduce a weak-field/00-sector pattern, but a scalar-derived
+  tensor failed the vacuum spatial-component test. Full Einstein closure therefore requires a
+  tensorial fabric and a derived actor-fabric coupling; neither has been established ([CHAT_0158](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0158_pls-continue-straight-to-eienstein-gravity-equation.md)
+  and [CHAT_0159](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0159_pga-lets-run-the-einstein-tensor-closure-test-directly.md)).
+- Ordinary symmetric S↔B exchange split modes and generated a mass-like gap but did not change
+  the common massless propagation speed. A change in relational stiffness/inertia is a distinct,
+  untested mechanism ([CHAT_0197](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0197_pga-i-think-the-frame-speed-test-gives-us-a-very-important-correction.md)
+  and [CHAT_0198](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0198_pga-we-now-have-the-cleanest-result-yet-on-the-frame-speed-question.md)).
 - It does **not** show that time cannot emerge, that space is produced by time, that S∞/B∞ is
   falsified, or that observer perception creates physical spacetime (E002, "What this does NOT
   show").
@@ -97,6 +123,12 @@ established physics (\(E001_s_infinity_b_infinity_origin.md\), section 1).
 - Any candidate collective-dispersion relation with a low-energy limit approaching `c`
   (\(v_{g} = d\omega/dk\), \(lim_{k\rightarrow0} d\omega/dk = c\), \(\omega² = c²k² + \alphak⁴ + \betak⁶ + ...\)) as a model requirement, not
   a verified result (`HISTORY.md`, section 1).
+- A metric-free frame test: derive relational length and duration from the same S↔B update and
+  test whether their ratio is stable without inserting `c`, a metric, or physical `dt`
+  ([CHAT_0203](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0203_pga-lets-run-the-minimal-frame-speed-emergence-test-without-putting-eq-c-a-metric-or-physica.md)).
+- A tensorial-fabric test: derive a symmetric fabric response and its source coupling from an
+  explicit action or update law, then test divergence-free structure, the Newtonian limit, and
+  vacuum components. Historical chat algebra is `REQUIRES_REPRODUCTION`, not a verified result.
 
 ## 🪞 Non-testable / metaphorical component
 

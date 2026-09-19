@@ -58,6 +58,12 @@ time — explicitly treated as a mechanism-discovery device, not a literal physi
   Ramanujan").
 - In the mythology-chat archive, motivated the observer/audience/reconstruction framework and the
   explicit rejection of "VCR literally creates time" (\(research/FAILED_{AND}_ABANDONED_PATHS.md\)).
+- The new chat reconstruction refines the useful object: a frame can be defined as a complete
+  relational state \(R_n\), with frame transitions \(R_n\rightarrow R_{n+1}\), while the frame
+  rate remains an emergent quantity to be derived rather than identified with `c`. A metric-free
+  toy test kept \(\Delta L/\Delta\tau\) invariant only when both were given matched responses;
+  that symmetry was chosen, so it is a structural condition, not evidence ([CHAT_0198](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0198_pga-we-now-have-the-cleanest-result-yet-on-the-frame-speed-question.md)
+  and [CHAT_0203](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0203_pga-lets-run-the-minimal-frame-speed-emergence-test-without-putting-eq-c-a-metric-or-physica.md)).
 
 ## ⚠️ What it does NOT explain
 
@@ -68,6 +74,10 @@ time — explicitly treated as a mechanism-discovery device, not a literal physi
   reconstruction (\(research/ANALOGY_{MAP}.md\), "Audio/video").
 - The null hypothesis under active test (V2.1-VCR-hypothesis.md) is that the VCR analogy adds no
   physical content beyond ordinary sampling theory and signal reconstruction.
+- It does not establish that an S∞↔B∞ interaction changes the invariant speed of light. Ordinary
+  symmetric exchange changed the excitation spectrum while leaving the common massless mode at
+  the same propagation speed; changing relational stiffness/inertia is a separate open test
+  ([CHAT_0197](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0197_pga-i-think-the-frame-speed-test-gives-us-a-very-important-correction.md)).
 
 ## 🧪 Testable component
 

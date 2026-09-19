@@ -38,6 +38,7 @@ flowchart TD
 | 4 | An ordering must be recoverable from relational observations alone, without directly supplying the ordering labels to the reconstruction algorithm, under controlled conditions. | computational | Recovered-ordering correlation with the true generating ordering must exceed a preregistered threshold across shuffled observations, independent random observation maps, multiple noise levels, non-periodic trajectories, and multiple reconstruction methods, compared against a null relational process with no designed temporal sequence. | FAILED (current implementation) — E002 spectral-seriation reconstruction gave \(\rho \approx -0.029\) (\(indian-mythology-modern-science/research/S_{INFINITY}_B_INFINITY/experiments/E002_ordered_coverage_effective_time.md\)). |
 | 5 | Any surviving quantity must be connected to an independently measurable physical scale, not just a dimensionless relational distance. | theoretical/experimental | A physical scale factor (e.g. \(\kappa\) in \(L = \kappa\cdotd_{FS}\)) must be independently derived or measured, not fitted after the fact. | OPEN — V2.4 found the scale factor \(\kappa\) is missing (\(V2/RESEARCH_{GRAPH}.md\), section 8). |
 | 6 | The candidate quantity must be compatible with established physics and yield a genuinely new, falsifiable quantitative prediction, not a relabeling of known sampling/reconstruction theory. | comparative | The result must be shown to differ measurably from what ordinary sampling theory and signal reconstruction already predict (the explicit null hypothesis of this line). | OPEN — null hypothesis not yet rejected (`Analogies/A003...`, V2.1-VCR-hypothesis.md, "Null hypothesis"). |
+| 7 | Any emergent frame rate or propagation ratio must be derived from relational dynamics without identifying it with physical time or inserting `c`. | computational/theoretical | A metric-free model must generate stable spatial and temporal relational quantities whose ratio survives matched-scaling, shuffled, and null controls; a chosen equality of response functions is not a pass. | OPEN — historical S∞↔B∞ toy result was constructed with matched transformations and requires reproduction ([CHAT_0203](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0203_pga-lets-run-the-minimal-frame-speed-emergence-test-without-putting-eq-c-a-metric-or-physica.md)). |
 
 ## Order of attack and reasoning
 
@@ -53,7 +54,7 @@ against the null hypothesis and existing sampling theory.
 
 ## Definition of success for this line of thought
 
-All six requirements above are met, the null hypothesis (requirement 6) is rejected under
+all seven requirements above are met, the null hypothesis (requirement 6) is rejected under
 controlled, reproducible tests, and the resulting invariant is independently measurable and
 distinguishable from ordinary sampling/reconstruction theory.
 

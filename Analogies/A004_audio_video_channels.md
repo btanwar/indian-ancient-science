@@ -45,6 +45,11 @@ observational relationship.
 - Motivated dual-channel/complementary-channel reconstruction experiments (PGA-152, PGA-153) and,
   in V2, an explicit gravitational-wave/electromagnetic coupling and polarization-invariant test
   line (`V2.7`, `V2.8`).
+- The newer S∞↔B∞ synthesis keeps the analogy as a possible multi-channel manifestation only:
+  coupled sectors can share a causal operator or split into massless and gapped modes in a toy
+  model, but that does not establish EM/GW identity, a common substrate, or particle mass
+  generation ([CHAT_0160](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0160_pga-we-now-move-from-the-scalar-eq-h-to-the-minimal-tensorial-fabric-model.md)
+  and [CHAT_0190](../../indian-philosophy-modern-physics/V3/chat_records/CHAT_0190_pga-lets-take-the-newest-hypothesis-seriously-and-attack-it-at-its-weakest-point.md)).
 
 ## ⚠️ What it does NOT explain
 
