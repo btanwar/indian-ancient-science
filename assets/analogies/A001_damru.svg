@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="180" viewBox="0 0 520 180" role="img" aria-labelledby="title desc">
+  <title id="title">Conceptual Shiva and Damru diagram</title>
+  <desc id="desc">A small symbolic figure of Shiva holding an hourglass drum, with labels for the two lobes, waist, striker, and oscillation.</desc>
+  <rect width="520" height="180" fill="#f7f2e8"/>
+  <g stroke="#252525" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="62" cy="48" r="18" fill="#d7b48a"/>
+    <path d="M48 75 Q62 64 76 75 L88 128 M55 83 L34 113 M69 83 L91 113 M48 128 L38 164 M76 128 L88 164"/>
+    <path d="M40 28 Q62 8 84 28 M62 30 L62 10"/>
+    <path d="M91 113 L116 77 L116 28 M108 28 L124 28 M116 28 L116 12"/>
+    <path d="M88 96 L145 72"/>
+    <path d="M151 54 C128 62 128 82 151 90 L189 80 C203 76 203 68 189 64 Z" fill="#d98b52"/>
+    <path d="M189 64 L189 80"/>
+    <circle cx="155" cy="58" r="5" fill="#252525"/>
+    <circle cx="155" cy="86" r="5" fill="#252525"/>
+    <path d="M145 72 Q150 58 155 58 M145 72 Q150 86 155 86"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="13" fill="#252525">
+    <text x="20" y="176">symbolic Shiva context</text>
+    <text x="214" y="47">two lobes = coupled sides</text>
+    <text x="214" y="72">narrow waist = interface</text>
+    <text x="214" y="97">knotted beads = local excitation</text>
+    <text x="214" y="122">rotation = repeated drive</text>
+    <text x="214" y="147">sound/vibration = propagating response</text>
+  </g>
+  <g stroke="#a34f25" stroke-width="1.5" fill="none">
+    <path d="M190 58 L207 47"/><path d="M190 80 L207 72"/><path d="M158 58 L207 97"/><path d="M145 72 L207 122"/><path d="M158 86 L207 147"/>
+  </g>
+</svg>
