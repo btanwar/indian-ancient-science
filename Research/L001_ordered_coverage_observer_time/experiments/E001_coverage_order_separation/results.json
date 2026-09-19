@@ -1,0 +1,7 @@
+{
+  "n_samples": 64,
+  "sequence_relative_difference": 1.4641556629209485,
+  "static_reconstruction_relative_difference": 0.0,
+  "relative_error_to_reference": 0.05254386645293767,
+  "status": "source-migrated toy experiment; physical time not inferred"
+}

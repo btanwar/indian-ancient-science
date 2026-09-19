@@ -26,6 +26,11 @@ Research/
 
 - `experiments/E###_short-name/` holds the exact script(s)/parameters used. Keep experiments
   reproducible: pin parameters, note the environment/library versions used.
+- Each experiment folder must preserve its derivation/equations, source provenance, assumptions,
+  parameters, controls, and evidence status. Use `README.md` for this record and keep executable
+  scripts beside it when available.
+- Historical chat extractions may populate a derivation/protocol folder, but must be labeled
+  `HISTORICAL`, `SOURCE DERIVATION`, or `REQUIRES_REPRODUCTION` until code and output are rerun.
 - Do not modify an experiment after it has produced a recorded result; if you need to change it,
   create a new experiment ID and note the relationship to the previous one.
 
@@ -40,6 +45,9 @@ Research/
   `FAILED`/`ABANDONED` and explain why. This is itself a valid research record.
 
 ## Index
+
+See [EXPERIMENT_SOURCE_INVENTORY.md](EXPERIMENT_SOURCE_INVENTORY.md) for the source and evidence
+status of migrated derivations and experiment folders.
 
 | Line of thought | Runbook version | Experiments run | Status |
 |---|---|---|---|
