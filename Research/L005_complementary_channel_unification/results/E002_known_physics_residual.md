@@ -1,7 +1,7 @@
 # Result E002 - Known-Physics Residual
 
 **Runbook step:** [../runbook.md](../runbook.md) step #2
-**Experiment:** `experiments/E002_known_physics_residual/`
+**Experiment:** \(experiments/E002_known_physics_residual/\)
 **Status:** NEGATIVE
 
 ## What was tested

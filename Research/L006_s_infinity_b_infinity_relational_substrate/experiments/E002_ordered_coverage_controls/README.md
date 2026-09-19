@@ -1,6 +1,6 @@
 # Experiment E002 - Ordered Coverage Controls
 
-**Source:** `indian-philosophy-modern-physics/V3/research/S_INFINITY_B_INFINITY/experiments/E002_ordered_coverage_effective_time.md`
+**Source:** \(indian-philosophy-modern-physics/V3/research/S_{INFINITY}_B_INFINITY/experiments/E002_ordered_coverage_effective_time.md\)
 **Line:** L006 / R006 requirement 4; shared with L001 R001 requirement 4
 **Status:** HISTORICAL NEGATIVE IMPLEMENTATION; REPRODUCTION REQUIRED
 
@@ -8,7 +8,7 @@
 
 Latent periodic state:
 
-`z(theta) = (sin(theta), cos(theta), sin(2 theta), cos(2 theta))`.
+\(z(theta) = (sin(theta), cos(theta), sin(2 theta), cos(2 theta))\).
 
 Observation map:
 

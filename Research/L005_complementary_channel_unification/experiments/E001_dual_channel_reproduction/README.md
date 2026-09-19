@@ -12,8 +12,8 @@ Can the historical dual-channel and complementary-channel reconstructions be rer
 
 Represent one underlying event/state `S` with two observation maps:
 
-`E = Pi_EM(S)`,
-`G = Pi_GW(S)`.
+\(E = Pi_{EM}(S)\),
+\(G = Pi_{GW}(S)\).
 
 A joint reconstruction is:
 

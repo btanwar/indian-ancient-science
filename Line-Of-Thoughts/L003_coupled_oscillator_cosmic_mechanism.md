@@ -78,31 +78,31 @@ earlier version of this line.
 ### V1 boundary (literal mechanism — CLOSED, and this closure stands)
 
 - "Damru analogy supplies a new physical coupling mechanism" — **REJECTED**
-  (`indian-philosophy-modern-physics/V1/CLAIMS_STATUS.md`, C13); "Orchestra analogy supplies a new
+  (\(indian-philosophy-modern-physics/V1/CLAIMS_{STATUS}.md\), C13); "Orchestra analogy supplies a new
   physical mechanism of coherence/constraint" — **REJECTED** (C14). Both retained only as
   analogy/explanatory metaphor (`V1/DECISIONS.md`, [A] and [B]).
 - The mythology-chat reconstruction independently reports the same conclusion: coherent
   oscillation did not naturally transfer energy into the gravitational/tensor sector
-  (`indian-mythology-modern-science/research/FAILED_AND_ABANDONED_PATHS.md`, "Damru rhythm →
+  (\(indian-mythology-modern-science/research/FAILED_{AND}_ABANDONED_PATHS.md\), "Damru rhythm →
   gravity" — closed; "Collective coherence lens" is what survived).
 - Reproduction status: the historical coupled-chain acoustic-like branch and mismatch-induced gap
   result requires full reproduction of lattice equations, parameters, boundary conditions, and
-  spectra (`research/REPRODUCTION_QUEUE.md`, R007).
+  spectra (\(research/REPRODUCTION_{QUEUE}.md\), R007).
 
 ### V2 "Cosmic Damru → GW/EM → Ramanujan" thread (PAUSED, not closed)
 
 This is a substantially more developed sequence than the V1 result above, recorded in
-`indian-philosophy-modern-physics/V2/RESEARCH_GRAPH.md` (the canonical V2 project-memory file):
+\(indian-philosophy-modern-physics/V2/RESEARCH_{GRAPH}.md\) (the canonical V2 project-memory file):
 
 - **V2.7 — GW→EM coupling:** decomposed as `source dynamics → GW perturbation → changing spacetime
   geometry → EM field/charged medium/magnetic field interaction → EM excitation/mode conversion →
   photons/EM spectrum`. Existing-physics audit found GW→EM conversion is already established
   theoretical physics in suitable environments (e.g. inverse Gertsenshtein-type, resonant
-  conversion), so conversion itself is **not novel**. A reduced coupling `A_EM ∝ κ B L A_GW` gives
-  `ω_EM = ω_GW` for the simplest stationary linear case. **Decision: 🟢 known-physics bridge; no
+  conversion), so conversion itself is **not novel**. A reduced coupling \(A_{EM} \propto \kappa B L A_{GW}\) gives
+  \(\omega_{EM} = \omega_{GW}\) for the simplest stationary linear case. **Decision: 🟢 known-physics bridge; no
   novel law established.**
 - **V2.8 — GW/EM polarization invariant pretest:** a toy rotation of `(h_+, h_×) = (0.8, 0.6)`
-  gives `E_x² + E_y² = 1` to within ≈ `2.22×10⁻¹⁶` — an ordinary rotational norm-preservation
+  gives \(E_{x}² + E_{y}² = 1\) to within ≈ \(2.22×10⁻¹⁶\) — an ordinary rotational norm-preservation
   identity, **explicitly not new physics**.
 - **V2.9 — Cross-analogy convergence audit:** asked whether the same invariant/mathematical object
   arises independently in at least three branches (VCR/A003, GW→EM/this line, illumination/A019).
@@ -110,14 +110,14 @@ This is a substantially more developed sequence than the V1 result above, record
   mathematical invariant convergence: **not yet at that stage**; new-physics convergence: **not
   established**.
 - **V2.10 — Common transition/state invariant:** using Fubini–Study fidelity
-  `F(S_i,S_j) = |⟨S_i,S_j⟩|²/(⟨S_i,S_i⟩⟨S_j,S_j⟩)`, numerical values were obtained for VCR
-  (`F ≈ 0.7057743527816723`, `d_FS ≈ 0.5733218162216637`), GW→EM (`F ≈ 0.869234279364794`,
-  `d_FS ≈ 0.370000000000000`), and photon/illumination (`F ≈ 0.9564415725333592`,
-  `d_FS ≈ 0.21025220579102855`), surviving representation/packetization null tests. **Decision: 🟢
+  \(F(S_{i},S_{j}) = |⟨S_{i},S_{j}⟩|²/(⟨S_{i},S_{i}⟩⟨S_{j},S_{j}⟩)\), numerical values were obtained for VCR
+  (\(F \approx 0.7057743527816723\), \(d_{FS} \approx 0.5733218162216637\)), GW→EM (\(F \approx 0.869234279364794\),
+  \(d_{FS} \approx 0.370000000000000\)), and photon/illumination (\(F \approx 0.9564415725333592\),
+  \(d_{FS} \approx 0.21025220579102855\)), surviving representation/packetization null tests. **Decision: 🟢
   a common mathematical object (Fubini–Study/projective fidelity) was established across the three
   branches — but this is established mathematics, not new mathematics or new physics.**
 - **V2.11 — Ramanujan/theta modular discriminator:** a quadratic theta family
-  `Theta_2(β) = √(π/β) · Theta_2(π²/β)` held to a residual ≈ `2.22×10⁻¹⁶` (p=2), versus much larger
+  \(Theta_{2}(\beta) = √(\pi/\beta) \cdot Theta_{2}(\pi²/\beta)\) held to a residual ≈ \(2.22×10⁻¹⁶\) (p=2), versus much larger
   residuals for p=1, 3, 4 (up to ≈ 2.57, 0.314, 0.427 respectively). **Decision: 🟢 genuine
   mathematical theta/modular discriminator — physical relevance still OPEN.**
 - **V2.12 — Branch-native Ramanujan/theta test:** applying the same theta-residual test using each
@@ -128,13 +128,13 @@ This is a substantially more developed sequence than the V1 result above, record
   circular pattern-matching and identifies the missing ingredient (a physically grounded rule for
   building q-series structure from each branch, not an arbitrary fit).
 - **V2.13 — Ramanujan E2/E4/E6 transition-invariant test:** a fully designed next test (using the
-  Ramanujan differential system `q dE2/dq = (E2²−E4)/12`, `q dE4/dq = (E2E4−E6)/3`,
-  `q dE6/dq = (E2E6−E4²)/2`) asking whether a single, unmodified, dimensionless transition
+  Ramanujan differential system \(q dE2/dq = (E2²−E4)/12\), \(q dE4/dq = (E2E4−E6)/3\),
+  \(q dE6/dq = (E2E6−E4²)/2\)) asking whether a single, unmodified, dimensionless transition
   invariant satisfies this closure across at least three branches without fitted transformations
   or branch-specific rules. **This test was designed but explicitly NOT executed.**
 - **Project pause:** V2 records an explicit, deliberate pause after V2.13's design, for reasons
   unrelated to a scientific dead end (the researcher paused to work on an unrelated Electric
-  Airborne Vehicle project) — `V2/RESEARCH_GRAPH.md`, sections 17 and 21: "PROJECT PAUSED... this
+  Airborne Vehicle project) — \(V2/RESEARCH_{GRAPH}.md\), sections 17 and 21: "PROJECT PAUSED... this
   is a deliberate pause, not closure... When resumed, preserve all history and negative results.
   Start at V2.13."
 
@@ -145,7 +145,7 @@ This is a substantially more developed sequence than the V1 result above, record
 - That GW→EM conversion itself, or the Fubini–Study convergence result (V2.10), constitute new
   physics — both are explicitly established/known-mathematics results, not novel findings.
 - That V2.13 has been run, or that its outcome (if any) is known — it is designed only; treat as
-  `NOT_EXECUTED`, never as a result.
+  \(NOT_{EXECUTED}\), never as a result.
 - That this line has been closed — the correct status is **PAUSED**, with an explicit, documented
   resume point (V2.13) and a preserved history of one negative result (V2.12) along the way.
 

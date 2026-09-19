@@ -6,7 +6,7 @@ mala (prayer beads on a thread) as a model of discrete, ordered, connected eleme
 **Modern domain:** physics (localized excitations on extended structures, string-like models)
 **📌 Status:** ANALOGY_ONLY
 
-**Prior-project source:** `indian-mythology-modern-science/research/ANALOGY_MAP.md` ("Bead/
+**Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Bead/
 string"), `research/DAMRU/HISTORY.md`, early `PGA` string/mode sequence in `shared/test/`
 (e.g. `PGA-28`, `PGA-34`, `PGA-40`).
 
@@ -40,12 +40,12 @@ constructions in the early substrate/dispersion sequence.
 ## ✅ What it helps explain / suggest
 
 Provided the intuition for persistence, propagation, and the local/global distinction used when
-constructing early discrete-substrate and mode/spectrum toy models (`research/ANALOGY_MAP.md`).
+constructing early discrete-substrate and mode/spectrum toy models (\(research/ANALOGY_{MAP}.md\)).
 
 ## ⚠️ What it does NOT explain
 
 It does not establish a literal string or particle ontology — it does not, by itself, derive
-particle masses, spectra, or spacetime geometry (`research/ANALOGY_MAP.md`).
+particle masses, spectra, or spacetime geometry (\(research/ANALOGY_{MAP}.md\)).
 
 ## 🧪 Testable component
 

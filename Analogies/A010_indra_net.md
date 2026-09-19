@@ -6,7 +6,7 @@ universal interconnection and mutual reflection.
 **Modern domain:** physics (relational propagation, recursive/hierarchical models)
 **📌 Status:** HISTORICAL TOY ANALOGY
 
-**Prior-project source:** `indian-mythology-modern-science/research/ANALOGY_MAP.md` ("Indra-Net /
+**Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Indra-Net /
 recursive visibility"); `shared/test/PGA-IIVM-5.md` ("Recursive Visibility / Indra-Net Test").
 
 <img src="../assets/analogies/A010_indra_net.svg" alt="Conceptual Indra-Net diagram showing connected jewels and propagation from a local perturbation" width="300" />
@@ -44,7 +44,7 @@ perturbation → relational propagation (`shared/test/PGA-IIVM-5.md`).
 ## ⚠️ What it does NOT explain
 
 It does not establish physical network evidence; it remains a historical toy analogy
-(`research/ANALOGY_MAP.md`).
+(\(research/ANALOGY_{MAP}.md\)).
 
 ## 🧪 Testable component
 

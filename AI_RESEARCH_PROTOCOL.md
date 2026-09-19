@@ -75,7 +75,7 @@ Each `Research/L###_*/runbook.md` must contain:
 - next action;
 - version history whenever the plan changes.
 
-Keep the Mermaid map synchronized with the plan. Use status labels such as `SUCCESSFUL`, `PARTIAL`, `NEGATIVE`, `FAILED`, `INCONCLUSIVE`, `REQUIRES_REPRODUCTION`, `OPEN`, `BLOCKED`, and `PAUSED` directly in map labels.
+Keep the Mermaid map synchronized with the plan. Use status labels such as `SUCCESSFUL`, `PARTIAL`, `NEGATIVE`, `FAILED`, `INCONCLUSIVE`, \(REQUIRES_{REPRODUCTION}\), `OPEN`, `BLOCKED`, and `PAUSED` directly in map labels.
 
 ### Experiments and results
 

@@ -6,7 +6,7 @@ order are arranged.
 **Modern domain:** physics (cosmological/geometric framing — conceptual only)
 **📌 Status:** CONCEPTUAL ANALOGY
 
-**Prior-project source:** `indian-mythology-modern-science/research/ANALOGY_MAP.md` ("Meru
+**Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Meru
 Parvat").
 
 <img src="../assets/analogies/A012_meru_parvat.svg" alt="Conceptual Meru Parvat diagram showing a central axis and ordered surroundings" width="300" />
@@ -34,7 +34,7 @@ large-scale/cosmological aspects of the research.
 
 ## ✅ What it helps explain / suggest
 
-Provided conceptual framing only (`research/ANALOGY_MAP.md`).
+Provided conceptual framing only (\(research/ANALOGY_{MAP}.md\)).
 
 ## ⚠️ What it does NOT explain
 

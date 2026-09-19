@@ -58,21 +58,21 @@ law used to move between the hidden and accessible descriptions in the IIVM test
 
 ## Current status detail
 
-- A reversible, finite hidden-state toy model (`|Ω| = 65,536`, 8-bit projection) reported observer
+- A reversible, finite hidden-state toy model (\(|\Omega| = 65,536\), 8-bit projection) reported observer
   entropy rising to about 7.18 bits after mixing, then fluctuating and reversing under inverse
   dynamics — a **historical reported result requiring reproduction**
-  (`indian-mythology-modern-science/research/REPRODUCTION_QUEUE.md`, R003).
+  (\(indian-mythology-modern-science/research/REPRODUCTION_{QUEUE}.md\), R003).
 - Observer capacities of 4, 8, and 12 bits reportedly produced different effective descriptions
   under the same underlying microtrajectory — also requiring reproduction (R004 in the
   reproduction queue).
 - Explicit conclusion already reached and preserved: "The IIVM doesn't prove any of this physics"
   (source chat, reflected in `shared/test/` IIVM entries); coarse-graining alone was found **not**
   to produce a fundamental, monotonic arrow of time — entropy fluctuated and reversed under the
-  inverse dynamics test (`research/FAILED_AND_ABANDONED_PATHS.md`, "Coarse-graining alone →
+  inverse dynamics test (\(research/FAILED_{AND}_ABANDONED_PATHS.md\), "Coarse-graining alone →
   fundamental time arrow").
 - The Indra-Net local-perturbation-propagation test (`PGA-IIVM-5`) remains a **historical toy
   analogy** with no independent physical-network evidence established
-  (`research/ANALOGY_MAP.md`).
+  (\(research/ANALOGY_{MAP}.md\)).
 
 ## What this line of thought must NOT claim
 

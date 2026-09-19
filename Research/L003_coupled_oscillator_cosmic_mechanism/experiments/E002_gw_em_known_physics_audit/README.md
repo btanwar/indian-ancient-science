@@ -10,37 +10,45 @@ Does a gravitational-wave to electromagnetic response exceed established Einstei
 
 ## Physical decomposition
 
-`source dynamics -> metric perturbation h_mu_nu -> changing geometry -> interaction with background EM field or charged medium -> EM perturbation -> observable spectrum`.
+\(source dynamics -> metric perturbation h_{mu}_nu -> changing geometry -> interaction with background EM field or charged medium -> EM perturbation -> observable spectrum\).
 
 Weak-field geometry:
 
-`g_mu_nu = eta_mu_nu + h_mu_nu`, with `|h_mu_nu| << 1`.
+\[
+g_{\mu\nu}=\eta_{\mu\nu}+h_{\mu\nu},\qquad |h_{\mu\nu}|\ll 1.
+\]
 
 Field split:
 
-`F_mu_nu = F^(0)_mu_nu + delta F_mu_nu`.
+\[
+F_{\mu\nu}=F^{(0)}_{\mu\nu}+\delta F_{\mu\nu}.
+\]
 
 Linearized coupling is schematically:
 
-`Box delta A ~ F^(0) * h`.
+\(Box delta A ~ F^(0) * h\).
 
 A reduced two-mode null model is:
 
-`dA_EM/dx = kappa B A_GW`,
-`dA_GW/dx = -kappa B A_EM`.
+\[
+\frac{dA_{\rm EM}}{dx}=\kappa B A_{\rm GW},\qquad
+\frac{dA_{\rm GW}}{dx}=-\kappa B A_{\rm EM}.
+\]
 
-With `A_EM(0)=0`, the solution is:
+With \(A_{EM}(0)=0\), the solution is:
 
-`A_EM(L)=A_GW(0) sin(kappa B L)`,
-`A_GW(L)=A_GW(0) cos(kappa B L)`.
+\(A_{EM}(L)=A_{GW}(0) sin(kappa B L)\),
+\(A_{GW}(L)=A_{GW}(0) cos(kappa B L)\).
 
 Weak coupling gives:
 
-`R = |A_EM/A_GW| = |sin(kappa B L)| approx kappa B L`.
+\[
+R=\left|\frac{A_{\rm EM}}{A_{\rm GW}}\right|=|\sin(\kappa B L)|\approx\kappa B L.
+\]
 
 The conserved toy norm is:
 
-`|A_EM|^2 + |A_GW|^2 = constant`.
+\(|A_{EM}|^2 + |A_{GW}|^2 = constant\).
 
 ## Historical outputs
 

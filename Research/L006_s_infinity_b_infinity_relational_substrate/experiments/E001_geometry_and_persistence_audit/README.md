@@ -1,6 +1,6 @@
 # Experiment E001 - Geometry and Persistence Audit
 
-**Source:** `indian-philosophy-modern-physics/V3/research/S_INFINITY_B_INFINITY/experiments/E001_s_infinity_b_infinity_origin.md` and `MATHEMATICAL_MODELS.md`
+**Source:** \(indian-philosophy-modern-physics/V3/research/S_{INFINITY}_B_INFINITY/experiments/E001_s_infinity_b_infinity_origin.md\) and \(MATHEMATICAL_{MODELS}.md\)
 **Line:** L006 / R006 requirements 1-3
 **Status:** HISTORICAL AUDIT; NEGATIVE FOR TESTED CONSTRUCTIONS
 
@@ -14,15 +14,21 @@
 
 Relational substrate:
 
-`G=(V,E)` or `S={G,L,U,O,D,A}`.
+\[
+G=(V,E),\qquad S=\{G,L,U,O,D,A\}.
+\]
 
 Causal reconstruction target:
 
-`C=(E_events, relation_order, rho_density) -> candidate g_mu_nu`.
+\[
+C=(E_{\rm events},\prec,\rho)\longrightarrow\text{candidate }g_{\mu\nu}.
+\]
 
 Persistent manifestation candidate:
 
-`Psi(t_1) != Psi(t_2)` while `M(t_1) approximately M(t_2)`.
+\[
+\Psi(t_1)\ne\Psi(t_2)\quad\text{while}\quad M(t_1)\approx M(t_2).
+\]
 
 ## Historical findings
 

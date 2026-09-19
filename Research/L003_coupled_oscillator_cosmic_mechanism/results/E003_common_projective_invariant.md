@@ -1,7 +1,7 @@
 # Result E003 - Common Projective Invariant
 
 **Runbook step:** [../runbook.md](../runbook.md) step #3
-**Experiment:** `experiments/E003_common_projective_invariant/`
+**Experiment:** \(experiments/E003_common_projective_invariant/\)
 **Status:** PARTIAL
 
 ## What was tested
@@ -14,7 +14,7 @@ Historical V2.10 calculation using Fubini-Study fidelity and distance. The value
 
 ## Actual output
 
-Reported values were VCR `F approximately 0.7057743527816723`, `d_FS approximately 0.5733218162216637`; GW-EM `F approximately 0.869234279364794`, `d_FS approximately 0.370000000000000`; photon/illumination `F approximately 0.9564415725333592`, `d_FS approximately 0.21025220579102855`. Representation/packetization null tests were reported as surviving.
+Reported values were VCR `F approximately 0.7057743527816723`, \(d_{FS} approximately 0.5733218162216637\); GW-EM `F approximately 0.869234279364794`, \(d_{FS} approximately 0.370000000000000\); photon/illumination `F approximately 0.9564415725333592`, \(d_{FS} approximately 0.21025220579102855\). Representation/packetization null tests were reported as surviving.
 
 ## Interpretation
 

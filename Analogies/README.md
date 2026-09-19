@@ -5,7 +5,7 @@ and a modern scientific or technological concept. An analogy is **not** a theory
 mechanism — it is a starting spark that may or may not turn into something testable.
 
 Copy [`templates/ANALOGY.md`](../templates/ANALOGY.md) to create a new analogy file, name it `A###_short-name.md` (e.g.
-`A001_samudra_manthan.md`), and add a row to the index table below.
+\(A001_samudra_manthan.md\)), and add a row to the index table below.
 
 ## Rules
 
@@ -47,13 +47,13 @@ file. Phase 2 will assign each analogy to one or more `Line-Of-Thoughts/` entrie
 | [A008](A008_space_as_capacity.md) | Space as capacity/accommodation | Akasha as accommodating principle | Emergent dimension from relational capacity | Capacity/state-counting quantity | OPEN |
 | [A009](A009_sugar_dissolving_visibility.md) | Sugar dissolving in water | Visibility/hidden-state | Coarse-graining, observer accessibility | Reversible hidden-state entropy model | ANALOGY_ONLY (toy model retained) |
 | [A010](A010_indra_net.md) | Indra-Net | Indra's Net of mutually reflecting jewels | Recursive relational propagation | Local-perturbation propagation toy model | HISTORICAL TOY ANALOGY |
-| [A011](A011_meru_prastara.md) | Meru Prastara | Pingala's combinatorial row | Coarse-graining `2^n → n+1` classes | Exact combinatorial counts | MATHEMATICAL MECHANISM; physical claim OPEN |
+| [A011](A011_meru_prastara.md) | Meru Prastara | Pingala's combinatorial row | Coarse-graining \(2^n \rightarrow n+1\) classes | Exact combinatorial counts | MATHEMATICAL MECHANISM; physical claim OPEN |
 | [A012](A012_meru_parvat.md) | Meru Parvat | Cosmic axis mountain | Organizing axis / large-scale order | None | CONCEPTUAL ANALOGY |
 | [A013](A013_ramanujan_mathematics.md) | Ramanujan mathematics | Partitions, circle method, theta/modular forms | Spectral/mode/phase/duality language | Metric uniqueness, ordering-signature tests | MATHEMATICAL TOOL (KEEP); direct physical mapping REJECTED |
 | [A014](A014_sri_meru_yantra.md) | Sri/Meru Yantra | Sacred geometric diagram | Geometric information organization | Geometry/information characterization (proposed) | ANALOGY_ONLY |
 | [A015](A015_mala_dna.md) | Mala/DNA | Prayer-bead string vs. DNA sequence | Sequence, repetition, memory | None | ANALOGY_ONLY |
 | [A016](A016_gunas_chakras_bandhas.md) | 3 Gunas/Chakras/Bandhas/Anubandhas | Samkhya/yogic frameworks | Multi-channel state/constraint language | None | ANALOGY_ONLY |
-| [A017](A017_observer_cinema_audience.md) | Observer/Cinema/Audience | Sākṣī (witness) vs. observed | State → projection → representation | Formal `X → π(X) → A(π(X))` model | RECONSTRUCTION FRAMEWORK |
+| [A017](A017_observer_cinema_audience.md) | Observer/Cinema/Audience | Sākṣī (witness) vs. observed | State → projection → representation | Formal \(X \rightarrow \pi(X) \rightarrow A(\pi(X))\) model | RECONSTRUCTION FRAMEWORK |
 | [A018](A018_s_infinity_b_infinity.md) | S∞/B∞ (Small/Big Infinity) | Nested-infinity cosmological framing | Relational substrate; small/localized ↔ large/background | Accessibility hierarchy; ordered-coverage test (E002) | WORKING HYPOTHESIS — most prominent line in the mythology-archive |
 | [A019](A019_illumination_observable_capacity.md) | Illumination / Observable Capacity | Witness/observation framing (formalized) | Observed fraction of a scene as dimensionless capacity | Grid-occupancy convergence test | PASS (numerical pretest only), not new physics |
 

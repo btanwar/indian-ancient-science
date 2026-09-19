@@ -1,7 +1,7 @@
 # Result E001 - Geometry and Persistence Audit
 
 **Runbook step:** [../runbook.md](../runbook.md) step #1
-**Experiment:** `experiments/E001_geometry_and_persistence_audit/`
+**Experiment:** \(experiments/E001_geometry_and_persistence_audit/\)
 **Status:** NEGATIVE
 
 ## What was tested

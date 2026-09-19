@@ -62,8 +62,8 @@ This project reuses the discipline developed in the sibling repositories
 
 Use these labels consistently across `Line-Of-Thoughts/`, `Requirements/`, and `Research/`:
 
-`PROPOSED` · `IN_PROGRESS` · `PARTIAL` · `SUCCESSFUL` · `NEGATIVE` · `FAILED` · `INCONCLUSIVE` ·
-`ANALOGY_ONLY` · `REQUIRES_REPRODUCTION` · `ABANDONED` · `CLOSED` · `OPEN`
+`PROPOSED` · \(IN_{PROGRESS}\) · `PARTIAL` · `SUCCESSFUL` · `NEGATIVE` · `FAILED` · `INCONCLUSIVE` ·
+\(ANALOGY_{ONLY}\) · \(REQUIRES_{REPRODUCTION}\) · `ABANDONED` · `CLOSED` · `OPEN`
 
 ## Folder structure
 
@@ -90,7 +90,7 @@ Use these labels consistently across `Line-Of-Thoughts/`, `Requirements/`, and `
    - `results/` — detailed output plus explicit pass/fail/abandoned/closed documentation for every
      experiment, referencing the runbook step and version it belongs to.
 
-  See [`Research/README.md`](Research/README.md) and [`templates/RESEARCH_RUNBOOK.md`](templates/RESEARCH_RUNBOOK.md).
+  See [`Research/README.md`](Research/README.md) and [\(templates/RESEARCH_{RUNBOOK}.md\)](templates/RESEARCH_RUNBOOK.md).
 
 ## Templates
 

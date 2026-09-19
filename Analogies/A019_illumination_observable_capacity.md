@@ -8,7 +8,7 @@ illumination/observable-capacity experiment.
 **📌 Status:** PASS (as a numerical convergence pretest only) — not evidence of new physics
 
 **Prior-project source:**
-`indian-philosophy-modern-physics/V2/RESEARCH_GRAPH.md`, sections 3 (A7 "Observation/
+\(indian-philosophy-modern-physics/V2/RESEARCH_{GRAPH}.md\), sections 3 (A7 "Observation/
 illumination") and 10 (V2.6 "Illumination / Observable Capacity");
 `V2/experiments/V2.6-illumination-observable-capacity/`.
 
@@ -42,11 +42,11 @@ asking whether such a capacity could carry physical content (V2 A7/V2.6).
 ## ✅ What it helps explain / suggest
 
 - A normalized 2D scene with a circular illuminated region of radius `0.2` has exact area
-  `C_A = π(0.2)² ≈ 0.1256637061`.
+  \(C_{A} = \pi(0.2)² \approx 0.1256637061\).
 - Measured grid occupancy converged toward this value with increasing resolution: `0.1171875`
   (32×32), `0.1220703125` (64×64), `0.12353515625` (128×128), `0.1248779296875` (256×256),
-  `0.1251220703125` (512×512) — at 512×512 the absolute error was ≈ `5.42×10⁻⁴` (relative ≈
-  `0.43%`) (`V2/RESEARCH_GRAPH.md`, section 10).
+  `0.1251220703125` (512×512) — at 512×512 the absolute error was ≈ \(5.42×10⁻⁴\) (relative ≈
+  `0.43%`) (\(V2/RESEARCH_{GRAPH}.md\), section 10).
 - A packetization null test (same illumination distribution under different event/photon
   packetization) gave the same support/capacity apart from threshold/statistical effects
   (section 10).
@@ -57,7 +57,7 @@ asking whether such a capacity could carry physical content (V2 A7/V2.6).
 
 Explicitly **not established** by this pretest: an absolute physical area in m², an absolute
 spatial scale, a "metre from photon count," physical time, a new photon law, or emergent spacetime
-(`V2/RESEARCH_GRAPH.md`, section 10, "Not established" list). The result is a numerical
+(\(V2/RESEARCH_{GRAPH}.md\), section 10, "Not established" list). The result is a numerical
 convergence pretest only.
 
 ## 🧪 Testable component
@@ -74,7 +74,7 @@ formalization.
 ## 🔬 Known-science connection
 
 Grid-occupancy convergence to a geometric area is elementary numerical geometry/measure theory;
-the result is not new mathematics or physics by itself (`V2/RESEARCH_GRAPH.md`, section 10).
+the result is not new mathematics or physics by itself (\(V2/RESEARCH_{GRAPH}.md\), section 10).
 
 ## 📚 Used by (lines of thought)
 

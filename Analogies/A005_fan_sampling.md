@@ -7,8 +7,8 @@ process.
 **Modern domain:** physics (sampling theory, special relativity)
 **📌 Status:** CLOSED AS MECHANISM (for the specific claim tested)
 
-**Prior-project source:** `indian-mythology-modern-science/research/ANALOGY_MAP.md` ("Fan/
-sampling"), `research/FAILED_AND_ABANDONED_PATHS.md` ("Fan/ordinary sampling explains universal
+**Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Fan/
+sampling"), \(research/FAILED_{AND}_ABANDONED_PATHS.md\) ("Fan/ordinary sampling explains universal
 c"); early `PGA-6` through `PGA-20` sequence in `shared/test/`.
 
 <img src="../assets/analogies/A005_fan_sampling.svg" alt="Conceptual fan sampling diagram showing true rotation, sampled snapshots, and aliasing" width="300" />
@@ -46,7 +46,7 @@ discrete samples) that later fed into the VCR/moving-head line of thought (A003)
 
 Closed as a mechanism: comparison of the microscopic rate and the observer sampling frequency
 showed they have incompatible dimensions, so no universal invariant follows from this mechanism
-(`research/FAILED_AND_ABANDONED_PATHS.md`).
+(\(research/FAILED_{AND}_ABANDONED_PATHS.md\)).
 
 ## 🧪 Testable component
 

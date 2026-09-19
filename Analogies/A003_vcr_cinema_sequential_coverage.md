@@ -10,8 +10,8 @@ FRAMEWORK in the mythology-archive reconstruction
 **Prior-project source:** `indian-philosophy-modern-physics/V2/analogies/V2.1-VCR.md`,
 `V2/hypotheses/V2.1-VCR-hypothesis.md`,
 `V2/analogies/V2.2-Ramanujan-three-branch-decomposition.md` ("A1 VCR / moving-head ordered
-coverage"); `indian-mythology-modern-science/research/AUDIO_VIDEO_VCR/HISTORY.md` and
-`research/ANALOGY_MAP.md` ("VCR/cinema", "Moving/tilted head").
+coverage"); \(indian-mythology-modern-science/research/AUDIO_{VIDEO}_VCR/HISTORY.md\) and
+\(research/ANALOGY_{MAP}.md\) ("VCR/cinema", "Moving/tilted head").
 
 <img src="../assets/analogies/A003_vcr_coverage.svg" alt="Conceptual VCR diagram showing a moving read head, coverage, order, and reconstruction" width="300" />
 
@@ -57,7 +57,7 @@ time — explicitly treated as a mechanism-discovery device, not a literal physi
   reconstruction and acquisition ordering were shown to be separable (V2.2, "Completed before
   Ramanujan").
 - In the mythology-chat archive, motivated the observer/audience/reconstruction framework and the
-  explicit rejection of "VCR literally creates time" (`research/FAILED_AND_ABANDONED_PATHS.md`).
+  explicit rejection of "VCR literally creates time" (\(research/FAILED_{AND}_ABANDONED_PATHS.md\)).
 
 ## ⚠️ What it does NOT explain
 
@@ -65,14 +65,14 @@ time — explicitly treated as a mechanism-discovery device, not a literal physi
   and then calling the result emergent time — this is an explicit required boundary in V2.1.
 - It does not, by itself, establish that gravitational waves are "audio" or that EM/light is
   "video" — that mapping is explicitly rejected as a literal claim in the mythology-archive
-  reconstruction (`research/ANALOGY_MAP.md`, "Audio/video").
+  reconstruction (\(research/ANALOGY_{MAP}.md\), "Audio/video").
 - The null hypothesis under active test (V2.1-VCR-hypothesis.md) is that the VCR analogy adds no
   physical content beyond ordinary sampling theory and signal reconstruction.
 
 ## 🧪 Testable component
 
-- Formal model: spatial field `f(x), x ∈ D`; sampling head path `γ(s): [0,1] → D`; samples
-  `y_i = M[f, γ(s_i)]`; ordered record `R = ((s_1,y_1), ..., (s_N,y_N))`; reconstruction
+- Formal model: spatial field \(f(x), x \in D\); sampling head path \(\gamma(s): [0,1] \rightarrow D\); samples
+  \(y_{i} = M[f, \gamma(s_{i})]\); ordered record \(R = ((s_{1},y_{1}), ..., (s_{N},y_{N}))\); reconstruction
   `F = A(R)` (V2.1-VCR.md).
 - Falsification target: identical spatial information/sample locations, different traversal
   orderings — test whether reconstruction changes, and whether an arbitrary reparameterization of

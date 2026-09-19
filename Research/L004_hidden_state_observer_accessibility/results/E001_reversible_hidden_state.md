@@ -1,7 +1,7 @@
 # Result E001 - Reversible Hidden State
 
 **Runbook step:** [../runbook.md](../runbook.md) step #1
-**Experiment:** `experiments/E001_reversible_hidden_state/`
+**Experiment:** \(experiments/E001_reversible_hidden_state/\)
 **Status:** REQUIRES_REPRODUCTION
 
 ## What was tested

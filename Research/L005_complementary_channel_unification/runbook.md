@@ -23,10 +23,10 @@ flowchart LR
 
 | Step | Requirement tested | Reasoning | Experiment ID | Expected result | Actual result |
 |---|---|---|---|---|---|
-| 1 | R005 #1 | Reproduce the historical dual-channel tests before interpreting them. | `experiments/E001_dual_channel_reproduction/` | Exact parameters and outputs recover the historical descriptions. | [results/E001_dual_channel_reproduction.md](results/E001_dual_channel_reproduction.md) |
-| 2 | R005 #2 | Subtract known GW-EM conversion and Einstein-Maxwell predictions. | `experiments/E002_known_physics_residual/` | A nonzero reproducible residual remains. | [results/E002_known_physics_residual.md](results/E002_known_physics_residual.md) |
-| 3 | R005 #3 | Enforce the abstract-channel boundary throughout. | `experiments/E003_channel_semantics_audit/` | No literal acoustic/optical identity is used. | OPEN - standing constraint. |
-| 4 | R005 #4 | Apply theta/modular discrimination only if step 2 succeeds. | `experiments/E004_residual_theta_discriminator/` | Residual beats generic controls under the R003 discipline. | BLOCKED until step 2 passes. |
+| 1 | R005 #1 | Reproduce the historical dual-channel tests before interpreting them. | \(experiments/E001_dual_channel_reproduction/\) | Exact parameters and outputs recover the historical descriptions. | [results/E001_dual_channel_reproduction.md](results/E001_dual_channel_reproduction.md) |
+| 2 | R005 #2 | Subtract known GW-EM conversion and Einstein-Maxwell predictions. | \(experiments/E002_known_physics_residual/\) | A nonzero reproducible residual remains. | [results/E002_known_physics_residual.md](results/E002_known_physics_residual.md) |
+| 3 | R005 #3 | Enforce the abstract-channel boundary throughout. | \(experiments/E003_channel_semantics_audit/\) | No literal acoustic/optical identity is used. | OPEN - standing constraint. |
+| 4 | R005 #4 | Apply theta/modular discrimination only if step 2 succeeds. | \(experiments/E004_residual_theta_discriminator/\) | Residual beats generic controls under the R003 discipline. | BLOCKED until step 2 passes. |
 
 ## Current interpretation
 

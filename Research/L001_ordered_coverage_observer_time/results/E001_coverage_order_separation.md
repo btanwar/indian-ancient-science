@@ -1,7 +1,7 @@
 # Result E001 - Coverage and Order Separation
 
 **Runbook step:** [../runbook.md](../runbook.md) step #1
-**Experiment:** `experiments/E001_coverage_order_separation/`
+**Experiment:** \(experiments/E001_coverage_order_separation/\)
 **Status:** REQUIRES_REPRODUCTION
 
 ## What was tested

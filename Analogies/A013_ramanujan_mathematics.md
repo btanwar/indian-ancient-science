@@ -8,12 +8,12 @@ relational hypotheses.
 methods)
 **📌 Status:** MATHEMATICAL TOOL (KEEP); direct physical mapping REJECTED where tested
 
-**Prior-project source:** `indian-philosophy-modern-physics/V1/RESEARCH_LOG.md` (Entries 4–6),
-`V1/CLAIMS_STATUS.md` (C04–C08, C11, C12, C16, C17, C20, C26, C27),
-`V1/mathematics/ramanujan_tools.md`, `V1/mathematics/modular_forms.md`, `V1/mathematics/
+**Prior-project source:** \(indian-philosophy-modern-physics/V1/RESEARCH_{LOG}.md\) (Entries 4–6),
+\(V1/CLAIMS_{STATUS}.md\) (C04–C08, C11, C12, C16, C17, C20, C26, C27),
+\(V1/mathematics/ramanujan_{tools}.md\), \(V1/mathematics/modular_{forms}.md\), `V1/mathematics/
 theta_functions.md`; `indian-philosophy-modern-physics/V2/analogies/
 V2.2-Ramanujan-three-branch-decomposition.md`;
-`indian-mythology-modern-science/research/ANALOGY_MAP.md` ("Ramanujan/theta functions");
+\(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Ramanujan/theta functions");
 `shared/test/PGA-8C.md` ("Ramanujan: identify one specific mathematical mechanism").
 
 <img src="../assets/analogies/A013_ramanujan.svg" alt="Conceptual Ramanujan mathematics diagram showing q-series, theta modes, and modular transformation" width="300" />
@@ -51,7 +51,7 @@ and relational-substrate hypotheses, rather than inventing ad hoc mathematics.
   uniquely select the L2 Hermitian quadratic metric up to scale (V1, C20, ESTABLISHED
   mathematical/conditional result, E007).
 - Provided the "candidate invariant" step in the V2 branch-decomposition discipline: quadratic/
-  theta-like generating weights `G(q) = Σ a_n q^{f(n)}` as an ordering signature to test against
+  theta-like generating weights \(G(q) = \Sigma a_{n} q^{f(n)}\) as an ordering signature to test against
   generic orderings (V2.2).
 
 ## ⚠️ What it does NOT explain
@@ -78,7 +78,7 @@ been tested (E006, E007, E009, E010 in V1; the ordering-discrimination test in V
 ## 🪞 Non-testable / metaphorical component
 
 The general framing "Ramanujan ⇒ physics" is explicitly flagged as a mapping to avoid
-(`research/ANALOGY_MAP.md`: "Did not establish: `Ramanujan => physics`").
+(\(research/ANALOGY_{MAP}.md\): "Did not establish: `Ramanujan => physics`").
 
 ## 🔬 Known-science connection
 

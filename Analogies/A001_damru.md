@@ -7,10 +7,10 @@ strikes each face alternately.
 **📌 Status:** CLOSED (as a literal new mechanism) / retained as conceptual analogy
 
 **Prior-project source:** `indian-philosophy-modern-physics/V1/analogies/README.md`,
-`V1/RESEARCH_LOG.md` (Entry 1), `V1/CLAIMS_STATUS.md` (C13), `V1/DECISIONS.md` ([A]);
+\(V1/RESEARCH_{LOG}.md\) (Entry 1), \(V1/CLAIMS_{STATUS}.md\) (C13), `V1/DECISIONS.md` ([A]);
 `indian-philosophy-modern-physics/V2/analogies/V2.2-Ramanujan-three-branch-decomposition.md`
 ("A3 Cosmic Damru"); `indian-mythology-modern-science/research/DAMRU/HISTORY.md` and
-`research/ANALOGY_MAP.md`.
+\(research/ANALOGY_{MAP}.md\).
 
 <img src="../assets/analogies/A001_damru.svg" alt="Conceptual Shiva and Damru diagram showing the lobes, waist, striker, and oscillation mapping" width="300" />
 
@@ -59,7 +59,7 @@ rather than merely decorative.
   closed this ("Damru analogy supplies a new physical coupling mechanism" — REJECTED, C13)
   because coupling/curvature ideas of this kind are already represented in established physics.
 - Coherent oscillation did not, in the historical toy tests, naturally transfer energy into the
-  gravitational/tensor sector (see `research/FAILED_AND_ABANDONED_PATHS.md`: "Damru rhythm → gravity").
+  gravitational/tensor sector (see \(research/FAILED_{AND}_ABANDONED_PATHS.md\): "Damru rhythm → gravity").
 - It is not evidence that gravitational waves are literally produced by a Damru-like mechanism.
 
 ## 🧪 Testable component

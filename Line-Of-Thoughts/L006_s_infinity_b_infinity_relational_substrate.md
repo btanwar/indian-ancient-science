@@ -43,7 +43,7 @@ flowchart LR
 
 ## Analogies used
 
-- [Analogies/A018_s_infinity_b_infinity.md](../Analogies/A018_s_infinity_b_infinity.md) — the core hypothesis-pair and its accessibility hierarchy `Ω_total ⊃ Ω_accessible ⊃ Ω_observed ⊃ Ω_represented`.
+- [Analogies/A018_s_infinity_b_infinity.md](../Analogies/A018_s_infinity_b_infinity.md) — the core hypothesis-pair and its accessibility hierarchy \(\Omega_{total} \supset \Omega_{accessible} \supset \Omega_{observed} \supset \Omega_{represented}\).
 - [Analogies/A006_bead_string.md](../Analogies/A006_bead_string.md) — localized excitation (S∞) on an extended relational structure (B∞).
 - [Analogies/A007_fabric_spacetime.md](../Analogies/A007_fabric_spacetime.md) — descriptive language for backreaction/geometry within the substrate.
 - [Analogies/A009_sugar_dissolving_visibility.md](../Analogies/A009_sugar_dissolving_visibility.md) — the hidden-state/visibility sub-question within the accessibility hierarchy.
@@ -56,7 +56,7 @@ flowchart LR
 S∞/B∞ (A018) is the umbrella hypothesis under which the mythology-chat archive organized nearly
 all of its other analogies: bead/string (A006) and fabric (A007) supply the substrate/manifestation
 picture; sugar/water (A009), Indra-Net (A010), and Meru Prastara (A011) supply the
-accessibility/coarse-graining layer (`Ω_total ⊃ Ω_accessible ⊃ ...`); and VCR/ordered-coverage
+accessibility/coarse-graining layer (\(\Omega_{total} \supset \Omega_{accessible} \supset ...\)); and VCR/ordered-coverage
 (A003) supplies the observer-reconstruction/temporal-ordering layer. These were historically
 explored together as different facets of the same S∞/B∞ question, which is why this line
 cross-references L001 and L004 rather than duplicating their content.
@@ -87,8 +87,8 @@ cross-references L001 and L004 rather than duplicating their content.
 
 ## Current status detail
 
-Following `indian-mythology-modern-science/research/S_INFINITY_B_INFINITY/HISTORY.md` and
-`experiments/E001_s_infinity_b_infinity_origin.md`:
+Following \(indian-mythology-modern-science/research/S_{INFINITY}_B_INFINITY/HISTORY.md\) and
+\(experiments/E001_s_infinity_b_infinity_origin.md\):
 
 - **Origin:** motivated by a broader physics gap — whether an underlying structure could account
   for observable geometry, dynamics, persistent particle-like manifestations, physical quantities,
@@ -104,17 +104,17 @@ Following `indian-mythology-modern-science/research/S_INFINITY_B_INFINITY/HISTOR
   massive normal mode — a familiar consequence of coupled-field dynamics, not evidence for S∞/B∞
   itself (E001, section 4.3).
 - **Observer reconstruction:** an early result reporting a pairwise-distance correlation
-  `ρ ≈ 0.9966` was later found unreliable because a spatial landmark configuration had already been
+  \(\rho \approx 0.9966\) was later found unreliable because a spatial landmark configuration had already been
   supplied — it did **not** demonstrate that time generates space (E001, section 4.4).
 - **Topological persistence:** known configurations such as the φ⁴ kink show persistence can arise
   from topology — an established field-theory mechanism, not evidence for S∞/B∞ (E001, section
   4.5).
-- **Accessibility hierarchy:** `Ω_total ⊃ Ω_accessible ⊃ Ω_observed ⊃ Ω_represented` is the
-  surviving formal structure (E001, section 5; `research/MATHEMATICAL_MODELS.md`).
+- **Accessibility hierarchy:** \(\Omega_{total} \supset \Omega_{accessible} \supset \Omega_{observed} \supset \Omega_{represented}\) is the
+  surviving formal structure (E001, section 5; \(research/MATHEMATICAL_{MODELS}.md\)).
 - **Ordered-coverage test (E002):** the tested spectral-seriation reconstruction did **not**
   robustly recover the intended cyclic ordering — pairwise circular-distance rank correlation
-  `ρ ≈ -0.029` (effectively no useful recovery) for this configuration
-  (`experiments/E002_ordered_coverage_effective_time.md`). This is a **negative/methodological**
+  \(\rho \approx -0.029\) (effectively no useful recovery) for this configuration
+  (\(experiments/E002_ordered_coverage_effective_time.md\)). This is a **negative/methodological**
   result for the tested implementation, not a falsification of the broader hypothesis.
 - **Current surviving question (E001, section 7):** "Can an underlying relational/background
   system, through ordered dynamical coverage and observer-accessible channels, produce persistent
@@ -123,13 +123,13 @@ Following `indian-mythology-modern-science/research/S_INFINITY_B_INFINITY/HISTOR
 ## What this line of thought must NOT claim
 
 - That S∞ and B∞ are established physical entities — they are explicitly working conceptual labels
-  (`research/S_INFINITY_B_INFINITY/README.md`).
+  (\(research/S_{INFINITY}_B_INFINITY/README.md\)).
 - That relational connectivity alone produces 3D geometry, that localized propagation alone
   produces persistent particles, that a two-channel massless/massive mode split is evidence for
   S∞/B∞, or that observer reconstruction proves time generates space — all explicitly closed
   interpretations (E001, section 6).
-- That the E002 negative result (`ρ ≈ -0.029`) shows time cannot emerge, that space is produced by
+- That the E002 negative result (\(\rho \approx -0.029\)) shows time cannot emerge, that space is produced by
   time, that S∞/B∞ is falsified, or that observer perception creates physical spacetime (E002,
   "What this does NOT show").
 - Any claim of a proven, new, novel, unified, gravitational, or particle theory — none is supported
-  by the archive (`research/S_INFINITY_B_INFINITY/README.md`).
+  by the archive (\(research/S_{INFINITY}_B_INFINITY/README.md\)).

@@ -1,0 +1,476 @@
+# COPILOT TASK
+
+## Normalize Mathematical Equations Across the Research Repository
+
+You are performing a documentation-formatting task only.
+
+Do NOT change the scientific meaning, historical claims, numerical results, conclusions, assumptions, or research direction.
+
+The purpose is to make all existing Markdown documents mathematically readable and consistently rendered.
+
+---
+
+# 1. SCOPE
+
+Scan all relevant `.md` files in the repository, especially:
+
+* `V3/`
+* `V3/research/`
+* `V3/shared/`
+* `V3/S_INFINITY_B_INFINITY/`
+* all experiment/PGA documents
+* research maps
+* audits
+* historical research summaries
+* requirements/specifications
+
+Do NOT modify:
+
+* raw chat archives
+* source transcripts
+* original uploaded files
+* files explicitly designated immutable
+* code files
+* CSV/JSON/data files
+
+If a Markdown file is clearly an archival raw source, leave it unchanged unless it is explicitly part of the maintained research documentation.
+
+---
+
+# 2. PRIMARY RULE
+
+Convert mathematical notation into proper LaTeX-compatible Markdown.
+
+Inline mathematics:
+
+```text
+\(E=mc^2\)
+```
+
+Display mathematics:
+
+```text
+\[
+E=mc^2
+\]
+```
+
+Do not use ordinary backticks around mathematical expressions.
+
+Do not use:
+
+```text
+`E=mc^2`
+```
+
+when the content is intended to be rendered as mathematics.
+
+Do not use:
+
+````text
+```math
+...
+````
+
+````
+
+unless the repository's renderer explicitly requires that convention.
+
+Prefer standard Markdown + LaTeX.
+
+---
+
+# 3. EXAMPLES
+
+Convert:
+
+```text
+N(r)~r^3
+````
+
+to:
+
+$$
+N(r)\sim r^3
+$$
+
+Source form:
+
+```text
+\[
+N(r)\sim r^3
+\]
+```
+
+Convert:
+
+```text
+d_eff = ΔlnN / Δlnr
+```
+
+to:
+
+$$
+d_{\rm eff}
+=
+\frac{\Delta\ln N}{\Delta\ln r}
+$$
+
+Convert:
+
+```text
+P(G) ∝ e^-βH(G)
+```
+
+to:
+
+$$
+P(G)\propto e^{-\beta H(G)}
+$$
+
+Convert:
+
+```text
+Gmunu = 8πGTmunu
+```
+
+to:
+
+$$
+G_{\mu\nu}=8\pi G T_{\mu\nu}
+$$
+
+Convert:
+
+```text
+gμν → Ω²gμν
+```
+
+to:
+
+$$
+g_{\mu\nu}\rightarrow\Omega^2 g_{\mu\nu}
+$$
+
+---
+
+# 4. PRESERVE MEANING
+
+Do NOT change:
+
+* equation values
+* constants
+* signs
+* powers
+* variable names
+* Greek symbols
+* numerical results
+* approximation symbols
+* equality vs proportionality
+* historical uncertainty
+* claims about whether an equation was derived or assumed
+
+For example:
+
+$$
+\sim
+$$
+
+must not become
+
+$$
+=
+$$
+
+and
+
+$$
+\propto
+$$
+
+must not become
+
+$$
+=
+$$
+
+because these distinctions may be scientifically important.
+
+---
+
+# 5. SYMBOL DEFINITIONS
+
+When a document already defines symbols, preserve those definitions.
+
+If a symbol is obviously defined immediately nearby, improve only the mathematical formatting.
+
+Do NOT invent missing definitions.
+
+If a symbol is genuinely undefined, optionally add:
+
+> **Notation:** \(X\) denotes [existing meaning from the document].
+
+Only do this when the meaning is explicitly recoverable from the same document.
+
+Otherwise flag it in a documentation report.
+
+---
+
+# 6. EQUATION NUMBERING
+
+Do not arbitrarily renumber historical equations if the existing numbering has research significance.
+
+If equations are currently numbered, preserve their numbering where possible.
+
+If numbering is absent, do not add numbers everywhere.
+
+Use numbering only when an equation is repeatedly referenced.
+
+---
+
+# 7. MATRICES AND MULTI-LINE EQUATIONS
+
+Where appropriate use:
+
+```text
+\[
+\begin{aligned}
+...
+\end{aligned}
+\]
+```
+
+or:
+
+```text
+\[
+\begin{bmatrix}
+...
+\end{bmatrix}
+\]
+```
+
+Do not replace equations with images.
+
+Keep equations as searchable text.
+
+---
+
+# 8. CODE VS MATHEMATICS
+
+Do not alter actual source code.
+
+For example, Python:
+
+```python
+d_eff = delta_log_N / delta_log_r
+```
+
+must remain code.
+
+But explanatory mathematics outside code should use LaTeX:
+
+$$
+d_{\rm eff}
+=
+\frac{\Delta\ln N}{\Delta\ln r}.
+$$
+
+Preserve the distinction.
+
+---
+
+# 9. HISTORICAL EQUATIONS
+
+Some equations may occur in old research records as part of historical reasoning.
+
+Do not "correct" them merely because a more standard equation exists.
+
+If the original says:
+
+$$
+H(r)\sim r^{-1.1},
+$$
+
+preserve it.
+
+If the original result is described as approximate, retain that status.
+
+If the equation was part of an explicitly rejected or failed experiment, preserve it and its historical status.
+
+---
+
+# 10. SPECIAL ATTENTION
+
+Search specifically for malformed forms involving:
+
+* Greek letters
+* subscripts
+* superscripts
+* fractions
+* derivatives
+* integrals
+* summations
+* vectors
+* tensors
+* matrices
+* arrows
+* limits
+* proportionality
+* approximation
+* absolute values
+* norms
+* logarithms
+* exponentials
+* Einstein notation
+* metric tensors
+* causal relations
+* probability expressions
+
+Examples include:
+
+$$
+\nabla^2\Phi=4\pi G\rho
+$$
+
+$$
+G_{\mu\nu}=8\pi G T_{\mu\nu}
+$$
+
+$$
+ds^2=g_{\mu\nu}dx^\mu dx^\nu
+$$
+
+$$
+N(r)\sim r^{d_{\rm eff}}
+$$
+
+$$
+d_{\rm eff}
+=
+\frac{d\ln N(r)}{d\ln r}
+$$
+
+$$
+P(A,B)\neq P(A)P(B)
+$$
+
+$$
+S_{n+1}=F(S_n)
+$$
+
+---
+
+# 11. DO NOT ALTER SCIENTIFIC CONTENT
+
+This is critical.
+
+This task is NOT:
+
+* peer review
+* theory correction
+* physics validation
+* equation derivation
+* simplification
+* rewriting history
+
+It is only mathematical presentation normalization.
+
+If you discover an equation that appears mathematically questionable, do NOT silently change it.
+
+Record it separately in:
+
+```text
+EQUATION_REVIEW_NOTES.md
+```
+
+with:
+
+* file
+* equation
+* surrounding context
+* reason it may require review
+
+But leave the original scientific content intact.
+
+---
+
+# 12. CREATE AN EQUATION AUDIT
+
+Create:
+
+```text
+V3/research/EQUATION_AUDIT.md
+```
+
+containing:
+
+* files scanned
+* equations normalized
+* files skipped
+* equations requiring manual review
+* malformed expressions found
+* expressions intentionally left unchanged
+* renderer assumptions
+
+Do not list every trivial equation unless useful.
+
+---
+
+# 13. VALIDATION
+
+After modification:
+
+1. Search all maintained Markdown files again.
+2. Identify remaining mathematical expressions in ordinary code formatting.
+3. Identify remaining ```math blocks.
+4. Check for malformed LaTeX.
+5. Check that Markdown code blocks were not accidentally changed.
+6. Check that no scientific values changed.
+7. Check that no historical conclusions changed.
+8. Check that no source/archive files were modified.
+
+Generate a before/after count where practical.
+
+---
+
+# 14. GIT SAFETY
+
+Before committing:
+
+* show modified files
+* verify that only documentation files were changed
+* ensure raw historical archives remain untouched
+* ensure no scientific content was silently altered
+
+Commit with a clear message such as:
+
+```text
+docs: normalize mathematical notation across research markdown
+```
+
+---
+
+# 15. FINAL REPORT
+
+Return:
+
+```text
+Files scanned:
+Files modified:
+Files skipped:
+Equations normalized:
+Potential equation issues flagged:
+Scientific content changed:
+Raw archive modified:
+```
+
+The required answer for:
+
+`Scientific content changed`
+
+must be:
+
+`NO`
+
+unless an accidental change is detected, in which case stop and report it.

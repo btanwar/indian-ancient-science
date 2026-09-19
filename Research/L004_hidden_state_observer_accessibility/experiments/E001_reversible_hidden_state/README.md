@@ -10,23 +10,32 @@ Can a reversible finite microscopic system become hidden under restricted observ
 
 ## Model
 
-Let the microscopic state be `X_t` in a finite state space with:
+Let the microscopic state be \(X_{t}\) in a finite state space with:
 
-`|Omega| = 65,536 = 2^16`.
+\[
+|\Omega|=65,536=2^{16}.
+\]
 
 Microscopic evolution is a permutation:
 
-`X_(t+1) = F(X_t)`, where `F` is bijective.
+\[
+X_{t+1}=F(X_t),
+\]
+where \(F\) is bijective.
 
 An observer sees only a projection:
 
-`Y_t = Pi(X_t)`.
+\[
+Y_t=\Pi(X_t).
+\]
 
-For an 8-bit observer, the accessible alphabet has at most `2^8=256` values. A coarse entropy can be measured as:
+For an 8-bit observer, the accessible alphabet has at most \(2^8=256\) values. A coarse entropy can be measured as:
 
-`H(Y_t) = -sum_y p_t(y) log_2 p_t(y)`.
+\[
+H(Y_t)=-\sum_y p_t(y)\log_2 p_t(y).
+\]
 
-Because `F` is reversible, the microscopic state can be returned by `F^(-1)`, while `Y_t` need not be one-to-one.
+Because `F` is reversible, the microscopic state can be returned by \(F^(-1)\), while \(Y_{t}\) need not be one-to-one.
 
 ## Historical parameters and output
 

@@ -1,7 +1,7 @@
 # Result E002 - Landmark-Free Reconstruction Audit
 
 **Runbook step:** [../runbook.md](../runbook.md) step #2
-**Experiment:** `experiments/E002_landmark_free_reconstruction/`
+**Experiment:** \(experiments/E002_landmark_free_reconstruction/\)
 **Status:** NEGATIVE
 
 ## What was tested

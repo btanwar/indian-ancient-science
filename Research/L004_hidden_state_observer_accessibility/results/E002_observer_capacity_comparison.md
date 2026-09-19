@@ -1,7 +1,7 @@
 # Result E002 - Observer Capacity Comparison
 
 **Runbook step:** [../runbook.md](../runbook.md) step #2
-**Experiment:** `experiments/E002_observer_capacity_comparison/`
+**Experiment:** \(experiments/E002_observer_capacity_comparison/\)
 **Status:** REQUIRES_REPRODUCTION
 
 ## What was tested
@@ -22,7 +22,7 @@ The result is a plausible coarse-graining comparison, not evidence that observat
 
 ## Pass / fail
 
-R004 requirement #2 remains `REQUIRES_REPRODUCTION`.
+R004 requirement #2 remains \(REQUIRES_{REPRODUCTION}\).
 
 ## Next action
 

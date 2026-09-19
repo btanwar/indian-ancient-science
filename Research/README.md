@@ -1,7 +1,7 @@
 # Research
 
 One subfolder per line of thought: `Research/L###_short-name/`. Create it by copying the layout
-below (see [`templates/RESEARCH_RUNBOOK.md`](../templates/RESEARCH_RUNBOOK.md) for the runbook itself).
+below (see [\(templates/RESEARCH_{RUNBOOK}.md\)](../templates/RESEARCH_RUNBOOK.md) for the runbook itself).
 
 ```
 Research/
@@ -30,7 +30,7 @@ Research/
   parameters, controls, and evidence status. Use `README.md` for this record and keep executable
   scripts beside it when available.
 - Historical chat extractions may populate a derivation/protocol folder, but must be labeled
-  `HISTORICAL`, `SOURCE DERIVATION`, or `REQUIRES_REPRODUCTION` until code and output are rerun.
+  `HISTORICAL`, `SOURCE DERIVATION`, or \(REQUIRES_{REPRODUCTION}\) until code and output are rerun.
 - Do not modify an experiment after it has produced a recorded result; if you need to change it,
   create a new experiment ID and note the relationship to the previous one.
 
@@ -39,7 +39,7 @@ Research/
 - One result file per experiment: `results/E###_short-name.md`.
 - Every result file must state an explicit outcome using the shared status labels (see root
   `README.md`): `SUCCESSFUL`, `PARTIAL`, `NEGATIVE`, `FAILED`, `INCONCLUSIVE`,
-  `REQUIRES_REPRODUCTION`, etc.
+  \(REQUIRES_{REPRODUCTION}\), etc.
 - Record actual numeric output, not a rounded or "improved" version of it.
 - If an experiment fails or a line of thought is abandoned, keep the result file — mark it
   `FAILED`/`ABANDONED` and explain why. This is itself a valid research record.
@@ -61,7 +61,7 @@ status of migrated derivations and experiment folders.
 ## Phase 4 evidence policy
 
 The initial records preserve prior-project and chat-archive evidence without silently promoting it
-to newly reproduced data. A result marked `REQUIRES_REPRODUCTION` has a historical method or output
+to newly reproduced data. A result marked \(REQUIRES_{REPRODUCTION}\) has a historical method or output
 but no local executable and parameter bundle yet. A result marked `NEGATIVE` records a prior
 boundary or failed claim and must remain visible. New experiments must add scripts, parameters,
 environment details, and exact outputs under the corresponding `experiments/` folder before their

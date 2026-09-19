@@ -7,9 +7,9 @@ underlying reality being observed.
 **Modern domain:** physics/philosophy of physics (measurement, observer-dependence, reconstruction)
 **📌 Status:** RECONSTRUCTION FRAMEWORK (distinct from, but related to, A003)
 
-**Prior-project source:** `indian-mythology-modern-science/research/ANALOGY_MAP.md` ("Observer/
-cinema/audience"); `research/MATHEMATICAL_MODELS.md` (`X → π(X) → A(π(X))`);
-`research/FAILED_AND_ABANDONED_PATHS.md` ("Observer creates physical reality").
+**Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Observer/
+cinema/audience"); \(research/MATHEMATICAL_{MODELS}.md\) (\(X \rightarrow \pi(X) \rightarrow A(\pi(X))\));
+\(research/FAILED_{AND}_ABANDONED_PATHS.md\) ("Observer creates physical reality").
 
 <img src="../assets/analogies/A017_observer_projection.svg" alt="Conceptual observer diagram showing physical state, projection, and representation" width="300" />
 
@@ -29,7 +29,7 @@ an observer's representation of it.
 | Cinema/audience element | Mapped concept |
 |---|---|
 | Filmed event | The underlying physical state `X` |
-| Projection/reconstruction (`π`) | An observer's accessible projection of that state |
+| Projection/reconstruction (\(\pi\)) | An observer's accessible projection of that state |
 | Audience's interpretation (`A`) | A further representation/interpretation built on the projection |
 | Audience does not create the filmed event | The observer does not create physical reality by observing it |
 
@@ -42,22 +42,22 @@ reality).
 
 ## ✅ What it helps explain / suggest
 
-- Formalized as the chain `X → π(X) → A(π(X))` (state → projection → representation) in the
-  branch-audit reconstruction (`research/MATHEMATICAL_MODELS.md`).
+- Formalized as the chain \(X \rightarrow \pi(X) \rightarrow A(\pi(X))\) (state → projection → representation) in the
+  branch-audit reconstruction (\(research/MATHEMATICAL_{MODELS}.md\)).
 - Provided the basis for distinguishing physical interaction from observational readout
-  (`research/FAILED_AND_ABANDONED_PATHS.md`: "`X → π(X) → A(π(X))` distinction" is what survived).
+  (\(research/FAILED_{AND}_ABANDONED_PATHS.md\): "\(X \rightarrow \pi(X) \rightarrow A(\pi(X))\) distinction" is what survived).
 
 ## ⚠️ What it does NOT explain
 
 - "Observer creates physical reality" was explicitly tested against this framework and found
   unsupported: "Not supported; physical interaction must be separated from readout"
-  (`research/FAILED_AND_ABANDONED_PATHS.md`).
+  (\(research/FAILED_{AND}_ABANDONED_PATHS.md\)).
 - It does not imply that VCR-style sequential coverage (A003) creates time; that specific claim is
   separately and explicitly rejected.
 
 ## 🧪 Testable component
 
-The formal three-stage chain `X → π(X) → A(π(X))` is a testable structural model for observer maps
+The formal three-stage chain \(X \rightarrow \pi(X) \rightarrow A(\pi(X))\) is a testable structural model for observer maps
 and coarse-graining, independent of the cinema framing (see also A009's hidden-state model).
 
 ## 🪞 Non-testable / metaphorical component

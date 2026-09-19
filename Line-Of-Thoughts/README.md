@@ -4,7 +4,7 @@ A **line of thought** is a named research direction built by combining one or mo
 beads strung on a thread to form a mala) into a coherent question worth investigating in modern
 science or technology.
 
-Copy [`templates/LINE_OF_THOUGHT.md`](../templates/LINE_OF_THOUGHT.md) to create a new line of thought, name it `L###_short-name.md`, and add a row to
+Copy [\(templates/LINE_{OF}_THOUGHT.md\)](../templates/LINE_OF_THOUGHT.md) to create a new line of thought, name it `L###_short-name.md`, and add a row to
 the index table below.
 
 ## Rules

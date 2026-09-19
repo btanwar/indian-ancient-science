@@ -6,7 +6,7 @@ relational substrate might deform and propagate disturbances.
 **Modern domain:** physics (general relativity, relational substrate models)
 **📌 Status:** ANALOGY_ONLY
 
-**Prior-project source:** `indian-mythology-modern-science/research/ANALOGY_MAP.md` ("Fabric/
+**Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Fabric/
 spacetime"), `research/DAMRU/HISTORY.md`.
 
 <img src="../assets/analogies/A007_fabric_spacetime.svg" alt="Conceptual fabric diagram showing deformation, curvature response, and propagation" width="300" />
@@ -37,12 +37,12 @@ Damru/bead-string toy models, without yet committing to a specific mathematical 
 ## ✅ What it helps explain / suggest
 
 Provided language for backreaction and geometry discussions in the substrate research line
-(`research/ANALOGY_MAP.md`).
+(\(research/ANALOGY_{MAP}.md\)).
 
 ## ⚠️ What it does NOT explain
 
 It does not constitute or replace a derivation of general relativity; it is explicitly not treated
-as such (`research/ANALOGY_MAP.md`: "Did not establish: Derivation of GR").
+as such (\(research/ANALOGY_{MAP}.md\): "Did not establish: Derivation of GR").
 
 ## 🧪 Testable component
 

@@ -1,7 +1,7 @@
 # Result E003 - Arrow of Time Controls
 
 **Runbook step:** [../runbook.md](../runbook.md) step #3
-**Experiment:** `experiments/E003_arrow_of_time_controls/`
+**Experiment:** \(experiments/E003_arrow_of_time_controls/\)
 **Status:** NEGATIVE
 
 ## What was tested

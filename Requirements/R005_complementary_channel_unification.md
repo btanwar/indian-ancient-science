@@ -32,9 +32,9 @@ flowchart TD
 
 | # | Requirement | Type | Pass/fail condition | Status |
 |---|---|---|---|---|
-| 1 | The historical dual-channel/complementary-channel reconstruction tests (`PGA-152`, `PGA-153`) must be reproduced with explicit parameters. | computational | Rerun with recovered parameters and compare against the historical description. | REQUIRES_REPRODUCTION (`indian-mythology-modern-science/research/REPRODUCTION_QUEUE.md`, R013). |
-| 2 | Any observed GW/EM coupling must be shown to exceed what established Einstein–Maxwell theory and known GW→EM conversion processes predict. | existing-physics audit | A residual term, after subtracting known-physics predictions, must be nonzero and reproducible. | NOT MET — known physics already accounts for observed coupling; no confirmed residual term established (`research/FAILED_AND_ABANDONED_PATHS.md`, "Direct Damru/VCR EM-GW novelty"). |
-| 3 | The audio/video framing itself must not be used to imply that gravitational waves are literally sound or that EM/light is literally video. | theoretical (boundary condition) | Any formalization must operate on the abstract "two complementary channels" structure, not a literal acoustic/optical claim. | ENFORCED (`Analogies/A004_audio_video_channels.md`). |
+| 1 | The historical dual-channel/complementary-channel reconstruction tests (`PGA-152`, `PGA-153`) must be reproduced with explicit parameters. | computational | Rerun with recovered parameters and compare against the historical description. | REQUIRES_REPRODUCTION (\(indian-mythology-modern-science/research/REPRODUCTION_{QUEUE}.md\), R013). |
+| 2 | Any observed GW/EM coupling must be shown to exceed what established Einstein–Maxwell theory and known GW→EM conversion processes predict. | existing-physics audit | A residual term, after subtracting known-physics predictions, must be nonzero and reproducible. | NOT MET — known physics already accounts for observed coupling; no confirmed residual term established (\(research/FAILED_{AND}_ABANDONED_PATHS.md\), "Direct Damru/VCR EM-GW novelty"). |
+| 3 | The audio/video framing itself must not be used to imply that gravitational waves are literally sound or that EM/light is literally video. | theoretical (boundary condition) | Any formalization must operate on the abstract "two complementary channels" structure, not a literal acoustic/optical claim. | ENFORCED (\(Analogies/A004_audio_video_channels.md\)). |
 | 4 | If a residual term (requirement 2) is found, it must be tested against the same Ramanujan/theta discriminator discipline used in R003 (requirements 3–4) before any novelty claim. | mathematical | The residual term's behavior under theta/modular discrimination must be compared against generic controls, exactly as required in R003. | NOT APPLICABLE YET — contingent on requirement 2. |
 
 ## Order of attack and reasoning
@@ -56,4 +56,4 @@ Ramanujan/theta discrimination test from R003.
 If reproduction (requirement 1) confirms the historical description but no residual term
 (requirement 2) survives subtraction of known physics, this line should be marked `NEGATIVE` for
 "audio/video analogy reveals new GW/EM physics," while retaining the analogy as a valid conceptual
-framing device only (`ANALOGY_ONLY`, as already recorded in `Analogies/A004_audio_video_channels.md`).
+framing device only (\(ANALOGY_{ONLY}\), as already recorded in \(Analogies/A004_audio_video_channels.md\)).

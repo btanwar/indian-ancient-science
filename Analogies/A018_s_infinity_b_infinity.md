@@ -9,11 +9,11 @@ within infinities).
 **📌 Status:** WORKING HYPOTHESIS / CONCEPTUAL LABELS — most prominent/most developed line in the
 mythology-chat archive reconstruction
 
-**Prior-project source:** `indian-mythology-modern-science/research/S_INFINITY_B_INFINITY/HISTORY.md`,
-`research/S_INFINITY_B_INFINITY/README.md`,
-`research/S_INFINITY_B_INFINITY/experiments/E001_s_infinity_b_infinity_origin.md`,
-`research/S_INFINITY_B_INFINITY/experiments/E002_ordered_coverage_effective_time.md`,
-`research/MATHEMATICAL_MODELS.md`, `research/IDEA_EVOLUTION.md`, `research/ANALOGY_MAP.md`.
+**Prior-project source:** \(indian-mythology-modern-science/research/S_{INFINITY}_B_INFINITY/HISTORY.md\),
+\(research/S_{INFINITY}_B_INFINITY/README.md\),
+\(research/S_{INFINITY}_B_INFINITY/experiments/E001_s_infinity_b_infinity_origin.md\),
+\(research/S_{INFINITY}_B_INFINITY/experiments/E002_ordered_coverage_effective_time.md\),
+\(research/MATHEMATICAL_{MODELS}.md\), \(research/IDEA_{EVOLUTION}.md\), \(research/ANALOGY_{MAP}.md\).
 
 <img src="../assets/analogies/A018_s_infinity_b_infinity.svg" alt="Conceptual S-infinity and B-infinity diagram showing a local manifestation within a larger relational background" width="300" />
 
@@ -37,24 +37,24 @@ its source.
 | S∞ (small infinity) | A localized/finite-scale manifestation |
 | B∞ (big infinity) | The background relational/spacetime-like context |
 | Interaction between S∞ and B∞ | Observable manifestation arising from a relation between local and background structure |
-| `M∞ ≠ P∞ ≠ O∞` (where used in source) | Mathematical infinity ≠ physical infinity ≠ perceived infinity |
-| `Canvas ≠ Flow ≠ Observation` | Substrate ≠ dynamics ≠ what an observer records |
-| `substrate ≠ manifestation ≠ information` | Three distinct layers that must not be collapsed into one |
+| \(M\infty \neq P\infty \neq O\infty\) (where used in source) | Mathematical infinity ≠ physical infinity ≠ perceived infinity |
+| \(Canvas \neq Flow \neq Observation\) | Substrate ≠ dynamics ≠ what an observer records |
+| \(substrate \neq manifestation \neq information\) | Three distinct layers that must not be collapsed into one |
 
 ## 💡 Why this analogy was proposed
 
 To ask whether observable geometry, persistent particle-like manifestations, physical quantities,
 and ultimately gravity could arise from an underlying relational structure connecting a
 small/localized process to a larger background context, while remaining compatible with
-established physics (`E001_s_infinity_b_infinity_origin.md`, section 1).
+established physics (\(E001_s_infinity_b_infinity_origin.md\), section 1).
 
 ## ✅ What it helps explain / suggest
 
 - Framed a testable hierarchy of accessible descriptions:
-  `Ω_total ⊃ Ω_accessible ⊃ Ω_observed ⊃ Ω_represented` (`research/S_INFINITY_B_INFINITY/HISTORY.md`,
-  section 5; `research/MATHEMATICAL_MODELS.md`).
+  \(\Omega_{total} \supset \Omega_{accessible} \supset \Omega_{observed} \supset \Omega_{represented}\) (\(research/S_{INFINITY}_B_INFINITY/HISTORY.md\),
+  section 5; \(research/MATHEMATICAL_{MODELS}.md\)).
 - Motivated a schematic for persistence-without-fixed-constituents:
-  `Ψ(t₁) ≠ Ψ(t₂)` while `M(t₁) ≃ M(t₂)` (E001, section 5).
+  \(\Psi(t₁) \neq \Psi(t₂)\) while \(M(t₁) ≃ M(t₂)\) (E001, section 5).
 - Generated the current narrow surviving question: "Can an underlying relational/background
   system, through ordered dynamical coverage and observer-accessible channels, produce persistent
   observable manifestations while recovering the required limits of established physics?" (E001,
@@ -72,10 +72,10 @@ established physics (`E001_s_infinity_b_infinity_origin.md`, section 1).
   establish emergent 3D geometry").
 - Propagating localized excitations did **not**, by themselves, remain identifiable/persistent
   without an additional stabilizing mechanism (E001, section 4.2).
-- An early observer-reconstruction result reporting `ρ ≈ 0.9966` was later identified as
+- An early observer-reconstruction result reporting \(\rho \approx 0.9966\) was later identified as
   unreliable because the experiment supplied a spatial landmark configuration in advance — it did
   **not** demonstrate that time generates space (E001, section 4.4).
-- The E002 ordered-coverage reconstruction reported `ρ ≈ -0.029` (effectively no useful recovery)
+- The E002 ordered-coverage reconstruction reported \(\rho \approx -0.029\) (effectively no useful recovery)
   for the tested spectral-seriation method — "the present implementation fails as a demonstration
   of robust ordered reconstruction" (E002).
 - A massless/massive normal-mode split in a two-channel toy model is known field-theory behavior,
@@ -86,7 +86,7 @@ established physics (`E001_s_infinity_b_infinity_origin.md`, section 1).
 
 ## 🧪 Testable component
 
-- The accessibility hierarchy `Ω_total ⊃ Ω_accessible ⊃ Ω_observed ⊃ Ω_represented` as a formal
+- The accessibility hierarchy \(\Omega_{total} \supset \Omega_{accessible} \supset \Omega_{observed} \supset \Omega_{represented}\) as a formal
   coarse-graining model (shared with A009/A010).
 - The ordered-coverage reconstruction test (E002): recover an effective ordering from sequentially
   changing relational observations without supplying the ordering labels directly, with explicit
@@ -95,7 +95,7 @@ established physics (`E001_s_infinity_b_infinity_origin.md`, section 1).
   a predefined ordering-recovery metric, and preregistered success/failure criteria — E002,
   "Required next test").
 - Any candidate collective-dispersion relation with a low-energy limit approaching `c`
-  (`v_g = dω/dk`, `lim_{k→0} dω/dk = c`, `ω² = c²k² + αk⁴ + βk⁶ + ...`) as a model requirement, not
+  (\(v_{g} = d\omega/dk\), \(lim_{k\rightarrow0} d\omega/dk = c\), \(\omega² = c²k² + \alphak⁴ + \betak⁶ + ...\)) as a model requirement, not
   a verified result (`HISTORY.md`, section 1).
 
 ## 🪞 Non-testable / metaphorical component

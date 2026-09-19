@@ -34,7 +34,7 @@ flowchart LR
 ## Analogies used
 
 - [Analogies/A003_vcr_cinema_sequential_coverage.md](../Analogies/A003_vcr_cinema_sequential_coverage.md) — the core mechanism: sampling head, trajectory, coverage, ordering, reconstruction.
-- [Analogies/A017_observer_cinema_audience.md](../Analogies/A017_observer_cinema_audience.md) — the observer/state/representation separation (`X → π(X) → A(π(X))`) needed to avoid conflating observation with physical creation of reality.
+- [Analogies/A017_observer_cinema_audience.md](../Analogies/A017_observer_cinema_audience.md) — the observer/state/representation separation (\(X \rightarrow \pi(X) \rightarrow A(\pi(X))\)) needed to avoid conflating observation with physical creation of reality.
 - [Analogies/A005_fan_sampling.md](../Analogies/A005_fan_sampling.md) — historical, closed precursor: the original (failed) attempt to derive an invariant speed from a sampling artifact. Retained as a documented dead end that motivated the more careful VCR formulation.
 
 ## Why these analogies were combined
@@ -61,18 +61,18 @@ relabeled scan parameter.
 
 **From `indian-philosophy-modern-physics/V2` (the most advanced work on this line):**
 
-- Core question on record (`V2/RESEARCH_STATE.md`): "Can any of our original analogies provide a
+- Core question on record (\(V2/RESEARCH_{STATE}.md\)): "Can any of our original analogies provide a
   mathematically consistent and physically testable route toward quantum gravity and the
   relationship between gravity and the Standard Model?" — approached here specifically through the
   VCR/ordered-coverage mechanism.
-- Starting result (`V2/RESEARCH_STATE.md`, V2.1): a synthetic spatial-field test showed that
+- Starting result (\(V2/RESEARCH_{STATE}.md\), V2.1): a synthetic spatial-field test showed that
   changing the acquisition order changes the ordered record, while the reconstructed static
   spatial field is unchanged once spatial coordinates are restored. This establishes only a
   distinction between acquisition ordering and spatial reconstruction — **it does not establish
   physical time**.
 - Explicit next test on record: introduce a physical propagation constraint and test
   reparameterization invariance, causal ordering, and whether any resulting quantity is an
-  independently measurable invariant rather than a coordinate convention (`V2/RESEARCH_STATE.md`).
+  independently measurable invariant rather than a coordinate convention (\(V2/RESEARCH_{STATE}.md\)).
 - A longer sequence of experiments exists under `V2/experiments/` extending this question,
   including `V2.1-vcr-ordered-coverage`, `V2.2-ramanujan-vcr-discrimination`,
   `V2.3-vcr-grinder-propagation`, `V2.4-time-free-relational-separation`,
@@ -82,14 +82,14 @@ relabeled scan parameter.
   `V2.11-ramanujan-modular-discriminator` / `V2.11-ramanujan-modular-transition-invariant`,
   `V2.12-branch-native-ramanujan-test`, `V2.13-ramanujan-transition-invariant`,
   `V2.14-cross-level-round-robin-01`, `V2.15-cross-level-round-robin-02`, and
-  `V2.16-relational-action-gate`. Per `V2/CLAIMS_STATUS.md`, **no new physical claims have been
+  `V2.16-relational-action-gate`. Per \(V2/CLAIMS_{STATUS}.md\), **no new physical claims have been
   established in V2 yet** — every claim from these experiments still requires being linked to a
   specific analogy component and to the tests that support or reject it before being cited as a
   result here.
 - From the mythology-chat reconstruction (`indian-mythology-modern-science/research/
   S_INFINITY_B_INFINITY/experiments/E002_ordered_coverage_effective_time.md`): an ordered-coverage
-  reconstruction attempt reported a partial/negative correlation result (`ρ ≈ -0.029`), historical
-  and requiring reproduction (`research/REPRODUCTION_QUEUE.md`, R002).
+  reconstruction attempt reported a partial/negative correlation result (\(\rho \approx -0.029\)), historical
+  and requiring reproduction (\(research/REPRODUCTION_{QUEUE}.md\), R002).
 - The explicit required boundary from A003 remains binding: do not assign the traversal/scan
   parameter `s = t` and then treat the outcome as emergent time.
 
@@ -98,8 +98,8 @@ relabeled scan parameter.
 - "Ordered coverage/reconstruction has produced physical time" — not supported by any source
   material reviewed so far.
 - "The VCR/cinema analogy proves observation creates reality" — explicitly rejected
-  (`indian-mythology-modern-science/research/FAILED_AND_ABANDONED_PATHS.md`: "Observer creates
+  (\(indian-mythology-modern-science/research/FAILED_{AND}_ABANDONED_PATHS.md\): "Observer creates
   physical reality").
 - Any specific numeric result from the `V2.*` experiment folders should not be quoted here as
-  established until each has been individually reviewed against `V2/CLAIMS_STATUS.md` and
-  `V2/RESEARCH_LOG.md` (not yet done as part of this Phase 2 reconstruction).
+  established until each has been individually reviewed against \(V2/CLAIMS_{STATUS}.md\) and
+  \(V2/RESEARCH_{LOG}.md\) (not yet done as part of this Phase 2 reconstruction).

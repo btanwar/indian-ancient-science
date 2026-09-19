@@ -1,7 +1,7 @@
 # Result E001 - Dual-Channel Reproduction
 
 **Runbook step:** [../runbook.md](../runbook.md) step #1
-**Experiment:** `experiments/E001_dual_channel_reproduction/`
+**Experiment:** \(experiments/E001_dual_channel_reproduction/\)
 **Status:** REQUIRES_REPRODUCTION
 
 ## What was tested
@@ -22,7 +22,7 @@ No coupling or novelty conclusion can be drawn until the historical tests are re
 
 ## Pass / fail
 
-R005 requirement #1 remains `REQUIRES_REPRODUCTION`.
+R005 requirement #1 remains \(REQUIRES_{REPRODUCTION}\).
 
 ## Next action
 

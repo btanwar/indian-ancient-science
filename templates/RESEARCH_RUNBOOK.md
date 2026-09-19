@@ -24,8 +24,8 @@ one experiment, and explain *why* this is the next test rather than some other o
 
 | Step | Analogy / requirement tested | Reasoning | Experiment ID | Expected result | Actual result |
 |---|---|---|---|---|---|
-| 1 | <Analogies/A###...> / <Requirements/R###... item #1> | <why this test, why now> | `experiments/E001_short-name/` | <what would count as pass/fail> | [results/E001_short-name.md](../Research/L###_short-name/results/E001_short-name.md) |
-| 2 | ... | ... | `experiments/E002_short-name/` | ... | ... |
+| 1 | <Analogies/A###...> / <Requirements/R###... item #1> | <why this test, why now> | \(experiments/E001_short-name/\) | <what would count as pass/fail> | [results/E001_short-name.md](../Research/L###_short-name/results/E001_short-name.md) |
+| 2 | ... | ... | \(experiments/E002_short-name/\) | ... | ... |
 
 ## Current interpretation
 

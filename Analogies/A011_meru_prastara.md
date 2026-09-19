@@ -7,9 +7,9 @@ compression mechanism from microscopic histories to coarse classes.
 **Modern domain:** physics/mathematics (combinatorics, coarse-graining)
 **📌 Status:** MATHEMATICAL MECHANISM (established combinatorics); physical claim OPEN
 
-**Prior-project source:** `indian-mythology-modern-science/research/ANALOGY_MAP.md` ("Meru
+**Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Meru
 Prastara / Pascal row"); `shared/test/PGA-IIVM-6.md` ("Meru Prastara compression ↔ expansion"),
-`shared/test/IIVM-7.md` ("Dynamic Meru Compression"); `research/REPRODUCTION_QUEUE.md` (R005, R006).
+`shared/test/IIVM-7.md` ("Dynamic Meru Compression"); \(research/REPRODUCTION_{QUEUE}.md\) (R005, R006).
 
 <img src="../assets/analogies/A011_meru_prastara.svg" alt="Conceptual Meru Prastara diagram showing binary histories grouped into weight classes" width="300" />
 
@@ -21,7 +21,7 @@ Prastara / Pascal row"); `shared/test/PGA-IIVM-6.md` ("Meru Prastara compression
 
 Meru Prastara is a historical Indian combinatorial device for systematically enumerating and
 grouping arrangements (e.g. of syllables/binary choices), later recognized as structurally
-equivalent to Pascal's triangle: each row groups `2^n` binary histories into `n+1` classes by
+equivalent to Pascal's triangle: each row groups \(2^n\) binary histories into `n+1` classes by
 weight/count.
 
 ## 🗺️ The mapping
@@ -30,7 +30,7 @@ weight/count.
 |---|---|
 | Row of the triangle | A coarse-graining level |
 | Binary compositions summing to a row | Microscopic histories/microstates |
-| Grouping by weight into `n+1` classes | Compression of `2^n` microstates into `n+1` observable classes |
+| Grouping by weight into `n+1` classes | Compression of \(2^n\) microstates into `n+1` observable classes |
 
 ## 💡 Why this analogy was proposed
 
@@ -40,8 +40,8 @@ coarse-graining law for the IIVM visibility framework (A009).
 
 ## ✅ What it helps explain / suggest
 
-- Gives an exact combinatorial identity: `2^n` histories map to `n+1` classes for binary
-  composition (`research/REPRODUCTION_QUEUE.md`, R005); a general `q`-category composition scaling
+- Gives an exact combinatorial identity: \(2^n\) histories map to `n+1` classes for binary
+  composition (\(research/REPRODUCTION_{QUEUE}.md\), R005); a general `q`-category composition scaling
   extends this (R006).
 - Provided the compression/expansion mechanism tested in `PGA-IIVM-6` ("Meru Prastara compression
   ↔ expansion") and `IIVM-7` ("Dynamic Meru Compression").
@@ -49,14 +49,14 @@ coarse-graining law for the IIVM visibility framework (A009).
 ## ⚠️ What it does NOT explain
 
 It does not derive physical 2D/3D space from the combinatorial row: "physical claim open"
-(`research/ANALOGY_MAP.md`). The exact count is a mathematical fact; using it to claim a physical
+(\(research/ANALOGY_{MAP}.md\)). The exact count is a mathematical fact; using it to claim a physical
 dimensional origin is unestablished.
 
 ## 🧪 Testable component
 
-The combinatorial counts themselves (`2^n → n+1` classes; general `q`-category scaling) are exact
+The combinatorial counts themselves (\(2^n \rightarrow n+1\) classes; general `q`-category scaling) are exact
 and reproducible mathematics, independently of any physical interpretation
-(`research/REPRODUCTION_QUEUE.md`, R005–R006).
+(\(research/REPRODUCTION_{QUEUE}.md\), R005–R006).
 
 ## 🪞 Non-testable / metaphorical component
 

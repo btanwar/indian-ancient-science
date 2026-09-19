@@ -12,15 +12,15 @@ Does Meru/partition/theta capacity behave differently from matched generic combi
 
 Meru binary grouping:
 
-`N_micro=2^n`, `N_class=n+1`, `|C_k|=binomial(n,k)`.
+\(N_{micro}=2^n\), \(N_{class}=n+1\), \(|C_{k}|=binomial(n,k)\).
 
 Ramanujan candidate generating structure:
 
-`G(q)=sum_n a_n q^{f(n)}`.
+\(G(q)=sum_{n} a_{n} q^{f(n)}\).
 
 Required controls include:
 
-`f(n)=n`, `f(n)=n^2`, `f(n)=n(n+1)/2`, and matched generic polynomial/Fourier constructions.
+`f(n)=n`, \(f(n)=n^{2}\), `f(n)=n(n+1)/2`, and matched generic polynomial/Fourier constructions.
 
 ## Pass/fail
 

@@ -1,7 +1,7 @@
 # Result E001 - Literal Mechanism Audit
 
 **Runbook step:** [../runbook.md](../runbook.md) step #1
-**Experiment:** `experiments/E001_literal_mechanism_audit/`
+**Experiment:** \(experiments/E001_literal_mechanism_audit/\)
 **Status:** NEGATIVE
 
 ## What was tested

@@ -6,7 +6,7 @@ seed of the "Interacting Infinities & Visibility Model" (IIVM).
 **Modern domain:** physics (coarse-graining, hidden-state/observability, statistical mechanics)
 **📌 Status:** ANALOGY_ONLY (toy-model tests retained)
 
-**Prior-project source:** `indian-mythology-modern-science/research/ANALOGY_MAP.md` ("Sugar
+**Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Sugar
 dissolving in water"); `shared/test/PGA-IIVM-5.md` and related `IIVM-1` through `IIVM-4`,
 `PGA-IIVM-6`, `IIVM-7`, `PGA-IIVM-8` entries in `shared/test/` and `shared/results/`.
 
@@ -43,22 +43,22 @@ actually being destroyed.
   a "sugar" subsystem, a "water" background, and multiple observers, measuring when the sugar
   becomes invisible (`shared/test/PGA-IIVM-5.md` and related IIVM entries).
 - Fed into the hidden-state/accessibility branch audit (`PGA-110` "Accessibility / Hidden-State
-  Model") and its distinction `Ω_total ⊃ Ω_accessible ⊃ Ω_observed ⊃ Ω_represented`
-  (`research/MATHEMATICAL_MODELS.md`).
+  Model") and its distinction \(\Omega_{total} \supset \Omega_{accessible} \supset \Omega_{observed} \supset \Omega_{represented}\)
+  (\(research/MATHEMATICAL_{MODELS}.md\)).
 
 ## ⚠️ What it does NOT explain
 
 - The IIVM toy model does not, by itself, prove any physics: "The IIVM doesn't prove any of this
   physics" is stated explicitly in the source chat (per `shared/test/` IIVM entries).
 - It does not establish that observation/coarse-graining alone creates a fundamental arrow of time
-  (`research/FAILED_AND_ABANDONED_PATHS.md`: "Coarse-graining alone → fundamental time arrow").
+  (\(research/FAILED_{AND}_ABANDONED_PATHS.md\): "Coarse-graining alone → fundamental time arrow").
 
 ## 🧪 Testable component
 
 The finite reversible hidden-state model (permutation dynamics + restricted projection + entropy
-measurement) is a concrete, testable toy model — reported historically at `|Ω| = 65,536` with an
+measurement) is a concrete, testable toy model — reported historically at \(|\Omega| = 65,536\) with an
 8-bit projection and observer entropy reaching about 7.18 bits after mixing
-(`research/REPRODUCTION_QUEUE.md`, R003; requires reproduction).
+(\(research/REPRODUCTION_{QUEUE}.md\), R003; requires reproduction).
 
 ## 🪞 Non-testable / metaphorical component
 

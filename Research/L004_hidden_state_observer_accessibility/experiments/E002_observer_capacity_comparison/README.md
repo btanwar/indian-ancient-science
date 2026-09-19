@@ -10,11 +10,11 @@ Do observers with 4, 8, and 12 bits produce different effective descriptions fro
 
 ## Formal structure
 
-Use a common microscopic trajectory `X_t` and observer maps:
+Use a common microscopic trajectory \(X_{t}\) and observer maps:
 
-`Y_t^(b) = Pi_b(X_t)`, for `b in {4,8,12}`.
+\(Y_{t}^(b) = Pi_{b}(X_{t})\), for `b in {4,8,12}`.
 
-Compare accessible descriptions using entropy, distinguishability, and reconstruction error. The underlying `X_t` must be identical across capacities.
+Compare accessible descriptions using entropy, distinguishability, and reconstruction error. The underlying \(X_{t}\) must be identical across capacities.
 
 ## Required controls
 

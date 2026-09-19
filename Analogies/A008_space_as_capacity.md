@@ -9,7 +9,7 @@ accommodating principle rather than a passive void.
 
 **Prior-project source:**
 `indian-philosophy-modern-physics/V2/analogies/V2.2-Ramanujan-three-branch-decomposition.md`
-("A6 Space = capacity / accommodation"); `indian-philosophy-modern-physics/V1/CLAIMS_STATUS.md`
+("A6 Space = capacity / accommodation"); \(indian-philosophy-modern-physics/V1/CLAIMS_{STATUS}.md\)
 (C10).
 
 <img src="../assets/analogies/A008_space_capacity.svg" alt="Conceptual space-as-capacity diagram showing relations needing accommodation and independent relations" width="300" />

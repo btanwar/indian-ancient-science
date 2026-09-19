@@ -1,0 +1,886 @@
+# COPILOT MASTER PROMPT
+
+## Indian Philosophy and Modern Physics — Research Continuation
+
+You are continuing an existing research program. Do NOT treat this as a new theory-development exercise.
+
+Your task is to reconstruct the current research state from the repository and then continue the research through a controlled sequence of experiments.
+
+The objective is NOT to produce a persuasive theory.
+
+The objective is to determine, experimentally and mathematically, which parts of the hypothesis survive.
+
+---
+
+# 1. FIRST PRINCIPLE
+
+The governing principle is:
+
+> FOLLOW THE RESULT, NOT THE ANALOGY.
+
+Do not make an analogy true by construction.
+
+Do not tune a model until it produces an expected result.
+
+Do not insert Einstein's equations, Newtonian gravity, Lorentz symmetry, 3D geometry, quantum mechanics, or known physical constants merely because they are desired outcomes.
+
+If an experiment fails, record the failure.
+
+If an experiment produces an unexpected result, preserve it.
+
+If a mechanism only reproduces something already assumed, classify it as a prerequisite/demo rather than a derivation.
+
+---
+
+# 2. READ THE EXISTING RESEARCH BEFORE DOING ANY NEW WORK
+
+Inspect the repository completely before beginning new experiments.
+
+Pay particular attention to:
+
+* `V3/`
+* `V3/chats/`
+* `V3/chat_records/`
+* existing research documents
+* `S_INFINITY_B_INFINITY`
+* Damru/Dhanush work
+* observer/emergent-geometry work
+* VCR/cinema/coverage work
+* PGA records
+* experiment scripts
+* numerical results
+* audits
+* negative results
+* abandoned branches
+* current research maps
+* existing requirements/specifications
+
+Do not overwrite historical research.
+
+Do not silently correct historical results.
+
+Do not convert an analogy into a physical claim.
+
+Where historical material is incomplete, explicitly mark it as incomplete.
+
+---
+
+# 3. RECONSTRUCT THE RESEARCH STATE
+
+Before executing new experiments, create/update a research-state document containing:
+
+1. Current hypothesis
+2. Fundamental assumptions
+3. Candidate mechanisms
+4. Experimental evidence
+5. Positive results
+6. Negative results
+7. Failed experiments
+8. Inconclusive experiments
+9. Results that were only demonstrations
+10. Results that used assumptions equivalent to the desired conclusion
+11. Open questions
+12. Dependencies between experiments
+13. Current strongest research path
+14. Branches that should remain frozen
+15. Experiments requiring reproduction
+
+Use explicit status labels:
+
+* `HYPOTHESIS`
+* `ANALOGY`
+* `KNOWN_PHYSICS`
+* `KNOWN_MATHEMATICS`
+* `HISTORICAL`
+* `REPORTED`
+* `REPRODUCED`
+* `PARTIALLY_REPRODUCED`
+* `SUCCESSFUL`
+* `PARTIAL`
+* `NEGATIVE`
+* `FAILED`
+* `INCONCLUSIVE`
+* `REQUIRES_REPRODUCTION`
+* `OPEN`
+
+Never use "proved" unless the result genuinely establishes the stated proposition.
+
+---
+
+# 4. PRESERVE THE COMPLETE LINE OF THOUGHT
+
+The research history must remain visible.
+
+The following conceptual lines must not be deleted merely because they are no longer the active path:
+
+## A. S∞ ↔ B∞
+
+Small Infinity ↔ Big Infinity.
+
+Interpretation:
+
+* S∞ = localized/persistent relational structure or excitation
+* B∞ = collective relational substrate
+
+This is a hypothesis, not established physics.
+
+---
+
+## B. Damru
+
+Damru is an intuition/model for:
+
+localized interaction → collective response → propagation → recovery → possible persistent modification.
+
+Do not treat the physical drum analogy as the mechanism itself.
+
+Extract the underlying mechanism and test that.
+
+---
+
+## C. Dhanush / fabric response
+
+The Dhanush work explored whether a collective substrate can respond to localized excitation and whether this response can alter propagation.
+
+Previous phenomenological models produced useful weak-field-like behavior, but some constitutive relations were inserted rather than derived.
+
+Therefore the next research requirement is:
+
+> derive the constitutive response from microscopic dynamics rather than prescribing it.
+
+---
+
+## D. VCR / cinema / coverage
+
+These ideas concern:
+
+* information accessibility
+* sequential coverage
+* reconstruction
+* observer roles
+* equivalence classes
+* possible emergence of ordering
+
+They must not automatically be interpreted as physical time.
+
+The current conceptual question from the master research map was:
+
+> Can ordered coverage produce effective temporal ordering?
+
+This remains a valid conceptual branch, but it should not be mixed into the microscopic gravity experiment unless an explicit mechanism connects them.
+
+---
+
+## E. Observer / geometry reconstruction
+
+Previous experiments showed that observers can sometimes reconstruct relational separation or geometry from propagation information.
+
+But the underlying relational substrate was often supplied manually.
+
+Therefore:
+
+> reconstruction of geometry is not equivalent to derivation of geometry.
+
+Preserve this distinction.
+
+---
+
+## F. Emergent dimension
+
+Previous experiments showed:
+
+* random graphs do not naturally produce 3D geometry
+* generic branching does not automatically produce 3D
+* merging alone does not guarantee 3D
+* statistical averaging does not automatically generate 3D
+* shell growth must be measured rather than assumed
+
+Therefore never tune a model to obtain exponent 3.
+
+Use:
+
+$$
+N(r)\sim r^{d_{\rm eff}}
+$$
+
+as an observable diagnostic.
+
+---
+
+## G. Quantum/topological branch
+
+Previous work showed that classical discrete modes do not automatically imply quantum energy quantization.
+
+Therefore do not claim:
+
+$$
+E=\hbar\omega
+$$
+
+from classical mode discreteness.
+
+Keep quantum emergence as a later branch unless the microscopic model independently produces the necessary structure.
+
+---
+
+# 5. THE CORE RESEARCH QUESTION
+
+The primary active research problem is now:
+
+$$
+\boxed{
+\text{microscopic relational dynamics}
+\rightarrow
+\text{collective response}
+\rightarrow
+\text{effective geometry}
+}
+$$
+
+More specifically:
+
+$$
+\boxed{
+A\leftrightarrow H
+\rightarrow
+R_t(H),R_s(H)
+\rightarrow
+g_{\mu\nu}^{\rm eff}
+}
+$$
+
+where:
+
+* \(A\) = localized relational excitation
+* \(H\) = collective relational substrate
+* \(R_t\) = measured local/internal/temporal response
+* \(R_s\) = measured propagation/spatial response
+
+The central unresolved question is:
+
+> Can different temporal and spatial responses emerge from the same microscopic interaction without inserting a metric or Einstein gravity into the microscopic rules?
+
+---
+
+# 6. REQUIRED RESEARCH HIERARCHY
+
+Do not jump directly to Einstein's equation.
+
+Follow this sequence:
+
+```text
+Minimal relational substrate
+        ↓
+Local state / transition
+        ↓
+Localized persistent excitation
+        ↓
+Collective substrate
+        ↓
+A ↔ H interaction
+        ↓
+Propagation
+        ↓
+Recovery / memory
+        ↓
+Persistent collective response
+        ↓
+Measure local/internal response
+        ↓
+Measure propagation response
+        ↓
+Derive effective constitutive relations
+        ↓
+Construct effective metric
+        ↓
+Test response of another excitation
+        ↓
+Recover Newtonian limit
+        ↓
+Test relativistic gravitational limit
+        ↓
+Test tensor/GW sector
+        ↓
+Only later investigate quantum sector
+```
+
+Every arrow must be supported by an experiment or mathematical derivation.
+
+---
+
+# 7. MINIMAL MICROSCOPIC MODEL
+
+Begin with the smallest useful model.
+
+Do not start with:
+
+* coordinates
+* spatial dimensions
+* metric
+* curvature
+* gravitational potential
+* Einstein tensor
+* stress-energy tensor
+* photon
+* graviton
+* predefined light cone
+* predefined Lorentz transformation
+* predefined Newtonian potential
+
+Instead define only the minimum required:
+
+* states
+* relations
+* transition rules
+* local interaction rules
+* propagation/update rules
+* recovery rules
+
+Clearly document every primitive assumption.
+
+---
+
+# 8. EXPERIMENTAL REQUIREMENTS
+
+For every experiment record:
+
+## Identification
+
+* PGA number
+* experiment name
+* date
+* code location
+* input parameters
+* random seed(s)
+* environment
+* version/commit
+
+## Scientific question
+
+State exactly one primary question.
+
+## Hypothesis
+
+State what is being tested.
+
+## Null/control
+
+Define what result would mean the proposed mechanism is NOT doing anything beyond the baseline.
+
+## Model
+
+Describe the mathematical rules.
+
+## Assumptions
+
+Separate:
+
+* fundamental assumptions
+* implementation assumptions
+* numerical assumptions
+* convenience assumptions
+
+## Forbidden assumptions
+
+Explicitly state what was NOT supplied.
+
+## Measurements
+
+Define observables before running the experiment.
+
+## Results
+
+Record raw numerical results wherever practical.
+
+## Interpretation
+
+Separate:
+
+* direct measurement
+* mathematical inference
+* physical interpretation
+
+## Status
+
+Use the status vocabulary defined above.
+
+## Reproducibility
+
+Provide:
+
+* script
+* parameters
+* seed
+* command
+* output
+* plots/data if applicable
+
+## Limitations
+
+State what the experiment does NOT establish.
+
+## Next experiment
+
+Define the next experiment only after the result is known.
+
+---
+
+# 9. CRITICAL ANTI-CIRCULARITY RULE
+
+Every experiment must contain a section:
+
+## Circularity Audit
+
+Answer:
+
+1. Did we insert the desired result?
+2. Did we insert a metric?
+3. Did we insert dimensionality?
+4. Did we insert a clock?
+5. Did we insert a speed equivalent to \(c\)?
+6. Did we insert Lorentz symmetry?
+7. Did we insert Newtonian gravity?
+8. Did we insert Einstein equations?
+9. Did we tune parameters specifically to obtain the target?
+10. Is the observed phenomenon already present in the mathematical assumptions?
+
+If yes, classify the result accordingly.
+
+---
+
+# 10. IMPORTANT DISTINCTION: DEMONSTRATION VS DERIVATION
+
+For example, if a model produces:
+
+$$
+\omega \sim ck
+$$
+
+but the update equation was itself a wave equation, then this is not evidence that the model derived relativistic propagation.
+
+Classify it as:
+
+`KNOWN/BUILT-IN PREREQUISITE`
+
+Similarly, if:
+
+$$
+ds^2\simeq -(1+2\Phi)dt^2+(1-2\Phi)d\mathbf{x}^2
+$$
+
+appears only because constitutive functions were manually selected to produce it, classify it as:
+
+`PHENOMENOLOGICAL MATCH — NOT DERIVED`
+
+This distinction is mandatory.
+
+---
+
+# 11. CORE EXPERIMENT SERIES
+
+The first research campaign should proceed in stages.
+
+## PGA-NEXT-1
+
+### Minimal relational transition system
+
+Determine whether a minimal relational transition system can support:
+
+* persistent localized structures
+* propagation
+* recovery
+* interaction
+
+without coordinates, metric, or predefined space.
+
+---
+
+## PGA-NEXT-2
+
+### Localized excitation
+
+Construct the smallest stable localized excitation.
+
+Measure:
+
+* lifetime
+* recurrence
+* stability
+* localization
+* energy/action-like quantities if meaningful
+
+Do not call it a particle yet.
+
+---
+
+## PGA-NEXT-3
+
+### Excitation–substrate interaction
+
+Introduce the smallest possible collective substrate.
+
+Test:
+
+$$
+A\leftrightarrow H
+$$
+
+Measure the substrate perturbation and recovery.
+
+---
+
+## PGA-NEXT-4
+
+### Collective response
+
+Determine whether repeated interactions produce a persistent collective state.
+
+Measure:
+
+* amplitude
+* spatial/relational extent
+* relaxation time
+* dependence on interaction frequency
+* dependence on density/coupling
+
+---
+
+## PGA-NEXT-5
+
+### Propagation through modified substrate
+
+Determine whether the state of \(H\) changes propagation of a second excitation.
+
+Measure propagation speed or relational propagation rate as a function of substrate state.
+
+Do not prescribe the functional form.
+
+---
+
+## PGA-NEXT-6
+
+### Local/internal response
+
+Place a localized oscillator/excitation in different substrate states.
+
+Measure its natural frequency or internal dynamical response.
+
+Again, do not prescribe:
+
+$$
+k(H)
+$$
+
+or
+
+$$
+\rho(H).
+$$
+
+Measure them.
+
+---
+
+## PGA-NEXT-7
+
+### Constitutive-response extraction
+
+From the previous experiments derive, rather than assume:
+
+$$
+R_t(H)
+$$
+
+and
+
+$$
+R_s(H).
+$$
+
+Determine whether they arise from the same microscopic state variable.
+
+---
+
+## PGA-NEXT-8
+
+### Effective metric reconstruction
+
+Only after the previous results exist, ask whether an effective metric can be reconstructed from the measured responses.
+
+The metric is an OUTPUT.
+
+It must NOT be an INPUT.
+
+---
+
+## PGA-NEXT-9
+
+### Second-excitation universality test
+
+Place a different localized excitation in the same effective environment.
+
+Test whether it experiences the same effective geometry.
+
+This is essential for a gravity interpretation.
+
+---
+
+## PGA-NEXT-10
+
+### Newtonian-limit test
+
+Only now test whether the long-range weak-field behavior can produce something equivalent to:
+
+$$
+\nabla^2\Phi=4\pi G\rho.
+$$
+
+Do not insert this equation into the microscopic model.
+
+It is a comparison target.
+
+---
+
+## PGA-NEXT-11
+
+### Relativistic gravitational test
+
+Only if the previous stages succeed, investigate whether the effective dynamics can reproduce the weak-field structure associated with:
+
+$$
+G_{\mu\nu}=8\pi G T_{\mu\nu}.
+$$
+
+Again, this equation is a target for comparison, not an input.
+
+---
+
+# 12. DO NOT FORCE THE RESEARCH PATH
+
+At every stage:
+
+IF RESULT IS POSITIVE:
+continue to the next dependent experiment.
+
+IF RESULT IS NEGATIVE:
+document the failure and identify which assumption failed.
+
+IF RESULT IS PARTIAL:
+refine only the failed mechanism.
+
+IF RESULT IS INCONCLUSIVE:
+design a discriminating experiment.
+
+IF RESULT IS ALREADY EXPLAINED BY THE MODEL:
+classify it as a prerequisite rather than a discovery.
+
+IF AN UNEXPECTED PHENOMENON APPEARS:
+pause the planned sequence and investigate it.
+
+The research tree must therefore be result-driven.
+
+---
+
+# 13. BRANCH MANAGEMENT
+
+Do not mix unrelated research lines merely because they have philosophical similarity.
+
+Maintain separate branches:
+
+```text
+S_INFINITY_B_INFINITY
+DAMRU_DHANUSH
+OBSERVER_GEOMETRY
+VCR_COVERAGE_TIME
+QUANTUM_TOPOLOGICAL
+MATHEMATICAL_FRAMEWORK
+```
+
+Create explicit links between branches only when an experiment establishes the connection.
+
+---
+
+# 14. DOCUMENTATION STRUCTURE
+
+For every new PGA create:
+
+```text
+research/
+  experiments/
+    PGA-XXX/
+      README.md
+      hypothesis.md
+      model.md
+      experiment.md
+      results.md
+      analysis.md
+      circularity-audit.md
+      limitations.md
+      next-step.md
+      data/
+      scripts/
+```
+
+Use a simpler structure if the repository already has an established convention, but preserve the same information.
+
+Also maintain:
+
+```text
+research/
+  EXPERIMENT_INDEX.md
+  RESEARCH_STATE.md
+  RESEARCH_MAP.md
+  OPEN_QUESTIONS.md
+  NEGATIVE_RESULTS.md
+  REPRODUCTION_QUEUE.md
+```
+
+Do not duplicate information unnecessarily.
+
+---
+
+# 15. EQUATIONS
+
+All new Markdown must use standard Markdown-compatible LaTeX.
+
+Inline:
+
+`\(E=mc^2\)`
+
+Display:
+
+```text
+\[
+E=mc^2
+\]
+```
+
+For numbered equations, use an appropriate supported convention, for example:
+
+```text
+\[
+G_{\mu\nu}=8\pi G T_{\mu\nu}.
+\tag{1}
+\]
+```
+
+Do NOT use:
+
+````text
+```math
+...
+````
+
+````
+
+unless the repository renderer explicitly requires it.
+
+Do not put mathematical equations inside ordinary inline code unless the intent is to show literal source syntax.
+
+Every equation must have surrounding explanatory prose.
+
+Define symbols immediately or in a notation section.
+
+---
+
+# 16. FINAL RESEARCH REPORT FOR EACH CAMPAIGN
+
+At the end of the campaign produce:
+
+### What was tested
+
+### What was observed
+
+### What was reproduced
+
+### What failed
+
+### What remains unexplained
+
+### What was assumed
+
+### What was genuinely derived
+
+### What was only phenomenologically matched
+
+### What is already known physics
+
+### What is analogy only
+
+### What should be abandoned
+
+### What should continue
+
+### Exact next experimental question
+
+Do not write a grand unified conclusion unless the experiments justify one.
+
+---
+
+# 17. MOST IMPORTANT SCIENTIFIC RULE
+
+Never allow the repository to gradually transform:
+
+```text
+intuition
+→ hypothesis
+→ model
+→ result
+````
+
+into:
+
+```text
+intuition
+→ "known fact"
+```
+
+Preserve the epistemic status of every claim.
+
+The repository is a laboratory notebook, not a theory-promotion document.
+
+---
+
+# 18. EXECUTION INSTRUCTION
+
+After reading the repository:
+
+1. Build/update `RESEARCH_STATE.md`.
+2. Build/update the research map.
+3. Identify the exact current starting point.
+4. Define the first experiment.
+5. Implement it.
+6. Run it.
+7. Record the raw result.
+8. Perform the circularity audit.
+9. Determine the next experiment from the result.
+10. Continue through the dependency chain as far as scientifically justified.
+11. Stop when a result requires a new assumption or a branch decision.
+12. Document that decision rather than hiding it.
+
+Do not merely propose experiments.
+
+Actually execute the computational experiments that can be executed in the repository.
+
+Do not fabricate unavailable numerical results.
+
+Do not claim reproduction without actually reproducing the calculation.
+
+At the end, report:
+
+* experiments executed
+* experiments not executed
+* positive results
+* negative results
+* inconclusive results
+* numerical results
+* equations derived
+* equations assumed
+* assumptions introduced
+* branches opened
+* branches closed
+* files created/modified
+* exact current research state
+* exact next experiment
+
+The purpose of this entire process is to make the research progressively more rigorous while preserving the original line of thought.

@@ -7,7 +7,7 @@ system of subtle-body energy centers, and bandhas/anubandhas (locks/bindings) fr
 conceptual only)
 **📌 Status:** ANALOGY_ONLY
 
-**Prior-project source:** `indian-mythology-modern-science/research/ANALOGY_MAP.md` ("3 gunas/
+**Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("3 gunas/
 chakras/bandhas/anubandhas").
 
 <img src="../assets/analogies/A016_gunas_chakras_bandhas.svg" alt="Conceptual multi-channel diagram showing three state components, channels, and constraints" width="300" />
@@ -39,12 +39,12 @@ constraint language, where such language entered the physics research discussion
 ## ✅ What it helps explain / suggest
 
 Provided historical conceptual vocabulary where used in the archive
-(`research/ANALOGY_MAP.md`).
+(\(research/ANALOGY_{MAP}.md\)).
 
 ## ⚠️ What it does NOT explain
 
 It does not provide a quantitative physical model — explicitly marked as lacking a quantitative
-correspondence (`research/ANALOGY_MAP.md`).
+correspondence (\(research/ANALOGY_{MAP}.md\)).
 
 ## 🧪 Testable component
 

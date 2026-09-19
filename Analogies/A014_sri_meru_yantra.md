@@ -6,7 +6,7 @@ tantric/meditative tradition to represent cosmic order and the structure of crea
 **Modern domain:** physics/mathematics (geometry, symmetry, information organization)
 **📌 Status:** ANALOGY_ONLY
 
-**Prior-project source:** `indian-mythology-modern-science/research/ANALOGY_MAP.md` ("Sri/Meru
+**Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Sri/Meru
 Yantra"); `shared/test/PGA-8D.md` ("Sri/Meru Yantra: mathematically characterize its geometry and
 information content").
 
@@ -40,12 +40,12 @@ through `PGA-8D`).
 ## ✅ What it helps explain / suggest
 
 Suggested geometric-compression questions to pursue alongside the Meru-Prastara combinatorial
-compression mechanism (`research/ANALOGY_MAP.md`).
+compression mechanism (\(research/ANALOGY_{MAP}.md\)).
 
 ## ⚠️ What it does NOT explain
 
 It does not establish a physical field or a dimensional derivation
-(`research/ANALOGY_MAP.md`: "Did not establish: A physical field or dimensional derivation").
+(\(research/ANALOGY_{MAP}.md\): "Did not establish: A physical field or dimensional derivation").
 
 ## 🧪 Testable component
 

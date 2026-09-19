@@ -6,9 +6,9 @@ medium, and whether gravitational waves could be an "audio" analogue to electrom
 **Modern domain:** physics (gravitational waves, electromagnetic waves, multi-channel observation)
 **📌 Status:** ANALOGY_ONLY
 
-**Prior-project source:** `indian-mythology-modern-science/research/AUDIO_VIDEO_VCR/HISTORY.md`,
-`research/ANALOGY_MAP.md` ("Audio/video"); related dual-channel experiments referenced in
-`research/EXPERIMENT_INDEX.md` (PGA-152 "Dual-Channel Reconstruction Test", PGA-153
+**Prior-project source:** \(indian-mythology-modern-science/research/AUDIO_{VIDEO}_VCR/HISTORY.md\),
+\(research/ANALOGY_{MAP}.md\) ("Audio/video"); related dual-channel experiments referenced in
+\(research/EXPERIMENT_{INDEX}.md\) (PGA-152 "Dual-Channel Reconstruction Test", PGA-153
 "Complementary-Channel Reconstruction Test"); `indian-philosophy-modern-physics/V2/experiments/`
 (`V2.7-gravitational-wave-em-coupling`, `V2.8-gw-em-polarization-invariant`).
 
@@ -50,17 +50,17 @@ observational relationship.
 
 - Gravitational waves are **not** literally sound/audio, and electromagnetic waves/light are
   **not** literally video — this is an explicit rule preserved from the source reconstruction
-  (`research/ANALOGY_MAP.md`).
+  (\(research/ANALOGY_{MAP}.md\)).
 - Known physics already accounts for established gravitational-wave/electromagnetic conversion
   effects (e.g. in binary mergers, pulsar timing); no confirmed additional/residual term has been
-  established from this analogy (`research/FAILED_AND_ABANDONED_PATHS.md`, "Direct Damru/VCR
+  established from this analogy (\(research/FAILED_{AND}_ABANDONED_PATHS.md\), "Direct Damru/VCR
   EM-GW novelty").
 
 ## 🧪 Testable component
 
 Any residual coupling term between a gravitational-wave channel and an electromagnetic channel
 that is *not* already explained by known Einstein–Maxwell / GW–EM conversion physics — this
-residual-term test remains open (`research/REPRODUCTION_QUEUE.md`, R013).
+residual-term test remains open (\(research/REPRODUCTION_{QUEUE}.md\), R013).
 
 ## 🪞 Non-testable / metaphorical component
 
@@ -71,7 +71,7 @@ physical identity claim.
 
 Established Einstein–Maxwell theory and known gravitational-wave/electromagnetic-wave conversion
 processes already account for observed coupling; this analogy has not established anything beyond
-that (KNOWN PHYSICS boundary, per `research/CURRENT_STATE.md`).
+that (KNOWN PHYSICS boundary, per \(research/CURRENT_{STATE}.md\)).
 
 ## 📚 Used by (lines of thought)
 

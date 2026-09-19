@@ -60,10 +60,10 @@ originated from the same broader chat-archive discussion.
 - Explicit conclusion already on record: known physics (established Einstein–Maxwell structure and
   known gravitational-wave/electromagnetic conversion effects, e.g. around compact objects and
   pulsars) already accounts for observed coupling; **no confirmed additional/residual term has been
-  established** (`indian-mythology-modern-science/research/FAILED_AND_ABANDONED_PATHS.md`, "Direct
+  established** (\(indian-mythology-modern-science/research/FAILED_{AND}_ABANDONED_PATHS.md\), "Direct
   Damru/VCR EM-GW novelty").
 - This residual-term test is recorded as requiring reproduction and an explicit known-physics audit
-  before any novel claim (`research/REPRODUCTION_QUEUE.md`, R013).
+  before any novel claim (\(research/REPRODUCTION_{QUEUE}.md\), R013).
 
 ## What this line of thought must NOT claim
 

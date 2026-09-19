@@ -10,13 +10,18 @@ Can one representation-independent state-comparison quantity be instantiated in 
 
 ## Equations
 
-For nonzero states `S_i,S_j`:
+For nonzero states \(S_{i},S_{j}\):
 
-`F(S_i,S_j) = |<S_i,S_j>|^2 / (<S_i,S_i><S_j,S_j>)`.
+\[
+F(S_i,S_j)=\frac{|\langle S_i,S_j\rangle|^2}
+{\langle S_i,S_i\rangle\langle S_j,S_j\rangle}.
+\]
 
 Define:
 
-`d_FS(S_i,S_j) = arccos(sqrt(F(S_i,S_j)))`.
+\[
+d_{\rm FS}(S_i,S_j)=\arccos\!\left(\sqrt{F(S_i,S_j)}\right).
+\]
 
 Common unitary transformations preserve `F`; common normalization cancels. Equivalent packetization should preserve it when total probability/state content is preserved.
 

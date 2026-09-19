@@ -1,7 +1,7 @@
 # Result E003 - Ordered Coverage Controls
 
 **Runbook step:** [../runbook.md](../runbook.md) step #3
-**Experiment:** `experiments/E003_ordered_coverage_controls/`
+**Experiment:** \(experiments/E003_ordered_coverage_controls/\)
 **Status:** NEGATIVE
 
 ## What was tested

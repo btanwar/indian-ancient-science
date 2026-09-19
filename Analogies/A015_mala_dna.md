@@ -6,7 +6,7 @@ structure, as a shared image of ordered repeated elements encoding memory/patter
 **Modern domain:** biology / information theory (conceptual only)
 **📌 Status:** ANALOGY_ONLY
 
-**Prior-project source:** `indian-mythology-modern-science/research/ANALOGY_MAP.md` ("Mala/DNA").
+**Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Mala/DNA").
 
 <img src="../assets/analogies/A015_mala_dna.svg" alt="Conceptual Mala and DNA diagram showing repeated ordered elements and sequence memory" width="300" />
 
@@ -36,12 +36,12 @@ ordered/relational structures elsewhere in the research (e.g. the bead/string su
 
 ## ✅ What it helps explain / suggest
 
-Conceptual sequence/persistence language used elsewhere in the archive (`research/ANALOGY_MAP.md`).
+Conceptual sequence/persistence language used elsewhere in the archive (\(research/ANALOGY_{MAP}.md\)).
 
 ## ⚠️ What it does NOT explain
 
 It does not establish biological or physical equivalence between a mala and DNA, or any specific
-biological mechanism (`research/ANALOGY_MAP.md`).
+biological mechanism (\(research/ANALOGY_{MAP}.md\)).
 
 ## 🧪 Testable component
 

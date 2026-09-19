@@ -13,17 +13,17 @@ Can acquisition order change the ordered record while the same spatial coverage 
 
 Define a spatial field on `D=[0,1)`:
 
-`f(x) = 0.8 sin(4 pi x + 0.2) + 0.35 cos(10 pi x - 0.4) + 0.2 sin(18 pi x + 0.7)`.
+\(f(x) = 0.8 sin(4 pi x + 0.2) + 0.35 cos(10 pi x - 0.4) + 0.2 sin(18 pi x + 0.7)\).
 
-Sample fixed positions `x_i`, producing `y_i=f(x_i)`. Let `P` be a permutation of the sample indices. The ordered record is:
+Sample fixed positions \(x_{i}\), producing \(y_{i}=f(x_{i})\). Let `P` be a permutation of the sample indices. The ordered record is:
 
-`R_P = ((x_{P(1)}, y_{P(1)}), ..., (x_{P(N)}, y_{P(N)}))`.
+\(R_{P} = ((x_{P(1)}, y_{P(1)}), ..., (x_{P(N)}, y_{P(N)}))\).
 
 The static reconstruction operator sorts by spatial coordinate before interpolation:
 
-`F_P = A(sort(R_P))`.
+\(F_{P} = A(sort(R_{P}))\).
 
-Therefore a permutation can change the ordered record while leaving `F_P` unchanged, provided coordinates are retained by the reconstruction operator.
+Therefore a permutation can change the ordered record while leaving \(F_{P}\) unchanged, provided coordinates are retained by the reconstruction operator.
 
 ## Parameters
 

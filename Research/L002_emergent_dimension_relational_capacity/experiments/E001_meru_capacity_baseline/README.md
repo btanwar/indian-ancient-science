@@ -10,31 +10,43 @@ What exact capacity/counting quantity does binary Meru/ Pascal grouping provide?
 
 ## Derivation
 
-For binary strings of depth `n`, the microscopic state count is:
+For binary strings of depth \(n\), the microscopic state count is:
 
-`N_micro(n) = 2^n`.
+\[
+N_{\rm micro}(n)=2^n.
+\]
 
-Group strings by Hamming weight `k`, the number of ones. There are `n+1` possible weights:
+Group strings by Hamming weight \(k\), the number of ones. There are \(n+1\) possible weights:
 
-`N_class(n) = n+1`.
+\[
+N_{\rm class}(n)=n+1.
+\]
 
 The class with weight `k` contains:
 
-`|C_k| = binomial(n,k)`.
+\[
+|C_k|=\binom{n}{k}.
+\]
 
 The partition is complete because:
 
-`sum_{k=0}^{n} binomial(n,k) = 2^n`.
+\[
+\sum_{k=0}^{n}\binom{n}{k}=2^n.
+\]
 
 The observation map is:
 
-`Pi(x_1,...,x_n) = sum_i x_i = k`.
+\[
+\Pi(x_1,\ldots,x_n)=\sum_i x_i=k.
+\]
 
 Thus distinct microscopic states can be observationally equivalent:
 
-`X_a != X_b` while `Pi(X_a)=Pi(X_b)`.
+\[
+X_a\ne X_b\quad\text{while}\quad\Pi(X_a)=\Pi(X_b).
+\]
 
-Expansion from class `k` has `binomial(n,k)` compatible microstates. For `n=20`, there are `2^20=1,048,576` microstates and `21` classes; the average class size is `2^20/21 = 49,932.190476...`.
+Expansion from class \(k\) has \(\binom{n}{k}\) compatible microstates. For \(n=20\), there are \(2^{20}=1,048,576\) microstates and \(21\) classes; the average class size is \(2^{20}/21=49,932.190476\ldots\).
 
 ## Assumptions
 
