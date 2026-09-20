@@ -3697,3 +3697,100 @@ Only a property that cannot be obtained without adding an independent assumption
 \]
 
 This is a methodological/foundational result, not yet a physical theory or derivation of quantum gravity.
+
+
+---
+
+## PGA 1.12.0.4 — Persistence Derivation Test from C+T+O
+
+**Objective:** Test the first candidate derived property of the frozen foundation \(C+T+O\): whether persistence of a relational structure can arise without introducing persistence as a fourth axiom.
+
+### Question
+
+Given only
+
+\[
+C_i\xrightarrow{T}C_{i+1}\xrightarrow{O}\text{distinction},
+\]
+
+can we define a structure that remains identifiable across successive transitions, or must persistence be independently added?
+
+### Test construction
+
+Let an observable relational pattern be represented by \(P_i\subset C_i\). A candidate persistence criterion is that a successor pattern \(P_{i+1}\subset C_{i+1}\) can be related to \(P_i\) by a continuity relation induced by the transition:
+
+\[
+P_i \xrightarrow{T} P_{i+1}.
+\]
+
+If the transition law preserves enough relational structure that \(O(P_i)\) and \(O(P_{i+1})\) can be associated as the same evolving pattern, then persistence is obtained as a **derived trajectory property** rather than an additional primitive.
+
+### Result A — C+T alone gives ordered configurations, not necessarily persistence
+
+A sequence
+
+\[
+C_0\rightarrow C_1\rightarrow C_2\rightarrow\cdots
+\]
+
+exists once transitions are defined. But arbitrary \(T\) may replace one pattern with an unrelated pattern at every step. Therefore a mere transition sequence does not guarantee persistence.
+
+### Result B — O enables persistence to be operationally identified
+
+With an observable map \(O\), we can compare successive relational patterns. If an invariant or sufficiently stable relational signature survives the transition, then the sequence can support the statement:
+
+\[
+P_0\sim P_1\sim P_2\cdots
+\]
+
+where \(\sim\) denotes continuity of relational identity under the transition.
+
+Thus \(O\) supplies the means to identify persistence, but does not itself force persistence.
+
+### Result C — Persistence requires a transition-preservation property, not necessarily a new axiom
+
+The key requirement is not “add persistence” but:
+
+\[
+T(P_i)\approx P_{i+1}
+\]
+
+with some transition-preserved relational structure. The specific invariant has not yet been derived. Therefore the current foundation permits persistence, but does not uniquely generate it.
+
+### Boundary result
+
+\[
+\boxed{
+C+T+O\;\text{is sufficient to formulate and test persistence, but is not sufficient to guarantee it for arbitrary }T.
+}
+\]
+
+This distinction is important. Persistence should **not** yet be promoted to a fourth axiom. Instead, the next research problem is to determine whether the intrinsic constraints on \(T\) can produce a preserved relational quantity/signature.
+
+### Implication for the S∞↔B∞ program
+
+A stable particle-like or object-like structure cannot simply be declared persistent. It must arise from a transition trajectory with enough preserved relational structure to make successive configurations observationally identifiable.
+
+The desired chain is therefore:
+
+\[
+C+T+O
+\rightarrow
+\text{transition-preserved relational pattern}
+\rightarrow
+\text{persistence}
+\rightarrow
+\text{stable excitation candidate}.
+\]
+
+### Status
+
+**🟡 PARTIAL DERIVATION / OPEN DYNAMICAL GATE**
+
+Established: persistence can be defined and tested within \(C+T+O\) without immediately adding a fourth axiom.
+
+Not established: that arbitrary or currently unconstrained \(T\) necessarily preserves any relational signature.
+
+### Next gate
+
+Determine whether the S∞↔B∞ foundation can constrain \(T\) enough to produce a nontrivial preserved relational quantity, rather than inserting one by hand.
