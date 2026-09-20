@@ -14,235 +14,38 @@
 - ⚪ **DEFERRED** — intentionally not yet pursued
 - 🛡️ **PROTECTION** — prevents analogy from becoming identification
 
-## Mermaid Master Tree
+# Mermaid Master Tree — RT-002
+
+**Why this version:** the previous graph attached too many branches directly to the root, creating extreme horizontal expansion. This version uses a **vertical research spine** plus smaller vertical detail maps.
+
+## 1. Vertical Master Spine
+
+Follow this diagram from top to bottom. The detailed branches are separated below so the GitHub preview remains readable.
 
 ```mermaid
 flowchart TD
-
-    ROOT["1. S∞ ↔ B∞<br/>LOCALIZED ↔ EXTENDED RELATIONAL"]:::root
-
-    ROOT --> P1["1.1 Original Problem"]:::open
-    ROOT --> S["1.2 S∞<br/>Small Infinity"]:::analogy
-    ROOT --> B["1.3 B∞<br/>Big Infinity"]:::analogy
-    ROOT --> A["1.4 Accommodation / Capacity"]:::analogy
-    ROOT --> R["1.5 Relationality"]:::analogy
-    ROOT --> G["1.6 Geometry / Arrangement"]:::open
-    ROOT --> M["1.7 Manifestation / Representation"]:::open
-    ROOT --> RM["1.8 Relational Mathematics"]:::math
-    ROOT --> EG["1.9 Emergent Geometry"]:::open
-    ROOT --> GR["1.10 Gravity"]:::open
-    ROOT --> TIME["1.11 Time / Ordering"]:::open
-    ROOT --> QM["1.12 Quantum Branch"]:::deferred
-    ROOT --> EM["1.13 EM / GW / Damru"]:::open
-    ROOT --> UNI["1.14 Ultimate Unification"]:::ultimate
-
-    %% 1.1
-    P1 --> P11["1.1.1 Quantum ↔ macroscopic geometry"]:::open
-    P1 --> P12["1.1.2 Localized structure ↔ extended context"]:::open
-    P1 --> P13["1.1.3 One underlying mechanism?"]:::open
-    P1 --> P14["1.1.4 Quantum ↔ gravity"]:::ultimate
-
-    %% 1.4
-    A --> H["1.4.1 Hilbert Hotel"]:::analogy
-    H --> H1["1.4.1.1 Accommodation"]:::pass
-    H --> H2["1.4.1.2 Reconfiguration"]:::pass
-    H --> H3["1.4.1.3 Does not derive physical time"]:::fail
-
-    A --> EL["1.4.2 Elastic accommodation"]:::analogy
-    EL --> EL1["1.4.2.1 Local disturbance"]:::pass
-    EL --> EL2["1.4.2.2 Extended response"]:::pass
-    EL --> EL3["1.4.2.3 Deformation / critical response"]:::open
-
-    A --> CAP["1.4.3 Space as Capacity"]:::open
-    CAP --> CAP1["1.4.3.1 Space not assumed as container"]:::open
-    CAP --> CAP2["1.4.3.2 Capacity for relations"]:::open
-    CAP --> CAP3["1.4.3.3 Physical space emergence"]:::open
-
-    %% 1.5
-    R --> BS["1.5.1 Bead + String"]:::analogy
-    BS --> BS1["Local element ↔ extended support"]:::pass
-
-    R --> MA["1.5.2 Mala"]:::analogy
-    MA --> MA1["Beads + thread relations"]:::pass
-    MA --> MA2["Collective organization"]:::pass
-
-    R --> DNA["1.5.3 DNA / Double Helix"]:::analogy
-    DNA --> DNA1["Constituents + bonds"]:::analogy
-    DNA --> DNA2["Stable arrangement"]:::analogy
-    DNA --> DNA3["Organized geometry"]:::analogy
-
-    R --> RA["1.5.4 Relational arrangement → geometry"]:::open
-    RA --> RA1["Relations"]:::open
-    RA --> RA2["Arrangement"]:::open
-    RA --> RA3["Stable pattern"]:::open
-    RA --> RA4["Geometric interpretation"]:::open
-
-    %% 1.6
-    G --> G1["1.6.1 Geometry is not initially assumed"]:::open
-    G --> G2["1.6.2 Arrangement of relations"]:::open
-    G2 --> G21["1.6.2.1 Local interactions"]:::open
-    G2 --> G22["1.6.2.2 Alignment"]:::open
-    G2 --> G23["1.6.2.3 Surface-like organization"]:::open
-    G2 --> G24["1.6.2.4 Curvature / fold"]:::open
-
-    G --> FOLD["1.6.3 Dimension as Fold"]:::open
-    FOLD --> F1["1.6.3.1 x⁰,x¹,...,xⁿ need not be Cartesian axes"]:::open
-    FOLD --> F2["1.6.3.2 Relational degrees of freedom"]:::open
-    FOLD --> F3["1.6.3.3 Constraint changes arrangement"]:::open
-    FOLD --> F4["1.6.3.4 Effective dimension"]:::open
-
-    G --> MAN["1.6.4 Mandala / Flat Representation"]:::open
-    MAN --> C41["1.6.4.1 Relational arrangement → pattern<br/>CURRENT WORKING DIRECTION"]:::pass
-    MAN --> C42["1.6.4.2 Pattern → 2D / Mandala<br/>★ CURRENT POSITION"]:::current
-    MAN --> C43["1.6.4.3 Complex/higher-dimensional structure → flat representation"]:::open
-    MAN --> C44["1.6.4.4 Boundaries + motion + relations preserved?"]:::open
-
-    G --> BODY["1.6.5 Human-body unfolding analogy"]:::analogy
-    BODY --> BODY1["3D organized structure"]:::analogy
-    BODY --> BODY2["Section / unfold"]:::analogy
-    BODY --> BODY3["Flat representation"]:::analogy
-    BODY --> BODY4["Mandala-like mapping"]:::analogy
-
-    G --> P3D["1.6.6 Perceived / Effective 3D"]:::open
-    P3D --> P31["Underlying relational structure"]:::open
-    P3D --> P32["Accessible relations"]:::open
-    P3D --> P33["Reconstruction"]:::open
-    P3D --> P34["Perceived geometry"]:::open
-
-    %% 1.7
-    M --> CIN["1.7.1 Cinema"]:::analogy
-    CIN --> CIN1["Underlying sequence"]:::analogy
-    CIN --> CIN2["Frames"]:::analogy
-    CIN --> CIN3["Perceived continuity"]:::analogy
-
-    M --> VCR["1.7.2 VCR / Coverage"]:::analogy
-    VCR --> V1["Whole ≠ instantaneous access"]:::open
-    VCR --> V2["Ordered acquisition"]:::open
-    VCR --> V3["Reconstruction"]:::open
-
-    M --> OBS["1.7.3 Observer"]:::open
-    OBS --> OBS1["Physical state"]:::open
-    OBS --> OBS2["Projection / access"]:::open
-    OBS --> OBS3["Representation"]:::open
-    OBS --> FORM["1.7.4 X → π(X) → A(π(X))"]:::math
-
-    %% 1.8
-    RM --> NET["1.8.1 Network model"]:::math
-    NET --> N1["B_N=(V,E)"]:::math
-    NET --> N2["K_ij couplings"]:::math
-    NET --> N3["Relational energy"]:::math
-    NET --> N4["Laplacian response"]:::math
-
-    RM --> STAT["1.8.2 Static response"]:::pass
-    STAT --> ST1["Local forcing → global response"]:::pass
-    STAT --> ST2["Mediated interaction"]:::pass
-
-    RM --> MODES["1.8.3 Collective modes"]:::pass
-    MODES --> MO1["Normal modes"]:::pass
-    MODES --> MO2["Spectral shifts"]:::pass
-
-    RM --> DYN["1.8.4 Dynamic B∞"]:::pass
-    DYN --> DY1["Local disturbance"]:::pass
-    DYN --> DY2["Finite-speed propagation"]:::pass
-    DYN --> DY3["Collective wave"]:::pass
-
-    %% 1.9
-    EG --> EG1["1.9.1 Relational tensor Cⁱʲ"]:::math
-    EG --> EG2["1.9.2 Candidate spatial metric"]:::math
-    EG --> EG3["1.9.3 Geometry from relational energy"]:::math
-    EG --> EG4["1.9.4 Geometry vs propagation"]:::open
-    EG4 --> TESTG["1.9.4.1 g_geometry ?= g_propagation"]:::open
-    EG --> EG5["1.9.5 Physical spacetime"]:::open
-
-    %% 1.10
-    GR --> NEWT["1.10.1 Newtonian scaling"]:::math
-    NEWT --> NR1["1D"]:::math
-    NEWT --> NR2["2D"]:::math
-    NEWT --> NR3["3D ~ 1/r"]:::math
-
-    GR --> SCALAR["1.10.2 Scalar-field route"]:::open
-    SCALAR --> YUK["1.10.2.1 Yukawa"]:::open
-    SCALAR --> L0["1.10.2.2 λ=0"]:::open
-    SCALAR --> L0Q["1.10.2.3 Why λ=0?"]:::open
-
-    GR --> MET["1.10.3 Metric route"]:::open
-    MET --> G00["g₀₀"]:::open
-    MET --> GSP["Spatial metric"]:::open
-    MET --> WF["Weak-field consistency"]:::open
-
-    GR --> GRMAIN["1.10.4 General Relativity"]:::open
-    GRMAIN --> EIN["Einstein tensor"]:::open
-    GRMAIN --> EINEQ["Einstein equation"]:::open
-    GRMAIN --> EINFAIL["Derivation from S∞↔B∞ NOT ACHIEVED"]:::fail
-
-    GR --> SCFAIL["1.10.5 Scalar-conformal branch"]:::fail
-    SCFAIL --> SCFAIL1["Weak-field temporal/spatial sign mismatch"]:::fail
-    SCFAIL --> TENSOR["Tensorial / non-conformal response"]:::open
-
-    %% 1.11
-    TIME --> T1["1.11.1 Hilbert / reconfiguration"]:::open
-    TIME --> T2["1.11.2 Sequential manifestation"]:::open
-    TIME --> T3["1.11.3 VCR ordered coverage"]:::open
-    TIME --> T4["1.11.4 Physical clock problem"]:::open
-    TIME --> T5["1.11.5 Theta / Ramanujan"]:::deferred
-    TIME --> T6["1.11.6 Effective temporal ordering"]:::open
-
-    %% 1.12
-    QM --> Q1["1.12.1 Quantized B∞ modes"]:::deferred
-    QM --> Q2["1.12.2 Collective excitations"]:::deferred
-    QM --> Q3["1.12.3 QZE analogy"]:::analogy
-    QM --> Q4["1.12.4 Compact / topological phase"]:::deferred
-    QM --> Q5["1.12.5 Quantum ↔ geometry"]:::open
-
-    %% 1.13
-    EM --> DAM["1.13.1 Damru"]:::analogy
-    DAM --> DAM1["Local oscillation → extended response"]:::pass
-    DAM --> DAM2["Photon / gravity mechanism"]:::fail
-
-    EM --> EMGW["1.13.2 EM / GW video-audio analogy"]:::analogy
-    EMGW --> E1["EM = video analogy"]:::analogy
-    EMGW --> E2["GW = audio analogy"]:::analogy
-    EMGW --> E3["Common-field mechanism"]:::open
-
-    EM --> CH["1.13.3 Charge / Current"]:::open
-    CH --> CH1["Localized source ↔ extended field/flow"]:::open
-    CH --> CH2["Symmetry → conservation → charge/current?"]:::open
-
-    %% 1.14
-    UNI --> U1["One relational substrate"]:::ultimate
-    UNI --> U2["Quantum manifestation"]:::ultimate
-    UNI --> U3["Geometric manifestation"]:::ultimate
-    UNI --> U4["Propagation / causality"]:::ultimate
-    UNI --> U5["Gravity"]:::ultimate
-    UNI --> U6["Matter / particles"]:::ultimate
-    UNI --> U7["Quantum + gravity from one mechanism"]:::ultimate
-
-    %% Cross-links
-    C42 -.-> P3D
-    C43 -.-> P3D
-    RA -.-> EG
-    EG -.-> TESTG
-    DYN -.-> TESTG
-    FORM -.-> P3D
-    A -.-> R
-    R -.-> G
-    G -.-> EG
-    EG -.-> GR
-
-    %% Protection
-    PROT["🛡️ DERIVE BEFORE IDENTIFY<br/>Do not equate K/C/q with gravity, time, spacetime, particles, charge, etc."]:::guard
-    PROT -.-> ROOT
-    PROT -.-> G
+    R["1. S∞ ↔ B∞<br/>LOCALIZED ↔ EXTENDED RELATIONAL"]:::root
+    R --> P["1.1 ORIGINAL PROBLEM<br/>Quantum ↔ geometry ↔ gravity"]:::open
+    P --> F["1.2–1.4 FOUNDATIONS<br/>S∞ · B∞ · Accommodation / Capacity"]:::analogy
+    F --> REL["1.5 RELATIONALITY<br/>Local elements ↔ extended relations"]:::open
+    REL --> GEO["1.6 GEOMETRY / ARRANGEMENT<br/>Relations → arrangement → pattern"]:::open
+    GEO --> REP["1.7 MANIFESTATION / REPRESENTATION<br/>Access → projection → representation"]:::open
+    REP --> MAT["1.8 RELATIONAL MATHEMATICS<br/>Networks · coupling · response · modes"]:::math
+    MAT --> EG["1.9 EMERGENT GEOMETRY<br/>Relational tensor → candidate metric"]:::open
+    EG --> GR["1.10 GRAVITY<br/>Newtonian limit → metric → GR"]:::open
+    GR --> TIME["1.11 TIME / ORDERING<br/>Ordering ≠ physical time"]:::open
+    TIME --> QM["1.12 QUANTUM BRANCH<br/>Quantized modes / quantum geometry"]:::deferred
+    QM --> EM["1.13 EM / GW / DAMRU<br/>Common relational mechanism?"]:::open
+    EM --> U["1.14 ULTIMATE UNIFICATION<br/>One minimal S∞ ↔ B∞ mechanism"]:::ultimate
+    PROT["🛡️ DERIVE BEFORE IDENTIFY<br/>Analogy → structural claim → math → experiment → audit"]:::guard
+    PROT -.-> R
+    PROT -.-> GEO
     PROT -.-> EG
     PROT -.-> GR
     PROT -.-> TIME
     PROT -.-> QM
     PROT -.-> EM
-
     classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
-    classDef current fill:#ffe680,stroke:#d18b00,stroke-width:4px,color:#111;
-    classDef pass fill:#d9f2d9,stroke:#3b7d3b,stroke-width:2px,color:#111;
-    classDef fail fill:#f8d7da,stroke:#a33,stroke-width:2px,color:#111;
     classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
     classDef math fill:#e5e9ff,stroke:#5969a8,stroke-width:2px,color:#111;
     classDef analogy fill:#eadcf8,stroke:#7952a8,stroke-width:2px,color:#111;
@@ -250,6 +53,187 @@ flowchart TD
     classDef ultimate fill:#d9f0ef,stroke:#287c78,stroke-width:3px,color:#111;
     classDef guard fill:#fff3cd,stroke:#9a6b00,stroke-width:4px,color:#111;
 ```
+
+## 2. Geometry / Current Research Position
+
+**Current research coordinate: `1.6.4.2`**
+
+```text
+1.6 Geometry
+  ↓
+1.6.1 Geometry not initially assumed
+  ↓
+1.6.2 Arrangement of relations
+  ↓
+1.6.3 Dimension as Fold
+  ↓
+1.6.4 Mandala / Flat Representation
+  ↓
+★ 1.6.4.2 Pattern → 2D / Mandala  ← CURRENT
+  ↓
+1.6.4.3 Complex / higher-dimensional structure → flat representation
+  ↓
+1.6.4.4 Boundaries + motion + relations preserved?
+  ↓
+1.6.6 Perceived / Effective 3D
+```
+
+### Geometry detail map
+
+```mermaid
+flowchart TD
+    G["1.6 GEOMETRY / ARRANGEMENT"]:::open
+    G --> A["1.6.1 Geometry not initially assumed"]:::open
+    A --> A1["Relations"]:::open
+    A1 --> A2["Arrangement"]:::open
+    A2 --> A3["Stable pattern"]:::open
+    A3 --> A4["Geometric interpretation?"]:::open
+    G --> B["1.6.2 Arrangement of relations"]:::open
+    B --> B1["Local interactions"]:::open
+    B1 --> B2["Alignment"]:::open
+    B2 --> B3["Surface-like organization"]:::open
+    B3 --> B4["Curvature / fold"]:::open
+    G --> C["1.6.3 Dimension as Fold"]:::open
+    C --> C1["Relational degrees of freedom"]:::open
+    C1 --> C2["Constraint changes arrangement"]:::open
+    C2 --> C3["Effective dimension"]:::open
+    G --> D["1.6.4 MANDALA / FLAT REPRESENTATION"]:::open
+    D --> D1["1.6.4.1 Relational arrangement → pattern"]:::pass
+    D1 --> D2["1.6.4.2 PATTERN → 2D / MANDALA ★ CURRENT"]:::current
+    D2 --> D3["1.6.4.3 Complex / higher-dimensional → flat"]:::open
+    D3 --> D4["1.6.4.4 Boundaries + motion + relations preserved?"]:::open
+    G --> E["1.6.5 Human-body unfolding analogy"]:::analogy
+    E --> E1["3D structure → section / unfold"]:::analogy
+    E1 --> E2["Flat representation → mandala-like mapping"]:::analogy
+    G --> F["1.6.6 Perceived / Effective 3D"]:::open
+    F --> F1["Underlying relational structure"]:::open
+    F1 --> F2["Accessible relations"]:::open
+    F2 --> F3["Reconstruction"]:::open
+    F3 --> F4["Perceived geometry"]:::open
+    D2 -.-> F
+    classDef current fill:#ffe680,stroke:#d18b00,stroke-width:4px,color:#111;
+    classDef pass fill:#d9f2d9,stroke:#3b7d3b,stroke-width:2px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+    classDef analogy fill:#eadcf8,stroke:#7952a8,stroke-width:2px,color:#111;
+```
+
+### Current test
+
+> **Can an organized relational structure be represented as a 2D pattern without losing the relations that matter?**
+
+The immediate test is not whether a mandala proves physical space. The test is whether flattening/unfolding preserves identifiable relational information, boundaries, connectivity, ordering, symmetry, or other invariants.
+
+## 3. Relational Mathematics → Emergent Geometry → Gravity
+
+```mermaid
+flowchart TD
+    RM["1.8 RELATIONAL MATHEMATICS"]:::math
+    RM --> N["1.8.1 Network model"]:::math
+    N --> N1["B_N=(V,E)"]:::math
+    N1 --> N2["Kᵢⱼ couplings"]:::math
+    N2 --> N3["Relational energy"]:::math
+    N3 --> N4["Laplacian response"]:::math
+    RM --> S["1.8.2 Static response"]:::pass
+    S --> S1["Local forcing → distributed response"]:::pass
+    S1 --> S2["Mediated interaction"]:::pass
+    RM --> M["1.8.3 Collective modes"]:::pass
+    M --> M1["Normal modes"]:::pass
+    M1 --> M2["Spectral shifts"]:::pass
+    RM --> DY["1.8.4 Dynamic B∞"]:::pass
+    DY --> DY1["Local disturbance → finite-speed propagation"]:::pass
+    DY1 --> DY2["Collective wave"]:::pass
+    RM --> EG["1.9 EMERGENT GEOMETRY"]:::open
+    EG --> E1["Relational tensor Cⁱʲ"]:::math
+    E1 --> E2["Candidate spatial metric"]:::math
+    E2 --> E3["Geometry from relational energy"]:::math
+    E3 --> E4["Geometry vs propagation"]:::open
+    E4 --> TEST["g_geometry ?= g_propagation"]:::open
+    TEST --> E5["Physical spacetime"]:::open
+    EG --> GR["1.10 GRAVITY"]:::open
+    GR --> G1["Newtonian scaling: 3D ~ 1/r"]:::math
+    G1 --> G2["Why does λ = 0 arise?"]:::open
+    GR --> G3["Metric route: g₀₀ + spatial metric"]:::open
+    G3 --> G4["Weak-field consistency"]:::open
+    GR --> G5["General Relativity"]:::open
+    G5 --> G6["Einstein tensor / equation"]:::open
+    G6 --> FAIL["Derivation from S∞ ↔ B∞ NOT ACHIEVED"]:::fail
+    GR --> SC["Scalar-conformal branch"]:::fail
+    SC --> SC1["Weak-field temporal/spatial sign mismatch"]:::fail
+    SC1 --> T["Tensorial / non-conformal response"]:::open
+    DY -.-> TEST
+    classDef pass fill:#d9f2d9,stroke:#3b7d3b,stroke-width:2px,color:#111;
+    classDef fail fill:#f8d7da,stroke:#a33,stroke-width:2px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+    classDef math fill:#e5e9ff,stroke:#5969a8,stroke-width:2px,color:#111;
+```
+
+## 4. Manifestation → Time → Quantum → EM/GW
+
+```mermaid
+flowchart TD
+    M["1.7 MANIFESTATION / REPRESENTATION"]:::open
+    M --> C["Cinema"]:::analogy
+    C --> C1["Sequence → frames → perceived continuity"]:::analogy
+    M --> V["VCR / Coverage"]:::analogy
+    V --> V1["Whole ≠ instantaneous access"]:::open
+    V1 --> V2["Ordered acquisition → reconstruction"]:::open
+    M --> O["Observer"]:::open
+    O --> O1["Physical state → projection / access → representation"]:::open
+    O --> O2["X → π(X) → A(π(X))"]:::math
+    M --> T["1.11 TIME / ORDERING"]:::open
+    T --> T1["Reconfiguration / sequential manifestation"]:::open
+    T1 --> T2["Ordering ≠ physical time"]:::fail
+    T2 --> T3["Physical clock problem"]:::open
+    T --> T4["Theta / Ramanujan"]:::deferred
+    T --> Q["1.12 QUANTUM BRANCH"]:::deferred
+    Q --> Q1["Quantized B∞ modes / collective excitations"]:::deferred
+    Q --> Q2["QZE analogy"]:::analogy
+    Q --> Q3["Compact / topological phase"]:::deferred
+    Q --> Q4["Quantum ↔ geometry"]:::open
+    Q --> EM["1.13 EM / GW / DAMRU"]:::open
+    EM --> D["Damru: local oscillation → extended response"]:::pass
+    D --> D1["Photon / gravity mechanism"]:::fail
+    EM --> E["EM / GW video-audio analogy"]:::analogy
+    E --> E1["Common-field mechanism"]:::open
+    EM --> CH["Charge / Current"]:::open
+    CH --> CH1["Localized source ↔ extended field / flow"]:::open
+    CH1 --> CH2["Symmetry → conservation → charge/current?"]:::open
+    classDef pass fill:#d9f2d9,stroke:#3b7d3b,stroke-width:2px,color:#111;
+    classDef fail fill:#f8d7da,stroke:#a33,stroke-width:2px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+    classDef math fill:#e5e9ff,stroke:#5969a8,stroke-width:2px,color:#111;
+    classDef analogy fill:#eadcf8,stroke:#7952a8,stroke-width:2px,color:#111;
+    classDef deferred fill:#eeeeee,stroke:#888,stroke-width:2px,color:#111;
+```
+
+## 5. Ultimate Research Gate
+
+```mermaid
+flowchart TD
+    A["S∞ ↔ B∞"]:::root
+    A --> B["Relations"]:::open
+    B --> C["Arrangement"]:::open
+    C --> D["Pattern"]:::open
+    D --> E["Geometry"]:::open
+    E --> F["Representation / effective dimension"]:::open
+    E --> G["Propagation"]:::open
+    F --> H["Physical spacetime?"]:::open
+    G --> H
+    H --> I["Gravity / quantum / matter?"]:::ultimate
+    I --> J["ONE MINIMAL MECHANISM?"]:::ultimate
+    J --> K["Can multiple independently tested phenomena be explained without adding a separate mechanism for each one?"]:::guard
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+    classDef ultimate fill:#d9f0ef,stroke:#287c78,stroke-width:3px,color:#111;
+    classDef guard fill:#fff3cd,stroke:#9a6b00,stroke-width:4px,color:#111;
+```
+
+## RT-002 Change Record
+
+- **Presentation:** one wide graph → one vertical master spine + four focused vertical maps.
+- **Readability:** major branches now expand downward instead of spreading across the screen.
+- **Research status:** unchanged; no pass/fail/open result was altered.
+- **Current coordinate:** remains **1.6.4.2 — Pattern → 2D / Mandala Representation**.
 
 ## Pass / Fail / Open Dashboard
 
