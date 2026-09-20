@@ -6803,3 +6803,54 @@ The key criterion is:
 \quad\text{rather than assume it.}
 }
 \]
+
+
+## F — PGA 1.12.4.12: Relational Binding / String Formation Test
+
+**Objective:** Test whether distinguishable elements can form one persistent higher-level collective entity through relational binding/ordering, without requiring identical or synchronized internal states.
+
+### Question
+\[
+\boxed{\text{What relational structure binds distinguishable elements into one persistent higher-level entity?}}
+\]
+
+Represent elements as nodes \(V\), relations as edges \(E\), and the relational object as \(G=(V,E)\).
+
+Compare: (A) unbound \(E=\varnothing\); (B) a connected chain \(1-2-3-\cdots-N\); (C) dynamically forming links. A connected component can define a candidate group when its active relations persist over successive updates.
+
+### Cinema/reel interpretation
+A sequence \(F_1-F_2-F_3-\cdots-F_N\) contains distinguishable frames while persistent ordering makes the sequence one higher-level relational object. Therefore:
+\[
+\boxed{\text{individual distinction}+\text{persistent relational ordering}\rightarrow\text{collective identity}}
+\]
+This is different from synchronization: binding does not require equal internal states.
+
+### Result
+A connected relational structure can define a collective unit while constituents remain distinguishable:
+\[
+\boxed{\text{persistent connectivity}\rightarrow\text{candidate collective entity}}
+\]
+But dynamic edge formation requires an additional transition rule. Therefore:
+\[
+\boxed{C+T+O\text{ alone does not yet determine dynamic binding formation.}}
+\]
+
+### S∞ ↔ B∞ lead
+A possible hierarchy is:
+\[
+S_\infty\rightarrow\text{many distinguishable relational elements}\rightarrow\text{binding/ordering}\rightarrow\text{persistent collective entities}\rightarrow\text{collective response}\rightarrow B_\infty.
+\]
+Synchronization may then be a secondary collective phenomenon rather than the definition of a group.
+
+### Boundary
+This does **not** establish physical string theory, that spacetime is a string/reel, or that binding is fundamental. The cinema analogy is a structural analogy only.
+
+### Status
+**🟢 STRUCTURAL LEAD:** collective identity can be represented by persistent relational connectivity without synchronized internal state.
+
+**🔴 OPEN:** derive the binding/link-formation law from the foundational relational transition structure.
+
+### Next lead
+\[
+\boxed{\text{Can persistent relational binding emerge locally without predefining the links?}}
+\]
