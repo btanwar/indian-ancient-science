@@ -10322,3 +10322,293 @@ The key question is:
 \]
 
 If not, the branch has precisely located the missing ingredient rather than inventing one.
+
+
+## W — PGA 1.12.4.29: Transition-Selection Test for Relation Formation
+
+**Objective:** Determine whether any already-retained structural principle selects interaction-producing microscopic transitions over factorized/non-interacting transitions, without adding a new axiom merely to obtain relation formation.
+
+### 1. Question
+
+PGA 1.12.4.28 established:
+
+\[
+\text{independent state}
+\rightarrow
+\text{local interaction}
+\rightarrow
+\text{non-factorizable state}
+\]
+
+as a viable mechanism.
+
+But an equally valid class is:
+
+\[
+T=T_i\times T_j
+\]
+
+which preserves factorization.
+
+The decisive question is:
+
+\[
+\boxed{
+\text{Do the existing structural requirements eliminate the factorized transition class?}
+}
+\]
+
+### 2. Candidate transition classes
+
+Consider four representative classes:
+
+**A. Factorized transition**
+
+\[
+T=T_i\times T_j
+\]
+
+No cross-dependence is generated.
+
+**B. Reversible mixing transition**
+
+\[
+T(s_i,s_j)=M(s_i,s_j)
+\]
+
+with \(M\) invertible.
+
+This can mix variables, but invertibility alone does not guarantee persistent correlation.
+
+**C. Correlation-generating transition**
+
+\[
+T(s_i,s_j)
+\]
+
+depends jointly on the pair and drives the system toward relational dependence.
+
+**D. Agreement-seeking transition**
+
+A special subclass of C that explicitly reduces relational differences.
+
+The test is whether the previously retained principles uniquely eliminate A and select C/D.
+
+### 3. Closure test
+
+All four classes can be constructed to map allowed configurations into allowed configurations:
+
+\[
+C\in\mathcal C\Rightarrow T(C)\in\mathcal C.
+\]
+
+Therefore closure does not select interaction.
+
+\[
+\boxed{\text{closure}\not\Rightarrow\text{relation formation}}
+\]
+
+### 4. Locality test
+
+A factorized transition can be completely local:
+
+\[
+T_i:T_i\text{ acts only on }i,
+\qquad
+T_j:T_j\text{ acts only on }j.
+\]
+
+A joint transition on neighbouring \(i,j\) can also be local.
+
+Therefore:
+
+\[
+\boxed{\text{locality}\not\Rightarrow\text{interaction}}
+\]
+
+Locality limits where an update acts; it does not determine whether the update couples the local degrees of freedom.
+
+### 5. Reversibility test
+
+Both factorized and mixing maps can be invertible.
+
+Therefore:
+
+\[
+\boxed{\text{reversibility}\not\Rightarrow\text{interaction}}
+\]
+
+and, importantly:
+
+\[
+\boxed{\text{interaction}\not\Rightarrow\text{synchronization}}
+\]
+
+because reversible mixing can preserve information without producing an attracting coherent state.
+
+### 6. Composition/path-consistency test
+
+Independent local maps can compose consistently:
+
+\[
+T_iT_j=T_jT_i
+\]
+
+when they act on separate degrees of freedom.
+
+Joint maps can also be composed consistently, while some joint maps can be non-commuting.
+
+Thus composition and path consistency do not uniquely select cross-dependence.
+
+\[
+\boxed{
+\text{composition/path consistency}
+\not\Rightarrow
+\text{interaction}
+}
+\]
+
+### 7. Relational/relabeling invariance test
+
+A factorized system can be written entirely in relational variables, and a coupled system can also preserve the same descriptive redundancy.
+
+Therefore representation invariance does not by itself force dynamical coupling.
+
+\[
+\boxed{
+\text{relabeling invariance}
+\not\Rightarrow
+\text{interaction}
+}
+\]
+
+### 8. Persistence/stability test
+
+Persistence is more restrictive, but the present foundation does not yet define a unique persistence criterion.
+
+A factorized system can contain persistent independent modes.
+
+A coupled system can contain persistent collective modes.
+
+Therefore persistence alone does not select interaction.
+
+### 9. Result
+
+The tested retained principles do **not** eliminate the factorized transition class.
+
+The current result is:
+
+\[
+\boxed{
+\begin{aligned}
+&C+T+O\\
+&+\text{closure}\\
+&+\text{locality}\\
+&+\text{reversibility}\\
+&+\text{composition/path consistency}\\
+&+\text{relabeling invariance}\\
+&+\text{persistence}
+\end{aligned}
+\not\Rightarrow
+\text{interaction-producing }T
+}
+\]
+
+This is a significant negative result.
+
+### 10. What this means for S∞
+
+We have now localized the S∞ bottleneck more sharply:
+
+\[
+\boxed{
+\text{The current relational axioms describe how relations may evolve, but do not yet explain why independent microscopic degrees of freedom must become relationally coupled.}
+}
+\]
+
+Therefore we should **not** add “interaction” as an axiom merely to rescue the architecture.
+
+The scientifically cleaner alternatives are:
+
+1. derive interaction from a deeper S∞ principle not yet tested;
+2. accept interaction as an additional explicit foundational postulate and label it honestly;
+3. explore whether the meaning of “independent microscopic degrees of freedom” is itself inappropriate for S∞.
+
+### 11. New conceptual lead
+
+Option 3 is particularly important.
+
+If S∞ is fundamentally relational, perhaps:
+
+\[
+S_i\times S_j
+\]
+
+is not the correct primitive starting point.
+
+The actual microscopic configuration may already be a relational configuration:
+
+\[
+\boxed{
+S_{ij}
+}
+\]
+
+and “independent objects” may be a coarse-grained approximation that appears only after relations become weak or negligible.
+
+This reverses the direction of the previous assumption:
+
+\[
+\text{independent objects}\rightarrow\text{relations}
+\]
+
+becomes potentially:
+
+\[
+\boxed{
+\text{primitive relation}
+\rightarrow
+\text{apparently independent objects}
+}
+\]
+
+This is a major conceptual branch, not yet a result.
+
+### 12. S∞ ↔ B∞ implication
+
+The candidate architecture can therefore be reformulated as:
+
+\[
+\boxed{
+\text{primitive relational S∞}
+\rightarrow
+q_{ij}
+\rightarrow
+\text{collective B∞ behaviour}
+}
+\]
+
+rather than requiring S∞ to begin as a collection of independent particles that later somehow discover relations.
+
+### 13. Status
+
+**🟢 NEGATIVE RESULT:** the currently retained structural principles do not force interaction-producing transitions.
+
+**🟢 BOTTLENECK ISOLATED:** relation formation requires either a deeper principle or a different primitive conception of microscopic state.
+
+**🟡 NEW LEAD:** investigate whether relationality is primitive and apparent independence is emergent, rather than trying to derive relations from independent objects.
+
+**🔴 NOT DERIVED:** no new axiom is added at this stage.
+
+### 14. Next decisive question
+
+Test the reversed assumption:
+
+\[
+\boxed{
+\text{Can a primitive relational configuration }S_{ij}
+\text{ naturally produce approximately independent effective subsystems?}
+}
+\]
+
+If yes, the S∞ branch may not need to explain “how independent things become related.” Instead, it may explain how **relations produce the appearance of independent things**, which could be a much cleaner microscopic foundation for the B∞ emergence chain.
