@@ -10,7 +10,7 @@ This line preserves the consolidated Hilbert-hotel / bead-string / mala / sugar-
 Can a localized structure S∞ interacting with an extended relational structure B∞ produce accommodation, propagation, altered relational distances, ordered dynamical change, collective modes, and eventually effective geometry?
 
 Current candidate chain:
-`S∞ → B∞ response → ΔK / relational change → {quantum modes, propagation, effective geometry?}`
+S∞ → B∞ response → ΔK / relational change → {quantum modes, propagation, effective geometry?}
 
 Question marks are intentional. Physical spacetime, GR, charge, electromagnetism, and thermodynamics are NOT established.
 
@@ -33,9 +33,14 @@ Question marks are intentional. Physical spacetime, GR, charge, electromagnetism
 - 04_RESEARCH_PROGRAM.md
 - 05_EXPERIMENTS_AND_RESULTS.md
 - 06_THEORY_PROTECTION_AND_AUDIT.md
+- 07_PGA_CURRENT_RESEARCH_STATE_2026-09-20.md — current continuation and research checkpoint
 
 ## Current checkpoint
-Preserve the distinction between `local configuration → relational response → collective behavior` and the much stronger unproven claim `local configuration → spacetime geometry → GR`.
+The branch has progressed from Hilbert-hotel accommodation → relational network → response → mediated interaction toward the candidate chain S∞ → relational deformation → effective metric → causal propagation.
+
+The latest work adds a coupled K deformation model, a continuum energy route toward a candidate spatial metric, a dynamic K response equation, and a finite-speed propagation test.
+
+These remain TOY/HYPOTHESIS-level results. The decisive unresolved tests are consistency of geometry and propagation metrics, derivation of the unscreened λ=0 regime, the Newtonian weak-field limit including coefficient G, continuum/boundary robustness, and a consistent quantum limit.
 
 ## Provenance
-Migrated from the earlier S∞ ↔ B∞ repository record into the clean `indian-ancient-science` repository. Content is preserved as exploratory research record; migration does not imply physical validation.
+Migrated from the earlier S∞ ↔ B∞ repository record into the clean indian-ancient-science repository. Content is preserved as exploratory research record; migration does not imply physical validation.
