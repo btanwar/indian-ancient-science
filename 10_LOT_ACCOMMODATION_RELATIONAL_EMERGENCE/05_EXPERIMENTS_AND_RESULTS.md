@@ -1371,3 +1371,210 @@ The final arrow remains unproven.
 **PGA 1.12.1.7 — Dynamical Scale-Fixing Test**
 
 Test whether the compact relational dynamics itself can fix (I/T), or an equivalent dimensionful action scale, from internal dimensionless structure rather than treating (I) and (T) as freely rescalable parameters.
+
+
+---
+
+## PGA 1.12.1.7 — Dynamical Scale-Fixing Test
+
+**Research Tree Node:** 1.12.1 — Quantized B∞ Modes  
+**Objective:** Test whether the compact relational construction of PGA 1.12.1.6 can internally fix the dimensional action scale, rather than leaving (I/T) as a freely adjustable parameter.
+
+### Starting point
+
+PGA 1.12.1.6 produced compact phase sectors
+
+[
+	hetasim	heta+2pi,
+qquad ninmathbb Z
+]
+
+with action
+
+[
+S_n=rac{2pi^2I}{T}n^2.
+]
+
+The integer (n) is dimensionless and discrete, but the scale
+
+[
+S_0=rac{2pi^2I}{T}
+]
+
+remains dimensional.
+
+The present test asks whether the same compact dynamics determines (I/T).
+
+### Rescaling test
+
+Consider
+
+[
+S[	heta;I,T]
+=
+int_0^T
+rac{I}{2}dot	heta^2,dt.
+]
+
+Apply a simultaneous scale transformation
+
+[
+tightarrow a t,
+qquad
+Iightarrow aI.
+]
+
+The dimensionless winding number (n) is unchanged, while
+
+[
+rac{I}{T}ightarrow
+rac{aI}{aT}
+=
+rac{I}{T}.
+]
+
+Thus this particular simultaneous transformation leaves the action-sector scale unchanged.
+
+However, the more important independent parameter transformation is
+
+[
+Iightarrow bI
+]
+
+with the phase dynamics otherwise unchanged. Then
+
+[
+S_nightarrow bS_n.
+]
+
+Likewise, changing the time normalization changes the dimensional action scale unless another independent relational principle fixes that normalization.
+
+### Result A — Topology does not fix the absolute scale
+
+The compact topology fixes
+
+[
+ninmathbb Z
+]
+
+but does not fix (I/T).
+
+Therefore:
+
+[
+oxed{
+	ext{topological discreteness}
+
+eq
+	ext{absolute action-scale determination}
+}
+]
+
+### Result B — Dimensionless internal structure is insufficient by itself
+
+Suppose the compact relational model contains only dimensionless quantities such as
+
+[
+n,quad 2pi,quad
+	ext{mode ratios},quad
+	ext{connectivity ratios}.
+]
+
+These can determine dimensionless numbers, but they cannot by themselves determine a quantity with dimensions of action unless the model contains an independently fixed dimensional scale.
+
+Therefore a dimensionful universal action constant requires one of the following to emerge from the deeper S∞↔B∞ dynamics:
+
+- an independently fixed energy scale and time scale;
+- a dynamically fixed action normalization;
+- a dimensional invariant associated with the relational substrate;
+- or an equivalent mechanism that removes the remaining rescaling freedom.
+
+### Critical audit
+
+The test therefore closes one possible shortcut.
+
+We cannot argue:
+
+[
+	ext{compact phase}
+ightarrow
+	ext{integer winding}
+ightarrow
+hbar
+]
+
+without an additional scale-fixing mechanism.
+
+What survives is:
+
+[
+oxed{
+	ext{compact relational structure can provide discreteness, but topology alone does not provide the universal action scale.}
+}
+]
+
+### Status
+
+**🔴 FAILS AS A COMPLETE (hbar)-EMERGENCE MECHANISM / 🟢 SURVIVES AS A TOPOLOGICAL DISCRETENESS MECHANISM**
+
+This is a useful negative result because it identifies the missing ingredient more precisely.
+
+### Cross-branch implication
+
+The action-scale problem cannot be solved by the quantum branch in isolation if (I/T) remains an externally chosen normalization.
+
+The stronger research question is now:
+
+[
+oxed{
+S_inftyleftrightarrow B_infty
+ightarrow
+	ext{relational dynamics}
+ightarrow
+	ext{independent length/energy/time scales}
+ightarrow
+	ext{action scale}
+}
+]
+
+This connects directly with the unresolved scale problem in the 1.12.2 causal branch.
+
+The previously established result there was:
+
+[
+c_R=
+rac{	ext{relational distance}}
+{	ext{relational duration}}
+]
+
+but the two quantities were measured in the same substrate units.
+
+Thus the two branches now share a common unresolved question:
+
+[
+oxed{
+	ext{Can S∞↔B∞ generate independent physical scales rather than only dimensionless relational ratios?}
+}
+]
+
+### Protection
+
+Do not identify:
+
+[
+S_0=hbar
+]
+
+or
+
+[
+n=	ext{quantum number}
+]
+
+unless an independent derivation establishes the physical correspondence.
+
+### Next substantive gate
+
+The next PGA should therefore test whether the **relational substrate itself contains a dynamically selected dimensional scale**, rather than adding one through (I), (T), lattice spacing, or normalization.
+
+**Next node: PGA 1.12.1.8 — Intrinsic Relational Scale / Dimensionful-Invariant Test.**
