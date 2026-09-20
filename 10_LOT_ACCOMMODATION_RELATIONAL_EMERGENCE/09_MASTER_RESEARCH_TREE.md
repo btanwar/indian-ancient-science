@@ -408,4 +408,32 @@ Every substantive PGA should identify:
 **Current example:**
 **PGA 1.6.4.2.1** — Test whether a relational pattern can be represented in 2D while preserving the relevant relational invariants.
 
-This numbering is part of the research-control system and should be used consistently in future research records, experiments, audits, prompts, and chat exports.
+This numbering is part of the research-control system and should be used consistently in future research records, experiments, audits, prompts, and chat exports. 
+
+## PGA 1.12.2.4 — Information Coverage / Boundary Interaction
+
+The current branch now explicitly separates:
+
+1. **Propagation:** the causal/information-arrival limit.
+2. **Coverage:** which parts of a physical boundary have become accessible.
+3. **Reconstruction:** the coarse-grained object/frame inferred from acquired relational information.
+
+A toy boundary test showed that identical propagation speed can produce different coverage histories for different boundary geometries. Therefore coverage rate is not itself a universal c-like constant.
+
+A logical reconstruction test further showed that the same coverage fraction can leave multiple underlying configurations indistinguishable when the unobserved region contains the distinguishing information.
+
+The active hypothesis is now:
+
+S∞ ↔ B∞ → relational excitation/propagation → boundary interaction → information distribution → coverage → coarse-grained reconstruction.
+
+This does not yet derive photons, physical c, or spacetime.
+
+**Current node: 1.12.2.5 — Observer-Coverage / Reconstruction Invariance Test**
+
+### RT-005 Change Record
+
+- **PGA 1.12.2.4 completed.**
+- Coverage-rate = c interpretation rejected.
+- Propagation-limit versus coverage distinction established.
+- Photon/boundary/information/coarse-graining line restored as an active hypothesis.
+- Next node: **PGA 1.12.2.5**.
