@@ -3556,3 +3556,144 @@ The next gate should therefore be more constructive:
 \]
 
 That question should be answered before selecting a particular physical interaction law.
+
+---
+
+## PGA 1.12.0.3 — Foundational Combination Matrix Test
+
+**Objective:** Freeze the current three foundational axioms as the working basis and systematically test their combinations before introducing any fourth foundational axiom.
+
+### Frozen working axioms
+
+\[
+A_1:C=\text{relational configuration}
+\]
+\[
+A_2:T:C_i\rightarrow C_{i+1}=\text{allowed transition}
+\]
+\[
+A_3:O=\text{observable distinction/map}
+\]
+
+The present test does not attempt to reduce these axioms further. Any question about whether entities, relations, states, or observables are themselves emergent is explicitly deferred to later work.
+
+### Combination matrix
+
+| Combination | Structural capability tested | Result |
+|---|---|---|
+| \(C\) | A relational configuration by itself | **🟢 necessary description / 🔴 no dynamics** |
+| \(T\) | Transition without a specified configuration domain | **🔴 incomplete** |
+| \(O\) | Observation/distinction without a configuration to distinguish | **🔴 incomplete** |
+| \(C+T\) | Relational dynamics | **🟢 coherent minimal dynamical structure** |
+| \(C+O\) | Distinguishable configurations | **🟡 static descriptive structure; no dynamics** |
+| \(T+O\) | Transition plus observation | **🔴 incomplete without a configuration/state domain** |
+| \(C+T+O\) | Dynamical relational system with observable distinction | **🟢 first complete working structure** |
+
+### Test A — C alone
+
+\(C\) establishes that a relational configuration exists as the state on which the theory operates. But with no transition operator there is no defined change:
+
+\[
+C\not\Rightarrow C'.
+\]
+
+Therefore C alone is foundational but not a physical dynamics.
+
+### Test B — C + T
+
+\[
+C_i\xrightarrow{T}C_{i+1}
+\]
+
+This is the smallest combination that supports change. It can represent relational reconfiguration and an ordered sequence of configurations. It does not yet tell us what can be observed, nor does it establish a physical interpretation of the sequence.
+
+**Result:** 🟢 minimal relational dynamics.
+
+### Test C — C + O
+
+\[
+C\xrightarrow{O}\text{distinction/information}
+\]
+
+This can distinguish configurations, but without T it is static. It cannot by itself provide evolution, propagation, or causal ordering.
+
+**Result:** 🟡 useful descriptive layer, not dynamics.
+
+### Test D — T + O
+
+A transition must act on some configuration/state space. Observation must also refer to a state or transition outcome. Therefore T+O without C is not a complete theory specification.
+
+**Result:** 🔴 incomplete.
+
+### Test E — C + T + O
+
+\[
+C_i\xrightarrow{T}C_{i+1}\xrightarrow{O}\text{distinguishable result}
+\]
+
+This is the first combination that contains:
+
+- a state/configuration,
+- change between configurations,
+- and a route from the underlying process to observable distinction.
+
+**Result:** 🟢 **current minimum complete working structure.**
+
+### What this test establishes
+
+The matrix does **not** prove that C, T, and O are ultimately the only fundamental axioms of nature. It establishes a disciplined working foundation for this research branch:
+
+\[
+\boxed{C+T+O}
+\]
+
+is the minimum combination currently required to represent a relational process that can both change and produce distinguishable outcomes.
+
+The important methodological boundary is:
+
+\[
+\boxed{\text{Do not introduce a fourth axiom until C+T+O has been tested for its derived consequences.}}
+\]
+
+### What remains open
+
+The matrix does not yet derive:
+
+- locality,
+- conservation,
+- symmetry,
+- reversibility,
+- stability,
+- persistence,
+- finite propagation,
+- quantum behaviour,
+- geometry,
+- gravity.
+
+These remain candidate **derived properties or later structural additions**, not current axioms.
+
+### Research consequence
+
+The next phase should no longer ask whether we can invent arbitrary larger relational structures. It should ask what **C+T+O necessarily produces** when T is constrained only by the currently accepted foundation.
+
+Therefore the next gate is:
+
+\[
+\boxed{
+C+T+O
+\rightarrow
+\text{derived properties}
+}
+\]
+
+Only a property that cannot be obtained without adding an independent assumption should be considered for promotion to a fourth axiom.
+
+### Status
+
+**🟢 FOUNDATIONAL WORKING STRUCTURE ESTABLISHED**
+
+\[
+\boxed{C+T+O=\text{current minimum complete relational framework}}
+\]
+
+This is a methodological/foundational result, not yet a physical theory or derivation of quantum gravity.
