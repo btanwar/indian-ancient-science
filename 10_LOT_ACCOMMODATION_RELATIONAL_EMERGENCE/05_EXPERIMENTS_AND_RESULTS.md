@@ -6220,3 +6220,204 @@ The next experiment should therefore combine the three ingredients now identifie
 and test whether a stable collective group can **emerge spontaneously** from an initially ungrouped relational system, without preselecting which elements belong together.
 
 If such groups form reproducibly from the same local transition rule, that would provide a substantially stronger lead for the S∞↔B∞ individual-to-collective bridge.
+
+
+## E — PGA 1.12.4.9: Spontaneous Coherent-Group Formation Test
+
+**Research Tree Node:** 1.12.4 — Quantum-to-Geometry Bridge  
+**PGA:** 1.12.4.9  
+**Objective:** Test whether an initially ungrouped relational system can spontaneously develop coherent subsets under one common local interaction rule, and whether those subsets can be identified without preselecting group membership.
+
+### 1. Test design
+
+Use (N=60) phase-like relational degrees of freedom arranged on a ring.
+
+Each element starts with:
+
+- a random phase;
+- a small randomly distributed intrinsic frequency.
+
+No group membership is specified.
+
+Each element interacts only with its two neighbours through the same local phase-difference rule:
+
+[
+dot	heta_i=
+omega_i+
+rac{kappa}{2}
+left[
+sin(	heta_{i+1}-	heta_i)
++
+sin(	heta_{i-1}-	heta_i)
+ight].
+]
+
+This is a standard synchronization toy mechanism. It is **not** claimed to be the fundamental S∞ transition law.
+
+The test compares (kappa=0) with increasing interaction strength.
+
+### 2. Result A — no coupling
+
+With (kappa=0), the system remains essentially unorganized.
+
+Across 10 random initializations:
+
+- mean global phase coherence (Rapprox0.127);
+- mean fraction of locally phase-coherent neighbour links (approx0.095);
+- mean largest coherent run (approx1.2) elements.
+
+No persistent macroscopic group is selected.
+
+### 3. Result B — common local coupling
+
+As the same local rule is strengthened, coherent subsets emerge without specifying their membership in advance.
+
+Representative averages over 10 initializations were:
+
+| Coupling (kappa) | Global coherence (R) | Coherent-edge fraction | Largest coherent run |
+|---:|---:|---:|---:|
+| 0 | 0.127 | 0.095 | 1.2 |
+| 0.5 | 0.190 | 0.342 | 3.7 |
+| 1.0 | 0.311 | 0.503 | 7.9 |
+| 2.0 | 0.366 | 0.662 | 17.2 |
+| 4.0 | 0.325 | 0.787 | 37.4 |
+
+The precise numbers vary with initialization, but the structural trend is clear in this toy model: increasing local interaction produces increasingly large coherent subsets.
+
+### Result A
+
+[
+oxed{
+	ext{same local interaction rule}
++
+	ext{initially ungrouped elements}
+ightarrow
+	ext{emergent coherent subsets}
+}
+]
+
+No group labels were supplied.
+
+### 4. Representative group structure
+
+For one representative (kappa=2) realization, the final state contained coherent runs of approximately:
+
+[
+5,quad14,quad8,quad21
+]
+
+elements under the selected local phase-coherence criterion.
+
+The resulting groups were therefore not defined beforehand; they were identified from the evolved relational state.
+
+This provides a concrete toy realization of the phrase:
+
+> "A part of the many-element relational system begins behaving as a group."
+
+### 5. Critical audit
+
+This is an important positive mechanism result, but it must not be overinterpreted.
+
+The experiment demonstrates a well-known class of synchronization behaviour in a deliberately chosen coupled-oscillator model.
+
+It does **not** derive:
+
+- the coupling rule from (S_inftyleftrightarrow B_infty);
+- why the universe should use phase oscillators;
+- why the coupling strength has the tested value;
+- quantum mechanics;
+- spacetime;
+- gravity.
+
+Therefore:
+
+[
+oxed{
+	ext{spontaneous group formation is demonstrated in the toy dynamics}
+}
+]
+
+but
+
+[
+oxed{
+	ext{fundamental group formation from }S_inftyleftrightarrow B_infty
+	ext{ remains open}
+}
+]
+
+### 6. New conceptual result
+
+The previous PGAs established that:
+
+[
+	ext{correlation}
+eq	ext{group}
+]
+
+and
+
+[
+	ext{coupling}
+eq	ext{synchronization}.
+]
+
+This experiment now demonstrates the complete toy chain:
+
+[
+oxed{
+	ext{local coupling}
+ightarrow
+	ext{phase coherence}
+ightarrow
+	ext{spontaneous coherent subsets}
+}
+]
+
+The group can therefore be treated as an **emergent dynamical pattern**, rather than a primitive object.
+
+### 7. Connection to the S∞ → B∞ idea
+
+This gives a concrete candidate interpretation of the transition from multiplicity to collective behaviour:
+
+[
+S_infty
+ightarrow
+	ext{many local relations}
+ightarrow
+	ext{local interaction}
+ightarrow
+	ext{coherence}
+ightarrow
+	ext{collective groups}
+ightarrow
+	ext{collective response}
+ightarrow
+B_infty.
+]
+
+This is still a candidate architecture, not a physical derivation.
+
+### 8. Status
+
+**🟢 SURVIVES AS A MECHANISM:** identical local interaction rules can produce coherent groups without predefining the groups.
+
+**🟢 NEW LEAD:** group formation can be operationalized as an emergent coherence transition.
+
+**🔴 NOT DERIVED:** the local interaction/coupling rule itself from the foundational S∞↔B∞ structure.
+
+### 9. Next decisive question
+
+The key next test is no longer merely whether synchronization can happen.
+
+It is:
+
+[
+oxed{
+	ext{Can the coupling/synchronization rule be generated from the relational transition structure itself?}
+}
+]
+
+A stronger test should therefore start with the minimal relational ingredients (C,T,O), impose no oscillator-specific synchronization equation, and search for a transition law whose repeated local application naturally creates coherent subsets.
+
+If that succeeds, the group-formation mechanism moves one level closer to being a consequence of the proposed relational architecture rather than an imported toy mechanism.
