@@ -2,7 +2,7 @@
 # S∞ ↔ B∞ — Visual Master Research Tree
 
 **Canonical visual map:** RT-001  
-**Current node:** 🟡 **1.12.2.4 — Independent Relational Space/Time Scale and Observer-Clock Consistency Test**
+**Current integrated research position:** 🟡 **PGA 1.12.2.9 completed — relational modes → quantum-state boundary; next gate returns to PGA 1.12.1.5 action-scale problem**
 
 ## Legend
 
@@ -561,3 +561,73 @@ Only after this reconstruction layer is controlled should the branch return to t
 reconstructability ≠ geometry ≠ time ≠ c.
 
 This audit prevents individual reconstruction successes from silently becoming a derivation of physical c or spacetime.
+
+
+---
+
+## Integrated Cross-Branch Record — PGA 1.12.2.8 and 1.12.2.9
+
+### PGA 1.12.2.8 — Integrated Relational Dynamics Test
+
+The same relational substrate was used to test effective spectral structure and local propagation.
+
+**Result:** one relational coupling structure produced stable effective regional organization (baseline ARI = 1.00) and, using the same graph, a finite causal propagation front.
+
+**Status:** 🟢 structural toy result.
+
+**Protection:** the regional structure was deliberately encoded in the microscopic coupling pattern. The result therefore demonstrates common-mechanism compatibility, not spontaneous physical-object formation.
+
+### PGA 1.12.2.9 — Relational Mode → Quantum-State Structure Test
+
+The collective modes of the same relational dynamics were examined as precursors to quantum state structure.
+
+The model naturally provides:
+
+[
+Ku_n=\lambda_nu_n,
+qquad
+x(t)=\sum_n q_n(t)u_n
+]
+
+together with classical phase-space and Hamiltonian structure.
+
+**Result:** collective modes, linear mode space, classical superposition, and Hamiltonian dynamics arise naturally at the toy-model level.
+
+**Boundary:** \(\hbar\), Hilbert-space structure, quantum commutation relations, Born probabilities, and quantum measurement remain externally supplied or un-derived.
+
+**Status:** 🟡 boundary result.
+
+### Combined significance
+
+The two PGAs support the following controlled structural chain:
+
+[
+S_\infty\leftrightarrow B_\infty
+\rightarrow
+\text{relational dynamics}
+\rightarrow
+\begin{cases}
+\text{effective structure}\\
+\text{causal propagation}\\
+\text{collective modes}
+\end{cases}
+]
+
+They do **not** establish quantum mechanics, physical spacetime, gravity, or physical (c).
+
+### Next substantive gate
+
+The unresolved quantum gate returns to **PGA 1.12.1.5 — Relational action-scale audit**:
+
+[
+\boxed{
+\text{Can an internal relational invariant generate a discrete action/phase scale without inserting }\hbar?
+}
+]
+
+### RT-007 Change Record
+
+- **PGA 1.12.2.8 preserved:** common relational substrate simultaneously carrying effective structure, spectral organization, and causal propagation.
+- **PGA 1.12.2.9 preserved:** relational collective modes reach a classical phase-space/Hamiltonian boundary but do not derive quantum state structure.
+- **Cross-branch dependency recorded:** the 1.12.2 results now feed the quantum action-scale gate rather than creating a separate quantum mechanism.
+- **Research protection preserved:** collective mode ≠ quantum state; causal propagation ≠ physical c; effective structure ≠ particle.
