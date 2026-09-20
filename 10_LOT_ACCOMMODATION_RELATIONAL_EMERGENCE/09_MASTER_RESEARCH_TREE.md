@@ -654,3 +654,139 @@ A methodological clarification has been added: physical-unit calibration is a la
 This applies particularly to PGA 1.12.1.6 (discrete sectors), PGA 1.12.1.9 (interaction ordering/candidate clock), and PGA 1.12.1.10 (internal relational universality).
 
 The clarification does not change experiment results; it changes the interpretation hierarchy.
+
+
+---
+
+## RT-009 — Fundamental Correction: Infinite Substrate as Relational Reconfiguration, Not Empty Rooms
+
+**Reason for correction:** Historical review of the Hilbert Hotel line, together with physical analogies such as dissolution of sugar in water and electron/hole complementarity in semiconductor systems, exposed an overly literal interpretation of the Hilbert Hotel example in the recent 1.12.1 discussion.
+
+### Correct interpretation
+
+The Hilbert Hotel example was useful for demonstrating that an infinite arrangement can accommodate an additional element through reorganization. However, the **rooms must not be treated as physical substrate cells or empty slots**.
+
+The deeper hypothesis under investigation is:
+
+[
+oxed{
+S_inftyleftrightarrow B_infty
+ightarrow
+	ext{relational reconfiguration}
+}
+]
+
+rather than:
+
+[
+	ext{new object}ightarrow	ext{empty physical room}.
+]
+
+An effective object/excitation may correspond to a new stable relational configuration of the same underlying substrate.
+
+Represent this schematically as:
+
+[
+B_infty(C)ightarrow B_infty(C').
+]
+
+### Physical intuition retained
+
+Examples that motivate the correction:
+
+- **Sugar dissolving in water:** the relevant change is a redistribution/reconfiguration of molecular relations, not the occupation of a pre-existing “sugar room.”
+- **Electron/hole systems:** a hole is an effective relational description of an electronic configuration; it is not a new empty container that must be physically occupied.
+- **Hilbert Hotel:** retain the mathematical lesson of accommodation through infinite reorganization, but do not literalize the rooms.
+
+These examples are analogical motivation, not claims that the S∞↔B∞ mechanism has already been demonstrated by them.
+
+### Exact research question to reinvestigate
+
+Before deriving phase increments, clocks, (hbar), or physical units, investigate:
+
+[
+oxed{
+	extbf{What constitutes an elementary relational reconfiguration of }S_inftyleftrightarrow B_infty	extbf{?}
+}
+]
+
+The test should begin with:
+
+1. an initial relational configuration (C_0);
+2. the S∞↔B∞ interaction rule;
+3. the resulting configuration (C_1);
+4. the invariant/change between (C_0) and (C_1);
+5. repeated evolution
+   [
+   C_0ightarrow C_1ightarrow C_2ightarrowcdots;
+   ]
+6. whether the resulting change can support, without separately inserting them:
+   - ordering,
+   - propagation,
+   - phase,
+   - information transfer,
+   - stable effective excitations.
+
+### Dependency correction
+
+The intended research dependency is now:
+
+[
+oxed{
+	ext{relational reconfiguration}
+ightarrow
+	ext{interaction ordering}
+ightarrow
+	ext{phase / propagation}
+ightarrow
+	ext{stable excitation}
+ightarrow
+	ext{observable reconstruction}
+ightarrow
+	ext{physical calibration}
+}
+]
+
+This supersedes the overly shallow immediate sequence:
+
+[
+	ext{assume update rule}ightarrowphi.
+]
+
+Therefore the previously proposed **PGA 1.12.1.13 — Relational Update-Law Selection Test** is superseded by:
+
+[
+oxed{	extbf{PGA 1.12.1.13 — Elementary Relational Reconfiguration Test}}
+]
+
+### Important interpretation rule for future reviewers
+
+Do **not** read the Hilbert Hotel analogy as claiming that B∞ is an infinite set of physical rooms or that every particle requires an unused substrate slot.
+
+The research question is instead whether an unlimited relational substrate can accommodate additional or transformed effective structures through **reconfiguration of relations**.
+
+Also do not infer from the sugar/water or semiconductor analogies that they prove S∞↔B∞. They are physical intuition for the distinction between **occupying a location** and **changing a relational configuration**.
+
+### Relation to previous PGAs
+
+This correction does not invalidate the numerical results of PGA 1.12.1.6, 1.12.1.9, 1.12.1.11, or 1.12.1.12. It changes their dependency interpretation:
+
+- PGA 1.12.1.6 demonstrates compact-phase discreteness **within an assumed compact relational degree of freedom**.
+- PGA 1.12.1.9 demonstrates interaction ordering as a candidate relational clock **within an assumed interaction/update sequence**.
+- PGA 1.12.1.11 integrates interaction count with compact phase.
+- PGA 1.12.1.12 shows how phase increment can be extracted once a relational update law exists.
+
+The deeper missing layer is now explicitly identified as:
+
+[
+oxed{
+S_inftyleftrightarrow B_infty
+ightarrow
+	ext{elementary relational reconfiguration}
+}
+]
+
+This is the level that must be investigated next.
+
+**Research principle:**  
+> **Do not confuse the representation of accommodation (Hilbert Hotel rooms) with the physical mechanism of accommodation (relational reconfiguration).**
