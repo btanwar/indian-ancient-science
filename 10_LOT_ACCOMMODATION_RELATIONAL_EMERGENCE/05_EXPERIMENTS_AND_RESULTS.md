@@ -9387,3 +9387,124 @@ The central unresolved question is now sharply localized:
 \]
 
 That is the bottleneck to attack before adding more downstream physics.
+
+
+## Branch Architecture Note — S∞ Role Parked, B∞ Focus Preserved — 2026-09-20
+
+The branch audit identified an important asymmetry in the current development.
+
+The recent 1.12.4 sequence has primarily explored the **B∞ / collective-side role**:
+
+\[
+\text{multiplicity}
+\rightarrow
+\text{binding}
+\rightarrow
+\text{collective behaviour}
+\rightarrow
+\text{field-like response}
+\rightarrow
+\text{effective geometry}
+\rightarrow
+\text{curvature}.
+\]
+
+The **S∞ / small-infinity role has not yet been developed with comparable depth**.
+
+This is now explicitly recognized as an open branch rather than being silently absorbed into the B∞ interpretation.
+
+### Current working separation
+
+For the moment, preserve:
+
+\[
+\boxed{
+S_\infty = \text{microscopic / local relational side}
+}
+\]
+
+\[
+\boxed{
+B_\infty = \text{collective / large-scale accommodation-response side}
+}
+\]
+
+This is a **working research distinction**, not a final physical identification.
+
+### What remains to investigate for S∞
+
+The future S∞ branch must determine what the “small infinity” contributes to the transition:
+
+- Is S∞ the source of elementary relational change?
+- Does it possess an intrinsic internal relational structure?
+- Does it generate the elementary \(q_{ij}\) relation?
+- Is it the carrier of phase, identity, excitation, or information?
+- Does an S∞ unit interact with B∞ through a specific accommodation rule?
+- Can the microscopic side explain why groups form rather than merely receiving a pre-existing B∞ collective response?
+- How does the S∞ description produce the collective variables that later appear as B∞ behaviour?
+
+The key future question is:
+
+\[
+\boxed{
+\text{What does S}_\infty\text{ contribute that B}_\infty\text{ cannot provide by itself?}
+}
+\]
+
+### Parked status
+
+This question is intentionally **parked**, not closed.
+
+The present B∞ work may continue to the next substantive test, but every future interpretation must preserve the dependency:
+
+\[
+\boxed{
+S_\infty
+\leftrightarrow
+B_\infty
+}
+\]
+
+rather than silently replacing the pair with a B∞-only theory.
+
+### Research protection
+
+Do not currently identify:
+
+\[
+S_\infty=\text{particle}
+\]
+
+or:
+
+\[
+S_\infty=\text{quantum object}
+\]
+
+without a dedicated test.
+
+Likewise do not identify:
+
+\[
+B_\infty=\text{spacetime}
+\]
+
+or:
+
+\[
+B_\infty=\text{gravity}.
+\]
+
+The working distinction is organizational and hypothesis-generating.
+
+### Immediate continuation
+
+The B∞ collective branch may proceed to:
+
+\[
+\boxed{
+\text{PGA 1.12.4.25 — Single Relational Variable Test}
+}
+\]
+
+while the S∞ role is preserved as a parked dependency to be opened as a dedicated future branch/test sequence.
