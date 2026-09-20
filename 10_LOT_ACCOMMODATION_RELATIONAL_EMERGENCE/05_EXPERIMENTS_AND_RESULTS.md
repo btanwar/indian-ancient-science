@@ -1803,3 +1803,279 @@ Both currently reach the same boundary:
 ]
 
 **Next substantive gate:** search for an internally selected scale through nonlinear relational dynamics rather than through normalization.
+
+
+---
+
+## PGA 1.12.1.9 — Interaction-Count Clock / Intrinsic Action-Ratio Test
+
+**Historical reconciliation:** Earlier research had already proposed that the basic number/order of fundamental relational interactions could act as the emergent clock. Historical PGA-118R explicitly replaced the externally supplied simulation time with an interaction count and asked whether the same microscopic rule could generate both transition dynamics and the emergent clock. Historical PGA-117R had also shown that ΔE/ω was not universal when coupling and simulation-time dynamics were independently varied. This PGA therefore tests the more specific proposal rather than repeating the old nonlinear test.
+
+### Objective
+
+Replace externally supplied physical time by an elementary interaction count and ask:
+
+[
+N=	ext{number of fundamental relational updates}
+]
+
+Can the same microscopic interaction rule provide:
+
+1. transition energy;
+2. phase/frequency per interaction;
+3. propagation duration in interaction count;
+
+such that an action-like ratio becomes structurally invariant?
+
+### Construction
+
+Let one elementary relational interaction carry a dimensionless phase advance
+
+[
+Delta	heta=phi
+]
+
+and let a transition involving (N_E) elementary relational changes carry energy
+
+[
+Delta E=N_Eepsilon,
+]
+
+where (epsilon) is the energy associated with one elementary relational change.
+
+Define emergent interaction time only after the dynamics have been generated:
+
+[
+t_{m eff}=N	au_*,
+]
+
+where (	au_*) is a possible coarse-graining conversion from event count to physical duration.
+
+The phase after (N) updates is
+
+[
+Theta=Nphi.
+]
+
+Therefore the frequency measured with respect to emergent time is
+
+[
+omega_{m eff}
+=
+rac{phi}{	au_*}.
+]
+
+An action-like ratio becomes
+
+[
+rac{Delta E}{omega_{m eff}}
+=
+rac{N_Eepsilon,	au_*}{phi}.
+]
+
+### Result A — External simulation time can be removed
+
+The phase evolution can be formulated entirely in terms of ordered interaction events:
+
+[
+N=0,1,2,ldots
+]
+
+before assigning seconds.
+
+Thus the previous objection to an externally supplied simulation clock is addressed at the structural level.
+
+[
+oxed{
+	ext{interaction ordering can serve as a candidate primitive clock variable}
+}
+]
+
+This is consistent with the earlier PGA-118R hypothesis.
+
+### Result B — An action-like quantity can be formed from the same microscopic rule
+
+If the same elementary rule determines (epsilon), (phi), and the interaction-to-duration conversion, then
+
+[
+A_* sim rac{epsilon	au_*}{phi}
+]
+
+is a natural action-like scale.
+
+This is more integrated than PGA-117R, where the energy and propagation dynamics were partly independently parameterized.
+
+### Result C — But dimensional scale is still not derived
+
+The transformation
+
+[
+epsilonightarrow aepsilon
+]
+
+changes
+
+[
+A_*ightarrow aA_*
+]
+
+while leaving the interaction count, topology, ordering, and dimensionless phase increment unchanged.
+
+Likewise,
+
+[
+	au_*ightarrow b	au_*
+]
+
+changes the dimensional action scale while leaving the event sequence unchanged.
+
+Therefore the event-count clock removes the need to **assume physical time at the microscopic level**, but it does not by itself determine the conversion
+
+[
+Nightarrow	ext{seconds}
+]
+
+or
+
+[
+epsilonightarrow	ext{joules}.
+]
+
+Hence:
+
+[
+oxed{
+	ext{interaction count can generate an ordering/clock candidate}
+}
+]
+
+but not yet:
+
+[
+oxed{
+	ext{a universal physical time unit or }hbar
+}
+]
+
+### Result D — Important refinement of the previous scale problem
+
+The historical experiments now fit together more cleanly:
+
+[
+	ext{nonlinearity}
+ightarrow
+	ext{localization}
+]
+
+but not quantization;
+
+[
+	ext{topology/compactness}
+ightarrow
+	ext{discrete sectors}
+]
+
+but not absolute action scale;
+
+[
+Delta E+	ext{propagating mode}
+ightarrow
+omega
+]
+
+but historical PGA-117R found (Delta E/omega) changed with independently varied coupling;
+
+[
+	ext{interaction count}
+ightarrow
+	ext{candidate emergent clock}
+]
+
+removes one source of arbitrariness, but still does not fix dimensional calibration.
+
+### Status
+
+**🟡 PARTIAL / IMPORTANT STRUCTURAL RESULT**
+
+Survives:
+
+[
+oxed{
+	ext{fundamental interaction ordering}
+ightarrow
+	ext{candidate emergent clock}
+}
+]
+
+and potentially:
+
+[
+oxed{
+	ext{same microscopic rule}
+ightarrow
+	ext{energy + phase advance + propagation ordering}
+}
+]
+
+Not derived:
+
+[
+oxed{hbar}
+]
+
+[
+oxed{1 {m interaction}ightarrow{m fixed physical duration}}
+]
+
+[
+oxed{1 {m relational energy}ightarrow{m fixed physical energy}}
+]
+
+### Cross-branch significance
+
+This result connects three previously separate branches:
+
+[
+	ext{interaction count}
+ightarrow
+	ext{emergent ordering/time}
+]
+
+[
+	ext{interaction count + propagation}
+ightarrow
+	ext{candidate }c
+]
+
+[
+	ext{interaction count + transition energy + phase}
+ightarrow
+	ext{candidate action scale}
+]
+
+So the deeper target is now:
+
+[
+oxed{
+	ext{one microscopic relational event rule}
+ightarrow
+egin{cases}
+	ext{clock}\
+	ext{propagation}\
+	ext{energy}\
+	ext{phase}\
+	ext{action scale}
+end{cases}}
+]
+
+The remaining problem is whether one such rule can **dynamically select the dimensional calibration**, rather than merely provide a dimensionless event framework.
+
+### Protection
+
+Do not identify the interaction count with physical time, the interaction rate with frequency in hertz, or (A_*) with (hbar) until an independent dimensional calibration and physical observable are derived.
+
+### Next substantive gate
+
+The next test should not simply repeat nonlinear dynamics. It should test whether **the same relational event rule can make the energy, phase advance, and propagation clock co-vary so that their dimensionless ratios remain invariant across different relational configurations**.
+
+**Next node: PGA 1.12.1.10 — Common-Rule Universality Test.**
