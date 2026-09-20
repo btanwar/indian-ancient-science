@@ -209,3 +209,18 @@ Overall: ACTIVE / EXPLORATORY / HIGH-BAR.
 What has survived: a coherent family of controlled toy mechanisms linking local disturbance, relational response, collective modes, long-range response, and candidate geometry.
 
 What remains unproven: physical ontology, unique coupling law, emergent Lorentzian metric, Newtonian coefficient, Einstein dynamics, and a consistent quantum limit.
+## 20. PGA 1.6.4.2.1 — First 2D representation test
+
+### Objective
+Test whether a simple flattening of an organized 3D relational structure can preserve its relational information.
+
+### Toy result
+A 3 × 3 × 3 nearest-neighbour relational lattice was projected from (x,y,z) to (x,y). The 27 nodes collapsed to 9 positions; 27 node-pairs became indistinguishable; and projected 2D adjacency inferred 108 relations versus 54 true 3D nearest-neighbour relations.
+
+### Audit
+The naive projection therefore fails as an information-preserving representation. This is a useful **negative result**, because it identifies a concrete requirement for the mandala/flat-representation branch: the representation must carry additional structure if it is to preserve the relations that matter.
+
+This does not disprove 2D representation in general and does not establish any physical dimensional-emergence mechanism.
+
+### Next PGA
+**PGA 1.6.4.2.2** — test a structured unfolding/flattening that deliberately preserves selected invariants such as connectivity and boundary structure.
