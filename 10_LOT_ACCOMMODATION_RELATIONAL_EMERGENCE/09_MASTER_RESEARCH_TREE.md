@@ -451,3 +451,113 @@ propagation → boundary interaction → partial information → local reconstru
 The next question is whether increasing information coverage produces a stable coarse-grained equivalence class, beyond which additional microscopic information no longer changes the observable object/frame.
 
 **Current node: 1.12.2.6 — Coverage Threshold / Equivalence-Class Stability Test.**
+
+
+## RT-006 — Complete Audit of Branch 1.12.2
+
+**Audit scope:** Branch 1.12.2 — Observable Reconstruction / Time / Causal Ordering, including the historical 1.12.2.1 synthesis and PGA 1.12.2.2–1.12.2.5.
+
+### Audit conclusion
+
+The complete branch is conceptually related, but it is not only a time branch. Its actual chain is:
+
+relational accessibility → information propagation → coverage → reconstruction → causal ordering → operational duration/distance → candidate universal propagation limit.
+
+This is coherent because the later c/time questions depend on the earlier information-acquisition layer. However, reconstruction results must not be treated as direct evidence for physical time or c.
+
+### Two linked layers
+
+**Layer A — Observable reconstruction**
+
+propagation → information → coverage → coarse-grained object/frame.
+
+**Layer B — Causal/temporal structure**
+
+local update → causal cone → distance/duration → candidate c.
+
+Layer A supplies the operational meaning of information available to an observer. Layer B asks whether propagation has a universal physical scale.
+
+### Node audit
+
+| Node | Actual question | Status |
+|---|---|---|
+| 1.12.2.1 | Can information acquisition/coverage support reconstruction? | 🟢/🟡 historical toy framework |
+| PGA 1.12.2.2 | What survives the framing/coverage/ordering/emergent-c audit? | 🟡 partial; time/c remain open |
+| PGA 1.12.2.3 | Can a causal cone exist without primitive metric/time/c? | 🟢 toy result |
+| PGA 1.12.2.4 | Is coverage itself c? | 🔴 identification rejected; 🟢 structural result |
+| PGA 1.12.2.5 | Can different partial observations be compatible? | 🟢 limited toy result; stronger form open |
+
+### Core surviving chain
+
+S∞ ↔ B∞ → local relational change → propagation → boundary interaction → information acquisition → coverage → coarse-grained reconstruction.
+
+Then:
+
+reconstructed state → causal ordering → operational duration/distance → candidate propagation invariant.
+
+### Critical separations established
+
+propagation ≠ coverage ≠ reconstruction ≠ physical time.
+
+The branch does not establish:
+- object = coarse-graining;
+- c = information rate;
+- c = coverage rate;
+- photon = observer;
+- causal order = physical time;
+- finite propagation = Lorentz invariance.
+
+### PGA 1.12.2.5 correction
+
+The three-observer experiment is weaker than initially stated because all observers were given complementary sectors generated from the same known underlying configuration. Compatibility is therefore partly built into the construction.
+
+Proper status: **🟢 limited toy compatibility result**, not observer-independent object reconstruction.
+
+### Branch-level status
+
+- information acquisition → reconstruction: 🟢 toy
+- partial coverage → partial reconstruction: 🟢 toy
+- compatible partial descriptions: 🟢 limited toy
+- local causal precedence: 🟢 toy
+- finite causal propagation: 🟢 toy
+- metric-free causal cone: 🟢 toy
+- coverage rate = c: 🔴 rejected
+- universal physical c: 🔴 not derived
+- continuous physical time: 🔴 not derived
+- observer-independent temporal scale: 🔴 not derived
+- Lorentz invariance: 🔴 not derived
+- Lorentzian spacetime: 🔴 not derived
+
+### Revised architecture
+
+1.12.2 Observable Reconstruction / Information / Causality
+  ├── 1.12.2.1 Historical information-acquisition synthesis
+  ├── 1.12.2.2 Branch audit
+  ├── 1.12.2.3 Metric-free causal propagation
+  ├── 1.12.2.4 Boundary information / coverage
+  ├── 1.12.2.5 Observer-coverage compatibility
+  └── 1.12.2.6 Coverage threshold / equivalence-class stability
+
+### Next decisive test
+
+**PGA 1.12.2.6 — Coverage Threshold / Equivalence-Class Stability Test**
+
+Generate multiple microscopic relational configurations, make some observationally indistinguishable under limited coverage, increase coverage systematically, and measure when the coarse-grained observable class becomes stable under additional microscopic information.
+
+Use the observation map A_C and test:
+
+X_a ~_C X_b iff A_C(X_a) = A_C(X_b).
+
+Then test whether there is a stable regime:
+
+A_(C+ΔC)(X) ≈ A_C(X).
+
+Repeat across observer paths, sampling patterns, and coarse-graining resolutions.
+
+Only after this reconstruction layer is controlled should the branch return to the physical-scale question: what independent mechanism supplies distance and duration?
+
+### RT-006 protection
+
+reconstructability ≠ geometry ≠ time ≠ c.
+
+This audit prevents individual reconstruction successes from silently becoming a derivation of physical c or spacetime.
