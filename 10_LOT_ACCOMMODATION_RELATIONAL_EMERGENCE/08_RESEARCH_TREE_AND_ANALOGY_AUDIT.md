@@ -17,12 +17,19 @@
         │                      │                        │
   Hilbert Hotel          Bead + String              Cinema / VCR
         │                 Mala / Network                  │
+        │                 Charge / Current                 │
         ▼                      ▼                         ▼
   existing structure    local element +          underlying whole
   accommodates new      relational support       → ordered access?
         │                      │                         │
         └──────────────┬───────┴──────────────┬──────────┘
                        │                      │
+                       ▼                      │
+              SPACE / CAPACITY              │
+                       │                      │
+              FOLD / CONSTRAINT              │
+                       │                      │
+              PERCEIVED DIMENSION            │
                        ▼                      ▼
                  B∞ RESPONSE             ORDER / ACCESS
                        │                      │
@@ -92,7 +99,11 @@ flowchart TB
     S --> M["🟣 MANIFESTATION / ACCESS"]
 
     A --> H["🟣 Hilbert Hotel<br/>Infinite accommodation"]
+    A --> CAP["🟣 Space as capacity / accommodation"]
+    CAP --> FOLD["🟣 Fold / constraint<br/>capacity without pre-given axes"]
+    FOLD --> DIM["🟡 Perceived dimension<br/>relations seen without x,y,z axes"]
     R --> BS["🟣 Bead + String<br/>Local ↔ extended support"]
+    R --> CC["🟣 Charge / Current<br/>localized source ↔ extended field/flow"]
     R --> MA["🟣 Mala<br/>Beads + relations"]
     A --> EL["🟣 Elastic accommodation<br/>Responsive background"]
     A --> SW["🟣 Sugar + Water<br/>Distributed influence"]
@@ -104,6 +115,7 @@ flowchart TB
 
     H --> AC["🟢 Accommodation<br/>Concept survives"]
     BS --> LR["🟢 Local → Global Response"]
+    CC --> FI["🟡 Field / flow structure<br/>derive before identifying charge/current"]
     MA --> CM["🟢 Collective Modes"]
     EL --> RR["🟢 Relational Response"]
     SW --> DI["🟢 Distributed Influence"]
@@ -180,14 +192,152 @@ flowchart TB
 |---|---|---|---|---|
 | 🏨 Hilbert Hotel | Accommodation/reconfiguration | (C_0\to C_1\to...\), finite response | 🟢/🟡 | Starting point for S∞ ↔ B∞ |
 | 📿 Bead + String | Local ↔ extended relation | (B_N=(V,E,K)), (L_Kx=J) | 🟢 | Local → global response |
-| 📿 Mala | Relations organize collective behavior | Graph Laplacian / spectrum | 🟢 | Collective modes |
-| 🥛 Sugar + Water | Local identity + distributed influence | Green-function/source response | 🟢/🟡 | Distributed influence |
+| 📿 Mala | Relations organize collective behavior | Graph Laplacian / spectrum | 🟢 | Collective modes; also illustrates structure perceived from relations |\n| 🧬 DNA / Double Helix | Ordered relations produce an apparent organized geometry | Relational reconstruction / structure-from-relations | 🟣 ANALOGY | Shows how geometry/shape can be perceived from constituent relations without assigning primitive helix axes |
+| 🥛 Sugar + Water | Local identity + distributed influence | Green-function/source response | 🟢/🟡 | Distributed influence |\n| ⚡ Charge / Current | Localized source ↔ extended field/flow | Source-field / gauge-like relational branch | 🟡 OPEN | Test whether charge/current-like structures can arise; no identification allowed |
 | 🪢 Elasticity | Background accommodates disturbance | (\delta x=-K^{-1}J) | 🟢 | Responsive B∞ |
 | 🥁 Damru | Local oscillation → extended wave | (M\ddot x+Kx=J(t)) | 🟢/🟡 | Propagation |
 | 🎬 Cinema | Whole → ordered manifestation | Configuration sequence | 🟡 | Time/access question |
 | 📼 VCR | Whole ≠ instantaneous access | Projection/access idea | 🟡 | Observation/access |
 | 👁️ QZE | Interaction changes accessible evolution | Quantum branch | 🟡 | Possible QM connection |
 | 🎥🔊 EM/GW | Multiple channels from one event | Coupled-field model needed | 🟡 | Potential unification branch |
+
+## 1C. Perceived 3D Geometry — Dimension as Fold / Relational Appearance
+
+This branch must be preserved as a **distinct historical idea**, because it is different from the conventional statement that the underlying substrate is physically embedded in ordinary 3D Euclidean space with primitive coordinates \((x,y,z)\).
+
+### Original observation
+
+The research question was:
+
+> **Do we necessarily have to assume that an underlying structure is intrinsically 3-dimensional with primitive x, y, z axes, if what we actually observe is only the relationships among its elements?**
+
+The proposed alternative is:
+
+\[
+x^0,x^1,x^2,\ldots,x^n
+\]
+
+may denote elements, states, degrees of freedom, or ordered relational positions rather than pre-existing Cartesian coordinates.
+
+What an observer calls **3D geometry** may then be a reconstruction or perception of the relations among those elements.
+
+### Core distinction
+
+\[
+\boxed{
+\text{underlying relational structure}
+\neq
+\text{necessarily an embedded Cartesian space}
+}
+\]
+
+and potentially:
+
+\[
+\boxed{
+\text{observed 3D geometry}
+=
+\text{reconstruction of relational structure}
+}
+\]
+
+This is the **perceived/emergent 3D geometry** hypothesis. It must not be silently upgraded into the claim that physical space is proven to be emergent.
+
+### The fold idea
+
+A central intuition was that a **dimension can be thought of as a fold/constraint in relational organization**.
+
+A fold does not necessarily add a new Cartesian axis. It can create additional effective capacity or a new apparent direction of separation by changing how relationships are organized.
+
+This connects directly to the existing **A008 Space as Capacity / Accommodation** analogy, whose mapping explicitly includes:
+
+- accommodation capacity,
+- fold / constraint,
+- dimensionality as independent accommodations/relations.
+
+A008 remains OPEN and does not yet derive physical dimension. The present S∞ ↔ B∞ branch should therefore treat the fold idea as a hypothesis to be tested, not as an established result.
+
+### DNA example
+
+DNA is a useful conceptual example because we normally describe the molecule as a **double helix**, but the microscopic constituents are atoms/bonds/chemical relations. The double-helical shape is a structural organization reconstructed from those relationships; the molecular description does not require us to regard an abstract list of constituent elements as already carrying a primitive "helix coordinate system".
+
+The analogy is therefore:
+
+\[
+\text{elements + relations}
+\rightarrow
+\text{organized structure}
+\rightarrow
+\text{perceived geometry}
+\]
+
+not:
+
+\[
+\text{DNA proves emergent physical space}.
+\]
+
+This remains an analogy.
+
+### Mala example
+
+The same idea appears in the mala analogy:
+
+\[
+\text{beads} + \text{thread relations}
+\rightarrow
+\text{mala structure}.
+\]
+
+The beads themselves are discrete elements. The **mala** is the perceived organized structure arising from their arrangement and connectivity.
+
+Again, the point is not that a mala proves emergent dimension. The point is that **structure can be perceived from relations without separately assigning a geometric coordinate system to every relational element**.
+
+### Why this matters for S∞ ↔ B∞
+
+This gives the S∞ ↔ B∞ branch an important alternative to the assumption:
+
+\[
+B_\infty \equiv \mathbb R^3.
+\]
+
+Instead, we can investigate:
+
+\[
+B_\infty
+=
+\text{relational structure}
+\]
+
+and ask whether:
+
+\[
+\mathcal R(B_\infty)
+\rightarrow
+\text{effective / perceived geometry}.
+\]
+
+The existing geometry experiments therefore become tests of **reconstruction from relations**, rather than evidence that the underlying B∞ was originally a 3D manifold.
+
+### Historical status
+
+- **Conceptual insight:** survives as a research premise.
+- **A008 space-as-capacity:** OPEN.
+- **Generic relational networks:** already tested; they do not automatically select 3D.
+- **Geometry reconstruction:** already tested in several toy forms.
+- **Physical emergence of exactly 3 dimensions:** NOT established.
+- **DNA / mala examples:** analogy only.
+- **Next requirement:** identify a non-arbitrary relational principle that selects the observed dimensionality or effective 3D behaviour.
+
+### Critical protection
+
+We must keep three statements separate:
+
+1. **A relational structure can be represented without primitive Cartesian coordinates.**
+2. **An observer can reconstruct an effective geometry from relations.**
+3. **Physical 3D space itself emerges from S∞ ↔ B∞.**
+
+The first is a modelling choice, the second is testable in toy models, and the third remains an open physical hypothesis.
 
 ## 1C. Pass / Fail / Open Inventory
 
@@ -220,7 +370,7 @@ u}) does **not** reproduce the required GR weak-field temporal/spatial sign rela
 - Return to cinema/VCR/observation and formulate a falsifiable access/ordering model.
 - Return to Damru/EM/GW only after a quantitative common-field mechanism exists.
 
-## 1D. Research-Control Rule
+## 1D. Charge / Current Branch\n\nThe charge/current analogy is retained as a separate branch rather than being folded into generic "field" language. The historical research program asks whether a relational theory can **derive** conserved charge-like or gauge-like structures. Current repository status is **DEFERRED / OPEN**. It must not be assumed that any source variable J, relational deformation, or flow is physical electric charge/current.\n\nThe structural question is:\n\n\\[\n\\text{localized relational source} \\leftrightarrow \\text{extended field/flow} \\]\n\nwith the stronger target:\n\n\\[\n\\text{relational symmetry} \\rightarrow \\text{conservation law} \\rightarrow \\text{charge/current-like observable?}\n\\]\n\nThis connects naturally to the existing Branch B8 — Electromagnetism / Charge / Current, but remains unproved.\n\n## 1E. Research-Control Rule
 
 **Every future PGA experiment must carry an analogy tag.**
 
