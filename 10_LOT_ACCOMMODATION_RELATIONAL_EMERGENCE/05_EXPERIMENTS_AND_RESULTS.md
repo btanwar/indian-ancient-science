@@ -4571,3 +4571,214 @@ Determine whether the microscopic quantum-compatible structures and the collecti
 }
 ]
 
+
+## E — PGA 1.12.4.2: Coarse-Graining Closure Test
+
+**Research Tree Node:** 1.12.4 — Quantum-to-Geometry Bridge  
+**PGA:** 1.12.4.2  
+**Objective:** Test whether collective variables can acquire an approximately closed evolution from microscopic relational dynamics, rather than the collective law being imposed independently.
+
+### 1. Minimal test
+
+Use a one-dimensional nearest-neighbour relational chain with
+
+[
+M\ddot x+Kx=0
+]
+
+and Laplacian coupling (K).
+
+Define coarse variables by averaging blocks of (b) microscopic sites:
+
+[
+Q_a=\frac1b\sum_{i\in a}x_i.
+]
+
+The corresponding candidate collective dynamics is obtained by projecting the microscopic dynamics onto the coarse variables.
+
+The closure question is:
+
+[
+\ddot Q\stackrel{?}{\approx}-K_{eff}Q.
+]
+
+Define the closure residual
+
+[
+\epsilon=
+\frac{
+\|C(-Kx)+K_{eff}Q\|
+}{
+\|C(-Kx)\|
+},
+qquad Q=Cx.
+]
+
+Here (C) is the block-averaging operator.
+
+### 2. Test A — arbitrary microscopic configurations
+
+For arbitrary microscopic states, the coarse variables do **not** determine their own future evolution.
+
+Representative simulations with (N=128) and increasing block size gave approximately:
+
+| Block size (b) | Mean relative closure residual |
+|---:|---:|
+| 2 | 0.66 |
+| 4 | 0.92 |
+| 8 | 0.98 |
+| 16 | 0.99 |
+
+The unresolved microscopic degrees of freedom therefore continue to influence the collective acceleration.
+
+### Result A
+
+[
+\boxed{
+\text{coarse variables are not generically closed}
+}
+]
+
+This is important: merely averaging many microscopic relations does **not** automatically produce a macroscopic law.
+
+### 3. Test B — long-wavelength microscopic modes
+
+The same system was initialized with individual Fourier modes of wavelength large compared with the coarse block.
+
+For (N=128), representative relative closure residuals were:
+
+| Block size (b) | Mode 1 | Mode 2 | Mode 4 | Mode 8 | Mode 16 |
+|---:|---:|---:|---:|---:|---:|
+| 2 | 0.0006 | 0.0024 | 0.0096 | 0.0381 | 0.1464 |
+| 4 | 0.0030 | 0.0120 | 0.0473 | 0.1789 | 0.5732 |
+| 8 | 0.0126 | 0.0496 | 0.1868 | 0.5895 | ~1.00 |
+| 16 | 0.0502 | 0.1888 | 0.5934 | ~1.00 | ~1.00 |
+
+The low-frequency/long-wavelength sector remains approximately closed, while the high-frequency sector does not.
+
+### Result B
+
+[
+\boxed{
+\text{collective closure improves when microscopic structure is long-wavelength relative to the coarse scale}
+}
+]
+
+This produces a genuine scale-selection effect in the toy relational system.
+
+### 4. Important interpretation
+
+The result gives us a useful bridge mechanism:
+
+[
+\boxed{
+\text{microscopic dynamics}
+\xrightarrow{\text{scale separation}}
+\text{approximately closed collective dynamics}
+}
+]
+
+The collective law is therefore not valid for arbitrary microscopic configurations. It becomes effective in a restricted regime where unresolved degrees of freedom have sufficiently small influence on the retained variables.
+
+This is exactly the type of mechanism required if a macroscopic description is to emerge from a microscopic relational substrate.
+
+### 5. Does this establish new physics?
+
+No.
+
+The phenomenon of effective/coarse-grained dynamics and long-wavelength closure is known in many areas of physics.
+
+Therefore this PGA is **not evidence by itself for a new theory of quantum gravity**.
+
+Its importance for S∞ ↔ B∞ is different:
+
+> It gives a concrete mathematical mechanism by which one relational system can possess different effective descriptions at different scales.
+
+### 6. New lead
+
+The most interesting consequence is not the existence of coarse-graining itself.
+
+It is the possibility that the **condition for emergence of the collective regime can be characterized dynamically**.
+
+The current result suggests a candidate criterion:
+
+[
+\boxed{
+\epsilon(L,k)\ll1
+}
+]
+
+where (L) is the coarse-graining scale and (k) is the microscopic mode scale.
+
+The collective regime would then be the sector in which the unresolved relational degrees of freedom have sufficiently weak feedback on the retained variables.
+
+This gives us a possible quantitative bridge variable:
+
+[
+\boxed{
+\text{closure quality} = 1-\epsilon
+}
+]
+
+rather than simply declaring that a system is “macroscopic.”
+
+### 7. Relevance to the quantum–geometry bridge
+
+The result suggests the following architecture:
+
+[
+\text{microscopic relational states}
+]
+
+[
+\downarrow
+]
+
+[
+\text{scale-dependent coarse graining}
+]
+
+[
+\downarrow
+]
+
+[
+\text{approximately closed collective variables}
+]
+
+[
+\downarrow
+]
+
+[
+\text{collective response tensor}
+]
+
+[
+\downarrow
+]
+
+[
+g^{eff}_{\mu\nu};?
+]
+
+while the microscopic side retains the previously identified phase, correlation, update-order and compact-sector structures.
+
+The decisive question is now whether the **same scale-selection/closure mechanism** can connect those microscopic structures to the effective geometric response.
+
+### 8. Status
+
+**🟢 SURVIVES as a mathematical scale-bridge mechanism.**
+
+**🟢 NON-TRIVIAL RESULT:** arbitrary microscopic states do not close under coarse-graining, but a long-wavelength sector develops approximate closure.
+
+**🟡 LEAD:** closure quality may provide a quantitative criterion for identifying the collective regime.
+
+**🔴 NOT DERIVED:** quantum mechanics, spacetime, curvature, Einstein dynamics, or a unique physical interpretation of the closure parameter.
+
+### Next decisive experiment
+
+**PGA 1.12.4.3 — Response-to-Geometry Test**
+
+Take only the dynamically selected low-frequency/approximately closed collective sector and determine whether its effective response tensor develops a consistent metric structure, including temporal response, without inserting spacetime geometry at the microscopic level.
+
