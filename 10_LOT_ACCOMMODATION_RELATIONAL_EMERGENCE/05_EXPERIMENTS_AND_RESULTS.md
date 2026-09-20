@@ -2419,3 +2419,238 @@ But equally, do not require SI quantities before accepting a relational result a
 > **First let the relations fit into their proper places. Physical numbers can come later.**
 
 This correction is methodological and applies across the relevant 1.12.1 branch; it does not alter the numerical results of the individual PGAs.
+
+
+---
+
+## PGA 1.12.1.11 — Compact Phase × Interaction-Count Integration Test
+
+**Objective:** Revisit PGA 1.12.1.6 and PGA 1.12.1.9 together at the relational level, without requiring any SI calibration. The test asks whether compact discrete sectors and interaction ordering can form one internally consistent relational structure.
+
+### Motivation
+
+The methodological correction recorded as RT-008 establishes that the correct research order is:
+
+[
+	ext{relational structure}
+ightarrow
+	ext{relational laws}
+ightarrow
+	ext{observables}
+ightarrow
+	ext{physical calibration}.
+]
+
+Therefore this test deliberately does **not** ask whether a winding sector equals ℏ or whether one interaction equals one second.
+
+It asks the earlier question first:
+
+> Can the compact phase and interaction count fit into the same relational description?
+
+### Construction
+
+Take a compact phase
+
+[
+	hetasim	heta+2pi
+]
+
+and let the fundamental relational update be indexed by
+
+[
+N=0,1,2,ldots.
+]
+
+Assume one elementary relational update advances the phase by a fixed relational increment
+
+[
+Delta	heta=phi.
+]
+
+Then after (N) updates:
+
+[
+	heta_N=	heta_0+Nphipmod{2pi}.
+]
+
+A complete winding occurs when
+
+[
+Nphi=2pi n,
+qquad ninmathbb Z.
+]
+
+Hence, if
+
+[
+phi=rac{2pi}{q},
+]
+
+then
+
+[
+N=nq
+]
+
+gives complete windings.
+
+### Result A — Discrete topology and interaction ordering are compatible
+
+The integer winding number (n) can be represented entirely through the ordered interaction count (N).
+
+No physical seconds are required.
+
+Thus:
+
+[
+oxed{
+	ext{interaction ordering}
+ightarrow
+	ext{compact phase evolution}
+ightarrow
+	ext{integer winding sectors}
+}
+]
+
+This gives a clean relational connection between PGA 1.12.1.6 and PGA 1.12.1.9.
+
+### Result B — A relational period can emerge
+
+The number of elementary interactions required for one full winding is
+
+[
+N_{m period}=rac{2pi}{phi}.
+]
+
+For rational phase increments,
+
+[
+phi=rac{2pi p}{q},
+]
+
+the phase returns after a finite relational period determined by the integers (p,q).
+
+For irrational (phi/2pi), exact return does not occur at finite (N), although the trajectory remains on the compact phase circle.
+
+Therefore compactness plus discrete update ordering naturally produces a distinction between:
+
+- periodic relational modes;
+- quasiperiodic/dense phase evolution.
+
+### Result C — No SI calibration is needed for this structural result
+
+The quantities
+
+[
+N,quad n,quad phi,quad N_{m period}
+]
+
+are relational quantities.
+
+The test therefore does not require:
+
+[
+1,N=1 {m second}
+]
+
+or
+
+[
+S_n=hbar n^2.
+]
+
+Those remain later identification/calibration questions.
+
+This directly implements RT-008.
+
+### Result D — Important limitation
+
+The test assumes a fixed phase increment (phi).
+
+Therefore it does **not** yet derive why the relational substrate should choose a particular (phi), nor whether (phi) is dynamically stable under changing relational configurations.
+
+In particular, it does not yet establish:
+
+[
+phi=	ext{universal constant}.
+]
+
+Nor does it establish quantum mechanics.
+
+### Status
+
+**🟢 STRUCTURAL INTEGRATION RESULT**
+
+The previously separate structures:
+
+[
+	ext{compact winding}
+]
+
+and
+
+[
+	ext{interaction ordering}
+]
+
+can be placed consistently in one relational framework.
+
+What survives:
+
+[
+oxed{
+N
+ightarrow
+	heta_N
+ightarrow
+n
+}
+]
+
+where (N) is relational interaction order, (	heta_N) compact phase, and (n) winding sector.
+
+What remains open:
+
+[
+oxed{
+	ext{What determines }phi	ext{ dynamically?}
+}
+]
+
+and whether the same relational dynamics that determine (phi) also determine energy, propagation, and effective geometry.
+
+### Cross-branch significance
+
+This produces a more coherent intermediate layer for the whole S∞↔B∞ program:
+
+[
+S_inftyleftrightarrow B_infty
+ightarrow
+	ext{relational updates}
+ightarrow
+egin{cases}
+	ext{interaction ordering}\
+	ext{phase evolution}
+end{cases}
+ightarrow
+egin{cases}
+	ext{candidate clock/order}\
+	ext{discrete topological sectors}
+end{cases}
+]
+
+The next question is therefore no longer primarily “where does the SI scale come from?”
+
+It is:
+
+[
+oxed{
+	ext{Can the phase increment }phi	ext{ emerge from the same relational dynamics rather than being imposed?}
+}
+]
+
+**Next substantive gate: PGA 1.12.1.12 — Dynamical Phase-Increment Selection Test.**
+
+### Protection
+
+Do not identify (N) with physical time, (n) with a quantum number, or (phi) with a physical quantum phase until those identifications are independently derived.
