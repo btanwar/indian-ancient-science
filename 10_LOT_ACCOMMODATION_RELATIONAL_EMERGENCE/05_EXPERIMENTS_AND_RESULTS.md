@@ -2303,3 +2303,119 @@ The next research question should therefore move below the individual oscillator
 ]
 
 This is different from simply adding nonlinearity again. The target is **spontaneous scale selection from competition between relational structures**, with the rescaling audit built in from the start.
+
+
+---
+
+## Research Interpretation Correction — Relational Structure Before Physical Calibration
+
+**Applies to:** PGA 1.12.1.6, PGA 1.12.1.9, PGA 1.12.1.10 and the broader 1.12.1 scale/action line.
+
+A methodological correction was established after review of the preceding PGAs.
+
+The absence of an SI-calibrated physical magnitude (metre, second, joule, or a numerical identification with ℏ) must **not** by itself be treated as failure of an underlying relational result.
+
+The research order is now explicitly:
+
+[
+oxed{
+	ext{derive relational structure}
+ightarrow
+	ext{derive relational laws}
+ightarrow
+	ext{identify observables}
+ightarrow
+	ext{physical calibration}
+}
+]
+
+A physical system does not require human-defined units in order to possess physical relations. Different observers or physical systems may use different operational units while describing the same underlying relational structure.
+
+Therefore:
+
+### PGA 1.12.1.6
+
+The primary result remains:
+
+[
+oxed{
+	ext{compact relational structure}
+ightarrow
+	ext{discrete sectors}
+}
+]
+
+The fact that the absolute sector scale has not yet been identified with ℏ is an **open identification/calibration question**, not grounds for rejecting the discrete relational result.
+
+### PGA 1.12.1.9
+
+The primary result remains:
+
+[
+oxed{
+	ext{interaction ordering}
+ightarrow
+	ext{candidate intrinsic clock/order variable}
+}
+]
+
+The fact that interaction count has not yet been converted into SI seconds is likewise **not a failure at the relational stage**.
+
+The relevant question at this stage is whether interaction ordering consistently supports causal ordering, propagation, phase evolution, transitions, and other relational laws.
+
+### PGA 1.12.1.10
+
+The immediate target remains internal relational universality:
+
+[
+oxed{
+	ext{Do the relational quantities obey a common, configuration-independent relationship?}
+}
+]
+
+Physical-unit calibration should be deferred until the relational structure and its laws have been established.
+
+### Revised interpretation of the scale problem
+
+The research should distinguish:
+
+[
+	ext{relational existence}
+]
+
+from
+
+[
+	ext{relational physics}
+]
+
+from
+
+[
+	ext{physical/SI calibration}.
+]
+
+Thus:
+
+[
+oxed{
+	ext{no SI scale yet}
+
+eq
+	ext{no physical relational structure}
+}
+]
+
+The earlier statements that treated the absence of metre/second/joule/ℏ calibration as a stronger “failure” should be read as **open calibration/identification gates**, not as rejection of the underlying relational mechanism.
+
+### Protection
+
+Do not prematurely identify relational quantities with human SI quantities.
+
+But equally, do not require SI quantities before accepting a relational result at the structural stage.
+
+**Research principle:**
+
+> **First let the relations fit into their proper places. Physical numbers can come later.**
+
+This correction is methodological and applies across the relevant 1.12.1 branch; it does not alter the numerical results of the individual PGAs.
