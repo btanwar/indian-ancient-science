@@ -547,3 +547,28 @@ S_\infty\leftrightarrow B_\infty
 ]
 
 The quantum transition remains an open gate rather than an achieved derivation.
+
+
+---
+
+## Methodological Correction — Relational Structure Before Physical Calibration
+
+The 1.12.1 scale/action line has been clarified: lack of SI-calibrated values such as metres, seconds, joules, or an immediate identification with ℏ is not by itself a failure of a relational mechanism.
+
+Research order:
+
+[
+	ext{relational structure}
+ightarrow
+	ext{relational laws}
+ightarrow
+	ext{observables}
+ightarrow
+	ext{physical calibration}.
+]
+
+Accordingly, PGA 1.12.1.6 should primarily be read as a discrete-sector result, PGA 1.12.1.9 as an interaction-order/candidate-clock result, and PGA 1.12.1.10 as a test of internal relational universality. SI calibration is a later identification layer.
+
+Core principle:
+
+> First let the relations fit into their proper places. Physical numbers can come later.
