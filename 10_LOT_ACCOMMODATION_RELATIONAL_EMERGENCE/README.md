@@ -34,11 +34,12 @@ Question marks are intentional. Physical spacetime, GR, charge, electromagnetism
 - 05_EXPERIMENTS_AND_RESULTS.md
 - 06_THEORY_PROTECTION_AND_AUDIT.md
 - 07_PGA_CURRENT_RESEARCH_STATE_2026-09-20.md — current continuation and research checkpoint
+- 08_RESEARCH_TREE_AND_ANALOGY_AUDIT.md — master research tree plus ten-question audit of the original analogies
 
 ## Current checkpoint
 The branch has progressed from Hilbert-hotel accommodation → relational network → response → mediated interaction toward the candidate chain S∞ → relational deformation → effective metric → causal propagation.
 
-The latest work adds a coupled K deformation model, a continuum energy route toward a candidate spatial metric, a dynamic K response equation, and a finite-speed propagation test.
+The latest work adds a coupled K deformation model, a continuum energy route toward a candidate spatial metric, a dynamic K response equation, and a finite-speed propagation test. The research tree is now explicitly cross-linked to the original analogy set so mathematical extensions cannot silently replace the original line of thought.
 
 These remain TOY/HYPOTHESIS-level results. The decisive unresolved tests are consistency of geometry and propagation metrics, derivation of the unscreened λ=0 regime, the Newtonian weak-field limit including coefficient G, continuum/boundary robustness, and a consistent quantum limit.
 
