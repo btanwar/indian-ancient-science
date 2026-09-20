@@ -2079,3 +2079,227 @@ Do not identify the interaction count with physical time, the interaction rate w
 The next test should not simply repeat nonlinear dynamics. It should test whether **the same relational event rule can make the energy, phase advance, and propagation clock co-vary so that their dimensionless ratios remain invariant across different relational configurations**.
 
 **Next node: PGA 1.12.1.10 — Common-Rule Universality Test.**
+
+
+---
+
+## PGA 1.12.1.10 — Common-Rule Universality Test
+
+**Objective:** Test the stronger historical hypothesis that one and the same microscopic relational rule can simultaneously determine energy, phase/frequency, and propagation/clock structure, so that an action-like ratio becomes invariant across different relational configurations.
+
+### Why this test follows the historical path
+
+Earlier work had already shown:
+
+- nonlinear relational dynamics can produce collective/localized behavior but did not by itself quantize the scale;
+- compact/topological structure can produce discrete sectors but does not fix their absolute action scale;
+- an externally measured transition ratio such as ΔE/ω was not universal when coupling was independently varied;
+- interaction count can provide a candidate ordering/clock variable, but its physical calibration remains open.
+
+The present test therefore asks a stricter question:
+
+> If the *same* relational law generates all relevant quantities, does universality appear without separately tuning the energy, frequency, or clock?
+
+### Minimal common-rule model
+
+Use the same relational coupling matrix
+
+[
+K=kL
+]
+
+for both energy and dynamics:
+
+[
+ddot x+Kx=0.
+]
+
+For a normal mode,
+
+[
+omega^2=lambda(K).
+]
+
+For a mode with amplitude (A), the total harmonic energy is
+
+[
+E=rac12omega^2A^2
+]
+
+at maximum displacement.
+
+Therefore the classical action-like ratio is
+
+[
+rac{E}{omega}
+=
+rac12omega A^2.
+]
+
+No quantum assumption is inserted.
+
+### Test A — Same microscopic rule, different relational configurations
+
+For unit masses and identical nearest-neighbour coupling, open chains of different sizes give different lowest nonzero mode frequencies:
+
+[
+N=3:quad omega_1=1
+]
+
+[
+N=4:quad omega_1approx0.7654
+]
+
+[
+N=5:quad omega_1approx0.6180.
+]
+
+For equal mode amplitude (A=1),
+
+[
+E/omega=rac12omega,
+]
+
+giving approximately:
+
+[
+0.5000,quad0.3827,quad0.3090.
+]
+
+Thus the same microscopic coupling rule does **not** produce a universal (E/omega) across different relational configurations.
+
+### Test B — Global coupling rescaling
+
+Let
+
+[
+Kightarrowalpha K.
+]
+
+Then
+
+[
+omegaightarrowsqrt{alpha}omega
+]
+
+while
+
+[
+Eightarrowalpha E
+]
+
+for fixed amplitude.
+
+Consequently,
+
+[
+rac{E}{omega}
+ightarrow
+sqrt{alpha}rac{E}{omega}.
+]
+
+Therefore an arbitrary overall coupling scale changes the action-like ratio while leaving the dimensionless relational topology unchanged.
+
+### Result A
+
+[
+oxed{
+	ext{one common relational rule does not automatically produce a universal }E/omega
+}
+]
+
+### Result B
+
+The failure is not caused by using different microscopic laws. The *same* (K) rule was used for the energy and dynamics.
+
+The missing universality comes from the remaining amplitude/configuration/coupling scale freedom.
+
+### Critical audit — what would count as a real success?
+
+A future model would need to derive, rather than impose,
+
+[
+Eproptoomega
+]
+
+with a configuration-independent proportionality constant:
+
+[
+rac{E}{omega}=A_*
+]
+
+and then independently show that the same (A_*) governs the compact/topological action sectors and the interaction-count clock.
+
+Simply defining
+
+[
+E=hbaromega
+]
+
+or choosing amplitude (Apropto1/sqrt{omega}) would not count; that would insert the desired relationship rather than derive it.
+
+### Status
+
+**🔴 FAILS AS A UNIVERSALITY MECHANISM IN THE CURRENT LINEAR RELATIONAL MODEL**
+
+**🟢 SURVIVES AS A DIAGNOSTIC RESULT**
+
+The important result is that even when energy and frequency come from the same microscopic coupling matrix, universality does not automatically appear.
+
+### What this closes
+
+We should no longer assume that merely saying
+
+[
+	ext{same microscopic rule}
+]
+
+is sufficient to generate a universal physical action scale.
+
+The common rule must contain an additional scale-selection or invariant mechanism.
+
+### Cross-branch consequence
+
+The recurring boundary is now clearer:
+
+[
+oxed{
+	ext{relational law}
+ightarrow
+	ext{structure + dynamics + ratios}
+}
+]
+
+but not yet:
+
+[
+oxed{
+	ext{relational law}
+ightarrow
+	ext{universal dimensional calibration}
+}
+]
+
+The same issue appears for both candidate constants:
+
+[
+cquad	ext{and}quadhbar.
+]
+
+This strengthens the hypothesis that the missing ingredient is deeper than either the quantum or causal branch individually.
+
+### Protection
+
+Do not identify (E/omega) with (hbar), or interaction count with physical time, unless the corresponding universal dimensional calibration is independently derived.
+
+### Next substantive gate
+
+The next research question should therefore move below the individual oscillator/network parameters:
+
+[
+oxed{
+	ext{Can the coupled }S_inftyleftrightarrow B_infty	ext{ system possess a self-selected scale through competing relational sectors?}
+}
+]
+
+This is different from simply adding nonlinearity again. The target is **spontaneous scale selection from competition between relational structures**, with the rescaling audit built in from the start.
