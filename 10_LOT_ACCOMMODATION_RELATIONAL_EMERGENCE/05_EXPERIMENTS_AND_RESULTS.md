@@ -724,3 +724,121 @@ It cannot yet claim:
 The next experiment must remove the hidden calibration freedom. The key question is whether **relational distance and relational duration can acquire independent, observer-independent scales from the same S∞↔B∞ dynamics**, rather than both being measured in the same graph/update unit.
 
 **Next node: PGA 1.12.2.4 — Independent Relational Space/Time Scale and Observer-Clock Consistency Test.**
+
+## E16 — PGA 1.12.2.4: Information Coverage / Boundary Interaction / Propagation Test
+
+**Research Tree Node:** 1.12.2 — Observable Reconstruction / Time / Causal Ordering  
+**PGA:** 1.12.2.4  
+**Objective:** Test the recovered hypothesis that the role of light may be understood operationally as propagation of information between physical boundaries, while observable objects/frames arise through accumulated information coverage and coarse-graining. The experiment specifically separates propagation speed from total boundary coverage and reconstruction sufficiency.
+
+### Refined hypothesis
+
+The working hypothesis is not that physical c is simply coverage per second.
+
+Instead:
+
+t_arrival(x) = d(x) / c_*
+
+and boundary coverage at duration t is
+
+C(t) = measure{x in boundary : d(x) <= c_* t} / measure(boundary).
+
+Here c_* is the propagation limit, while C(t) is the amount of boundary information that has become accessible. The two quantities must not be conflated.
+
+### Test A — Same propagation speed, different boundaries
+
+A point source was placed at the centre of three idealized 2D boundaries, with propagation speed normalized to c_* = 1:
+
+1. circle of radius 10;
+2. square with half-side 10;
+3. rectangle with half-width 10 and half-height 5.
+
+For each boundary point, arrival time was taken as its source-to-boundary distance. Coverage was the fraction of boundary reached by time t.
+
+Representative results:
+
+| t | Circle C(t) | Square C(t) | Rectangle C(t) |
+|---:|---:|---:|---:|
+| 5.0 | 0.000 | 0.000 | ~0.000 |
+| 5.5 | 0.000 | 0.000 | 0.274 |
+| 6.0 | 0.000 | 0.000 | 0.373 |
+| 7.0 | 0.000 | 0.000 | 0.494 |
+| 8.0 | 0.000 | 0.000 | 0.570 |
+| 9.0 | 0.000 | 0.000 | 0.625 |
+| 10.0 | 1.000 | ~0.000 | 0.667 |
+| 10.5 | 1.000 | 0.395 | 0.881 |
+| 11.0 | 1.000 | 0.547 | 0.973 |
+| 11.5 | 1.000 | 0.658 | 1.000 |
+
+The propagation law is identical in all three cases, but the coverage function is strongly geometry-dependent.
+
+### Result A
+
+coverage rate is not itself a universal propagation constant.
+
+The same propagation speed can produce radically different coverage histories because boundary geometry determines how much boundary becomes reachable at each time.
+
+### Test B — Coverage amount is not sufficient for reconstruction
+
+Consider two possible boundary configurations B1 and B2 that are identical over the observed subset S, but differ over the unobserved complement. An observer receiving exactly the information from S cannot distinguish B1 from B2 even if the observed coverage fraction is large.
+
+Therefore:
+
+coverage fraction alone does not determine reconstruction.
+
+The location, independence, and relational content of the observations matter.
+
+### Coarse-graining interpretation
+
+The useful hierarchy is therefore:
+
+propagation
+→ boundary interaction
+→ information acquisition
+→ coverage pattern
+→ coarse-graining
+→ reconstruction.
+
+This gives a more precise interpretation to the earlier photon/observer/frame line of thought.
+
+A photon need not be treated as creating the object. Rather, interaction with a physical boundary changes the propagating information, and an observing system can use an accumulated set of such interactions to reconstruct a stable coarse-grained description.
+
+### Critical audit
+
+The experiment does not derive physical c, photon ontology from S∞ ↔ B∞, a universal information rate, a unique reconstruction algorithm, physical spacetime, or Lorentz invariance.
+
+What it does establish at toy/logical level is narrower:
+
+1. finite propagation can control the arrival envelope of information;
+2. boundary geometry controls the resulting coverage function;
+3. coverage is an information-access variable, not itself a universal speed;
+4. coverage fraction alone is insufficient for reconstruction;
+5. the earlier observer/frame idea is better formulated in terms of distributed relational information and coarse-grained reconstruction.
+
+### Status
+
+**🟢 SURVIVES AS A STRUCTURAL/OPERATIONAL RESULT**
+
+**🔴 Fails if interpreted as c = d(coverage)/dt.**
+
+The stronger hypothesis that remains open is:
+
+physical c may be the invariant limit governing the propagation of information,
+
+while observable-frame formation may depend on the accumulated and structured coverage of boundary interactions.
+
+### Protection
+
+Do not identify:
+
+c = coverage rate,
+photon = observer,
+coarse-grained object = fundamental object.
+
+These remain hypotheses unless independently derived.
+
+### Next node
+
+**PGA 1.12.2.5 — Observer-Coverage / Reconstruction Invariance Test**
+
+The next test should hold the underlying boundary configuration fixed while varying observer sampling paths, angular coverage, temporal sampling, and coarse-graining resolution. The target is to determine whether sufficiently complete relational information produces an observer-independent coarse-grained object/frame, and whether the propagation limit enters only through the information-arrival boundary rather than through the reconstruction rule itself.
