@@ -78,6 +78,170 @@ Protection boundary around all branches:
 DERIVE BEFORE IDENTIFY
 ```
 
+
+## 1A. Visual Mermaid Research Map
+
+> **Legend:** 🟢 PASS / survives as tested structure · 🟡 OPEN / hypothesis · 🔴 FAIL / mechanism rejected · 🔵 KNOWN/MATH · 🟣 ANALOGY · ⚪ DEFERRED
+
+```mermaid
+flowchart TB
+    S["🟣 S∞ ↔ B∞<br/>Localized ↔ Extended Relational"]:::core
+
+    S --> A["🟣 ACCOMMODATION"]
+    S --> R["🟣 RELATIONALITY"]
+    S --> M["🟣 MANIFESTATION / ACCESS"]
+
+    A --> H["🟣 Hilbert Hotel<br/>Infinite accommodation"]
+    R --> BS["🟣 Bead + String<br/>Local ↔ extended support"]
+    R --> MA["🟣 Mala<br/>Beads + relations"]
+    A --> EL["🟣 Elastic accommodation<br/>Responsive background"]
+    A --> SW["🟣 Sugar + Water<br/>Distributed influence"]
+    EL --> D["🟣 Damru<br/>Local oscillation → extended response"]
+    M --> C["🟣 Cinema<br/>Underlying whole → ordered manifestation"]
+    M --> V["🟣 VCR / Coverage<br/>Whole ≠ instantaneous access"]
+    M --> Q["🟡 Observation / QZE<br/>Interaction → modified accessible evolution"]
+    D --> EG["🟡 EM ↔ GW<br/>Video / Audio analogy"]
+
+    H --> AC["🟢 Accommodation<br/>Concept survives"]
+    BS --> LR["🟢 Local → Global Response"]
+    MA --> CM["🟢 Collective Modes"]
+    EL --> RR["🟢 Relational Response"]
+    SW --> DI["🟢 Distributed Influence"]
+    D --> PR["🟢 Propagation"]
+    C --> OA["🟡 Ordered Access / Effective Time?"]
+    V --> OA
+    Q --> OA
+    EG --> UN["🟡 Common underlying event?"]
+
+    AC --> RC["ΔK / C / L<br/>Relational Change"]:::math
+    LR --> RC
+    CM --> RC
+    RR --> RC
+    DI --> RC
+    PR --> RC
+
+    RC --> MODE["🟢 Spectrum / Modes"]
+    RC --> PROP["🟢 Finite-speed propagation"]
+    RC --> INT["🟢 Mediated interaction"]
+    RC --> GEO["🟡 Effective Geometry?"]
+
+    GEO --> ER["🔵 Energy route<br/>C → g_eff"]
+    GEO --> PRR["🔵 Propagation route<br/>C → characteristics"]
+    ER --> CONS{"🟡 Geometry =<br/>Propagation?"}
+    PRR --> CONS
+
+    CONS -->|If consistent| WF["🟡 Weak-field gravity"]
+    CONS -->|If inconsistent| F1["🔴 Geometry route fails / revise"]
+    WF --> N["🟡 Newtonian limit"]
+    N --> GR["⚪ GR / GWs"]
+
+    RC --> G5["🔴 Scalar-conformal metric<br/>gμν = e^(2βq)ημν<br/>wrong weak-field sign relation"]
+    G5 --> T["🟡 Tensorial / non-conformal B∞ response"]
+
+    A --> TIME["🟡 Ordered configurations<br/>C₀ → C₁ → C₂ → …"]
+    TIME --> T0["🔴 Ordering alone ≠ physical time"]
+    T0 --> CLOCK["🟡 Need derived physical clock/scale"]
+
+    MODE --> QM["⚪ Quantum limit"]
+    PROP --> CAUS["🟢 Toy causal propagation"]
+    INT --> TWO["🟢 Two-source interaction<br/>Toy result"]
+    UN --> EM["⚪ EM/GW quantitative test"]
+
+    CORE["🛡️ DERIVE BEFORE IDENTIFY<br/>Do not equate K/C/q with gravity, time, spacetime, particles, charge, etc."]:::guard
+
+    CORE -.-> S
+    CORE -.-> GEO
+    CORE -.-> TIME
+    CORE -.-> GR
+    CORE -.-> QM
+
+    classDef core fill:#e8f0ff,stroke:#3056a6,stroke-width:3px,color:#111;
+    classDef math fill:#eef7ee,stroke:#4d7c4d,stroke-width:2px,color:#111;
+    classDef guard fill:#fff3cd,stroke:#9a6b00,stroke-width:3px,color:#111;
+    classDef pass fill:#e8f7e8,stroke:#3b7a3b,color:#111;
+    classDef open fill:#fff7df,stroke:#a77b00,color:#111;
+    classDef fail fill:#fdeaea,stroke:#a33,color:#111;
+    classDef known fill:#edf0ff,stroke:#5365a8,color:#111;
+```
+
+### Visual status key
+
+- 🟢 **PASS / SURVIVES:** tested structural result at toy/mathematical level.
+- 🟡 **OPEN:** hypothesis or unresolved test.
+- 🔴 **FAIL:** a specific proposed mechanism failed its stated target; the parent S∞ ↔ B∞ hypothesis is not thereby killed.
+- 🔵 **KNOWN / MATH:** established mathematics or a mathematical construction, not physical validation.
+- 🟣 **ANALOGY:** original conceptual source.
+- ⚪ **DEFERRED:** deliberately not yet claimed/tested.
+- 🛡️ **PROTECTION:** prevents analogy from silently becoming identification.
+
+## 1B. Analogy → Test → Status Matrix
+
+| Original analogy | Structural idea | Mathematical/test branch | Status | What it contributes |
+|---|---|---|---|---|
+| 🏨 Hilbert Hotel | Accommodation/reconfiguration | (C_0\to C_1\to...\), finite response | 🟢/🟡 | Starting point for S∞ ↔ B∞ |
+| 📿 Bead + String | Local ↔ extended relation | (B_N=(V,E,K)), (L_Kx=J) | 🟢 | Local → global response |
+| 📿 Mala | Relations organize collective behavior | Graph Laplacian / spectrum | 🟢 | Collective modes |
+| 🥛 Sugar + Water | Local identity + distributed influence | Green-function/source response | 🟢/🟡 | Distributed influence |
+| 🪢 Elasticity | Background accommodates disturbance | (\delta x=-K^{-1}J) | 🟢 | Responsive B∞ |
+| 🥁 Damru | Local oscillation → extended wave | (M\ddot x+Kx=J(t)) | 🟢/🟡 | Propagation |
+| 🎬 Cinema | Whole → ordered manifestation | Configuration sequence | 🟡 | Time/access question |
+| 📼 VCR | Whole ≠ instantaneous access | Projection/access idea | 🟡 | Observation/access |
+| 👁️ QZE | Interaction changes accessible evolution | Quantum branch | 🟡 | Possible QM connection |
+| 🎥🔊 EM/GW | Multiple channels from one event | Coupled-field model needed | 🟡 | Potential unification branch |
+
+## 1C. Pass / Fail / Open Inventory
+
+### 🟢 PASS / SURVIVES
+- Localized forcing can create distributed relational response.
+- Relational changes can shift collective spectra.
+- A shared responsive background can mediate effective interaction in the toy model.
+- A dynamic relational field can support finite-speed propagation.
+- A relational coupling tensor can be used to construct a candidate spatial metric.
+- The original accommodation → relational response intuition remains mathematically productive.
+
+### 🔴 FAIL / CLOSED MECHANISM
+- Hilbert Hotel does **not** derive physical time by itself.
+- A single scalar conformal metric (g_{mu
+u}=e^{2\beta q}\eta_{mu
+u}) does **not** reproduce the required GR weak-field temporal/spatial sign relationship.
+- K is **not** established as gravity.
+- A network is **not** established as spacetime.
+- Sequential manifestation is **not** established as physical time.
+- Damru is **not** established as a photon/gravity mechanism.
+- EM/GW video/audio is **not** established physics.
+
+### 🟡 OPEN / NEXT TESTS
+- Derive the minimum non-conformal/tensorial relational response.
+- Establish whether temporal and spatial response can arise from the same B∞ mechanism.
+- Test (g_{m geometry}=g_{m propagation}).
+- Determine whether an unscreened (lambda=0) regime is structurally motivated.
+- Derive, rather than identify, (g_{00}) and the Newtonian limit.
+- Build a controlled quantum version.
+- Return to cinema/VCR/observation and formulate a falsifiable access/ordering model.
+- Return to Damru/EM/GW only after a quantitative common-field mechanism exists.
+
+## 1D. Research-Control Rule
+
+**Every future PGA experiment must carry an analogy tag.**
+
+Recommended record format:
+
+`[ANALOGY: Hilbert]`  
+`[ANALOGY: Bead/String]`  
+`[ANALOGY: Mala]`  
+`[ANALOGY: Sugar/Water]`  
+`[ANALOGY: Elasticity]`  
+`[ANALOGY: Damru]`  
+`[ANALOGY: Cinema]`  
+`[ANALOGY: VCR]`  
+`[ANALOGY: QZE]`  
+`[ANALOGY: EM/GW]`
+
+If a proposed experiment has **no analogy tag**, it must be marked:
+
+> **NEW MODEL EXTENSION — not yet justified by the original analogy set.**
+
+
 ## 2. Common Structural Hypothesis
 
 The analogies are not separate theories. Their common candidate structure is:
