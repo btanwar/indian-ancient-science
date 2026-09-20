@@ -614,3 +614,113 @@ PGA 1.12.2.2 is closed as a **partial-success audit checkpoint**, not as a faile
 **PGA 1.12.2.3 — Metric-Free Relational Time + c + Causal-Cone Test.**
 
 The next test must remove coordinates, metric, physical time, and assumed c from the microscopic rules and measure relational ordering, distance, operational duration, propagation reach, isotropy, observer reconstruction, and dispersion.
+
+
+## E15 — PGA 1.12.2.3: Metric-Free Relational Time + c + Causal-Cone Test
+
+**Research Tree Node:** 1.12.2 — Observable Reconstruction / Time / Causal Ordering  
+**PGA:** 1.12.2.3  
+**Objective:** Test the integrated branch using relational graph distance and causal update depth, without inserting a coordinate metric, physical time, or a named physical c.
+
+### Minimal construction
+
+The substrate is represented only by a graph G=(V,E) and local nearest-neighbour update propagation.
+
+Define relational distance operationally as shortest-path length:
+
+\[
+D_G(A,B)=\text{number of relational links on the shortest path}.
+\]
+
+Define operational duration as causal update depth:
+
+\[
+T_G(E)=\text{number of local causal update layers required to reach }E.
+\]
+
+No seconds, metres, spacetime metric, or physical c are inserted.
+
+The candidate relational propagation ratio is then
+
+\[
+c_R=\frac{D_G}{T_G}.
+\]
+
+### Test A — Local ordered networks
+
+For local square and triangular lattice graphs, a disturbance propagating one relational edge per causal update produces a finite causal front. In relational units,
+
+\[
+D_G=T_G
+\]
+
+for the leading front, giving
+
+\[
+c_R=1\ \text{relational link/update}.
+\]
+
+The square and triangular constructions show expanding fronts rather than instantaneous all-to-all reachability. The triangular connectivity gives a more directionally distributed local neighbourhood than the square case.
+
+### Test B — Random relational network
+
+The previously audited 256-node 4-regular random network again provides the required control: reachability saturates rapidly rather than forming a geometric expanding cone.
+
+Representative cumulative reach from one source:
+
+\[
+1\rightarrow5\rightarrow17\rightarrow51\rightarrow125\rightarrow226\rightarrow256.
+\]
+
+Thus local relational connectivity is not sufficient by itself; locality/organization of connectivity is essential.
+
+### Test C — Observer reconstruction
+
+An observer that samples only the event/propagation relations can reconstruct graph distance and causal depth from the retained relational links. Because both quantities are defined from the same underlying relational graph, observers with sufficient compatible coverage recover the same dimensionless relational ratio.
+
+This survives as a **relational operational consistency result**.
+
+### Critical audit
+
+The result \(c_R=1\) is not yet a derivation of physical c. The numerator and denominator were both defined using the same graph/update units. Therefore the experiment demonstrates a coherent internal causal speed scale, but not a universal physical dimensional constant.
+
+In particular, the experiment has not derived:
+
+- a metre-like spatial unit;
+- a second-like temporal unit;
+- a unique conversion between them;
+- an observer-independent dimensional value of c;
+- Lorentz invariance;
+- Lorentzian spacetime.
+
+This is exactly the distinction anticipated in PGA 1.12.2.2: **finite propagation is established in toy relational models, while universal physical c remains open.**
+
+### Result
+
+**🟢 Local relational causality survives:** organized local connectivity + local updates produce finite causal cones.
+
+**🟢 Dimensionless relational propagation ratio survives:** (c_R=D_G/T_G) is stable in the ideal local-update model.
+
+**🔴 Universal physical c is NOT derived:** the scale is still defined in substrate units.
+
+**🔴 Lorentzian spacetime is NOT derived.**
+
+### Stronger inference
+
+The branch can now legitimately claim:
+
+\[
+\boxed{\text{organized local relational dynamics can generate a causal cone and an internal propagation ratio.}}
+\]
+
+It cannot yet claim:
+
+\[
+\boxed{\text{the physical speed of light or Lorentzian spacetime emerges.}}
+\]
+
+### Next required gate
+
+The next experiment must remove the hidden calibration freedom. The key question is whether **relational distance and relational duration can acquire independent, observer-independent scales from the same S∞↔B∞ dynamics**, rather than both being measured in the same graph/update unit.
+
+**Next node: PGA 1.12.2.4 — Independent Relational Space/Time Scale and Observer-Clock Consistency Test.**
