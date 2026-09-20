@@ -6421,3 +6421,194 @@ It is:
 A stronger test should therefore start with the minimal relational ingredients (C,T,O), impose no oscillator-specific synchronization equation, and search for a transition law whose repeated local application naturally creates coherent subsets.
 
 If that succeeds, the group-formation mechanism moves one level closer to being a consequence of the proposed relational architecture rather than an imported toy mechanism.
+
+
+## E — PGA 1.12.4.10: Minimal Relational Synchronization Rule Test
+
+**Research Tree Node:** 1.12.4 — Quantum-to-Geometry Bridge  
+**PGA:** 1.12.4.10  
+**Objective:** Remove the imported Kuramoto-style synchronization equation used in PGA 1.12.4.9 and test whether a simpler relational transition rule can generate the same qualitative sequence: local interaction → coherence → emergent group.
+
+### 1. Test principle
+
+PGA 1.12.4.9 established that coupling can produce spontaneous coherent groups, but the synchronization equation was imported.
+
+The present test therefore uses only a minimal local relational update:
+
+\[
+\theta_i'=
+\theta_i+
+\eta\,\operatorname{wrap}(\theta_j-\theta_i),
+\]
+
+where \(j\) is a local neighbour and wrap selects the smallest phase difference modulo \(2\pi\).
+
+Interpretation:
+
+> each relation makes a small correction toward local relational agreement.
+
+No global group membership is supplied.
+
+### 2. Local rule
+
+For a pair of neighbours,
+
+\[
+\Delta_{ij}=\operatorname{wrap}(\theta_j-\theta_i),
+\]
+
+and
+
+\[
+\theta_i'=\theta_i+\eta\Delta_{ij},
+\qquad
+\theta_j'=\theta_j-\eta\Delta_{ij}.
+\]
+
+The pair therefore moves toward agreement while preserving their mean phase.
+
+For a network, the same local operation is repeatedly applied to neighbouring pairs.
+
+This is deliberately simpler than the synchronization equation used in PGA 1.12.4.9.
+
+### 3. Result
+
+Starting from random phases on a ring, repeated local relational averaging produces increasing phase coherence.
+
+The mechanism can be understood without invoking a pre-existing group:
+
+\[
+\boxed{
+\text{local relational correction}
+\rightarrow
+\text{reduced local differences}
+\rightarrow
+\text{larger coherent regions}
+}
+\]
+
+The coherent regions arise from repeated local operations.
+
+### 4. Important distinction
+
+The rule still contains an explicit relational tendency:
+
+\[
+\theta_i\rightarrow\theta_j.
+\]
+
+Therefore this experiment does **not** derive why the fundamental system should prefer agreement.
+
+It only demonstrates that the synchronization mechanism can be reduced to a very simple local relational rule.
+
+Thus:
+
+\[
+\boxed{
+\text{complex synchronization law is not necessary for the qualitative group-formation mechanism}
+}
+\]
+
+but
+
+\[
+\boxed{
+\text{a coherence-seeking transition rule is still an added assumption}
+}
+\]
+
+### 5. Why this is a useful step
+
+This removes an unnecessary layer of imported formalism.
+
+The candidate mechanism is now closer to the language of the foundational model:
+
+- configuration;
+- local relational difference;
+- allowed transition;
+- repeated application;
+- emergent coherence.
+
+Schematically:
+
+\[
+C_t
+\xrightarrow{T_{local}}
+C_{t+1}
+\xrightarrow{T_{local}}
+C_{t+2}
+\rightarrow
+\text{coherent relational structure}.
+\]
+
+This is structurally closer to the \(C+T+O\) foundation than the previous oscillator equation.
+
+### 6. Group formation criterion
+
+A candidate group can now be identified without predefined membership.
+
+For a subset \(G\),
+
+\[
+D_G=
+\frac{1}{|E_G|}
+\sum_{(i,j)\in E_G}
+|\operatorname{wrap}(\theta_i-\theta_j)|.
+\]
+
+A coherent group has
+
+\[
+D_G<\delta
+\]
+
+for a chosen observational threshold \(\delta\), together with persistence over multiple updates.
+
+Thus group identity requires both:
+
+\[
+\text{coherence}
++
+\text{persistence}.
+\]
+
+### 7. Critical audit
+
+The test still does **not** derive the coherence-seeking transition from \(S_\infty\leftrightarrow B_\infty\).
+
+It establishes a narrower and useful result:
+
+\[
+\boxed{
+\text{group formation can arise from repeated local relational updates}
+}
+\]
+
+without requiring:
+
+- a global synchronization equation;
+- predefined group membership;
+- a pre-existing collective variable.
+
+The remaining fundamental question is why the allowed transition set \(T\) should contain this coherence-seeking operation.
+
+### 8. Status
+
+**🟢 SURVIVES:** a simple local relational transition can generate emergent coherent regions.
+
+**🟢 STRONGER STRUCTURAL LEAD:** group formation can be expressed directly in terms of local relational differences and repeated transitions.
+
+**🔴 NOT DERIVED:** the coherence-seeking transition itself is not forced by \(C+T+O\).
+
+### 9. Next decisive question
+
+The next test should remove even the explicit assumption that a relation tends toward agreement.
+
+Compare three transition classes:
+
+1. agreement-seeking updates;
+2. neutral/reversible relational updates;
+3. competing/disordering updates.
+
+The aim is to determine whether **persistence/stability or path-consistency requirements select coherence automatically**, rather than us selecting it because we want groups.
+
