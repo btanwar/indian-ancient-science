@@ -8047,3 +8047,152 @@ This remains a candidate architecture, not a physical derivation of gravity.
 The next test should investigate whether the **same relational source-response mechanism can produce a universal long-range interaction** and whether its weak-field behaviour has the structural form required for a gravity-like limit.
 
 Do not yet call it gravity; first test the response law.
+
+
+## M — PGA 1.12.4.19: Response-Range Selection Test
+
+**Objective:** Determine whether the currently retained relational principles select a long-range collective response, rather than allowing both screened and long-range response laws.
+
+### 1. Question
+
+PGA 1.12.4.18 produced:
+
+\[
+-C\nabla^2K+\lambda K=J.
+\]
+
+The range depends on \(\lambda\):
+
+\[
+\lambda>0\Rightarrow\text{screened response},
+\qquad
+\lambda=0\Rightarrow\text{long-range response}.
+\]
+
+For a gravity interpretation, a long-range sector is of particular interest. The present test asks whether that property follows from the relational architecture.
+
+### 2. Structural comparison
+
+Consider two response laws:
+
+**Model A — long-range**
+
+\[
+-C\nabla^2K=J.
+\]
+
+**Model B — screened**
+
+\[
+-C\nabla^2K+\lambda K=J,\qquad\lambda>0.
+\]
+
+Both are local differential response laws. Both can be embedded in connected relational networks. Both can generate distributed responses, and both can be coupled to an effective propagation tensor.
+
+Therefore the previously retained requirements:
+
+- relational configuration;
+- local transition;
+- closure;
+- local relational interaction;
+- composition;
+- reversibility where applicable;
+- path consistency;
+
+do not by themselves select Model A.
+
+### 3. Range test
+
+In three-dimensional static space, the Green-function structures are qualitatively:
+
+\[
+G_0(r)\propto\frac1r
+\]
+
+for the massless case, while:
+
+\[
+G_\mu(r)\propto\frac{e^{-\mu r}}r
+\]
+
+for the screened case, with \(\mu^2=\lambda/C\).
+
+Thus both satisfy relational propagation, but only the first remains long-range in the idealized limit.
+
+### 4. Result
+
+\[
+\boxed{
+\text{current relational principles}
+\not\Rightarrow
+\lambda=0
+}
+\]
+
+This is a useful negative result.
+
+It means that obtaining a long-range collective field cannot currently be claimed as an automatic consequence of S∞↔B∞.
+
+### 5. Important interpretation
+
+The failure is not that the relational architecture cannot produce long-range response.
+
+It can.
+
+The boundary is:
+
+\[
+\boxed{
+\text{long-range response is a viable branch, but its selection principle is still missing.}
+}
+\]
+
+Possible future sources of selection include:
+
+- an invariant/conservation law;
+- absence of an allowed restoring term;
+- a symmetry that forbids the \(\lambda K\) term;
+- a deeper property of the transition algebra;
+- a collective critical/scale-invariant regime.
+
+These are candidate mechanisms, not assumptions to be adopted without testing.
+
+### 6. Relation to the gravity bridge
+
+If a future derivation selects the long-range branch, the architecture could become:
+
+\[
+J
+\rightarrow
+K(r)\sim\frac1r
+\rightarrow
+C_{\rm eff}(K)
+\rightarrow
+g_{ij}
+\rightarrow
+\text{curvature}.
+\]
+
+But the \(1/r\) law alone would still not establish gravity.
+
+A further test would need to examine coupling, universality, tensor structure, and the weak-field limit.
+
+### 7. Status
+
+**🟢 SURVIVES:** long-range response is compatible with the relational-response architecture.
+
+**🔴 NEGATIVE RESULT:** current foundational principles do not select long-range over screened response.
+
+**🟡 NEW LEAD:** investigate whether conservation, symmetry, criticality, or another non-arbitrary relational property forbids a finite-range term.
+
+### 8. Next decisive question
+
+Before adding any new axiom, test the simplest possibility:
+
+\[
+\boxed{
+\text{Does a conserved quantity or zero-mode/invariance structure naturally forbid the restoring term?}
+}
+\]
+
+If not, record long-range behaviour as an additional required dynamical selection principle rather than forcing it.
