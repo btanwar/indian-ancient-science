@@ -3021,3 +3021,259 @@ This is the level that must be investigated next.
 
 **Research principle:**  
 > **Do not confuse the representation of accommodation (Hilbert Hotel rooms) with the physical mechanism of accommodation (relational reconfiguration).**
+
+
+---
+
+## PGA 1.12.1.13 — Elementary Relational Reconfiguration Test
+
+**Objective:** Reinvestigate the foundational point identified in RT-009: an infinite relational substrate need not accommodate an additional effective object by providing an unused physical “room.” Test whether an effective excitation can instead be represented as a reconfiguration of relations on the same substrate.
+
+### Starting correction
+
+The Hilbert Hotel analogy supplies the mathematical intuition that an infinite arrangement can accommodate additional structure through reorganization. It does **not** imply that B∞ consists of an infinite set of physical slots.
+
+The physical-style question is therefore:
+
+[
+B_infty(C)ightarrow B_infty(C')
+]
+
+where (C') differs relationally from (C), while the underlying substrate itself need not acquire a new location.
+
+### Minimal relational model
+
+Represent the substrate by an ordered set of relational degrees of freedom
+
+[
+B={x_i},qquad iinmathbb Z,
+]
+
+with nearest-neighbour relational variables
+
+[
+r_i=x_{i+1}-x_i.
+]
+
+An effective localized excitation is represented not as a new node, but as a localized pattern in the relational variables:
+
+[
+Delta r_i=r_i-r_i^{(0)}.
+]
+
+The underlying substrate remains the same set of relational degrees of freedom before and after the excitation.
+
+### Test A — Reconfiguration without a new substrate slot
+
+Initial state:
+
+[
+r_i=r_i^{(0)}.
+]
+
+Introduce a localized relational disturbance over a finite region:
+
+[
+Delta r_i
+eq0
+]
+
+for (iin{j-m,ldots,j+m}).
+
+No new node is added.
+
+No existing node is removed.
+
+The new state is simply:
+
+[
+r_i'=r_i^{(0)}+Delta r_i.
+]
+
+Therefore the “object” can be represented as a change in the relational configuration:
+
+[
+oxed{
+	ext{effective excitation}
+=
+	ext{pattern in relations}
+}
+]
+
+rather than:
+
+[
+	ext{effective excitation}
+=
+	ext{new physical slot}.
+]
+
+### Test B — Propagation of the reconfiguration
+
+Use a local conservative update of the relational variables, schematically
+
+[
+Delta r_i(N+1)
+=
+Delta r_i(N)
++
+kappa[
+Delta r_{i-1}(N)-2Delta r_i(N)+Delta r_{i+1}(N)].
+]
+
+The update changes neighbouring relational values only.
+
+The disturbance therefore evolves as
+
+[
+C_0ightarrow C_1ightarrow C_2ightarrowcdots
+]
+
+without changing the underlying substrate cardinality.
+
+For sufficiently local (kappa), information about the disturbance propagates through successive relational neighbourhoods rather than appearing instantaneously everywhere.
+
+This connects directly with the earlier finite-causal-propagation results of 1.12.2.
+
+### Test C — Accommodation of additional effective structure
+
+Two localized relational patterns can be represented simultaneously:
+
+[
+Delta r_i=
+Delta r_i^{(A)}+Delta r_i^{(B)}
+]
+
+provided the relational dynamics permit superposition or sufficiently weak interaction.
+
+The substrate does not require:
+
+[
+	ext{slot A}+	ext{slot B}.
+]
+
+Instead:
+
+[
+oxed{
+	ext{additional effective structure}
+=
+	ext{additional relational pattern}
+}
+]
+
+This is the precise sense in which an unlimited relational substrate can “accommodate” additional effective structures.
+
+### Result A
+
+The Hilbert Hotel “room” is not required for the structural representation.
+
+[
+oxed{
+	ext{same substrate}
++
+	ext{different relational configuration}
+ightarrow
+	ext{different effective structure}
+}
+]
+
+### Result B
+
+The reconfiguration can naturally have an ordered history:
+
+[
+C_0ightarrow C_1ightarrow C_2ightarrowcdots
+]
+
+This supplies a clean dependency for the previously investigated interaction-count idea:
+
+[
+N=0,1,2,ldots
+]
+
+without first identifying (N) with physical seconds.
+
+### Result C
+
+The same relational disturbance can in principle carry:
+
+- localization;
+- propagation;
+- phase evolution;
+- information about its state.
+
+These are properties of the evolving relational configuration, not separate substrate containers.
+
+### Critical boundary
+
+This test **does not derive the S∞↔B∞ update law**.
+
+The local conservative rule above is itself a model assumption used to test the reconfiguration concept.
+
+Therefore the result is:
+
+[
+oxed{
+	ext{relational reconfiguration is a coherent mechanism}
+}
+]
+
+but not yet:
+
+[
+oxed{
+S_inftyleftrightarrow B_infty
+	ext{ uniquely requires this mechanism}
+}
+]
+
+Nor does this test yet derive particles, quantum mechanics, physical time, gravity, or a universal physical scale.
+
+### Status
+
+**🟢 STRUCTURAL TOY RESULT / 🔴 FUNDAMENTAL DERIVATION STILL OPEN**
+
+The important correction is validated at the representation level:
+
+[
+oxed{
+	ext{accommodation need not mean occupation of an empty room}
+}
+]
+
+The deeper unresolved question is now sharply isolated:
+
+[
+oxed{
+	ext{What principle of S∞↔B∞ determines the allowed relational reconfiguration law?}
+}
+]
+
+### Relation to 1.12 as a whole
+
+This result provides the missing conceptual bridge:
+
+[
+S_inftyleftrightarrow B_infty
+ightarrow
+	ext{relational reconfiguration}
+ightarrow
+	ext{ordered propagation}
+ightarrow
+	ext{information acquisition}
+ightarrow
+	ext{reconstruction}.
+]
+
+It therefore links the 1.12.1 quantum/mode line with the 1.12.2 causal/observable line without requiring physical units at this stage.
+
+### Protection
+
+Do not identify a relational pattern with a fundamental particle merely because it is localized. Do not interpret the substrate index (i) as already-derived physical space. Do not interpret update count (N) as physical time. These identifications remain downstream questions.
+
+### Next substantive gate
+
+The next test must therefore investigate the **selection principle for the reconfiguration rule itself**, using constraints already present in the S∞↔B∞ hypothesis rather than importing a generic lattice update.
+
+**Next node: PGA 1.12.1.14 — Relational Reconfiguration Selection / Constraint Test.**
