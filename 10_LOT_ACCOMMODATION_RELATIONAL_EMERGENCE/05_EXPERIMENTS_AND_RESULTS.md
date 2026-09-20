@@ -9053,3 +9053,337 @@ Test the minimal one-variable case:
 \]
 
 If a single \(q\) cannot do this, determine the minimum relational data required. This is preferable to adding arbitrary new variables.
+
+
+## Branch Audit — S∞ ↔ B∞ / Quantum-to-Geometry Bridge — 2026-09-20
+
+### Audit purpose
+
+Review the complete current 1.12 branch after PGA 1.12.4.24 and identify what is genuinely established, what is only a toy-model mechanism, what remains un-derived, and which gaps must be covered before the branch can make a candidate theory claim.
+
+### 1. Current surviving architecture
+
+The strongest current candidate chain is:
+
+\[
+S_\infty
+\rightarrow
+\text{relational multiplicity}
+\rightarrow
+\text{relational binding}
+\rightarrow
+\text{persistent collective entity}
+\rightarrow
+\text{collective response}
+\rightarrow
+\text{field-like propagation}
+\rightarrow
+\text{inhomogeneous propagation}
+\rightarrow
+\text{effective geometry}
+\rightarrow
+\text{intrinsic curvature}
+\rightarrow
+B_\infty.
+\]
+
+A second structural route is now connected to it:
+
+\[
+\text{relational link structure}
+\rightarrow
+\text{local redundancy / connection}
+\rightarrow
+\text{holonomy}
+\rightarrow
+\text{curvature}.
+\]
+
+PGA 1.12.4.23 established that these two curvature notions are not automatically identical. PGA 1.12.4.24 identified the stronger target: one primitive relational link structure should generate both transport/connection behaviour and collective propagation response.
+
+### 2. What currently survives
+
+**Structural/toy-level survivors**
+
+- C+T+O is the minimum logical skeleton for describing relational dynamics.
+- Local relational dynamics can produce finite causal propagation in suitable toy models.
+- Relational networks can produce collective modes and coarse-grained response.
+- Persistent relational connectivity can define a collective entity without requiring synchronized internal states.
+- A coherence-seeking local rule can generate persistent coherent groups, but coherence selection is not derived.
+- The same relational links can bind elements and transmit distributed response in harmonic toy models.
+- Distributed relational response can be represented as an effective field-like variable.
+- Linear relational dynamics can produce superposition.
+- Non-uniform relational response can modify propagation.
+- A suitable response tensor can be represented by an effective metric.
+- A chosen non-flat response profile can produce genuine intrinsic curvature.
+- A localized source can generate an inhomogeneous response which, under a chosen response-to-propagation coupling, produces a candidate curved effective geometry.
+- A relational difference-only model has a zero mode; with a justified shift redundancy, a restoring term is excluded within that model class and a long-range branch is possible.
+- Local relational redundancy requires link/connection structure if ordinary differences are to remain invariant.
+- Connection holonomy and effective-metric curvature can be linked only after additional compatibility structure.
+- One common relational dataset can support connection and response descriptions, but this is not yet a derivation from one primitive variable.
+
+### 3. What is explicitly NOT established
+
+The branch does not yet derive:
+
+\[
+\boxed{
+T\text{ (fundamental transition law)}
+}
+\]
+
+\[
+\boxed{
+\text{binding formation from }S_\infty\leftrightarrow B_\infty
+}
+\]
+
+\[
+\boxed{
+\text{coherence/group selection from foundational principles}
+}
+\]
+
+\[
+\boxed{
+\text{a unique collective field variable}
+}
+\]
+
+\[
+\boxed{
+\text{a unique response law or coupling}
+}
+\]
+
+\[
+\boxed{
+\text{long-range behaviour from }S_\infty\leftrightarrow B_\infty
+}
+\]
+
+\[
+\boxed{
+\text{3+1-dimensional Lorentzian spacetime}
+}
+\]
+
+\[
+\boxed{
+\text{physical time and universal }c
+}
+\]
+
+\[
+\boxed{
+\text{Einstein dynamics / GR}
+}
+\]
+
+\[
+\boxed{
+\text{quantum mechanics, }\hbar,\text{ Hilbert space, Born rule, entanglement}
+}
+\]
+
+### 4. Major methodological finding
+
+The branch has repeatedly encountered the same pattern:
+
+\[
+\text{desired property}
+\rightarrow
+\text{toy model can reproduce it}
+\]
+
+but:
+
+\[
+\text{desired property}
+\not\Leftarrow
+\text{current foundational principles}.
+\]
+
+This has occurred for:
+
+- persistence;
+- invariant/conservation structure;
+- synchronization;
+- binding;
+- field coupling;
+- long-range response;
+- metric/connection identification.
+
+This is not a weakness of the audit. It identifies the central scientific bottleneck:
+
+\[
+\boxed{
+\textbf{What selects the transition law and relational structure?}
+}
+\]
+
+### 5. Most important missing layer
+
+The deepest unresolved dependency is now below the field and geometry calculations:
+
+\[
+\boxed{
+S_\infty\leftrightarrow B_\infty
+\rightarrow
+\textbf{elementary relational reconfiguration}
+\rightarrow
+T
+}
+\]
+
+Until this layer is specified or derived, later structures can only be candidate mechanisms.
+
+This is consistent with RT-009 and the historical axiom recovery.
+
+### 6. Missing physics gates that must eventually be covered
+
+#### A. Fundamental relational dynamics
+- define admissible configurations;
+- derive/constrain T;
+- determine whether locality, reversibility, composition, path consistency and invariance follow;
+- establish whether binding is dynamically generated.
+
+#### B. Collective organization
+- derive link/binding formation;
+- distinguish binding from synchronization;
+- derive persistence/stability;
+- determine whether coherent groups are selected without agreement being inserted.
+
+#### C. Common field/geometry variable
+- test one primitive link variable q;
+- determine minimum relational data if one variable fails;
+- derive both connection and response from that data;
+- derive compatibility rather than impose it.
+
+#### D. Field dynamics
+- derive response equation;
+- derive source coupling;
+- determine range/screening;
+- test linear and nonlinear regimes;
+- establish finite propagation independently of chosen harmonic model.
+
+#### E. Geometry
+- derive 3 spatial dimensions rather than assume them;
+- derive temporal structure;
+- establish a Lorentzian signature if possible;
+- distinguish coordinate artifacts from intrinsic geometry;
+- derive curvature dynamically;
+- test equivalence/universal coupling.
+
+#### F. Gravity/GR
+- weak-field limit;
+- Newtonian potential;
+- universal/free-fall coupling;
+- tensorial response;
+- conservation/Bianchi consistency;
+- Einstein equation or a demonstrably equivalent effective dynamics;
+- gravitational-wave sector and two physical tensor modes.
+
+#### G. Quantum branch
+- elementary quantum state space;
+- noncommutative structure if required;
+- action/phase scale;
+- \(\hbar\) emergence or justified calibration;
+- Born rule;
+- entanglement/nonclassical correlations;
+- quantum measurement/observable structure.
+
+#### H. Cross-scale unification
+- identify the map from microscopic relational variables to collective variables;
+- establish controlled coarse-graining/continuum limit;
+- determine whether quantum and geometric descriptions are two regimes of the same substrate;
+- identify which quantities survive the scale transition.
+
+### 7. Priority ordering
+
+The branch should NOT attempt all missing gates simultaneously.
+
+The most efficient dependency order is:
+
+\[
+\boxed{
+1.\ T
+\rightarrow
+2.\ \text{binding}
+\rightarrow
+3.\ \text{common relational variable}
+\rightarrow
+4.\ \text{collective field}
+\rightarrow
+5.\ \text{dynamic geometry}
+\rightarrow
+6.\ \text{GR limit}
+}
+\]
+
+In parallel, the quantum branch should continue only where it depends on the same microscopic substrate:
+
+\[
+\boxed{
+T
+\rightarrow
+\text{relational modes}
+\rightarrow
+\text{quantum structure}
+}
+\]
+
+### 8. Immediate next substantive test
+
+The next substantive PGA should therefore be:
+
+\[
+\boxed{
+\textbf{PGA 1.12.4.25 — Single Relational Variable Test}
+}
+\]
+
+Question:
+
+> Can one primitive relational link variable \(q_{ij}\), with one local transition rule, simultaneously produce:
+>
+> 1. binding;
+> 2. distributed response;
+> 3. transport/holonomy;
+> 4. an effective propagation tensor?
+
+If yes, the branch gains a genuine common substrate candidate.
+
+If no, determine the **minimum** additional relational information required.
+
+No new field, metric, connection, or coupling should be added merely because it is needed for the desired outcome.
+
+### 9. Overall audit conclusion
+
+The branch has moved substantially beyond the original “infinity” analogy.
+
+Its strongest current scientific form is no longer:
+
+\[
+S_\infty\text{ and }B_\infty\text{ are two infinities}.
+\]
+
+It is:
+
+\[
+\boxed{
+\textbf{A relational microscopic system may organize into persistent collective structures whose distributed response can appear, at larger scales, as field and geometry.}
+}
+\]
+
+This is a **candidate research architecture**, not yet a physical theory.
+
+The central unresolved question is now sharply localized:
+
+\[
+\boxed{
+\textbf{What fundamental relational rule produces the links, binding, and collective response in the first place?}
+}
+\]
+
+That is the bottleneck to attack before adding more downstream physics.
