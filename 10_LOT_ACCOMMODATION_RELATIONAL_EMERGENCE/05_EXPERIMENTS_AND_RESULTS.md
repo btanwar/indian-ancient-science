@@ -407,3 +407,88 @@ Do not relabel a collective classical mode as an entangled quantum state.
 The research should now move one level deeper: determine whether there is any **pre-quantization algebraic structure** in S∞↔B∞—for example constrained composition, noncommuting transformations, or contextual state update—that can produce a quantum state space rather than merely coupled classical dynamics.
 
 **PGA 1.12.1.4** — test whether the relational composition/update algebra itself can generate noncommuting observables or an equivalent quantum structure, without postulating Hilbert-space quantum mechanics at the start.
+
+
+## E12 — PGA 1.12.1.4: Relational composition/update algebra test
+
+**Research Tree Node:** 1.12.1 — Quantized B∞ Modes  
+**PGA:** 1.12.1.4  
+**Objective:** Test whether the S∞↔B∞ relational composition/update rules themselves can generate noncommuting transformations, rather than inserting quantum commutators by assumption.
+
+### Minimal test
+
+Represent a local relational update as an operator acting on the background state. For two updates A and B, compare the two orders:
+
+A(B(X)) versus B(A(X)).
+
+Define the commutator-like difference
+
+[A,B]X = A(B(X)) - B(A(X)).
+
+A nonzero result would establish **order dependence of relational updates**.
+
+### Controlled toy construction
+
+Let X=(x,y) and define two shear-type relational updates:
+
+A(x,y) = (x + αy, y),
+
+B(x,y) = (x, y + βx).
+
+Then
+
+A∘B(x,y)
+= ((1+αβ)x + αy, y+βx),
+
+while
+
+B∘A(x,y)
+= (x+αy, βx + (1+αβ)y).
+
+For nonzero α and β these are generally different.
+
+Thus
+
+A∘B ≠ B∘A.
+
+### Critical audit
+
+This demonstrates that **noncommuting transformations can arise naturally from composition of relational updates**.
+
+However, noncommutativity alone is not quantum mechanics.
+
+The model has not derived:
+
+- Hermitian quantum observables;
+- canonical commutation relations;
+- Planck's constant;
+- Hilbert-space amplitudes;
+- Born probabilities;
+- quantum measurement statistics.
+
+Therefore the result is:
+
+**🟢 relational noncommutativity survives as a mathematical possibility**
+
+but
+
+**🔴 noncommutativity alone fails as a quantum-emergence mechanism.**
+
+### Important distinction
+
+The earlier branch had already recorded that **noncommutativity alone does not establish time or quantum mechanics**. This experiment sharpens that boundary:
+
+[
+	ext{order-dependent relational updates}
+
+eq
+	ext{quantum observables}.
+]
+
+The research value is that noncommutativity can now be treated as a possible structural ingredient rather than a claimed explanation.
+
+### Next question
+
+The next experiment should ask whether the relational update algebra can acquire the additional structure required for a physical observable algebra—especially a scale with the dimensions and empirical role of (hbar)—without inserting those structures by hand.
+
+**PGA 1.12.1.5** — dimensional/scale audit of the relational algebra and search for a dynamically generated action scale.
