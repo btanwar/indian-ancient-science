@@ -2,7 +2,7 @@
 # S∞ ↔ B∞ — Visual Master Research Tree
 
 **Canonical visual map:** RT-001  
-**Current node:** 🟡 **1.12.2.3 — Metric-Free Relational Time + c + Causal-Cone Test**
+**Current node:** 🟡 **1.12.2.4 — Independent Relational Space/Time Scale and Observer-Clock Consistency Test**
 
 ## Legend
 
@@ -276,6 +276,19 @@ Therefore the precise status is:
 - **Lorentzian spacetime from S∞ ↔ B∞:** 🔴 not derived.
 
 The next test must derive relational distance and operational duration from the same substrate and determine whether their ratio approaches a stable, isotropic, observer-independent propagation invariant without inserting c into the microscopic rules.
+
+
+
+### PGA 1.12.2.3 result
+
+A metric-free toy test used only relational graph distance D_G and causal update depth T_G. Organized local square/triangular connectivity produced finite causal cones with an internal ratio c_R = D_G/T_G = 1 relational link/update. The random 256-node 4-regular control again showed rapid reachability saturation rather than a geometric cone.
+
+**Status:** 🟢 finite local causal cone and internal dimensionless propagation ratio survive; 🔴 universal physical c, Lorentz invariance, and Lorentzian spacetime remain un-derived.
+
+The critical limitation is that distance and duration are still measured in the same substrate-defined units. The next required gate is independent scale generation and observer-clock consistency.
+
+**Next:** PGA 1.12.2.4 — Independent Relational Space/Time Scale and Observer-Clock Consistency Test.
+
 
 ### RT-004 Change Record
 
