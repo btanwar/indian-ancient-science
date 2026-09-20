@@ -224,3 +224,74 @@ This does not disprove 2D representation in general and does not establish any p
 
 ### Next PGA
 **PGA 1.6.4.2.2** — test a structured unfolding/flattening that deliberately preserves selected invariants such as connectivity and boundary structure.
+
+## 21. PGA 1.12.1.1 — Quantized B∞ modes
+
+**Research Tree Node:** 1.12.1 — Quantized B∞ Modes  
+**Objective:** Test whether the existing relational B∞ normal modes can provide a genuine quantum structure without silently inserting quantum mechanics.
+
+### Test
+
+A 5-node nearest-neighbour relational chain was diagonalized. The nonzero eigenvalues were approximately
+
+[
+0.38197,;1.38197,;2.61803,;3.61803,
+]
+
+with the zero eigenvalue corresponding to the free-chain uniform mode.
+
+Using (M=I), the corresponding classical frequencies are
+
+[
+omega_n=sqrt{lambda_n}.
+]
+
+Canonical quantization then gives the standard oscillator form
+
+[
+H_B=sum_nhbaromega_n(a_n^dagger a_n+1/2).
+]
+
+### Result
+
+The relational model **does provide a discrete collective-mode spectrum**.
+
+But canonical commutation relations, Hilbert-space structure, quantum states, and probability interpretation were supplied by the standard quantum formalism rather than derived from S∞ ↔ B∞.
+
+### Status
+
+**🟡 PARTIAL / BOUNDARY RESULT**
+
+The experiment establishes compatibility of the relational normal modes with canonical quantization. It does **not** establish emergence of quantum mechanics.
+
+This sharpens the research target:
+
+[
+	ext{Relational dynamics}
+ightarrow
+	ext{normal modes}
+]
+
+is supported at toy level, while
+
+[
+	ext{normal modes}
+ightarrow
+	ext{quantum theory}
+]
+
+remains open.
+
+### Protection
+
+Do not identify:
+
+[
+	ext{B∞ mode}=	ext{quantum particle}
+]
+
+without an independent derivation.
+
+### Next node
+
+**PGA 1.12.1.2** — investigate whether a pre-quantization relational mechanism can generate quantum-like state structure/interference or whether quantum postulates remain irreducibly additional assumptions.
