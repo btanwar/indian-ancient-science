@@ -8526,3 +8526,162 @@ and determine what additional relational structure is required for local changes
 
 This is the point where the branch can test whether the earlier gauge/relabeling idea has a genuine dynamical role rather than remaining a descriptive analogy.
 
+
+
+## P — PGA 1.12.4.22: Local Relational Redundancy / Gauge-Structure Test
+
+**Objective:** Test whether a local relabeling \(x_i\rightarrow x_i+a_i\) can preserve relational observables, and determine what additional structure is required.
+
+### 1. Question
+
+PGA 1.12.4.21 established that a global common shift is redundant when observables contain only differences:
+
+\[
+d_{ij}=x_i-x_j.
+\]
+
+The harder question is whether the shift can be local:
+
+\[
+x_i\rightarrow x_i+a_i.
+\]
+
+For an edge \((i,j)\),
+
+\[
+d'_{ij}=d_{ij}+a_i-a_j.
+\]
+
+Therefore ordinary differences are **not** invariant under arbitrary local shifts.
+
+### 2. Result
+
+A local redundancy cannot be obtained simply by declaring each node independently shiftable while retaining the same difference observable.
+
+To preserve local relabeling invariance, the relational variable itself must transform or be supplemented.
+
+Introduce an edge variable \(A_{ij}\) and define a covariant relational difference:
+
+\[
+D_{ij}x=x_i-x_j-A_{ij}.
+\]
+
+Under:
+
+\[
+x_i\rightarrow x_i+a_i,
+\]
+
+require:
+
+\[
+A_{ij}\rightarrow A_{ij}+a_i-a_j.
+\]
+
+Then:
+
+\[
+D'_{ij}x=D_{ij}x.
+\]
+
+Thus:
+
+\[
+\boxed{
+\text{local relational redundancy}
+\rightarrow
+\text{connection-like relational variable}
+}
+\]
+
+### 3. Interpretation
+
+This is a structural analogue of a gauge connection: local changes of representation cannot be absorbed by the node variables alone; the relations connecting neighbouring descriptions must transform with them.
+
+The important point for the present research is not to identify \(A_{ij}\) with electromagnetism or any known physical gauge field.
+
+The result is:
+
+\[
+\boxed{
+\text{local relational invariance requires relational structure on the links themselves.}
+}
+\]
+
+This is consistent with the earlier string/binding insight: the relation connecting elements may carry physical/structural information that cannot be reduced to the states of the individual elements.
+
+### 4. Zero-mode connection
+
+For the global case:
+
+\[
+a_i=a
+\]
+
+we recover:
+
+\[
+A_{ij}\rightarrow A_{ij},
+\]
+
+and the common shift remains a redundancy.
+
+Therefore the earlier zero mode is compatible with the broader local-redundancy construction.
+
+However, local redundancy by itself does not prove a long-range physical field. The connection may have its own dynamics and may acquire effective mass or screening depending on the allowed action.
+
+### 5. New structural chain
+
+The branch now has:
+
+\[
+\boxed{
+\text{individual states}
+\rightarrow
+\text{relations}
+\rightarrow
+\text{link structure}
+\rightarrow
+\text{local redundancy}
+\rightarrow
+\text{connection-like collective field}
+}
+\]
+
+This is a significant refinement of the earlier “string” idea.
+
+The string/reel analogy can now be interpreted as an extended relational structure whose links carry information about how neighbouring elements are related.
+
+### 6. Boundary
+
+This does **not** derive electromagnetism, Yang–Mills theory, or any known gauge theory.
+
+It also does not prove that the S∞↔B∞ substrate possesses local gauge redundancy.
+
+The transformation law was constructed to demonstrate consistency.
+
+### 7. Status
+
+**🟢 STRUCTURAL LEAD:** local relational redundancy naturally requires link/connection structure.
+
+**🟢 IMPORTANT CONNECTION:** the relation itself can become a dynamical/structural carrier, rather than merely a passive description of node states.
+
+**🔴 OPEN:** derive the connection structure from the fundamental relational transition law.
+
+### 8. Next decisive question
+
+Test whether the connection-like relational structure has its own closed-loop quantity:
+
+\[
+\boxed{
+\text{local relational connection}
+\rightarrow
+\text{closed-loop holonomy}
+\rightarrow
+\text{curvature}
+}
+\]
+
+and whether that curvature is the same geometric curvature already reached through the collective-response route, or a distinct relational curvature.
+
+This is the next major junction between the old gauge/holonomy branch and the new binding/field/geometry branch.
