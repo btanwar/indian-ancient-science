@@ -963,3 +963,217 @@ is a viable tested mechanism in a controlled relational network.
 
 **Next substantive question:** Can the same relational dynamics simultaneously produce stable effective structures, causal propagation, and the spectral structure required by the quantum branch without introducing separate mechanisms?
 
+
+
+---
+
+## PGA 1.12.2.8 — Integrated Relational Dynamics Test
+
+**Research Tree Node:** 1.12.2 — Observable Reconstruction / Information / Causality  
+**Objective:** Test whether the same relational substrate can simultaneously produce stable effective structures, spectral organization, and finite causal propagation, without introducing separate mechanisms for each phenomenon.
+
+### Construction
+
+A single weighted relational network was used for both spectral analysis and local propagation. The same coupling structure K was therefore responsible for:
+
+1. collective spectral modes;
+2. effective coarse-grained structure;
+3. local causal propagation.
+
+No independent object mechanism or propagation mechanism was added.
+
+### Result A — Effective structure
+
+The relational network contained three internally stronger relational regions with weaker inter-region coupling. Laplacian low-frequency structure and spectral clustering recovered the three effective regions.
+
+Baseline recovery:
+
+[
+\mathrm{ARI}=1.00
+]
+
+The low-frequency spectrum showed separated modes associated with the collective regional structure.
+
+### Result B — Finite propagation
+
+Using the same relational graph and local edge-by-edge update rule, a disturbance propagated with finite relational reach. Representative cumulative reach was:
+
+[
+1\rightarrow4\rightarrow17\rightarrow32\rightarrow51\rightarrow59\rightarrow60
+]
+
+over successive updates, with maximum relational distance increasing by one per update in the leading front.
+
+Thus the same relational substrate produced a finite causal cone.
+
+### Integrated result
+
+[
+\boxed{
+\text{one relational substrate}
+\rightarrow
+\begin{cases}
+\text{collective spectral structure}\\
+\text{stable effective structure}\\
+\text{finite causal propagation}
+\end{cases}}
+]
+
+This strengthens the cross-branch hypothesis that spectral organization and causal propagation need not be separate mechanisms.
+
+### Critical audit
+
+The three-region organization was deliberately encoded in the microscopic network through stronger intra-region and weaker inter-region coupling. Therefore the test does not establish spontaneous formation of physical objects.
+
+It also does not establish:
+
+- spectral cluster = particle;
+- propagation cone = physical spacetime;
+- relational propagation ratio = physical c;
+- quantum mechanics;
+- gravity.
+
+### Status
+
+**🟢 STRUCTURAL TOY RESULT**
+
+The surviving statement is:
+
+[
+\boxed{
+\text{relational coupling structure can simultaneously carry effective structure, spectral organization, and causal propagation.}
+}
+]
+
+### Research significance
+
+This result provides a concrete bridge between the observable/causal branch and the quantum/spectral branch. It supports testing whether one relational dynamics can supply the common substrate rather than assigning a separate mechanism to each phenomenon.
+
+---
+
+## PGA 1.12.2.9 — Relational Mode → Quantum-State Structure Test
+
+**Research Tree Node:** 1.12.2 / cross-branch quantum dependency  
+**Objective:** Determine whether the collective modes produced by the relational substrate themselves provide the mathematical state structure required for quantum mechanics, rather than being declared quantum states by interpretation.
+
+### Construction
+
+Starting from
+
+[
+M\ddot{x}+Kx=0
+]
+
+the relational modes satisfy
+
+[
+Ku_n=\lambda_nu_n
+]
+
+and the configuration can be expanded as
+
+[
+x(t)=\sum_n q_n(t)u_n.
+]
+
+The mode amplitudes therefore form a linear mode space.
+
+For each mode,
+
+[
+\ddot q_n+\omega_n^2q_n=0.
+]
+
+Introducing canonical variables gives the classical phase-space pair
+
+[
+(q_n,p_n)
+]
+
+and the corresponding classical Hamiltonian
+
+[
+H=\sum_n
+\left[
+\frac{p_n^2}{2M_n}
++
+\frac12M_n\omega_n^2q_n^2
+\right].
+]
+
+### Result
+
+The relational substrate naturally supplies:
+
+- collective normal modes;
+- a linear mode space;
+- classical superposition;
+- phase-space variables;
+- a Hamiltonian description of the collective modes.
+
+Formally, standard quantization can then produce
+
+[
+H=\sum_n\hbar\omega_n
+\left(a_n^\dagger a_n+\frac12\right).
+]
+
+However, this step introduces \(\hbar\) and the quantum commutation structure externally.
+
+### Critical audit
+
+The following remain un-derived:
+
+- Hilbert-space structure;
+- canonical quantum commutation relations;
+- \(\hbar\);
+- Born/probability interpretation;
+- quantum measurement;
+- nonclassical entanglement.
+
+Therefore:
+
+[
+\boxed{
+\text{relational modes}
+\rightarrow
+\text{classical phase space}
+}
+]
+
+is supported structurally, while
+
+[
+\boxed{
+\text{classical relational mode space}
+\rightarrow
+\text{quantum state space}
+}
+]
+
+remains an open gate.
+
+### Status
+
+**🟡 BOUNDARY RESULT**
+
+The test strengthens the common relational-mode framework but does not derive quantum mechanics.
+
+### Protection
+
+[
+\text{B∞ collective mode}\neq\text{quantum state}
+]
+
+unless an independent derivation supplies the missing quantum structure.
+
+### Next substantive gate
+
+Return to the unresolved action-scale problem from **PGA 1.12.1.5**, now using the integrated relational-mode framework:
+
+[
+\boxed{
+\text{Can an internal relational invariant generate a discrete action/phase scale without inserting }\hbar?
+}
+]
+
