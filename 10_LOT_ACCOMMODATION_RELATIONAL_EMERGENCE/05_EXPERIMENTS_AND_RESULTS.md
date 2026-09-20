@@ -7661,3 +7661,184 @@ The next test should move from merely representing a variable propagation medium
 \]
 
 This is the next geometric gate.
+
+
+## K — PGA 1.12.4.17: Intrinsic Curvature Gate
+
+**Objective:** Determine whether a non-uniform relational response can produce genuine intrinsic curvature, rather than merely a spatially varying propagation speed that can be removed or reinterpreted by coordinates.
+
+### 1. Question
+
+PGA 1.12.4.16 established:
+
+\[
+\text{relational inhomogeneity}
+\rightarrow
+\text{non-uniform propagation}
+\rightarrow
+\text{candidate effective metric}.
+\]
+
+The next geometric gate is:
+
+\[
+\boxed{
+\text{Does the effective relational geometry possess intrinsic curvature?}
+}
+\]
+
+### 2. Important distinction
+
+A position-dependent coefficient such as
+
+\[
+c_{\rm eff}(x)
+\]
+
+does not by itself prove curvature.
+
+A metric can have coordinate-dependent components while still representing flat geometry.
+
+Therefore the correct test is to construct an effective metric and calculate a coordinate-independent curvature quantity.
+
+### 3. Controlled construction
+
+Use a two-dimensional collective response tensor represented by a conformal metric:
+
+\[
+ds^2=e^{2\sigma(x,y)}(dx^2+dy^2).
+\]
+
+For this metric the Gaussian curvature is:
+
+\[
+K_G=-e^{-2\sigma}\nabla^2\sigma.
+\]
+
+Choose a non-harmonic relational-response profile, for example:
+
+\[
+\sigma(x,y)=a(x^2+y^2).
+\]
+
+Then:
+
+\[
+\nabla^2\sigma=4a
+\]
+
+and therefore:
+
+\[
+\boxed{
+K_G=-4a\,e^{-2a(x^2+y^2)}
+}
+\]
+
+which is nonzero for \(a\neq0\).
+
+### 4. Result
+
+The construction demonstrates:
+
+\[
+\boxed{
+\text{spatial variation of relational response}
+\rightarrow
+\text{non-flat effective metric}
+\rightarrow
+\text{intrinsic curvature}
+}
+\]
+
+when the response profile has the appropriate non-integrable/non-harmonic structure.
+
+This is stronger than simply observing a position-dependent propagation speed.
+
+### 5. Critical limitation
+
+The curved metric was **chosen through the response profile**; it was not dynamically derived from S∞↔B∞.
+
+Therefore this PGA establishes a mathematical route:
+
+\[
+C_{\rm eff}^{ij}(x)
+\rightarrow
+g_{ij}(x)
+\rightarrow
+R[g]\neq0,
+\]
+
+but not the physical derivation:
+
+\[
+S_\infty\leftrightarrow B_\infty
+\Rightarrow
+g_{ij}
+\Rightarrow
+R[g].
+\]
+
+That distinction must remain explicit.
+
+### 6. Relation to the binding/field picture
+
+The candidate architecture is now:
+
+\[
+\boxed{
+\text{individual relations}
+\rightarrow
+\text{binding}
+\rightarrow
+\text{collective response}
+\rightarrow
+\text{field-like influence}
+\rightarrow
+\text{inhomogeneous propagation}
+\rightarrow
+\text{intrinsic curvature}
+}
+\]
+
+This is the first point in the current branch where the collective-field idea reaches a mathematically genuine geometric quantity.
+
+### 7. Relation to gravity
+
+Intrinsic curvature is a necessary ingredient of general-relativistic geometry, but:
+
+\[
+\boxed{
+\text{curvature}\neq\text{Einstein gravity}
+}
+\]
+
+We still need, among other things:
+
+- a dynamical law for the effective geometry;
+- temporal structure;
+- appropriate spacetime signature;
+- coupling to energy/matter;
+- universal/free-fall coupling;
+- an appropriate weak-field/Newtonian limit;
+- ultimately an Einstein-equation or equivalent recovery test.
+
+### 8. Status
+
+**🟢 GEOMETRIC LEAD:** an effective relational response can be represented by a metric with genuine intrinsic curvature.
+
+**🟢 STRONGER THAN PGA 1.12.4.16:** the test distinguishes curvature from mere coordinate-dependent propagation variation.
+
+**🔴 OPEN:** the curved response profile must eventually be derived rather than chosen.
+
+### 9. Next decisive question
+
+The next gate is:
+
+\[
+\boxed{
+\text{Can the relational collective response dynamically generate its own curvature profile?}
+}
+\]
+
+In particular, test whether a localized relational source can produce a self-consistent curved effective geometry rather than prescribing \(\sigma(x,y)\) by hand.
