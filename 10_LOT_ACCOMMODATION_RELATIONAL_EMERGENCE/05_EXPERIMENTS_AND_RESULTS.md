@@ -8385,3 +8385,144 @@ Test whether the same relational invariance can be obtained from **relabeling/ga
 \text{Can the zero mode emerge from relational redundancy itself?}
 }
 \]
+
+
+## O — PGA 1.12.4.21: Relational Redundancy → Zero-Mode Test
+
+**Objective:** Test whether the shift symmetry used in PGA 1.12.4.20 can arise as a representation redundancy of relational data, rather than being introduced as an independent physical symmetry.
+
+### 1. Question
+
+PGA 1.12.4.20 established:
+
+\[
+\text{difference-only relational structure}
+\rightarrow
+\text{uniform-shift zero mode}
+\rightarrow
+\text{absence of a restoring term}
+\rightarrow
+\text{long-range branch}.
+\]
+
+The next question is:
+
+\[
+\boxed{
+\text{Can the uniform shift be interpreted as a redundancy of relational description?}
+}
+\]
+
+### 2. Relational observables
+
+Suppose microscopic coordinates \(x_i\) are not directly observable. The primitive observables are pairwise differences:
+
+\[
+d_{ij}=x_i-x_j.
+\]
+
+Under:
+
+\[
+x_i\rightarrow x_i+a
+\]
+
+all relational observables remain unchanged:
+
+\[
+d'_{ij}=d_{ij}.
+\]
+
+Therefore the transformation changes the representation but not the relational configuration accessible through \(d_{ij}\).
+
+### 3. Result
+
+For a connected relational network, the map from \(x\) to all pairwise differences has a one-dimensional null space:
+
+\[
+x\sim x+a\mathbf1.
+\]
+
+Thus:
+
+\[
+\boxed{
+\text{relational observables alone}
+\rightarrow
+\text{uniform-shift redundancy}
+}
+\]
+
+and the corresponding Laplacian zero mode is not merely a numerical accident; it reflects the fact that absolute common offset is absent from the chosen relational description.
+
+### 4. Important qualification
+
+This result depends on choosing pairwise differences as the complete primitive observable set.
+
+C+T+O does not itself prove that all observables must be differences.
+
+Therefore the correct statement is:
+
+\[
+\boxed{
+\text{If physical observables are purely relational differences,}
+\text{ then a common shift is descriptive redundancy.}
+}
+\]
+
+We must not yet state:
+
+\[
+S_\infty\leftrightarrow B_\infty
+\Rightarrow
+\text{shift redundancy}.
+\]
+
+### 5. Deeper implication
+
+This creates a possible chain:
+
+\[
+\boxed{
+\text{relational observability}
+\rightarrow
+\text{representation redundancy}
+\rightarrow
+\text{zero mode}
+\rightarrow
+\text{massless/long-range sector}
+}
+\]
+
+This is conceptually important because the selection principle is no longer an arbitrary preference for long-range behaviour. It can arise from what information the relational system considers physically distinguishable.
+
+### 6. Connection to gauge/relabeling principle
+
+This is closely related to the historical A8-c candidate:
+
+> descriptive labels should not alter physical relational content.
+
+The common shift is a simple toy realization of that idea.
+
+However, a full gauge theory requires more than one global shift. Local gauge redundancy and its associated constraints have not been derived.
+
+### 7. Status
+
+**🟢 STRONG STRUCTURAL LEAD:** when observables are purely relational differences, common absolute offset becomes redundant.
+
+**🟢 NEW CONNECTION:** representation redundancy can generate a zero mode without separately postulating a restoring-term prohibition.
+
+**🔴 OPEN:** derive the relational-only observable structure from S∞↔B∞ and determine whether the redundancy is global or local.
+
+### 8. Next decisive question
+
+The next test should generalize from a global common shift to **local relational relabeling**:
+
+\[
+x_i\rightarrow x_i+a_i
+\]
+
+and determine what additional relational structure is required for local changes of representation to leave physical observables unchanged.
+
+This is the point where the branch can test whether the earlier gauge/relabeling idea has a genuine dynamical role rather than remaining a descriptive analogy.
+
