@@ -1578,3 +1578,228 @@ unless an independent derivation establishes the physical correspondence.
 The next PGA should therefore test whether the **relational substrate itself contains a dynamically selected dimensional scale**, rather than adding one through (I), (T), lattice spacing, or normalization.
 
 **Next node: PGA 1.12.1.8 — Intrinsic Relational Scale / Dimensionful-Invariant Test.**
+
+
+---
+
+## PGA 1.12.1.8 — Intrinsic Relational Scale / Dimensionful-Invariant Test
+
+**Objective:** Test whether the relational substrate itself can generate a dimensionful invariant, rather than importing one through lattice spacing, mass, time normalization, inertia, or action normalization.
+
+### Starting question
+
+PGA 1.12.1.7 established that compact topology gives discrete sectors but does not fix
+
+[
+S_0=rac{2pi^2I}{T}.
+]
+
+PGA 1.12.1.8 therefore asks whether an intrinsic relational model can remove this remaining scale freedom.
+
+### Test construction
+
+Consider the relational dynamics
+
+[
+Mddot{x}+Kx=0.
+]
+
+Under a common rescaling of the underlying dimensional quantities, the dimensionless structure of the model can remain unchanged while dimensional quantities such as frequency, length, duration, and action scale change.
+
+For example, normal-mode frequencies satisfy
+
+[
+omega_n^2sim rac{lambda_n(K)}{M}.
+]
+
+The ratios
+
+[
+rac{omega_n}{omega_m}
+=
+sqrt{rac{lambda_n}{lambda_m}}
+]
+
+can therefore be invariant while the absolute frequency scale remains adjustable.
+
+Likewise, normalized graph quantities such as
+
+[
+rac{lambda_n}{lambda_m},qquad
+rac{D_G(A,B)}{D_G(C,D)},qquad
+rac{S_n}{S_m}
+]
+
+can be dimensionless invariants without fixing an absolute physical unit.
+
+### Scale transformation audit
+
+Let
+
+[
+Kightarrow alpha K,qquad Mightarrow M.
+]
+
+Then
+
+[
+omega_nightarrowsqrt{alpha},omega_n,
+]
+
+while
+
+[
+rac{omega_n}{omega_m}
+]
+
+is unchanged.
+
+Similarly, if the action normalization is multiplied by an arbitrary positive constant,
+
+[
+Sightarroweta S,
+]
+
+the discrete winding structure
+
+[
+ninmathbb Z
+]
+
+and all dimensionless ratios remain unchanged, while the absolute action scale changes.
+
+Thus the relational pattern can remain identical under a dimensional rescaling.
+
+### Result A — Dimensionless relational structure is insufficient
+
+The present relational substrate naturally generates:
+
+- mode ordering;
+- eigenvalue ratios;
+- graph-distance ratios;
+- winding integers;
+- normalized spectral gaps;
+- dimensionless propagation ratios.
+
+But none of these, by themselves, fixes a unique dimensional value for:
+
+[
+	ext{length},quad
+	ext{duration},quad
+	ext{energy},quad
+	ext{action}.
+]
+
+Therefore:
+
+[
+oxed{
+	ext{dimensionless relational invariants}
+
+eq
+	ext{dimensionful physical scale}
+}
+]
+
+### Result B — A hidden dimensional parameter cannot be counted as emergence
+
+A scale can certainly be introduced through quantities such as
+
+[
+a,;m,;I,;T,;K,;hbar
+]
+
+or equivalent normalization choices.
+
+But if changing that parameter leaves the dimensionless relational structure intact, then the parameter is functioning as an external calibration rather than something derived by the S∞↔B∞ mechanism.
+
+Therefore:
+
+[
+oxed{
+	ext{parameter insertion}
+
+eq
+	ext{scale emergence}
+}
+]
+
+### Result C — The scale problem is now more sharply defined
+
+The remaining requirement is not simply “find a number.”
+
+The model needs a mechanism that **breaks the dimensional rescaling freedom internally**.
+
+Schematically:
+
+[
+S_inftyleftrightarrow B_infty
+ightarrow
+	ext{intrinsic relational dynamics}
+ightarrow
+oxed{	ext{scale-selection mechanism}}
+ightarrow
+egin{cases}
+c\
+hbar\
+	ext{other physical scales}
+end{cases}
+]
+
+The scale-selection mechanism itself must be derived rather than inserted.
+
+### Status
+
+**🔴 NO INTRINSIC DIMENSIONFUL INVARIANT FOUND IN THE CURRENT MODEL**
+
+This does **not** prove that S∞↔B∞ cannot generate physical scales. It establishes only that the current linear/compact relational constructions do not do so.
+
+### Important consequence
+
+The research should not continue trying to extract (hbar) directly from compactness alone.
+
+The more fundamental question is now:
+
+[
+oxed{
+	ext{What additional relational structure can dynamically break scale invariance?}
+}
+]
+
+Candidate mechanisms to test, without assuming their physical interpretation:
+
+1. nonlinear self-interaction;
+2. spontaneous scale selection / preferred equilibrium;
+3. competing relational couplings;
+4. finite-size or boundary-selected scale;
+5. topological sector coupled to dynamical amplitude;
+6. dimensional transmutation-like behavior;
+7. coupled S∞–B∞ scale feedback.
+
+Any candidate must pass the rescaling audit: if its apparent scale can be removed by a change of units or normalization while all observables remain equivalent, it has not generated a physical scale.
+
+### Protection
+
+Do not identify any emergent numerical scale with (c), (hbar), mass, charge, or another physical constant until the relevant dimensional units and operational observables are independently derived.
+
+### Cross-branch significance
+
+PGA 1.12.1.8 strengthens the connection between the quantum and causal branches:
+
+[
+oxed{
+	ext{quantum scale problem}
+leftrightarrow
+	ext{causal }c	ext{ scale problem}
+}
+]
+
+Both currently reach the same boundary:
+
+[
+oxed{
+	ext{relational structure is producing ratios and discrete structure, but not yet an absolute physical calibration.}
+}
+]
+
+**Next substantive gate:** search for an internally selected scale through nonlinear relational dynamics rather than through normalization.
