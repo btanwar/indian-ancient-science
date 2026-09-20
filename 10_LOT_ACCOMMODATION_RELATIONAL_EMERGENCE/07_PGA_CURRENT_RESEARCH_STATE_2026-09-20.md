@@ -378,3 +378,31 @@ The model has an action dimension, but it does not derive ℏ. ℏ must not be i
 ### Next node
 
 **PGA 1.12.1.6** — test whether a compact or topological relational degree of freedom can generate a discrete invariant and thereby remove the continuous action-scale freedom.
+
+
+## 26. PGA 1.12.2.2 — Observable Reconstruction / Emergent-c Audit
+
+The historical framing–sampling–coverage–sequence line was audited before opening a new experiment. Existing work establishes, at toy level, physical information acquisition, accumulated coverage → reconstruction, compatible reconstruction from different information subsets, and local causal precedence. The event-network test reconstructs a global **partial causal order** from local constraints without a global clock.
+
+The branch does **not** yet derive a unique global time, continuous physical time, or an observer-independent temporal scale.
+
+The audit also recovered earlier emergent-c work. Finite propagation fronts were obtained in local/discrete toy models, including c_D = a√(κ/m) and c* = ℓ*/τ*. A random 256-node 4-regular graph failed to produce a causal cone, while ordered-local dynamics produced a finite cone but retained a preferred microscopic frame. Fixed-lattice dispersion v_g = c_D cos(ka/2) therefore does not establish Lorentz invariance.
+
+The correct boundary is:
+
+**Finite propagation speed: 🟢 demonstrated in toy models.**  
+**Universal observer-independent physical c: 🔴 not derived.**  
+**Lorentz invariance: 🔴 not derived.**  
+**Lorentzian spacetime from S∞ ↔ B∞: 🔴 not derived.**
+
+A previous sampling-frequency = c idea was rejected dimensionally (1/s versus m/s). The refined target is a ratio of two independently emergent relational quantities:
+
+c* = emergent relational distance / emergent relational duration.
+
+### Branch closure
+
+**PGA 1.12.2.2:** 🟡 PARTIAL SUCCESS / OPEN GATE. The branch has established lower-layer reconstruction and causal-order structure and has demonstrated finite propagation in suitable toy models, but the integrated derivation of time + distance + universal c + observer-independent causal structure remains open.
+
+**Next node: PGA 1.12.2.3 — Metric-Free Relational Time + c + Causal-Cone Test.**
+
+This next test must not insert coordinates, metric, physical time, or c into the microscopic rules.
