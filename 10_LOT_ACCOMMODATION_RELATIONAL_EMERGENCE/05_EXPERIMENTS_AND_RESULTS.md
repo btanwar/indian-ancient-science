@@ -5066,7 +5066,8 @@ The test requires one microscopic relational model to generate, under different 
 
 [
 mathcal R_{micro}
-ightarrow
+
+ightarrow
 egin{cases}
 mathcal Q_{eff} & 	ext{microscopic/quantum-compatible description}\
 mathcal G_{eff} & 	ext{collective/geometric description}
@@ -5085,10 +5086,13 @@ Use a periodic nearest-neighbour relational chain with microscopic coordinates (
 H=
 sum_i
 left[
-rac{p_i^2}{2m}
+
+rac{p_i^2}{2m}
 +
-rac{k}{2}(x_{i+1}-x_i)^2
-ight]
+
+rac{k}{2}(x_{i+1}-x_i)^2
+
+ight]
 +
 V_	heta(	heta_{i+1}-	heta_i).
 ]
@@ -5098,7 +5102,8 @@ The microscopic update rule is taken to preserve the same local relational archi
 The collective coarse variable is
 
 [
-Q_a=rac1bsum_{iin a}x_i.
+Q_a=
+rac1bsum_{iin a}x_i.
 ]
 
 The collective response is characterized by
@@ -5180,7 +5185,8 @@ The collective response depends on coarse-grained correlations of these variable
 
 [
 mathcal C({x_i,p_i,	heta_i})
-ightarrow
+
+ightarrow
 (A_{eff},C^{ij}_{eff}).
 ]
 
@@ -5245,7 +5251,8 @@ The branch can now state a precise candidate architecture:
 [
 oxed{
 	ext{one microscopic relational system}
-ightarrow
+
+ightarrow
 egin{array}{c}
 	ext{quantum-compatible microscopic description}\
 	ext{collective geometric description}
@@ -5325,4 +5332,213 @@ If such a relation appears and survives changes of system size, coarse-graining 
 **🟡 OPEN:** a quantitative, non-arbitrary mapping between the two effective descriptions.
 
 **🔴 NOT DERIVED:** QM or GR.
+
+
+## E — PGA 1.12.4.5: Cross-Scale Correlated Observable Test
+
+**Research Tree Node:** 1.12.4 — Quantum-to-Geometry Bridge  
+**PGA:** 1.12.4.5  
+**Objective:** Apply one microscopic perturbation to a common relational model and determine whether microscopic quantum-compatible observables and collective/geometric observables change in a correlated, parameter-independent way.
+
+### 1. Test construction
+
+A periodic relational chain was extended with a compact phase sector coupled to the displacement sector:
+
+[
+H=
+sum_i
+\left[
+\frac{p_i^2}{2m}
++
+\frac{k}{2}(x_{i+1}-x_i)^2
+\right]
++
+\frac{g}{2}
+sum_i
+\left[
+(\theta_{i+1}-\theta_i)
+-
+\alpha(x_{i+1}-x_i)
+\right]^2 .
+]
+
+A localized microscopic source was applied to one displacement degree of freedom.
+
+Two classes of observables were then measured:
+
+1. **phase-sector observable:** norm of the phase-gradient response;
+2. **relational/geometric observable:** norm of the displacement-gradient response.
+
+The purpose was not to assume that either observable is already a quantum or gravitational observable. They are proxies for the two effective sectors identified in PGAs 1.12.4.1–1.12.4.4.
+
+### 2. Result A — correlated response exists
+
+For fixed (alpha=0.7), changing the microscopic coupling (g) changed both sectors.
+
+Representative values were:
+
+| (g) | Phase-gradient response | Displacement-gradient response | Ratio |
+|---:|---:|---:|---:|
+| 0.1 | 0.1548 | 2.2116 | 0.0700 |
+| 0.2 | 0.2998 | 2.1412 | 0.1400 |
+| 0.4 | 0.5785 | 2.0661 | 0.2800 |
+| 0.8 | 1.1991 | 2.1412 | 0.5600 |
+| 1.6 | 4.8833 | 4.3601 | 1.1200 |
+
+Thus one common microscopic perturbation can produce simultaneous changes in both sectors.
+
+### Result A
+
+[
+\boxed{
+\text{one relational perturbation can correlate microscopic phase response and collective response}
+}
+]
+
+This supports the possibility of a shared-substrate description.
+
+### 3. Result B — the correlation is NOT universal
+
+The response ratio varies approximately with the microscopic coupling:
+
+[
+\frac{R_\theta}{R_x}
+\approx
+\alpha g
+]
+
+for the tested parameter range.
+
+Therefore the correlation is not a parameter-free law.
+
+This is the critical result.
+
+The common response occurs because the model explicitly contains a coupling (galpha) between the two sectors.
+
+### Result B
+
+[
+\boxed{
+\text{correlated response} \neq \text{derived quantum-geometry relation}
+}
+]
+
+The test therefore prevents an important overclaim.
+
+A shared microscopic perturbation alone is insufficient. The theory would need to derive the cross-sector coupling from the deeper S∞ ↔ B∞ relational structure.
+
+### 4. Parameter-dependence audit
+
+The experiment was deliberately varied in coupling strength rather than tuned to one preferred value.
+
+The resulting change in the ratio demonstrates that the mapping
+
+[
+\mathcal Q_{eff}
+\leftrightarrow
+\mathcal G_{eff}
+]
+
+is currently model-parameter dependent.
+
+Therefore there is no evidence yet for a universal relation of the form
+
+[
+F(\mathcal Q_{eff},\mathcal G_{eff})=0
+]
+
+independent of the chosen microscopic coupling.
+
+### 5. What survives
+
+The following structural statement survives:
+
+[
+\boxed{
+\text{a common microscopic substrate can carry correlated information into two effective sectors}
+}
+]
+
+This is compatible with the central S∞ ↔ B∞ hypothesis.
+
+### 6. What fails
+
+The stronger statement fails at the present stage:
+
+[
+\boxed{
+\text{the current toy model does not derive a universal quantum-to-geometry mapping}
+}
+]
+
+The coupling connecting the two sectors was explicitly introduced.
+
+Therefore this PGA does not constitute evidence that the coupling itself is fundamental.
+
+### 7. Why this is still a useful lead
+
+The negative result identifies the precise bottleneck.
+
+We do **not** need another generic analogy.
+
+We need to determine whether the cross-sector coupling (galpha) can itself emerge from the fundamental relational transition structure:
+
+[
+C,T,O
+quadlongrightarrowquad
+\text{cross-sector coupling}.
+]
+
+If it can be derived rather than inserted, the same test becomes substantially more significant.
+
+### 8. Revised bridge architecture
+
+The research tree can now be written:
+
+[
+\boxed{
+C,T,O
+\rightarrow
+\text{microscopic relational dynamics}
+\rightarrow
+\begin{cases}
+\mathcal Q_{eff}\\
+\mathcal G_{eff}
+\end{cases}
+}
+]
+
+with the missing arrow explicitly identified as
+
+[
+\boxed{
+\text{derive the coupling between }\mathcal Q_{eff}
+\text{ and }\mathcal G_{eff}.
+}
+]
+
+### 9. Status
+
+**🟢 SURVIVES:** common microscopic perturbations can correlate phase-sector and collective-response observables.
+
+**🔴 FAILS as a universal bridge:** the correlation depends on explicitly introduced coupling parameters.
+
+**🟢 IMPORTANT NEGATIVE RESULT:** the experiment identifies the exact missing ingredient rather than merely reporting “correlation.”
+
+### Next decisive experiment
+
+**PGA 1.12.4.6 — Cross-Sector Coupling Derivation Test**
+
+Remove the freely chosen (galpha) coupling as an independent input.
+
+Starting from the previously retained relational structure, test whether a coupling between the microscopic phase/update sector and collective response is forced by:
+
+- relational composition;
+- locality;
+- path consistency;
+- closure;
+- compact relational structure;
+- or another already justified foundational principle.
+
+If no coupling is forced, record that as a structural boundary rather than tuning one into existence.
 
