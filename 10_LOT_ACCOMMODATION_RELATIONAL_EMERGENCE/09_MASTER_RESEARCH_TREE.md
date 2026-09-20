@@ -631,3 +631,26 @@ The unresolved quantum gate returns to **PGA 1.12.1.5 — Relational action-scal
 - **PGA 1.12.2.9 preserved:** relational collective modes reach a classical phase-space/Hamiltonian boundary but do not derive quantum state structure.
 - **Cross-branch dependency recorded:** the 1.12.2 results now feed the quantum action-scale gate rather than creating a separate quantum mechanism.
 - **Research protection preserved:** collective mode ≠ quantum state; causal propagation ≠ physical c; effective structure ≠ particle.
+
+
+---
+
+## RT-008 — Relational Structure Before Physical Calibration
+
+**Scope:** 1.12.1 scale/action branch
+
+A methodological clarification has been added: physical-unit calibration is a later layer and must not be used as the sole criterion for accepting or rejecting an underlying relational result.
+
+[
+	ext{derive relational structure}
+ightarrow
+	ext{derive relational laws}
+ightarrow
+	ext{identify observables}
+ightarrow
+	ext{physical calibration}
+]
+
+This applies particularly to PGA 1.12.1.6 (discrete sectors), PGA 1.12.1.9 (interaction ordering/candidate clock), and PGA 1.12.1.10 (internal relational universality).
+
+The clarification does not change experiment results; it changes the interpretation hierarchy.
