@@ -561,3 +561,56 @@ A future derivation would therefore need an additional dimensionless invariant, 
 The quantum branch should now investigate whether a **compact/topological relational degree of freedom** can introduce a discrete invariant that removes the continuous action-scale freedom.
 
 **PGA 1.12.1.6** — test compact phase/topological quantization as a possible source of a discrete action scale.
+
+
+## E14 — PGA 1.12.2.2: Observable Reconstruction / Emergent Time / Emergent-c Audit
+
+**Research Tree Node:** 1.12.2 — Observable Reconstruction / Time / Causal Ordering  
+**PGA:** 1.12.2.2  
+**Status:** 🟡 PARTIAL SUCCESS / OPEN GATE
+
+### Branch purpose
+Audit the earlier framing–sampling–coverage–sequence–reconstruction work and determine whether it established emergent time, observer-independent temporal scale, finite causal speed, and Lorentzian spacetime.
+
+### Historical findings
+- Physical information acquisition: 🟢 toy-level support.
+- Accumulated coverage → reconstruction/frame: 🟢 toy-level support.
+- Different information subsets → compatible reconstruction: 🟢 toy-level support, with geometry still present in the toy substrate.
+- Local causal precedence without a global clock: 🟢 toy-level support.
+- Global causal ordering: 🟢 reconstructed as a DAG/topological partial order.
+- Unique global sequence: 🔴 not established and not required; causally incomparable events remain possible.
+- Continuous physical time: 🔴 not derived.
+- Observer-independent temporal scale: 🔴 not derived.
+
+### Emergent-c audit
+Earlier work did investigate finite propagation. Discrete/local models produced finite causal fronts with representative scale c_D = a√(κ/m), and long-wavelength behavior ω ≈ c_D k. Ordered-local dynamics similarly produced c* = ℓ*/τ* and a finite causal front.
+
+These results establish **finite propagation in toy models**, not a universal physical speed c.
+
+A random 256-node 4-regular network instead produced rapid reachability saturation and failed to produce a geometric causal cone.
+
+A fixed lattice produced finite propagation and approximate IR linearity but retained a preferred microscopic frame, with v_g = c_D cos(ka/2). Therefore exact Lorentz invariance was not derived.
+
+The earlier dimensional audit also rejected identifying ordinary sampling frequency with c because 1/s ≠ m/s. The refined hypothesis is c* = emergent relational distance / emergent relational duration.
+
+### Lorentz audit
+Three requirements were identified for a stronger emergent Lorentz claim:
+
+1. isotropy;
+2. universal low-energy propagation speed;
+3. observer-independent reconstruction of the same causal/null structure.
+
+The existing experiments do not establish all three simultaneously. A mathematical Lorentz reconstruction from an already-given causal structure was demonstrated, but the causal structure itself has not yet been derived from the microscopic S∞ ↔ B∞ substrate.
+
+### Corrected result
+The previous coarse statement "finite causal speed c not demonstrated" is too broad. The correct statement is:
+
+> **Finite propagation speed has been demonstrated in several toy relational models; a universal, observer-independent physical c has not been derived. Lorentzian spacetime has not been derived.**
+
+### Closure
+PGA 1.12.2.2 is closed as a **partial-success audit checkpoint**, not as a failed branch.
+
+### Next node
+**PGA 1.12.2.3 — Metric-Free Relational Time + c + Causal-Cone Test.**
+
+The next test must remove coordinates, metric, physical time, and assumed c from the microscopic rules and measure relational ordering, distance, operational duration, propagation reach, isotropy, observer reconstruction, and dispersion.
