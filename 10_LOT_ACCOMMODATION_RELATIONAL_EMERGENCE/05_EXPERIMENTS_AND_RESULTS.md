@@ -9886,3 +9886,192 @@ S_{ij}\neq S_i\times S_j
 and ask whether a relation \(q_{ij}\) becomes an unavoidable property of the combined microscopic state rather than an independently added variable.
 
 If it does, this could provide the first concrete S∞ → relation mechanism feeding the B∞ branch.
+
+
+## U — PGA 1.12.4.27: Non-Factorizable S∞ Relational State Test
+
+**Objective:** Test whether a microscopic relational state can make the relation \(q_{ij}\) an intrinsic part of the S∞ configuration rather than an independently added coupling variable.
+
+### 1. Question
+
+PGA 1.12.4.26 opened the S∞ side:
+
+\[
+S_{ij}\neq S_i\times S_j.
+\]
+
+The test is whether non-factorizability itself can generate a relational quantity.
+
+### 2. Minimal construction
+
+Take two microscopic degrees of freedom \(s_i,s_j\) and define a constrained joint state:
+
+\[
+\mathcal C_{ij}
+=
+\{(s_i,s_j):F(s_i,s_j)=0\}.
+\]
+
+Define the relational quantity:
+
+\[
+q_{ij}=Q(s_i,s_j)
+\]
+
+on the allowed joint configuration.
+
+Compare this with the factorized state space:
+
+\[
+\mathcal C_{\rm fact}=\mathcal C_i\times\mathcal C_j,
+\]
+
+where \(s_i\) and \(s_j\) can vary independently.
+
+### 3. Test result
+
+In the constrained case, changing \(s_i\) generally restricts the allowed values of \(s_j\), and vice versa.
+
+Therefore the relational quantity \(q_{ij}\) is determined by the joint admissible configuration rather than being an independent variable:
+
+\[
+\boxed{
+\text{non-factorizable configuration}
+\rightarrow
+\text{intrinsic relational dependence}
+}
+\]
+
+A simple example is:
+
+\[
+s_j=f(s_i),
+\qquad
+q_{ij}=Q(s_i,f(s_i)).
+\]
+
+The relation is then part of the definition of the allowed microscopic state.
+
+### 4. Factorized control
+
+For:
+
+\[
+\mathcal C_{\rm fact}=\mathcal C_i\times\mathcal C_j
+\]
+
+no such dependence is forced.
+
+Thus:
+
+\[
+\boxed{
+\text{factorized state}
+\not\Rightarrow
+\text{intrinsic }q_{ij}
+}
+\]
+
+This gives a clean contrast between independent microscopic degrees of freedom and intrinsically relational microscopic configurations.
+
+### 5. Important limitation
+
+The constraint
+
+\[
+F(s_i,s_j)=0
+\]
+
+was chosen for the toy model.
+
+Therefore the test does **not** derive non-factorizability from S∞↔B∞.
+
+It establishes only:
+
+\[
+\boxed{
+\text{if S∞ states are intrinsically non-factorizable, relational quantities can be intrinsic rather than separately added.}
+}
+\]
+
+### 6. Relation to earlier branches
+
+This result connects to earlier work on:
+
+- coupled-subsystem nonseparability;
+- relational object identity;
+- compact phase;
+- interaction ordering;
+- noncommuting relational updates.
+
+However, it must not be called quantum entanglement. Non-factorizability in a classical constrained state space is sufficient for this structural test.
+
+### 7. New S∞ interpretation
+
+The S∞ side can now be represented as:
+
+\[
+\boxed{
+S_\infty
+=
+\text{microscopic configurations whose admissible states may be intrinsically relational}
+}
+\]
+
+rather than:
+
+\[
+S_\infty=\text{independent particles}.
+\]
+
+If this survives further tests, the elementary relation need not be a force or an externally imposed string. It can be part of the microscopic state itself.
+
+### 8. Connection to B∞
+
+The candidate two-sided chain becomes:
+
+\[
+S_\infty
+\rightarrow
+\text{intrinsically relational microscopic states}
+\rightarrow
+q_{ij}
+\rightarrow
+\text{binding}
+\rightarrow
+\text{collective response}
+\rightarrow
+\text{field-like propagation}
+\rightarrow
+\text{effective geometry}
+\rightarrow
+B_\infty.
+\]
+
+The first arrow remains conditional.
+
+### 9. Status
+
+**🟢 S∞ STRUCTURAL LEAD:** non-factorizable microscopic configurations can make relational quantities intrinsic.
+
+**🟢 BRIDGE LEAD:** this supplies a possible microscopic origin for the \(q_{ij}\) variable used on the B∞ side.
+
+**🔴 OPEN:** derive non-factorizability itself from the fundamental S∞ transition law rather than imposing a constraint.
+
+### 10. Next decisive question
+
+Test whether non-factorizability can arise dynamically from a **single local transition rule**:
+
+\[
+\boxed{
+\text{factorized initial state}
+\rightarrow
+T
+\rightarrow
+\text{non-factorizable relational state}
+}
+\]
+
+without explicitly imposing the constraint \(F(s_i,s_j)=0\).
+
+If yes, S∞ may have a genuine dynamical route to relation formation.
