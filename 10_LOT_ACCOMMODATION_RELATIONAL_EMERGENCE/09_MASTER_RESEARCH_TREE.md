@@ -273,3 +273,37 @@ Hilbert Hotel · Bead/String · Mala · DNA/Double Helix · Sugar/Water · Elast
 **Analogy → structural claim → minimal mathematics → experiment → audit → cross-analogy consistency.**
 
 No analogy is allowed to silently become a physical identification.
+
+---
+
+## PGA Numbering Rule — Permanent
+
+Every substantive **PGA (Proceed / Go Ahead)** must carry a **hierarchical Research Tree number**.
+
+### Convention
+
+- The PGA inherits the Research Tree position where the work is being performed.
+- A concrete research action beneath that node receives the next hierarchical level.
+- Example:
+  - Current node: **1.6.4.2**
+  - First PGA under it: **PGA 1.6.4.2.1**
+  - Next sibling PGA: **PGA 1.6.4.2.2**
+  - A deeper experiment under PGA 1.6.4.2.1: **1.6.4.2.1.1**
+- A new research branch becomes a new sibling rather than overwriting an earlier PGA.
+- Failed branches remain permanently recorded.
+
+### Mandatory PGA record
+
+Every substantive PGA should identify:
+
+**PGA:** hierarchical number
+**Research Tree Node:** parent node
+**Objective:** what this PGA is testing or developing
+**Expected outcome:** what would count as progress / failure / inconclusive
+**Result:** recorded after the work
+**Next node:** where the research goes next
+
+**Current example:**
+**PGA 1.6.4.2.1** — Test whether a relational pattern can be represented in 2D while preserving the relevant relational invariants.
+
+This numbering is part of the research-control system and should be used consistently in future research records, experiments, audits, prompts, and chat exports.
