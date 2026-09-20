@@ -842,3 +842,76 @@ These remain hypotheses unless independently derived.
 **PGA 1.12.2.5 — Observer-Coverage / Reconstruction Invariance Test**
 
 The next test should hold the underlying boundary configuration fixed while varying observer sampling paths, angular coverage, temporal sampling, and coarse-graining resolution. The target is to determine whether sufficiently complete relational information produces an observer-independent coarse-grained object/frame, and whether the propagation limit enters only through the information-arrival boundary rather than through the reconstruction rule itself.
+
+## E17 — PGA 1.12.2.5: Observer-Coverage / Reconstruction Invariance Test
+
+**Research Tree Node:** 1.12.2 — Observable Reconstruction / Time / Causal Ordering  
+**PGA:** 1.12.2.5  
+**Objective:** Test whether observers with different partial coverage can obtain compatible coarse-grained reconstructions of the same underlying relational boundary, and determine exactly what this does and does not establish.
+
+### Minimal test
+
+A synthetic irregular closed boundary/object was sampled by three observers, each covering a different angular sector of the same accessible region. Each observer received only its local subset of boundary information.
+
+Representative coverage fractions were approximately:
+
+- Observer A: 0.333
+- Observer B: 0.335
+- Observer C: 0.333
+
+Each partial reconstruction was formed only from the information available in that observer's sector.
+
+### Result A — Compatibility of partial observations
+
+The three partial reconstructions were mutually compatible because they were generated from the same underlying relational configuration. Combining the three observation sectors reconstructed the target object exactly within the accessible region; the normalized reconstruction error there was 0.
+
+Thus:
+
+different partial coverage → compatible local descriptions → combined reconstruction.
+
+### Result B — Important limitation
+
+This does **not** establish that observers can reconstruct the same object from arbitrary incomplete information.
+
+The experiment supplied a common underlying configuration and a common accessible boundary model. Therefore the compatibility result is partly built into the construction.
+
+A stronger test would require observers to receive independently generated relational data, use the same reconstruction rule without access to the hidden ground truth, and then compare whether their coarse-grained equivalence classes converge as coverage increases.
+
+### Interpretation
+
+The experiment supports the structural chain:
+
+propagation → boundary interaction → partial information → observer-local reconstruction → compatible reconstruction when coverage sets are complementary and refer to the same underlying relational structure.
+
+This strengthens the earlier coverage hypothesis, but does not yet derive observer-independent physical objects.
+
+### Critical audit
+
+The experiment does **not** derive:
+
+- observer-independent physical objects;
+- physical photons as the reconstruction carrier;
+- physical c;
+- Lorentz invariance;
+- a unique coarse-graining rule;
+- an objective ontology from S∞ ↔ B∞.
+
+It does establish a toy-level consistency result:
+
+[
+oxed{	ext{different partial relational observations can converge to a common coarse-grained reconstruction}}
+]
+
+provided the observations constrain the same underlying structure sufficiently.
+
+### Status
+
+**🟢 SURVIVES AS A TOY-LEVEL OBSERVER-COMPATIBILITY RESULT**
+
+**🟡 OPEN:** observer-independent reconstruction from independently generated information remains untested.
+
+### Next node
+
+**PGA 1.12.2.6 — Coverage Threshold / Equivalence-Class Stability Test**
+
+Test how reconstruction changes as information coverage increases. Determine whether there is a non-arbitrary threshold or plateau at which additional microscopic information no longer changes the coarse-grained object/frame. This directly tests the hypothesis that an observable object is a stable coarse-grained equivalence class rather than a primitive microscopic description.
