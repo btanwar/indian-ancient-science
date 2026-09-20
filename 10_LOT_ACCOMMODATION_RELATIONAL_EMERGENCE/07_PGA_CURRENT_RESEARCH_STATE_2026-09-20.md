@@ -433,3 +433,28 @@ The branch has progressed from merely demonstrating finite propagation to demons
 The next gate is therefore not another cone test. It is to determine whether relational distance and relational duration can acquire **independent, observer-independent scales** from the same S∞↔B∞ dynamics.
 
 **Next node: PGA 1.12.2.4 — Independent Relational Space/Time Scale and Observer-Clock Consistency Test.**
+
+
+## PGA 1.12.2.4 — Information Coverage / Boundary Interaction / Propagation
+
+**Status:** 🟢 structural/operational result; 🔴 c is not coverage rate.
+
+The recovered photon/observer/frame line was tested by separating propagation from coverage. For a propagation limit c_* = 1, a central source was propagated to circle, square, and rectangular boundaries. The same propagation law produced different boundary-coverage functions because boundary geometry determines how much boundary becomes reachable at each duration.
+
+The useful distinction is:
+
+propagation limit → information-arrival envelope → coverage pattern → reconstruction.
+
+Coverage fraction alone is insufficient for reconstruction: two underlying boundary configurations can agree on the observed subset and differ on the unobserved subset. Therefore the information content, distribution, independence, and relational structure of coverage matter.
+
+The experiment does not derive physical c, photon ontology, or spacetime. It rejects the stronger identification c = d(coverage)/dt while preserving the hypothesis that c may be an invariant limit on information propagation and that observable frames may arise through accumulated, structured boundary information followed by coarse-graining.
+
+**Next node:** PGA 1.12.2.5 — Observer-Coverage / Reconstruction Invariance Test.
+
+### RT-005 Change Record
+
+- **PGA 1.12.2.4 completed.**
+- Recovered the photon → boundary interaction → information → coverage → coarse-graining → reconstruction line.
+- Demonstrated that coverage rate is geometry-dependent even when propagation speed is fixed.
+- Preserved the distinction between propagation limit and information coverage.
+- Added next node **PGA 1.12.2.5**.
