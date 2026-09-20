@@ -492,3 +492,72 @@ The research value is that noncommutativity can now be treated as a possible str
 The next experiment should ask whether the relational update algebra can acquire the additional structure required for a physical observable algebra—especially a scale with the dimensions and empirical role of (hbar)—without inserting those structures by hand.
 
 **PGA 1.12.1.5** — dimensional/scale audit of the relational algebra and search for a dynamically generated action scale.
+
+
+## E13 — PGA 1.12.1.5: Relational action-scale audit
+
+**Research Tree Node:** 1.12.1 — Quantized B∞ Modes  
+**PGA:** 1.12.1.5  
+**Objective:** Determine whether the existing relational dynamics naturally contains an action scale that could play a structural role analogous to ℏ, without inserting ℏ by hand.
+
+### Dimensional audit
+
+The present classical relational model contains quantities such as mass (M), stiffness/coupling (K), displacement (x), time (t), and energy/action derived from the chosen Lagrangian.
+
+For a harmonic mode,
+
+[
+H_n=rac12 p_n^2+rac12omega_n^2 q_n^2
+]
+
+after suitable normalization. The action scale associated with a trajectory is
+
+[
+S=int L,dt,
+]
+
+but the magnitude of (S) is determined by the chosen physical normalization of (M,K,q,t).
+
+No dimensionless relational invariant in the current model fixes a universal action quantum.
+
+### Rescaling test
+
+Under a change of normalization of the dynamical coordinate,
+
+[
+qightarrow a q,
+]
+
+the numerical coefficients in the action and canonical momentum change correspondingly. Likewise, changing the overall energy/coupling scale changes the numerical value of the action while leaving the qualitative normal-mode structure intact.
+
+Therefore the present relational equations possess **scale freedom**: the model does not select one universal action scale from its internal structure.
+
+### Result
+
+**🔴 No dynamically derived ℏ-like universal action scale was found in the present model.**
+
+The relational framework can certainly be assigned an action dimension, but dimensional compatibility is not derivation.
+
+### Important interpretation
+
+This does **not** prove that S∞↔B∞ cannot generate ℏ.
+
+It establishes a more precise boundary:
+
+> The current quadratic relational model does not contain enough internal structure to determine a universal quantum action scale.
+
+A future derivation would therefore need an additional dimensionless invariant, quantization condition, topological number, compact phase, or other mechanism that fixes an action scale rather than allowing arbitrary rescaling.
+
+### Status
+
+**🔴 FAIL / OPEN GATE**
+
+- ✅ Action can be defined for the relational dynamics.
+- ❌ Universal action quantum is not derived.
+- ❌ ℏ must not be inserted and then claimed as emergent.
+
+### Next question
+
+The quantum branch should now investigate whether a **compact/topological relational degree of freedom** can introduce a discrete invariant that removes the continuous action-scale freedom.
+
+**PGA 1.12.1.6** — test compact phase/topological quantization as a possible source of a discrete action scale.
