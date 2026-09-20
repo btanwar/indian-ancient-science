@@ -340,3 +340,70 @@ The test survives as a consistency result but fails as a quantum-emergence demon
 The next quantum test should target a feature that cannot be reproduced by an ordinary classical linear wave model, while still avoiding insertion of the desired quantum structure by hand.
 
 **PGA 1.12.1.3** — investigate whether coupled S∞↔B∞ subsystems can produce a genuine nonseparable state structure (an entanglement analogue) from the relational dynamics alone.
+
+
+## E11 — PGA 1.12.1.3: Coupled-subsystem nonseparability test
+
+**Research Tree Node:** 1.12.1 — Quantized B∞ Modes  
+**PGA:** 1.12.1.3  
+**Objective:** Test whether coupled S∞↔B∞ subsystems can produce a genuinely nonseparable state structure without inserting quantum entanglement by assumption.
+
+### Minimal classical relational model
+
+Consider two subsystems, A and B, each represented by a single relational degree of freedom, with coupled quadratic energy
+
+E = 1/2 k_A x_A² + 1/2 k_B x_B² + κ x_A x_B.
+
+The coupling term means the equations for A and B are not independent:
+
+m_A ẍ_A + k_A x_A + κx_B = 0,
+
+m_B ẍ_B + k_B x_B + κx_A = 0.
+
+Diagonalizing the coupled system produces collective normal modes that are linear combinations of the local coordinates:
+
+u₊ = c_A x_A + c_B x_B,
+
+u₋ = d_A x_A + d_B x_B.
+
+### Result
+
+The coupled relational system produces **collective/nonlocal-in-coordinate modes**: the normal modes of the whole system cannot, in general, be assigned to A or B independently.
+
+However, this is still ordinary classical coupled-oscillator physics.
+
+A classical state of the coupled system remains describable by the joint phase-space variables
+
+(x_A,p_A,x_B,p_B).
+
+No quantum tensor-product state space has been derived, and no quantum entanglement has been generated.
+
+### Stronger diagnostic
+
+A genuine quantum-entanglement claim would require a state description for which the joint state cannot be represented as a product of subsystem states,
+
+|Ψ_AB⟩ ≠ |ψ_A⟩⊗|ψ_B⟩,
+
+together with quantum observables and a probability rule.
+
+Those ingredients are not supplied by the classical relational model.
+
+### Status
+
+**🔴 FAILS AS A QUANTUM-EMERGENCE MECHANISM / 🟢 SURVIVES AS RELATIONAL COLLECTIVITY**
+
+The experiment is therefore valuable because it separates two ideas that had been close together:
+
+**shared relational coupling ≠ quantum entanglement.**
+
+The S∞↔B∞ mechanism can already produce collective modes spanning multiple localized subsystems, but that alone does not provide nonclassical entanglement.
+
+### Protection
+
+Do not relabel a collective classical mode as an entangled quantum state.
+
+### Next question
+
+The research should now move one level deeper: determine whether there is any **pre-quantization algebraic structure** in S∞↔B∞—for example constrained composition, noncommuting transformations, or contextual state update—that can produce a quantum state space rather than merely coupled classical dynamics.
+
+**PGA 1.12.1.4** — test whether the relational composition/update algebra itself can generate noncommuting observables or an equivalent quantum structure, without postulating Hilbert-space quantum mechanics at the start.
