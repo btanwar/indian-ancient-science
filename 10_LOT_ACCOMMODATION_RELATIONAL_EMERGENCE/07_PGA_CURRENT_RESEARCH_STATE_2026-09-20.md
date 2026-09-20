@@ -338,3 +338,26 @@ The key protection is:
 ### Next node
 
 **PGA 1.12.1.4** — investigate whether the relational composition/update algebra itself can generate noncommuting observables or an equivalent quantum structure without postulating Hilbert-space quantum mechanics at the start.
+
+
+## 24. PGA 1.12.1.4 — Relational composition/update algebra
+
+**Objective:** Test whether noncommuting transformations can arise from S∞↔B∞ relational update rules without inserting quantum commutators.
+
+### Result
+
+Two simple relational shear updates A and B were composed in opposite orders. For nonzero coupling parameters,
+
+A∘B ≠ B∘A.
+
+Thus order-dependent relational transformations can arise naturally from the composition algebra.
+
+### Audit
+
+This is **not** a derivation of quantum mechanics. Noncommutativity alone does not supply Hilbert space, Hermitian observables, Planck's constant, Born probabilities, or quantum measurement statistics.
+
+**Status:** 🟢 mathematical structural ingredient survives; 🔴 noncommutativity alone fails as a quantum-emergence mechanism.
+
+### Next node
+
+**PGA 1.12.1.5** — dimensional/scale audit of the relational algebra and search for a dynamically generated action scale.
