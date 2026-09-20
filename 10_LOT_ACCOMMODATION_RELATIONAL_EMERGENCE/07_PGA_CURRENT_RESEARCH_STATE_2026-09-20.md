@@ -313,3 +313,28 @@ The important conclusion is methodological: simply finding superposition or inte
 
 ### Next node
 **PGA 1.12.1.3** — coupled S∞↔B∞ subsystems and nonseparable state structure.
+
+
+## 23. PGA 1.12.1.3 — Coupled-subsystem nonseparability test
+
+**Objective:** Test whether shared S∞↔B∞ coupling produces genuine quantum entanglement rather than ordinary collective behavior.
+
+### Result
+
+A coupled two-subsystem quadratic relational model produces collective normal modes involving both subsystems:
+
+A + B → collective modes.
+
+This demonstrates relational collectivity, but the state remains describable using ordinary classical phase-space variables. No Hilbert-space tensor product, Born rule, or quantum entanglement is derived.
+
+### Status
+
+**🔴 FAILS as a quantum-emergence mechanism / 🟢 SURVIVES as relational collectivity**
+
+The key protection is:
+
+**shared relational coupling ≠ quantum entanglement.**
+
+### Next node
+
+**PGA 1.12.1.4** — investigate whether the relational composition/update algebra itself can generate noncommuting observables or an equivalent quantum structure without postulating Hilbert-space quantum mechanics at the start.
