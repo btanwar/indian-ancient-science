@@ -7842,3 +7842,208 @@ The next gate is:
 \]
 
 In particular, test whether a localized relational source can produce a self-consistent curved effective geometry rather than prescribing \(\sigma(x,y)\) by hand.
+
+
+## L — PGA 1.12.4.18: Source-Induced Curvature / Self-Consistent Response Test
+
+**Objective:** Test whether a localized relational source can dynamically generate an effective curved response profile, rather than prescribing the curved metric by hand.
+
+### 1. Question
+
+PGA 1.12.4.17 showed that a chosen response profile can be represented by an intrinsically curved metric. The decisive next step is:
+
+\[
+\boxed{
+\text{Can the relational dynamics themselves generate the response profile?}
+}
+\]
+
+### 2. Minimal self-consistent model
+
+Use a scalar collective response \(K(\mathbf x)\) with a source:
+
+\[
+-\nabla\cdot(C\nabla K)+V'(K)=J(\mathbf x).
+\]
+
+For a homogeneous medium and linear response:
+
+\[
+-C\nabla^2K+\lambda K=J.
+\]
+
+This is a toy relational-response equation. The source is localized, while \(K\) is generated dynamically by the response equation.
+
+For the massless case:
+
+\[
+-\nabla^2K=J/C.
+\]
+
+A localized source therefore produces a non-uniform \(K(\mathbf x)\), rather than requiring \(K\) to be specified independently.
+
+### 3. Coupling response to propagation
+
+Let the collective propagation coefficient depend on the generated response:
+
+\[
+C_{\rm eff}(K)=C_0\,F(K).
+\]
+
+Then:
+
+\[
+\partial_t^2\phi
+-
+\nabla\cdot
+\left[
+C_{\rm eff}(K)\nabla\phi
+\right]
+=0.
+\]
+
+The source therefore produces a chain:
+
+\[
+J
+\rightarrow
+K(\mathbf x)
+\rightarrow
+C_{\rm eff}(\mathbf x)
+\rightarrow
+\text{non-uniform propagation}.
+\]
+
+If \(C_{\rm eff}\) is anisotropic, the same construction generalizes to:
+
+\[
+C_{\rm eff}^{ij}(K).
+\]
+
+### 4. Result
+
+The important structural result is:
+
+\[
+\boxed{
+\text{localized source}
+\rightarrow
+\text{dynamically generated collective response}
+\rightarrow
+\text{modified propagation environment}
+}
+\]
+
+Thus the curved/inhomogeneous response need not be prescribed directly. It can arise as a solution of a source-response equation.
+
+Combined with PGA 1.12.4.17:
+
+\[
+\boxed{
+J
+\rightarrow
+K
+\rightarrow
+C_{\rm eff}
+\rightarrow
+g_{ij}
+\rightarrow
+R[g].
+}
+\]
+
+This is the first complete **source → response → geometry** toy pipeline in this branch.
+
+### 5. Important limitation
+
+The equation
+
+\[
+-\nabla\cdot(C\nabla K)+V'(K)=J
+\]
+
+was itself chosen as the response law.
+
+Therefore this PGA does **not** derive the field equation from S∞↔B∞.
+
+Also, the mapping
+
+\[
+C_{\rm eff}(K)\rightarrow g_{ij}
+\]
+
+is a modelling choice unless the response tensor can be derived from the underlying relational dynamics.
+
+### 6. Screened versus long-range response
+
+For:
+
+\[
+-C\nabla^2K+\lambda K=J
+\]
+
+we have two qualitatively different regimes.
+
+If:
+
+\[
+\lambda>0,
+\]
+
+the response is screened/short-ranged.
+
+If:
+
+\[
+\lambda=0,
+\]
+
+the response is long-ranged in the idealized three-dimensional static limit.
+
+Therefore the next physical question is not simply "can curvature emerge?" but:
+
+\[
+\boxed{
+\text{What relational principle selects the range and form of the collective response?}
+}
+\]
+
+This is directly relevant to any eventual gravity interpretation.
+
+### 7. S∞ ↔ B∞ interpretation
+
+The branch now has:
+
+\[
+S_\infty
+\rightarrow
+\text{relations}
+\rightarrow
+\text{binding}
+\rightarrow
+\text{collective response }K
+\rightarrow
+\text{propagation environment}
+\rightarrow
+\text{effective geometry}
+\rightarrow
+\text{curvature}
+\rightarrow
+B_\infty.
+\]
+
+This remains a candidate architecture, not a physical derivation of gravity.
+
+### 8. Status
+
+**🟢 STRONGER STRUCTURAL LEAD:** a localized source can generate an inhomogeneous collective response which can, in a toy model, modify propagation and therefore induce an effective curved geometry.
+
+**🟢 SOURCE → RESPONSE → GEOMETRY PIPELINE:** established at the modelling level.
+
+**🔴 OPEN:** derive the response law, coupling to propagation, and long-range behaviour from S∞↔B∞ rather than selecting them.
+
+### 9. Next decisive question
+
+The next test should investigate whether the **same relational source-response mechanism can produce a universal long-range interaction** and whether its weak-field behaviour has the structural form required for a gravity-like limit.
+
+Do not yet call it gravity; first test the response law.
