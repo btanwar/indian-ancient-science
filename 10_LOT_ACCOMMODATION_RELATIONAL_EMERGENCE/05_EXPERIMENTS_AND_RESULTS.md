@@ -36,3 +36,53 @@ A toy-model success means only that the mechanism is mathematically possible in 
 
 ## Migration note
 These are the preserved exploratory results available at the time of migration; they are not upgraded in status by relocation.
+
+## E8 — PGA 1.6.4.2.1: Naive 3D → 2D relational projection
+
+**Research Tree Node:** 1.6.4.2 — Pattern → 2D / Mandala Representation  
+**PGA:** 1.6.4.2.1  
+**Objective:** Test the simplest possible flattening of an organized relational structure and identify which relational information survives.
+
+### Toy construction
+
+Use a 3 × 3 × 3 cubic relational lattice:
+
+- 27 relational nodes.
+- Nearest-neighbour connectivity in 3 dimensions.
+- 54 original nearest-neighbour edges.
+
+Apply a naive 2D projection by dropping the third coordinate:
+
+(x,y,z) → (x,y)
+
+### Result
+
+- 27 original nodes collapse onto only 9 distinct 2D positions.
+- Three distinct nodes occupy each projected position.
+- 27 distinct node-pairs become indistinguishable under the projection.
+- The original lattice has 54 nearest-neighbour relations.
+- If 2D adjacency is inferred only from projected (x,y) separation, 108 pairwise adjacencies are inferred.
+
+### Status
+
+**🔴 NAIVE FLATTENING FAILS as an information-preserving representation.**
+
+The experiment does **not** show that 2D representation is impossible. It shows that simply projecting away one relational degree of freedom loses identity and creates ambiguous/false relations.
+
+### What survives
+
+A valid 2D/mandala representation would therefore need an additional encoding mechanism, such as:
+
+- layer/index information;
+- cuts and boundary markers;
+- crossings/over-under information;
+- labels or relational weights;
+- or another invariant-preserving representation.
+
+### Protection
+
+This is a toy graph result. It does not imply that physical 3D space is literally projected from a higher-dimensional structure.
+
+### Next test
+
+**PGA 1.6.4.2.2:** test whether a structured unfolding/flattening can preserve a deliberately selected set of relational invariants (for example connectivity and boundary structure) without adding arbitrary physical assumptions.
