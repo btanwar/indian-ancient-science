@@ -3977,3 +3977,124 @@ S_\infty\leftrightarrow B_\infty
 \]
 
 and determine whether this relation itself supplies a non-arbitrary constraint on \(T\). This is the cleanest place to test whether S∞↔B∞ contributes genuine physical content rather than serving only as a label for a generic relational system.
+
+
+## PGA 1.12.0.7 — Historical Foundational Axiom Recovery and Matrix Freeze
+
+**Objective:** Recover the richer foundational axiom/principle set identified in earlier S∞↔B∞ research, preserve its historical distinctions, and maintain a controlled matrix so useful modelling assumptions are not silently promoted to axioms.
+
+### Method correction
+
+Earlier work had compressed the foundation into (C+T+O). The historical research record shows that a richer candidate set had already been identified.
+
+Therefore:
+
+[
+oxed{C+T+O=	ext{minimum logical skeleton}}
+]
+
+but not:
+
+[
+oxed{C+T+O=	ext{complete historical axiom set}}
+]
+
+### Recovered candidate matrix
+
+| ID | Candidate | Classification | Current status |
+|---|---|---|---|
+| A1 | Relational configuration (C) | Logical foundation | 🟢 retained |
+| A2 | Allowed relational transition (T) | Logical foundation | 🟢 retained; law open |
+| A3 | Observable distinction (O) | Logical foundation | 🟢 retained |
+| A4-c | Local relationality / locality | Candidate dynamical principle | 🟡 not derived |
+| A5-c | Path consistency / path independence | Candidate structural principle | 🟡 open |
+| A6-c | Reversibility | Candidate dynamical property | 🟡 open |
+| A7-c | Composition of neighboring transformations | Candidate structural principle | 🟢 mathematical ingredient; physical necessity open |
+| A8-c | Relabeling / gauge equivalence | Candidate representation principle | 🟡 strong candidate |
+| A9-c | Closure / valid-state consistency | Foundational consistency condition | 🟢 retained |
+| A10-c | Persistence / continuity | Derived-property candidate | 🟡 not guaranteed |
+| A11-c | Invariant / conservation structure | Derived-property / possible added axiom | 🔴 not derived |
+| A12-c | Symmetry / invariance | Candidate structural principle | 🟡 mixed |
+| A13-c | Causal consistency / precedence | Derived structural requirement | 🟡 partial |
+| A14-c | Stable coherent propagation / mode selection | Candidate physical selection principle | 🟡 hypothesis |
+| A15-c | Recurrence / repeatable relational cycle | Candidate derived clock primitive | 🟡 open |
+| A16-c | Path equivalence | Candidate structural relation | 🟡 partial |
+| A17-c | Relational object/entity identity | Derived interpretation | 🟡 partial |
+| A18-c | Minimal change | Candidate dynamical principle | 🟡 unproven |
+| A19-c | Stability | Candidate dynamical property | 🟡 downstream |
+| A20-c | Local frame invariance | Physical symmetry candidate | 🟡 restricted tests only |
+| A21-c | Holonomy / non-integrability | Derived geometric structure | 🟡 viable mathematically; gravity open |
+| A22-c | Finite causal reach / coherent propagation | Derived dynamical property | 🟢 in suitable toys; universal (c) open |
+| A23-c | Universal coupling | GR recovery requirement | 🔴 not derived |
+| A24-c | Exactly two physical gravitational modes | GR benchmark | 🔴 not derived |
+| A25-c | Continuum limit | Validation gate | 🟡 required |
+| A26-c | Quantum limit | Validation gate | 🔴 open |
+| A27-c | Geometric limit | Validation gate | 🟡 open |
+| A28-c | Known-physics recovery | Validation gate | 🔴 open |
+| A29-c | Mathematical consistency | Foundational validation gate | 🟢 required |
+| A30-c | Locality/causality/conservation survival gates | Validation gates | 🟡/🔴 mixed |
+
+### Historical closed-cell candidate set
+
+Earlier closed-cell work explicitly proposed testing:
+
+1. local relationality;
+2. path consistency;
+3. reversibility;
+4. locality;
+5. composition of neighboring transformations.
+
+The purpose was to let the mathematical construction determine the effective quadratic structure rather than tune coefficients for a desired result. A failure was to be accepted rather than repaired by arbitrary assumptions.
+
+### Historical survival gates
+
+Earlier research also recorded:
+
+[
+	ext{mathematical consistency}
+ightarrow
+	ext{locality}
+ightarrow
+	ext{causality}
+ightarrow
+	ext{conservation}
+ightarrow
+	ext{continuum limit}
+ightarrow
+	ext{quantum limit}
+ightarrow
+	ext{geometric limit}
+ightarrow
+	ext{known-physics recovery}.
+]
+
+These are validation gates, not automatically microscopic axioms.
+
+### Important boundary findings preserved
+
+- Local frame invariance alone did not uniquely select a gravitational theory.
+- Holonomy/curvature does not automatically establish gravity.
+- Classical collective modes do not automatically establish quantum entanglement.
+- Recurrence is a candidate route to an intrinsic clock, not yet physical time.
+- Persistence requires transition-preserved structure; arbitrary (T) does not guarantee it.
+- PGA 1.12.0.6 established that (C+T+O) alone does not force a nontrivial invariant.
+
+### Result
+
+[
+oxed{
+	ext{Logical core }(C,T,O)
++
+	ext{candidate-principle matrix}
++
+	ext{derived-property tests}
++
+	ext{survival/known-physics gates}
+}
+]
+
+is now the controlled foundational architecture.
+
+**Status:** 🟢 FOUNDATIONAL ARCHITECTURE RECOVERED AND MATRIX FROZEN FOR CURRENT RESEARCH.
+
+**Protection:** The matrix records candidates and requirements; it does not declare every row a law of nature. Future PGAs must explicitly test, promote, reject, or leave open each candidate rather than silently assuming it.
