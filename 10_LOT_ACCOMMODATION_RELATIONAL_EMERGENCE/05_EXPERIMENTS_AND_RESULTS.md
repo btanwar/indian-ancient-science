@@ -3413,3 +3413,146 @@ Do not treat this reduction as a derivation of quantum mechanics or gravity. It 
 ### Next substantive direction
 
 The next foundational experiment should investigate the **minimal constraints that S∞↔B∞ itself places on T**, but without selecting magnetism, dielectric behavior, gravity, or any other desired physical outcome in advance.
+
+
+---
+
+## PGA 1.12.0.2 — Intrinsic Transition-Constraint Test
+
+**Research Tree Node:** 1.12.0 — Foundational Structure for the S∞ ↔ B∞ Quantum-to-Geometry / Gravity Bridge  
+**Objective:** Determine whether the S∞↔B∞ hypothesis itself constrains an elementary relational transition, without selecting a physical relation such as K, magnetism, dielectric response, gravity, or an elastic law in advance.
+
+### Starting point from PGA 1.12.0.1
+
+The foundation was reduced to three structural primitives:
+
+\[
+C=\text{relational configuration},\qquad T:C_i\rightarrow C_j,\qquad O=\text{observable distinction}.
+\]
+
+The outstanding foundational question is therefore whether the transition map T can remain arbitrary, or whether the meaning of S∞↔B∞ forces constraints on it.
+
+### Constraint audit
+
+Candidate constraints were treated as hypotheses rather than assumed laws:
+
+1. **Locality** — a transition should act through existing relational connections rather than arbitrary instantaneous global replacement.
+2. **Consistency** — a transition must map a valid relational configuration to another valid relational configuration.
+3. **Conservation/invariant structure** — some relational quantity may need to remain unchanged under a permitted transition.
+4. **Symmetry/relabeling invariance** — physically equivalent descriptions should not become physically different merely through relabeling.
+5. **Reversibility** — a transition may or may not be invertible; S∞↔B∞ alone does not yet decide this.
+6. **Stability** — persistent configurations may emerge from the transition dynamics, but stability should not be assumed as a separate fundamental law.
+7. **Minimal change** — a transition may select the smallest compatible reconfiguration, but this is a candidate principle and must not be inserted merely because it is useful.
+
+### Test logic
+
+The audit asks a stricter question than PGA 1.12.1.13. There, a local conservative update rule was chosen and shown to support relational reconfiguration. Here, the question is whether any candidate constraint follows from the abstract S∞↔B∞ architecture itself.
+
+For a configuration space \(\mathcal C\), let
+
+\[
+T(C) = C'.
+\]
+
+A constraint is genuinely foundational only if it follows from the definition/structure of S∞↔B∞, or if removing it makes the proposed S∞↔B∞ construction internally inconsistent. A constraint that merely produces convenient waves, phase, stability, or geometry is not foundational just because the resulting model is interesting.
+
+### Result A — Locality is not yet derivable
+
+Locality is highly useful for constructing finite propagation, but the abstract statement “S∞↔B∞” alone does not mathematically require that a transition involve only neighbouring relations. Therefore locality remains a **candidate dynamical constraint**, not a derived pillar.
+
+### Result B — Consistency is structurally unavoidable but weak
+
+A transition must produce a valid next relational configuration if the configuration is to remain part of the theory. This gives a minimal closure requirement:
+
+\[
+C\in\mathcal C \Rightarrow T(C)\in\mathcal C.
+\]
+
+This is a genuine structural requirement, but it does not determine a unique T. It is therefore a **foundational consistency condition**, not a complete dynamics.
+
+### Result C — Conservation is not yet derivable
+
+No specific conserved relational quantity follows solely from the abstract S∞↔B∞ statement. Conservation may emerge from a deeper symmetry or transition structure, but selecting energy, norm, action, or another invariant now would import additional assumptions.
+
+### Result D — Relabeling/symmetry has a stronger foundational status
+
+If the labels used to represent relational elements are merely descriptive rather than physical, then a pure relabeling should not change the physical configuration. This suggests an equivalence requirement:
+
+\[
+C\sim C'
+\quad\text{when they differ only by a physically irrelevant relabeling}.
+\]
+
+However, whether all relabelings are physically irrelevant depends on the eventual definition of the relational substrate. Thus this is a **strong candidate structural requirement**, not yet a derived physical symmetry law.
+
+### Result E — Reversibility is undecided
+
+The notation S∞↔B∞ expresses mutual relational involvement, but it does not by itself establish that every microscopic transition is dynamically reversible. Therefore reversibility remains open.
+
+### Result F — Stability and minimal change are downstream hypotheses
+
+Stable configurations and minimum-change dynamics may be useful mechanisms for generating persistent structures, but neither follows automatically from the bare S∞↔B∞ statement. They must be tested later rather than promoted to foundations prematurely.
+
+### Consolidated result
+
+The audit leaves us with a much smaller foundational core:
+
+\[
+\boxed{
+C\in\mathcal C,\qquad T(C)\in\mathcal C
+}
+\]
+
+plus a candidate representation-equivalence requirement under physically irrelevant relabeling.
+
+The crucial negative result is equally important:
+
+\[
+\boxed{
+S∞↔B∞\text{ alone does not yet determine a unique transition law }T.
+}
+\]
+
+Therefore we should **not** choose locality, conservation, minimum change, elasticity, or any other specific law merely to obtain the desired downstream physics.
+
+### Relation to the quantum-to-geometry objective
+
+The current dependency is now:
+
+\[
+S∞↔B∞
+\rightarrow C
+\rightarrow T\text{ subject to intrinsic constraints}
+\rightarrow \text{collective response}
+\rightarrow g_{\mu\nu}^{\rm eff}?
+\rightarrow \text{curvature?}
+\rightarrow \text{gravity/GR?}
+\]
+
+In parallel, the same T must eventually be tested against the quantum branch.
+
+The present PGA therefore does **not** attempt to derive gravity or quantum mechanics. It establishes what the foundation can and cannot currently constrain.
+
+### Status
+
+**🟢 FOUNDATIONAL BOUNDARY RESULT**
+
+**Established:** valid-state closure is necessary; representation-level equivalence is a strong candidate; no physical relation needs to be selected yet.
+
+**Not established:** locality, conservation, reversibility, minimum-change dynamics, elasticity, or a unique transition law.
+
+### Protection
+
+Do not convert a useful modelling assumption into a fundamental law merely because it produces propagation, phase, stability, or curvature. In particular, a local conservative lattice rule remains a model until its constraints are derived from S∞↔B∞.
+
+### Next substantive question
+
+The next gate should therefore be more constructive:
+
+\[
+\boxed{
+\text{What is the minimum relational structure that makes }S∞↔B∞\text{ nontrivial rather than an empty statement?}
+}
+\]
+
+That question should be answered before selecting a particular physical interaction law.
