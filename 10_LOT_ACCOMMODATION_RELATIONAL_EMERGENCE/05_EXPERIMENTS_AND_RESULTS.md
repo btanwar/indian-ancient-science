@@ -5770,3 +5770,206 @@ A useful target is:
 ]
 
 If yes, this becomes a stronger lead for the S∞↔B∞ bridge. If no, the missing coupling must be treated as an additional physical principle rather than derived from the present foundation.
+
+
+## E — PGA 1.12.4.7: Minimal Common-Transition Mixing Test
+
+**Research Tree Node:** 1.12.4 — Quantum-to-Geometry Bridge  
+**PGA:** 1.12.4.7  
+**Objective:** Test whether a single local relational transition rule can *force* interaction between microscopic phase/update variables and collective configuration variables, rather than merely allowing an interaction to be added.
+
+### 1. Sharpened question
+
+PGA 1.12.4.6 identified coupling/synchronization as a candidate missing mechanism.
+
+The present test asks:
+
+> If the microscopic state contains both kinds of relational information, do the basic structural requirements themselves require a transition to mix them?
+
+Represent one local relational state schematically as
+
+[
+y_i=(x_i,	heta_i).
+]
+
+A general local linear update can be written
+
+[
+y_i'=A,y_i
+]
+
+with
+
+[
+A=
+egin{pmatrix}
+a&b\
+c&d
+end{pmatrix}.
+]
+
+Here (b,c) represent cross-sector mixing.
+
+### 2. Uncoupled admissible transition
+
+Take
+
+[
+A_0=
+egin{pmatrix}
+a&0\
+0&d
+end{pmatrix}.
+]
+
+This gives
+
+[
+x_i'=a x_i,qquad
+	heta_i'=d	heta_i.
+]
+
+The update can remain local, closed, and invertible when (a,d
+eq0).
+
+Therefore a valid relational transition can preserve the two sectors independently.
+
+### Result A
+
+[
+oxed{
+	ext{locality + closure + invertibility do not force cross-sector mixing}
+}
+]
+
+The same conclusion holds for a network of such local updates: independent sector dynamics is structurally admissible.
+
+### 3. Mixed transition
+
+Now choose
+
+[
+A_1=
+egin{pmatrix}
+a&b\
+c&d
+end{pmatrix},
+qquad b,c
+eq0.
+]
+
+Then
+
+[
+x_i'=a x_i+b	heta_i,
+qquad
+	heta_i'=c x_i+d	heta_i.
+]
+
+A change in one sector immediately affects the other.
+
+This is a genuine common-transition mechanism, but the values of (b) and (c) are additional dynamical information.
+
+### Result B
+
+[
+oxed{
+	ext{one common transition rule can create cross-sector coupling}
+}
+]
+
+but
+
+[
+oxed{
+	ext{the requirement of one common rule does not determine the coupling strength}
+}
+]
+
+### 4. Synchronization consequence
+
+For a network, local mixed transitions can be combined with neighbor interactions. If the resulting dynamics contains a phase-difference correction, coherent subsets can form.
+
+The sequence is therefore:
+
+[
+	ext{mixed local transition}
+ightarrow
+	ext{cross-sector influence}
+ightarrow
+	ext{correlation}
+ightarrow
+	ext{possible synchronization}
+ightarrow
+	ext{collective group}.
+]
+
+However, synchronization still requires a dynamical stability/attraction mechanism. A generic reversible mixing transformation by itself can merely rotate or exchange information without producing convergence toward a common state.
+
+Thus:
+
+[
+oxed{
+	ext{mixing}
+eq	ext{synchronization}
+}
+]
+
+### 5. Important structural boundary
+
+The test produces a stronger formulation of the current bottleneck:
+
+[
+oxed{
+C+T+O
+	ext{ permits both factorized and mixed transition laws.}
+}
+]
+
+Therefore the logical skeleton does not yet select whether the relational degrees of freedom should remain independent or become coupled.
+
+This means that "the same transition rule" is not sufficient by itself. The transition rule must have some additional structural property that selects mixing.
+
+### 6. New interpretation of the group question
+
+The research question can now be stated more precisely:
+
+> **What property of the fundamental relational state or transition law makes factorized behaviour unstable or incomplete, so that coupled/coherent groups become dynamically preferred?**
+
+This is deeper than simply asking for a coupling constant.
+
+Possible candidates are now clearly separated as hypotheses, not assumptions:
+
+- non-factorizable relational configuration;
+- composition constraints;
+- shared conserved/invariant quantity;
+- synchronization stability;
+- recurrence;
+- path consistency across interacting sectors;
+- minimal-change or stability selection.
+
+None is selected by this PGA.
+
+### 7. Status
+
+**🟢 SURVIVES:** a single local transition law can produce cross-sector mixing and, with suitable network dynamics, can support collective coherence.
+
+**🔴 NOT DERIVED:** the present foundational structure does not force the transition to mix sectors.
+
+**🟡 NEW LEAD:** the next fundamental question is whether the **configuration space itself must be non-factorizable** or whether another retained principle can make independent sectors dynamically incomplete.
+
+### 8. Next decisive question
+
+Test the alternative:
+
+[
+oxed{
+C
+eq C_x	imes C_\theta
+}
+]
+
+That is, instead of assuming that the phase and collective variables are two independent pieces of a state, investigate whether a genuinely relational configuration inherently contains them as aspects of one indivisible configuration.
+
+If that produces coupling without inserting a coupling parameter, it would provide a more fundamental route to the group-formation mechanism.
+
