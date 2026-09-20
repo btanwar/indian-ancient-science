@@ -708,3 +708,30 @@ This is the level that must be investigated next.
 
 **Research principle:**  
 > **Do not confuse the representation of accommodation (Hilbert Hotel rooms) with the physical mechanism of accommodation (relational reconfiguration).**
+
+
+---
+
+## PGA 1.12.0.1 — Foundational Primitive Reduction Test (2026-09-20)
+
+The research target is now explicitly narrowed: this is not a theory-of-everything program. The target is a possible **quantum-to-geometry/gravity bridge** in which S∞↔B∞ microscopic relational dynamics could produce collective response, effective geometry/curvature, and eventually a GR-like limit while remaining compatible with the quantum branch.
+
+The earlier five candidate pillars were audited and reduced to three structural primitives:
+
+1. **Relational configuration** C — captures relational existence/configuration.
+2. **Allowed transition** T: C→C′ — captures reconfiguration; persistence is treated as a property of trajectories rather than an independent primitive law.
+3. **Observable map** O — captures physically distinguishable relational information.
+
+Thus the foundation can be represented schematically as:
+
+C_0 →[T] C_1 →[T] C_2 → … → O.
+
+This formulation does not require coordinates, dimension, metric, physical time, particles, photons, gravity, or Einstein equations at the foundation. Specific relations such as K, magnetic coupling, dielectric response, or charge are therefore not promoted to fundamental status at this stage.
+
+**Status:** 🟢 foundational structural result / 🔴 transition law remains open.
+
+The next foundational question is now sharply stated:
+
+> **What constraints does S∞↔B∞ itself place on the allowed transition T?**
+
+This supersedes the need to enumerate many candidate “fundamental relations” before the core architecture is established.
