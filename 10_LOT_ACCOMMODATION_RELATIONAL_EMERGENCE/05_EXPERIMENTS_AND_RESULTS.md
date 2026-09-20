@@ -4782,3 +4782,273 @@ The decisive question is now whether the **same scale-selection/closure mechanis
 
 Take only the dynamically selected low-frequency/approximately closed collective sector and determine whether its effective response tensor develops a consistent metric structure, including temporal response, without inserting spacetime geometry at the microscopic level.
 
+
+## E — PGA 1.12.4.3: Response-to-Geometry Test
+
+**Research Tree Node:** 1.12.4 — Quantum-to-Geometry Bridge  
+**PGA:** 1.12.4.3  
+**Objective:** Test whether the dynamically selected approximately closed collective sector can produce a consistent effective geometric structure, including temporal response, without inserting spacetime geometry into the microscopic relational rules.
+
+### 1. Starting point
+
+PGA 1.12.4.2 identified a scale-selected collective regime:
+
+[
+\epsilon\ll1
+]
+
+for long-wavelength relational modes.
+
+The present test asks whether the collective response in that regime can be represented by an effective geometry.
+
+The test must distinguish three increasingly strong claims:
+
+1. a response tensor exists;
+2. the response tensor can be represented as a metric;
+3. that metric has the dynamical and causal structure required for spacetime/GR.
+
+Only the first two are tested here.
+
+### 2. Spatial response
+
+For the collective field (Q(x,t)), consider the effective quadratic response
+
+[
+E_{sp}
+=
+\frac12
+\int d^3x,
+C^{ij}_{eff}(Q)
+\partial_iQ\partial_jQ.
+]
+
+If (C^{ij}_{eff}) is symmetric and positive definite, a spatial metric representation can be constructed through
+
+[
+C^{ij}_{eff}=\sqrt g,g^{ij}.
+]
+
+In three spatial dimensions,
+
+[
+g_{ij}
+=
+(\det C)\,(C^{-1})_{ij}.
+]
+
+This reproduces the earlier spatial-response correspondence, but now the important difference is that (C^{ij}_{eff}) is restricted to the approximately closed collective sector identified by PGA 1.12.4.2.
+
+### Result A
+
+[
+\boxed{
+\text{collective relational response can be represented as an effective spatial metric}
+}
+]
+
+within the mathematical conditions above.
+
+This is a **surviving mathematical result**, not yet a physical derivation of spatial geometry.
+
+### 3. Temporal response test
+
+The stronger test introduces the collective kinetic response
+
+[
+E_{dyn}
+=
+\frac12
+\int d^3x
+left[
+A_{eff}(Q)(\partial_tQ)^2
+-
+C^{ij}_{eff}(Q)
+\partial_iQ\partial_jQ
+\right].
+]
+
+The propagation equation is then
+
+[
+A_{eff}\partial_t^2Q
+-
+\partial_i
+left(
+C^{ij}_{eff}\partial_jQ
+ight)
+=0.
+]
+
+For a homogeneous collective background,
+
+[
+\omega^2
+=
+\frac{C^{ij}_{eff}k_ik_j}{A_{eff}}.
+]
+
+This provides an effective propagation structure with temporal coefficient (A_{eff}) and spatial response (C^{ij}_{eff}).
+
+### Result B
+
+The microscopic relational model therefore supplies, in its collective sector, the mathematical ingredients of an **effective propagation geometry**:
+
+[
+(A_{eff},C^{ij}_{eff}).
+]
+
+For an isotropic background,
+
+[
+C^{ij}_{eff}=C_{eff}\delta^{ij},
+]
+
+giving
+
+[
+\omega^2
+=
+\frac{C_{eff}}{A_{eff}}k^2
+equiv
+c_{eff}^2k^2.
+]
+
+Thus
+
+[
+c_{eff}=\sqrt{C_{eff}/A_{eff}}
+]
+
+is a collective propagation scale.
+
+### 4. Critical distinction
+
+This is an important step beyond the previous spatial construction, but it still does **not** establish Lorentzian spacetime.
+
+The variables (A_{eff}) and (C^{ij}_{eff}) define the propagation operator of the collective field. Interpreting them as components of a physical spacetime metric requires additional conditions:
+
+- observer-independent causal structure;
+- correct Lorentzian signature;
+- universal low-energy propagation;
+- appropriate transformation behaviour between observers;
+- temporal and spatial response linked by the same underlying structure.
+
+Those conditions have not yet been derived.
+
+Therefore:
+
+[
+\boxed{
+(A_{eff},C^{ij}_{eff})
+\neq
+\text{GR spacetime metric}
+}
+]
+
+unless the remaining tests succeed.
+
+### 5. Anisotropic response
+
+The collective framework also naturally permits
+
+[
+C^{ij}_{eff}\neq C_{eff}\delta^{ij}.
+]
+
+This produces direction-dependent propagation:
+
+[
+\omega^2
+=
+\frac{C^{ij}_{eff}k_ik_j}{A_{eff}}.
+]
+
+This is useful diagnostically.
+
+A genuine emergent geometric regime should eventually explain why an appropriate low-energy sector becomes sufficiently isotropic, or else predict observable anisotropy.
+
+Therefore isotropy becomes a **testable condition**, rather than an assumption.
+
+### 6. What this PGA establishes
+
+The combined 1.12.4 branch now has a concrete chain:
+
+[
+\boxed{
+\text{microscopic relational dynamics}
+\rightarrow
+\text{scale-selected collective closure}
+\rightarrow
+(A_{eff},C^{ij}_{eff})
+\rightarrow
+\text{candidate effective geometry}
+}
+]
+
+The response tensor is not simply introduced independently; it is associated with the collective sector selected by the closure test.
+
+This is stronger than merely saying “a network can be mapped to a metric.”
+
+### 7. What remains open
+
+The test does **not** derive:
+
+- physical spacetime;
+- Lorentz invariance;
+- universal physical (c);
+- observer-independent metric;
+- curvature;
+- Einstein equations;
+- equivalence principle;
+- Newtonian limit;
+- gravitational coupling;
+- quantum mechanics.
+
+The most important missing step is now:
+
+[
+oxed{
+	ext{Does the effective geometry itself become dynamical in a GR-compatible way?}
+}
+]
+
+### 8. Lead generated
+
+A new candidate lead emerges:
+
+[
+\boxed{
+\text{geometry may be an effective representation of collective relational response}
+}
+]
+
+rather than a primitive ingredient of the microscopic substrate.
+
+The stronger version to test is:
+
+[
+\boxed{
+\text{collective relational response}
+\rightarrow
+\text{metric}
+\rightarrow
+\text{curvature}
+\rightarrow
+\text{gravity}
+}
+]
+
+The first arrow has a mathematical construction. The remaining arrows are open.
+
+### Status
+
+**🟢 SURVIVES:** effective spatial response can be represented by a metric; collective temporal/spatial response defines an effective propagation operator.
+
+**🟡 LEAD:** the metric interpretation is now tied to a dynamically selected collective sector rather than an arbitrary network-to-geometry mapping.
+
+**🔴 NOT DERIVED:** Lorentzian spacetime, curvature dynamics, Einstein equations, and gravity.
+
+### Next decisive experiment
+
+**PGA 1.12.4.4 — Quantum/Collective Compatibility Test** should now test whether the same microscopic relational law can simultaneously generate the quantum-compatible microscopic structures and the collective response structure, rather than constructing the two branches independently.
+
