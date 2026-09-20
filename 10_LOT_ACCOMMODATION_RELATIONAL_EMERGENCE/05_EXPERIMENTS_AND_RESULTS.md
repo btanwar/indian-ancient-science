@@ -132,7 +132,9 @@ For each nonzero normal mode, the standard canonical quantization gives
 
 [
 H_B=sum_n hbaromega_n
-left(a_n^dagger a_n+rac12ight),
+left(a_n^dagger a_n+
+rac12
+ight),
 ]
 
 with
@@ -145,7 +147,9 @@ Therefore each mode has the discrete energy spectrum
 
 [
 E_n=hbaromega_n
-left(N_n+rac12ight),
+left(N_n+
+rac12
+ight),
 qquad
 N_n=0,1,2,ldots
 ]
@@ -507,7 +511,9 @@ The present classical relational model contains quantities such as mass (M), sti
 For a harmonic mode,
 
 [
-H_n=rac12 p_n^2+rac12omega_n^2 q_n^2
+H_n=
+rac12 p_n^2+
+rac12omega_n^2 q_n^2
 ]
 
 after suitable normalization. The action scale associated with a trajectory is
@@ -525,7 +531,8 @@ No dimensionless relational invariant in the current model fixes a universal act
 Under a change of normalization of the dynamical coordinate,
 
 [
-qightarrow a q,
+q
+ightarrow a q,
 ]
 
 the numerical coefficients in the action and canonical momentum change correspondingly. Likewise, changing the overall energy/coupling scale changes the numerical value of the action while leaving the qualitative normal-mode structure intact.
@@ -954,9 +961,11 @@ where (X) is the microscopic configuration, ([X]_C) the observational equivalenc
 **Whole-research contribution:**
 [
 	ext{microscopic relations}
-ightarrow
+
+ightarrow
 	ext{collective relational modes}
-ightarrow
+
+ightarrow
 	ext{stable effective structure}
 ]
 is a viable tested mechanism in a controlled relational network.
@@ -1392,13 +1401,15 @@ qquad ninmathbb Z
 with action
 
 [
-S_n=rac{2pi^2I}{T}n^2.
+S_n=
+rac{2pi^2I}{T}n^2.
 ]
 
 The integer (n) is dimensionless and discrete, but the scale
 
 [
-S_0=rac{2pi^2I}{T}
+S_0=
+rac{2pi^2I}{T}
 ]
 
 remains dimensional.
@@ -1413,24 +1424,31 @@ Consider
 S[	heta;I,T]
 =
 int_0^T
-rac{I}{2}dot	heta^2,dt.
+
+rac{I}{2}dot	heta^2,dt.
 ]
 
 Apply a simultaneous scale transformation
 
 [
-tightarrow a t,
+t
+ightarrow a t,
 qquad
-Iightarrow aI.
+I
+ightarrow aI.
 ]
 
 The dimensionless winding number (n) is unchanged, while
 
 [
-rac{I}{T}ightarrow
-rac{aI}{aT}
+
+rac{I}{T}
+ightarrow
+
+rac{aI}{aT}
 =
-rac{I}{T}.
+
+rac{I}{T}.
 ]
 
 Thus this particular simultaneous transformation leaves the action-sector scale unchanged.
@@ -1438,13 +1456,15 @@ Thus this particular simultaneous transformation leaves the action-sector scale 
 However, the more important independent parameter transformation is
 
 [
-Iightarrow bI
+I
+ightarrow bI
 ]
 
 with the phase dynamics otherwise unchanged. Then
 
 [
-S_nightarrow bS_n.
+S_n
+ightarrow bS_n.
 ]
 
 Likewise, changing the time normalization changes the dimensional action scale unless another independent relational principle fixes that normalization.
@@ -1497,9 +1517,11 @@ We cannot argue:
 
 [
 	ext{compact phase}
-ightarrow
+
+ightarrow
 	ext{integer winding}
-ightarrow
+
+ightarrow
 hbar
 ]
 
@@ -1528,11 +1550,14 @@ The stronger research question is now:
 [
 oxed{
 S_inftyleftrightarrow B_infty
-ightarrow
+
+ightarrow
 	ext{relational dynamics}
-ightarrow
+
+ightarrow
 	ext{independent length/energy/time scales}
-ightarrow
+
+ightarrow
 	ext{action scale}
 }
 ]
@@ -1543,7 +1568,8 @@ The previously established result there was:
 
 [
 c_R=
-rac{	ext{relational distance}}
+
+rac{	ext{relational distance}}
 {	ext{relational duration}}
 ]
 
@@ -1591,7 +1617,8 @@ The next PGA should therefore test whether the **relational substrate itself con
 PGA 1.12.1.7 established that compact topology gives discrete sectors but does not fix
 
 [
-S_0=rac{2pi^2I}{T}.
+S_0=
+rac{2pi^2I}{T}.
 ]
 
 PGA 1.12.1.8 therefore asks whether an intrinsic relational model can remove this remaining scale freedom.
@@ -1609,15 +1636,18 @@ Under a common rescaling of the underlying dimensional quantities, the dimension
 For example, normal-mode frequencies satisfy
 
 [
-omega_n^2sim rac{lambda_n(K)}{M}.
+omega_n^2sim 
+rac{lambda_n(K)}{M}.
 ]
 
 The ratios
 
 [
-rac{omega_n}{omega_m}
+
+rac{omega_n}{omega_m}
 =
-sqrt{rac{lambda_n}{lambda_m}}
+sqrt{
+rac{lambda_n}{lambda_m}}
 ]
 
 can therefore be invariant while the absolute frequency scale remains adjustable.
@@ -1625,9 +1655,12 @@ can therefore be invariant while the absolute frequency scale remains adjustable
 Likewise, normalized graph quantities such as
 
 [
-rac{lambda_n}{lambda_m},qquad
-rac{D_G(A,B)}{D_G(C,D)},qquad
-rac{S_n}{S_m}
+
+rac{lambda_n}{lambda_m},qquad
+
+rac{D_G(A,B)}{D_G(C,D)},qquad
+
+rac{S_n}{S_m}
 ]
 
 can be dimensionless invariants without fixing an absolute physical unit.
@@ -1637,19 +1670,23 @@ can be dimensionless invariants without fixing an absolute physical unit.
 Let
 
 [
-Kightarrow alpha K,qquad Mightarrow M.
+K
+ightarrow alpha K,qquad M
+ightarrow M.
 ]
 
 Then
 
 [
-omega_nightarrowsqrt{alpha},omega_n,
+omega_n
+ightarrowsqrt{alpha},omega_n,
 ]
 
 while
 
 [
-rac{omega_n}{omega_m}
+
+rac{omega_n}{omega_m}
 ]
 
 is unchanged.
@@ -1657,7 +1694,8 @@ is unchanged.
 Similarly, if the action normalization is multiplied by an arbitrary positive constant,
 
 [
-Sightarroweta S,
+S
+ightarroweta S,
 ]
 
 the discrete winding structure
@@ -1734,11 +1772,14 @@ Schematically:
 
 [
 S_inftyleftrightarrow B_infty
-ightarrow
+
+ightarrow
 	ext{intrinsic relational dynamics}
-ightarrow
+
+ightarrow
 oxed{	ext{scale-selection mechanism}}
-ightarrow
+
+ightarrow
 egin{cases}
 c\
 hbar\
@@ -1846,7 +1887,8 @@ where (epsilon) is the energy associated with one elementary relational change.
 Define emergent interaction time only after the dynamics have been generated:
 
 [
-t_{m eff}=N	au_*,
+t_{
+m eff}=N	au_*,
 ]
 
 where (	au_*) is a possible coarse-graining conversion from event count to physical duration.
@@ -1860,17 +1902,22 @@ Theta=Nphi.
 Therefore the frequency measured with respect to emergent time is
 
 [
-omega_{m eff}
+omega_{
+m eff}
 =
-rac{phi}{	au_*}.
+
+rac{phi}{	au_*}.
 ]
 
 An action-like ratio becomes
 
 [
-rac{Delta E}{omega_{m eff}}
+
+rac{Delta E}{omega_{
+m eff}}
 =
-rac{N_Eepsilon,	au_*}{phi}.
+
+rac{N_Eepsilon,	au_*}{phi}.
 ]
 
 ### Result A — External simulation time can be removed
@@ -1898,7 +1945,8 @@ This is consistent with the earlier PGA-118R hypothesis.
 If the same elementary rule determines (epsilon), (phi), and the interaction-to-duration conversion, then
 
 [
-A_* sim rac{epsilon	au_*}{phi}
+A_* sim 
+rac{epsilon	au_*}{phi}
 ]
 
 is a natural action-like scale.
@@ -1910,13 +1958,15 @@ This is more integrated than PGA-117R, where the energy and propagation dynamics
 The transformation
 
 [
-epsilonightarrow aepsilon
+epsilon
+ightarrow aepsilon
 ]
 
 changes
 
 [
-A_*ightarrow aA_*
+A_*
+ightarrow aA_*
 ]
 
 while leaving the interaction count, topology, ordering, and dimensionless phase increment unchanged.
@@ -1924,7 +1974,8 @@ while leaving the interaction count, topology, ordering, and dimensionless phase
 Likewise,
 
 [
-	au_*ightarrow b	au_*
+	au_*
+ightarrow b	au_*
 ]
 
 changes the dimensional action scale while leaving the event sequence unchanged.
@@ -1932,13 +1983,15 @@ changes the dimensional action scale while leaving the event sequence unchanged.
 Therefore the event-count clock removes the need to **assume physical time at the microscopic level**, but it does not by itself determine the conversion
 
 [
-Nightarrow	ext{seconds}
+N
+ightarrow	ext{seconds}
 ]
 
 or
 
 [
-epsilonightarrow	ext{joules}.
+epsilon
+ightarrow	ext{joules}.
 ]
 
 Hence:
@@ -1963,7 +2016,8 @@ The historical experiments now fit together more cleanly:
 
 [
 	ext{nonlinearity}
-ightarrow
+
+ightarrow
 	ext{localization}
 ]
 
@@ -1971,7 +2025,8 @@ but not quantization;
 
 [
 	ext{topology/compactness}
-ightarrow
+
+ightarrow
 	ext{discrete sectors}
 ]
 
@@ -1979,7 +2034,8 @@ but not absolute action scale;
 
 [
 Delta E+	ext{propagating mode}
-ightarrow
+
+ightarrow
 omega
 ]
 
@@ -1987,7 +2043,8 @@ but historical PGA-117R found (Delta E/omega) changed with independently varied 
 
 [
 	ext{interaction count}
-ightarrow
+
+ightarrow
 	ext{candidate emergent clock}
 ]
 
@@ -2002,7 +2059,8 @@ Survives:
 [
 oxed{
 	ext{fundamental interaction ordering}
-ightarrow
+
+ightarrow
 	ext{candidate emergent clock}
 }
 ]
@@ -2012,7 +2070,8 @@ and potentially:
 [
 oxed{
 	ext{same microscopic rule}
-ightarrow
+
+ightarrow
 	ext{energy + phase advance + propagation ordering}
 }
 ]
@@ -2024,11 +2083,17 @@ Not derived:
 ]
 
 [
-oxed{1 {m interaction}ightarrow{m fixed physical duration}}
+oxed{1 {
+m interaction}
+ightarrow{
+m fixed physical duration}}
 ]
 
 [
-oxed{1 {m relational energy}ightarrow{m fixed physical energy}}
+oxed{1 {
+m relational energy}
+ightarrow{
+m fixed physical energy}}
 ]
 
 ### Cross-branch significance
@@ -2037,19 +2102,22 @@ This result connects three previously separate branches:
 
 [
 	ext{interaction count}
-ightarrow
+
+ightarrow
 	ext{emergent ordering/time}
 ]
 
 [
 	ext{interaction count + propagation}
-ightarrow
+
+ightarrow
 	ext{candidate }c
 ]
 
 [
 	ext{interaction count + transition energy + phase}
-ightarrow
+
+ightarrow
 	ext{candidate action scale}
 ]
 
@@ -2058,7 +2126,8 @@ So the deeper target is now:
 [
 oxed{
 	ext{one microscopic relational event rule}
-ightarrow
+
+ightarrow
 egin{cases}
 	ext{clock}\
 	ext{propagation}\
@@ -2123,7 +2192,8 @@ omega^2=lambda(K).
 For a mode with amplitude (A), the total harmonic energy is
 
 [
-E=rac12omega^2A^2
+E=
+rac12omega^2A^2
 ]
 
 at maximum displacement.
@@ -2131,9 +2201,11 @@ at maximum displacement.
 Therefore the classical action-like ratio is
 
 [
-rac{E}{omega}
+
+rac{E}{omega}
 =
-rac12omega A^2.
+
+rac12omega A^2.
 ]
 
 No quantum assumption is inserted.
@@ -2157,7 +2229,8 @@ N=5:quad omega_1approx0.6180.
 For equal mode amplitude (A=1),
 
 [
-E/omega=rac12omega,
+E/omega=
+rac12omega,
 ]
 
 giving approximately:
@@ -2173,19 +2246,22 @@ Thus the same microscopic coupling rule does **not** produce a universal (E/omeg
 Let
 
 [
-Kightarrowalpha K.
+K
+ightarrowalpha K.
 ]
 
 Then
 
 [
-omegaightarrowsqrt{alpha}omega
+omega
+ightarrowsqrt{alpha}omega
 ]
 
 while
 
 [
-Eightarrowalpha E
+E
+ightarrowalpha E
 ]
 
 for fixed amplitude.
@@ -2193,9 +2269,12 @@ for fixed amplitude.
 Consequently,
 
 [
-rac{E}{omega}
-ightarrow
-sqrt{alpha}rac{E}{omega}.
+
+rac{E}{omega}
+
+ightarrow
+sqrt{alpha}
+rac{E}{omega}.
 ]
 
 Therefore an arbitrary overall coupling scale changes the action-like ratio while leaving the dimensionless relational topology unchanged.
@@ -2225,7 +2304,8 @@ Eproptoomega
 with a configuration-independent proportionality constant:
 
 [
-rac{E}{omega}=A_*
+
+rac{E}{omega}=A_*
 ]
 
 and then independently show that the same (A_*) governs the compact/topological action sectors and the interaction-count clock.
@@ -2265,7 +2345,8 @@ The recurring boundary is now clearer:
 [
 oxed{
 	ext{relational law}
-ightarrow
+
+ightarrow
 	ext{structure + dynamics + ratios}
 }
 ]
@@ -2275,7 +2356,8 @@ but not yet:
 [
 oxed{
 	ext{relational law}
-ightarrow
+
+ightarrow
 	ext{universal dimensional calibration}
 }
 ]
@@ -2320,11 +2402,14 @@ The research order is now explicitly:
 [
 oxed{
 	ext{derive relational structure}
-ightarrow
+
+ightarrow
 	ext{derive relational laws}
-ightarrow
+
+ightarrow
 	ext{identify observables}
-ightarrow
+
+ightarrow
 	ext{physical calibration}
 }
 ]
@@ -2340,7 +2425,8 @@ The primary result remains:
 [
 oxed{
 	ext{compact relational structure}
-ightarrow
+
+ightarrow
 	ext{discrete sectors}
 }
 ]
@@ -2354,7 +2440,8 @@ The primary result remains:
 [
 oxed{
 	ext{interaction ordering}
-ightarrow
+
+ightarrow
 	ext{candidate intrinsic clock/order variable}
 }
 ]
@@ -2433,11 +2520,14 @@ The methodological correction recorded as RT-008 establishes that the correct re
 
 [
 	ext{relational structure}
-ightarrow
+
+ightarrow
 	ext{relational laws}
-ightarrow
+
+ightarrow
 	ext{observables}
-ightarrow
+
+ightarrow
 	ext{physical calibration}.
 ]
 
@@ -2483,7 +2573,8 @@ qquad ninmathbb Z.
 Hence, if
 
 [
-phi=rac{2pi}{q},
+phi=
+rac{2pi}{q},
 ]
 
 then
@@ -2505,9 +2596,11 @@ Thus:
 [
 oxed{
 	ext{interaction ordering}
-ightarrow
+
+ightarrow
 	ext{compact phase evolution}
-ightarrow
+
+ightarrow
 	ext{integer winding sectors}
 }
 ]
@@ -2519,13 +2612,16 @@ This gives a clean relational connection between PGA 1.12.1.6 and PGA 1.12.1.9.
 The number of elementary interactions required for one full winding is
 
 [
-N_{m period}=rac{2pi}{phi}.
+N_{
+m period}=
+rac{2pi}{phi}.
 ]
 
 For rational phase increments,
 
 [
-phi=rac{2pi p}{q},
+phi=
+rac{2pi p}{q},
 ]
 
 the phase returns after a finite relational period determined by the integers (p,q).
@@ -2542,7 +2638,8 @@ Therefore compactness plus discrete update ordering naturally produces a distinc
 The quantities
 
 [
-N,quad n,quad phi,quad N_{m period}
+N,quad n,quad phi,quad N_{
+m period}
 ]
 
 are relational quantities.
@@ -2550,7 +2647,8 @@ are relational quantities.
 The test therefore does not require:
 
 [
-1,N=1 {m second}
+1,N=1 {
+m second}
 ]
 
 or
@@ -2600,9 +2698,11 @@ What survives:
 [
 oxed{
 N
-ightarrow
+
+ightarrow
 	heta_N
-ightarrow
+
+ightarrow
 n
 }
 ]
@@ -2625,14 +2725,17 @@ This produces a more coherent intermediate layer for the whole S∞↔B∞ progr
 
 [
 S_inftyleftrightarrow B_infty
-ightarrow
+
+ightarrow
 	ext{relational updates}
-ightarrow
+
+ightarrow
 egin{cases}
 	ext{interaction ordering}\
 	ext{phase evolution}
 end{cases}
-ightarrow
+
+ightarrow
 egin{cases}
 	ext{candidate clock/order}\
 	ext{discrete topological sectors}
@@ -2667,7 +2770,9 @@ Do not identify (N) with physical time, (n) with a quantum number, or (phi) with
 PGA 1.12.1.11 established the structural compatibility
 
 [
-Nightarrow	heta_Nightarrow n
+N
+ightarrow	heta_N
+ightarrow n
 ]
 
 where (N) is relational interaction order, (	heta_N) is compact phase, and (n) is winding number.
@@ -2729,13 +2834,15 @@ still contains an externally chosen quantity.
 Changing
 
 [
-	auightarrow a	au
+	au
+ightarrow a	au
 ]
 
 changes
 
 [
-phiightarrow aphi
+phi
+ightarrow aphi
 ]
 
 without changing the underlying normalized relational spectrum.
@@ -2761,7 +2868,9 @@ z_{N+1}=e^{iphi}z_N,
 the phase increment is an intrinsic property of the update map:
 
 [
-phi=argleft(rac{z_{N+1}}{z_N}ight).
+phi=argleft(
+rac{z_{N+1}}{z_N}
+ight).
 ]
 
 This gives a stronger structural statement:
@@ -2769,7 +2878,8 @@ This gives a stronger structural statement:
 [
 oxed{
 	ext{discrete relational rule}
-ightarrow
+
+ightarrow
 	ext{phase increment per interaction}
 }
 ]
@@ -2807,9 +2917,11 @@ Survives:
 [
 oxed{
 	ext{relational dynamics}
-ightarrow
+
+ightarrow
 	ext{mode evolution}
-ightarrow
+
+ightarrow
 	ext{phase increment}
 }
 ]
@@ -2819,9 +2931,11 @@ and, in a discrete formulation:
 [
 oxed{
 	ext{interaction}
-ightarrow
+
+ightarrow
 	ext{phase advance}
-ightarrow
+
+ightarrow
 	ext{compact winding}
 }
 ]
@@ -2854,14 +2968,17 @@ The integrated chain is now:
 
 [
 S_inftyleftrightarrow B_infty
-ightarrow
+
+ightarrow
 	ext{relational update}
-ightarrow
+
+ightarrow
 egin{cases}
 	ext{interaction ordering}\
 	ext{phase advance}
 end{cases}
-ightarrow
+
+ightarrow
 egin{cases}
 	ext{candidate clock}\
 	ext{compact winding sectors}
@@ -2902,7 +3019,8 @@ The deeper hypothesis under investigation is:
 [
 oxed{
 S_inftyleftrightarrow B_infty
-ightarrow
+
+ightarrow
 	ext{relational reconfiguration}
 }
 ]
@@ -2910,7 +3028,8 @@ S_inftyleftrightarrow B_infty
 rather than:
 
 [
-	ext{new object}ightarrow	ext{empty physical room}.
+	ext{new object}
+ightarrow	ext{empty physical room}.
 ]
 
 An effective object/excitation may correspond to a new stable relational configuration of the same underlying substrate.
@@ -2918,7 +3037,8 @@ An effective object/excitation may correspond to a new stable relational configu
 Represent this schematically as:
 
 [
-B_infty(C)ightarrow B_infty(C').
+B_infty(C)
+ightarrow B_infty(C').
 ]
 
 ### Physical intuition retained
@@ -2949,7 +3069,10 @@ The test should begin with:
 4. the invariant/change between (C_0) and (C_1);
 5. repeated evolution
    [
-   C_0ightarrow C_1ightarrow C_2ightarrowcdots;
+   C_0
+ightarrow C_1
+ightarrow C_2
+ightarrowcdots;
    ]
 6. whether the resulting change can support, without separately inserting them:
    - ordering,
@@ -2965,15 +3088,20 @@ The intended research dependency is now:
 [
 oxed{
 	ext{relational reconfiguration}
-ightarrow
+
+ightarrow
 	ext{interaction ordering}
-ightarrow
+
+ightarrow
 	ext{phase / propagation}
-ightarrow
+
+ightarrow
 	ext{stable excitation}
-ightarrow
+
+ightarrow
 	ext{observable reconstruction}
-ightarrow
+
+ightarrow
 	ext{physical calibration}
 }
 ]
@@ -2981,7 +3109,8 @@ The intended research dependency is now:
 This supersedes the overly shallow immediate sequence:
 
 [
-	ext{assume update rule}ightarrowphi.
+	ext{assume update rule}
+ightarrowphi.
 ]
 
 Therefore the previously proposed **PGA 1.12.1.13 — Relational Update-Law Selection Test** is superseded by:
@@ -3012,7 +3141,8 @@ The deeper missing layer is now explicitly identified as:
 [
 oxed{
 S_inftyleftrightarrow B_infty
-ightarrow
+
+ightarrow
 	ext{elementary relational reconfiguration}
 }
 ]
@@ -3036,7 +3166,8 @@ The Hilbert Hotel analogy supplies the mathematical intuition that an infinite a
 The physical-style question is therefore:
 
 [
-B_infty(C)ightarrow B_infty(C')
+B_infty(C)
+ightarrow B_infty(C')
 ]
 
 where (C') differs relationally from (C), while the underlying substrate itself need not acquire a new location.
@@ -3126,7 +3257,10 @@ The update changes neighbouring relational values only.
 The disturbance therefore evolves as
 
 [
-C_0ightarrow C_1ightarrow C_2ightarrowcdots
+C_0
+ightarrow C_1
+ightarrow C_2
+ightarrowcdots
 ]
 
 without changing the underlying substrate cardinality.
@@ -3173,7 +3307,8 @@ The Hilbert Hotel “room” is not required for the structural representation.
 	ext{same substrate}
 +
 	ext{different relational configuration}
-ightarrow
+
+ightarrow
 	ext{different effective structure}
 }
 ]
@@ -3183,7 +3318,10 @@ The Hilbert Hotel “room” is not required for the structural representation.
 The reconfiguration can naturally have an ordered history:
 
 [
-C_0ightarrow C_1ightarrow C_2ightarrowcdots
+C_0
+ightarrow C_1
+ightarrow C_2
+ightarrowcdots
 ]
 
 This supplies a clean dependency for the previously investigated interaction-count idea:
@@ -3256,13 +3394,17 @@ This result provides the missing conceptual bridge:
 
 [
 S_inftyleftrightarrow B_infty
-ightarrow
+
+ightarrow
 	ext{relational reconfiguration}
-ightarrow
+
+ightarrow
 	ext{ordered propagation}
-ightarrow
+
+ightarrow
 	ext{information acquisition}
-ightarrow
+
+ightarrow
 	ext{reconstruction}.
 ]
 
@@ -4052,19 +4194,26 @@ Earlier research also recorded:
 
 [
 	ext{mathematical consistency}
-ightarrow
+
+ightarrow
 	ext{locality}
-ightarrow
+
+ightarrow
 	ext{causality}
-ightarrow
+
+ightarrow
 	ext{conservation}
-ightarrow
+
+ightarrow
 	ext{continuum limit}
-ightarrow
+
+ightarrow
 	ext{quantum limit}
-ightarrow
+
+ightarrow
 	ext{geometric limit}
-ightarrow
+
+ightarrow
 	ext{known-physics recovery}.
 ]
 
@@ -4098,3 +4247,327 @@ is now the controlled foundational architecture.
 **Status:** 🟢 FOUNDATIONAL ARCHITECTURE RECOVERED AND MATRIX FROZEN FOR CURRENT RESEARCH.
 
 **Protection:** The matrix records candidates and requirements; it does not declare every row a law of nature. Future PGAs must explicitly test, promote, reject, or leave open each candidate rather than silently assuming it.
+
+## E — PGA 1.12.4.1: Candidate Quantum–Geometry Bridge — Individual-to-Collective Relational Behaviour
+
+**Research Tree Node:** 1.12.4 — Quantum-to-Geometry Bridge  
+**PGA:** 1.12.4.1  
+**Objective:** Test whether the existing S∞ ↔ B∞ results can be organized into a mathematically coherent scale-transition framework in which microscopic/individual relational behaviour and macroscopic/collective/geometric behaviour are two effective regimes of the same relational system.
+
+### 1. Research question
+
+The working intuition is the difference between:
+
+- **individual/local behaviour:** the behaviour of one relational degree of freedom or a small subsystem;
+- **collective/large-system behaviour:** behaviour of many coupled relational degrees of freedom after aggregation, coarse-graining, or a large-system/continuum limit.
+
+The hypothesis is therefore not that “statistics = quantum mechanics” or that “collective behaviour = gravity.”
+
+The narrower bridge hypothesis is:
+
+[
+\boxed{
+\text{different effective descriptions of one relational system may correspond to quantum and geometric regimes}
+}
+]
+
+The word “infinity” in S∞ ↔ B∞ is treated here as a conceptual large-scale/collective limit, not as a requirement that every derivation literally use an infinite number of degrees of freedom.
+
+### 2. Minimal two-scale construction
+
+Let the microscopic relational state be
+
+[
+C=\{r_i\},\qquad i=1,\ldots,N
+]
+
+with microscopic transition
+
+[
+C_{t+1}=T(C_t).
+]
+
+Define collective variables through a coarse-graining map
+
+[
+R_\alpha=\mathcal C_\alpha(C).
+]
+
+The bridge requires that the collective variables have an induced evolution,
+
+[
+R_{t+1}=\mathcal T_{eff}(R_t)+\epsilon,
+]
+
+where (epsilon) measures information lost by coarse-graining.
+
+A successful scale bridge therefore requires more than observing that many degrees of freedom exist. It requires that a useful collective description emerges from the microscopic relational dynamics.
+
+### 3. Test A — individual dynamics versus collective modes
+
+Use the existing quadratic relational model
+
+[
+M\ddot x+\Gamma\dot x+Kx=J.
+]
+
+At the microscopic level, the components (x_i) describe individual relational degrees of freedom.
+
+At the collective level, diagonalization gives normal modes
+
+[
+Ku_n=\lambda_nu_n,
+qquad
+\omega_n^2\sim\lambda_n.
+]
+
+The important result already established in the quantum branch is that collective modes are not simply copies of individual coordinates. They are structures of the coupled system.
+
+For a translationally invariant periodic chain, the uniform collective coordinate
+
+[
+Q=\frac1N\sum_i x_i
+]
+
+is a closed zero mode of the coupling Laplacian:
+
+[
+K\mathbf 1=0.
+]
+
+Thus the collective coordinate can have dynamics different from the internal relative modes.
+
+### Result A
+
+[
+\boxed{
+\text{microscopic relational degrees of freedom}
+\rightarrow
+\text{collective modes with distinct dynamics}
+}
+]
+
+This is a direct mathematical property of the tested relational model.
+
+It is **not** yet a quantum or gravitational result.
+
+### 4. Test B — collective response as an effective tensor
+
+Earlier S∞ ↔ B∞ work introduced the relational energy form
+
+[
+E=\frac12\int d^dx\,C^{ab}(x)\,\partial_a\phi\,\partial_b\phi.
+]
+
+A geometric continuum description of the same mathematical form can be written as
+
+[
+E=\frac12\int d^dx\,\sqrt g\,g^{ab}\,\partial_a\phi\,\partial_b\phi.
+]
+
+Therefore one can define the mathematical correspondence
+
+[
+C^{ab}_{eff}=\sqrt g\,g^{ab}.
+]
+
+In three spatial dimensions this permits reconstruction
+
+[
+g_{ij}= (\det C)\,(C^{-1})_{ij},
+]
+
+provided (C) has the required non-singular positive-definite structure.
+
+### Critical audit
+
+This step is a **mathematical representation map**, not a derivation that physical spacetime is (C^{ab}).
+
+The metric has not been assumed at the microscopic level, but the correspondence itself introduces geometric interpretation at the effective level.
+
+Therefore:
+
+[
+\boxed{
+C^{ab}_{eff}\rightarrow g^{eff}_{ij}
+\text{ is a candidate emergent-geometric map, not an established physical derivation.}
+}
+]
+
+### 5. Test C — the quantum-side structures that survive before quantization
+
+The earlier quantum branch established several structural results:
+
+- normal modes exist in the relational B∞ model;
+- classical superposition exists;
+- coupled subsystems generate collective/nonseparable classical modes;
+- noncommuting relational update maps can be constructed;
+- compact phase can generate discrete winding sectors;
+- interaction ordering can provide a candidate intrinsic ordering/clock variable.
+
+But the audits also established that these do **not**, by themselves, derive:
+
+- Hilbert-space structure;
+- Born probabilities;
+- quantum entanglement;
+- canonical commutation relations;
+- a universal (hbar)-like action scale.
+
+Therefore the quantum side of the bridge must currently be represented as a **quantum-compatible structural branch**, not as derived quantum mechanics.
+
+### Result C
+
+The microscopic relational system contains candidate structures that can feed a quantum description, but the quantum formalism is not yet derived.
+
+[
+\boxed{
+\text{relational microstructure}
+\rightarrow
+\text{quantum-compatible candidates}
+\neq
+\text{derived QM}
+}
+]
+
+### 6. Test D — common microscopic origin
+
+The proposed common architecture is:
+
+[
+\boxed{
+C,T,O
+\rightarrow
+\text{microscopic relational dynamics}
+\rightarrow
+\begin{cases}
+\text{quantum-compatible microscopic structure}\\
+\text{collective response / effective geometry}
+\end{cases}
+}
+]
+
+The two branches are therefore not required to be the same mathematical object at every scale.
+
+The required bridge is a **controlled map between descriptions**.
+
+Schematically:
+
+[
+\{r_i\}_{micro}
+\xrightarrow{\mathcal C}
+R_\alpha
+\xrightarrow{response}
+C^{ab}_{eff}
+\xrightarrow{map}
+g^{eff}_{\mu\nu},
+]
+
+while independently
+
+[
+\{r_i\}_{micro}
+\xrightarrow{phase/correlation/update\ structure}
+\text{quantum-compatible state description}.
+]
+
+The unresolved question is whether these two effective descriptions can be generated from one common relational transition/action structure rather than being separately imposed.
+
+### 7. Test E — action-level bridge target
+
+A useful future bridge criterion is whether one underlying relational action can have two controlled limits:
+
+[
+S_{rel}[C]
+\longrightarrow
+S_{micro}
+]
+
+with a quantum description involving phase/action structure, while the collective continuum limit gives an effective geometric action of the form
+
+[
+S_{geom}\sim\int d^4x\,\sqrt{-g}\,R.
+]
+
+This is a **target for future testing**, not an assumption of the present PGA.
+
+The current work does not derive the Einstein-Hilbert action.
+
+### 8. What this PGA actually establishes
+
+The experiment establishes a coherent **research architecture**:
+
+1. microscopic relational variables can possess dynamics;
+2. coupled microscopic variables can generate collective modes;
+3. coarse-graining can produce effective collective variables;
+4. an effective relational response tensor can be mathematically represented in metric form;
+5. the same microscopic relational branch already contains several quantum-compatible structural candidates;
+6. neither the quantum formalism nor GR has yet been derived.
+
+Thus the individual-to-collective distinction is a legitimate bridge strategy to investigate.
+
+### 9. What it does NOT establish
+
+This PGA does **not** establish:
+
+- that quantum mechanics is statistical mechanics;
+- that collective behaviour is gravity;
+- that B∞ is spacetime;
+- that the effective metric obeys Einstein's equation;
+- that curvature follows uniquely from S∞ ↔ B∞;
+- that (hbar) emerges;
+- that the Born rule emerges;
+- that Lorentz invariance emerges;
+- that universal physical (c) emerges;
+- that quantum and geometric descriptions are mathematically identical.
+
+### 10. Candidate theory statement
+
+The strongest defensible statement at this stage is:
+
+[
+\boxed{
+\text{S∞ ↔ B∞ may provide a candidate relational substrate whose microscopic and collective limits could support quantum and geometric effective descriptions.}
+}
+]
+
+The word **candidate** is essential.
+
+The result is therefore not “unification proved.” It is a **candidate quantum-to-geometry bridge framework** that now has a concrete mathematical structure and a defined set of missing derivations.
+
+### 11. Next decisive experiments
+
+The next research work should move from architecture to discrimination:
+
+**PGA 1.12.4.2 — Coarse-Graining Closure Test**
+
+Determine whether a collective variable (R_\alpha) obeys an approximately closed evolution derived from the microscopic (T), and quantify the residual (epsilon).
+
+Then:
+
+**PGA 1.12.4.3 — Response-to-Geometry Test**
+
+Determine whether the effective response tensor can acquire a Lorentzian (g_{\mu\nu}^{eff}), including temporal structure, without inserting a metric at the microscopic level.
+
+Then:
+
+**PGA 1.12.4.4 — Quantum/Collective Compatibility Test**
+
+Determine whether the microscopic quantum-compatible structures and the collective geometric response can be generated by the same relational transition/action law.
+
+### Status
+
+**🟢 SURVIVES as a candidate bridge architecture.**
+
+**🟡 MATHEMATICALLY SUPPORTED at toy/model level:** microscopic-to-collective mode formation and response/tensor representation.
+
+**🔴 NOT DERIVED:** quantum mechanics, Lorentzian spacetime, curvature dynamics, Einstein equations, or a complete quantum-to-geometry correspondence.
+
+### Protection
+
+[
+\boxed{
+\text{individual} \rightarrow \text{collective}
+\text{ is the bridge mechanism to test, not the claimed final theory.}
+}
+]
+
