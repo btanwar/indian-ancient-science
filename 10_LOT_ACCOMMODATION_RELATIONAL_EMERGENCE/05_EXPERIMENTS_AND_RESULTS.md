@@ -10858,3 +10858,252 @@ Test whether effective individuality is associated with a **persistent relationa
 \]
 
 If successful, this would connect the earlier persistence/object-identity branch to the newly opened S∞ interpretation.
+
+
+## Y — PGA 1.12.4.31: Persistent Relational Cluster / Effective Object Identity Test
+
+**Objective:** Test whether an effective “individual object” can emerge from a primitive relational network as a persistent weakly connected cluster, rather than being fundamental.
+
+### 1. Question
+
+PGA 1.12.4.30 established that a primitive relational system can admit approximately separable effective subsystems in a weak-cross-coupling regime.
+
+The next question is:
+
+\[
+\boxed{
+\text{Can such a subsystem acquire persistent identity?}
+}
+\]
+
+The target is:
+
+\[
+\text{relational cluster}
+\rightarrow
+\text{persistent internal structure}
+\rightarrow
+\text{effective object}.
+\]
+
+### 2. Minimal model
+
+Use a weighted graph with two internally strongly connected clusters \(A\) and \(B\), with weak cross-links:
+
+\[
+q_{ij}=q_H,\quad (i,j)\in E_A\cup E_B
+\]
+
+and
+
+\[
+q_{ij}=q_L,\quad (i,j)\in E_{AB},
+\qquad q_L\ll q_H.
+\]
+
+Define cluster identity through internal relational structure rather than labels.
+
+Let:
+
+\[
+L_A,\;L_B
+\]
+
+be the internal graph Laplacians and let the cluster boundary be the set of weak cross-links.
+
+### 3. Perturbation test
+
+Apply a localized perturbation to cluster \(A\).
+
+Track:
+
+1. internal relational coherence;
+2. boundary leakage into \(B\);
+3. persistence of the cluster's internal mode spectrum;
+4. recoverability of the cluster from relational observables after evolution.
+
+A candidate object is considered persistent if its internal relational signature remains identifiable over many updates despite interaction with the environment.
+
+### 4. Structural result
+
+When:
+
+\[
+q_L/q_H\ll1,
+\]
+
+the internal dynamics dominate the weak boundary interaction.
+
+The cluster therefore supports approximately autonomous collective modes while still remaining part of the complete relational network.
+
+Schematically:
+
+\[
+\boxed{
+\text{strong internal relation}
++
+\text{weak external relation}
+\rightarrow
+\text{persistent effective subsystem}
+}
+\]
+
+The identity is not assigned by an external object label. It is reconstructed from the persistent relational signature.
+
+### 5. Important distinction
+
+This is **not** absolute isolation.
+
+The subsystem remains relationally connected to its environment.
+
+Therefore the emerging object is better represented as:
+
+\[
+\boxed{
+\text{a relatively autonomous relational pattern}
+}
+\]
+
+rather than an independently existing entity.
+
+### 6. Relation to earlier persistence work
+
+This gives a concrete implementation of the earlier observation:
+
+\[
+I(T(C))=I(C)
+\]
+
+as a possible persistence mechanism.
+
+Here the invariant/signature is not assumed to be a universal fundamental conservation law. Instead, the cluster's internal spectral/relational structure remains approximately stable because the external coupling is weak.
+
+Thus:
+
+\[
+\boxed{
+\text{persistence can be an emergent property of relational scale separation}
+}
+\]
+
+rather than a separate primitive axiom.
+
+### 7. Object identity criterion
+
+A practical relational identity measure can be written as:
+
+\[
+\mathcal I_A(t)
+=
+\operatorname{similarity}
+\left[
+\Sigma_A(t),
+\Sigma_A(t_0)
+\right],
+\]
+
+where \(\Sigma_A\) denotes the cluster's internal relational signature, such as its normalized internal mode spectrum or invariant relational pattern.
+
+Persistent identity requires:
+
+\[
+\mathcal I_A(t)\approx1
+\]
+
+over the relevant time/update interval while boundary leakage remains small.
+
+### 8. S∞ interpretation
+
+This gives a stronger candidate microscopic-to-object pathway:
+
+\[
+\boxed{
+S_\infty
+\rightarrow
+\text{relational network}
+\rightarrow
+\text{strongly bound cluster}
+\rightarrow
+\text{persistent relational pattern}
+\rightarrow
+\text{effective object}
+}
+\]
+
+The “object” is therefore not necessarily a primitive constituent.
+
+It can be an emergent stable pattern in the relational substrate.
+
+### 9. Connection to B∞
+
+Once many such effective objects exist, their collective relations can produce the B∞ side:
+
+\[
+\text{effective objects}
+\rightarrow
+\text{collective binding}
+\rightarrow
+\text{distributed response}
+\rightarrow
+\text{field}
+\rightarrow
+\text{effective geometry}.
+\]
+
+This creates a more complete bridge:
+
+\[
+\boxed{
+\text{primitive relational substrate}
+\rightarrow
+\text{effective objects}
+\rightarrow
+\text{collective behaviour}
+\rightarrow
+\text{geometry}
+}
+\]
+
+### 10. Critical boundary
+
+The test still uses a selected hierarchy:
+
+\[
+q_H\gg q_L.
+\]
+
+The current foundation does not derive why such a scale separation should form.
+
+Therefore this is a mechanism demonstration, not a derivation of physical particles.
+
+It also does not establish quantum identity, mass, charge, or any Standard Model property.
+
+### 11. Status
+
+**🟢 S∞ STRUCTURAL LEAD:** a persistent effective object can be represented as a relatively autonomous relational pattern.
+
+**🟢 BRIDGE LEAD:** object identity can emerge from relational persistence rather than being primitive.
+
+**🟡 CONNECTION TO EARLIER WORK:** persistence can arise from scale separation without adding a universal persistence axiom.
+
+**🔴 OPEN:** derive the formation and stability of the strong/weak relational hierarchy from the fundamental transition law.
+
+### 12. Next decisive question
+
+The next test should remove the externally selected cluster boundary and ask:
+
+\[
+\boxed{
+\text{Can persistent relational clusters form dynamically from an initially unclustered network?}
+}
+\]
+
+If yes, we would have a stronger S∞ mechanism:
+
+\[
+\text{primitive relations}
+\rightarrow
+\text{spontaneous clusters}
+\rightarrow
+\text{persistent objects}.
+\]
