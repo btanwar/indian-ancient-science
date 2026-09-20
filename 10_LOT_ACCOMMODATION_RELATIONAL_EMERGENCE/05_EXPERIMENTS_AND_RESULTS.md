@@ -6612,3 +6612,194 @@ Compare three transition classes:
 
 The aim is to determine whether **persistence/stability or path-consistency requirements select coherence automatically**, rather than us selecting it because we want groups.
 
+
+
+## E — PGA 1.12.4.11: Selection Test — Agreement, Neutrality, and Dispersion
+
+**Research Tree Node:** 1.12.4 — Quantum-to-Geometry Bridge  
+**PGA:** 1.12.4.11  
+**Objective:** Test whether previously retained principles such as persistence, closure, reversibility, or path consistency can select coherence/group formation from competing local relational transition behaviours, rather than assuming an agreement-seeking rule.
+
+### 1. Test construction
+
+Use the same ring of 60 phase-like relational elements as in PGA 1.12.4.9, starting from randomized phases.
+
+Compare three local transition classes:
+
+**A — Agreement-seeking**
+
+\[
+\theta_i'=\theta_i+\eta\,\operatorname{wrap}(\theta_j-\theta_i)
+\]
+
+for a local neighbour \(j\).
+
+**B — Neutral/reversible**
+
+\[
+\theta_i'=\theta_i+\eta s_i
+\]
+
+where \(s_i\) is a local sign/state determined by the relational configuration and the update is chosen to be invertible. No tendency toward smaller phase differences is imposed.
+
+**C — Dispersive/anti-cohering**
+
+\[
+\theta_i'=\theta_i-\eta\,\operatorname{wrap}(\theta_j-\theta_i)
+\]
+
+which increases local phase differences for sufficiently small \(\eta\).
+
+The purpose is not to claim these are the only possible transition laws. They are controlled representatives of three qualitatively different behaviours.
+
+### 2. Result A — agreement-seeking rule
+
+Repeated local updates reduce phase differences and create persistent coherent regions.
+
+Thus:
+
+\[
+\boxed{
+\text{agreement-seeking dynamics}
+\rightarrow
+\text{coherence}
+\rightarrow
+\text{group formation}
+}
+\]
+
+This reproduces the mechanism of PGA 1.12.4.10.
+
+### 3. Result B — neutral/reversible rule
+
+The neutral class preserves valid relational states and can be made reversible, but it does not systematically reduce relational differences.
+
+No robust persistent coherent groups are selected solely by reversibility/closure.
+
+This gives:
+
+\[
+\boxed{
+\text{closure + reversibility}
+\not\Rightarrow
+\text{coherence}
+}
+\]
+
+### 4. Result C — dispersive rule
+
+The anti-cohering rule drives neighbouring phase differences apart rather than reducing them.
+
+It therefore does not produce stable coherent groups.
+
+This confirms that local relational dynamics can support qualitatively different collective outcomes.
+
+### 5. Path-consistency audit
+
+Path consistency constrains whether different sequences of local updates produce equivalent final states, but the present test does not show that path consistency selects the agreement-seeking rule.
+
+An agreement-seeking rule can be constructed with path-consistent updates, while other admissible relational rules can also satisfy consistency conditions.
+
+Therefore:
+
+\[
+\boxed{
+\text{path consistency alone}
+\not\Rightarrow
+\text{group formation}
+}
+\]
+
+### 6. Persistence/stability audit
+
+A coherent group can be defined as a subset whose internal relational difference remains below a threshold for a sustained number of updates.
+
+The agreement-seeking dynamics can produce such persistence.
+
+However, persistence does not select the agreement rule in advance; it is an observed property of the resulting dynamics.
+
+Thus:
+
+\[
+\boxed{
+\text{persistence is a selection criterion}
+\neq
+\text{fundamental derivation of coherence}
+}
+\]
+
+### 7. Important result
+
+The combined tests now establish a strong negative boundary:
+
+\[
+\boxed{
+C+T+O
++\text{closure}
++\text{reversibility}
++\text{path consistency}
+\not\Rightarrow
+\text{coherence/group formation}
+}
+\]
+
+At least within the tested toy class, these principles permit both coherent and non-coherent relational evolution.
+
+Therefore the research cannot honestly claim that group formation follows from the current foundational set.
+
+### 8. Positive lead
+
+The positive mechanism remains:
+
+\[
+\boxed{
+\text{a coherence-seeking transition law}
+\rightarrow
+\text{stable collective groups}
+}
+\]
+
+But the origin of the coherence-seeking law is now isolated as the missing ingredient.
+
+This is a sharper result than simply saying "synchronization works."
+
+### 9. Relation to S∞ ↔ B∞
+
+The possible architecture is now:
+
+\[
+S_\infty
+\rightarrow
+\text{many relational degrees of freedom}
+\rightarrow
+T_{\text{?}}
+\rightarrow
+\text{coherent subsets}
+\rightarrow
+\text{collective variables}
+\rightarrow
+B_\infty.
+\]
+
+The unresolved object is explicitly \(T_{\text{?}}\): a transition-selection principle that makes coherent organization dynamically preferred.
+
+### 10. Status
+
+**🟢 SURVIVES:** coherence-seeking dynamics can create persistent groups.
+
+**🔴 RULED OUT AS SUFFICIENT:** closure, reversibility, and path consistency alone do not select coherence in the tested models.
+
+**🟡 STRONG NEW LEAD:** search for a deeper transition-selection principle that produces a preference for stable relational organization without simply postulating "agreement."
+
+### 11. Next decisive question
+
+The next experiment should test whether **minimal change / variational selection / conserved relational quantity** can generate the coherence-seeking tendency without explicitly defining it.
+
+The key criterion is:
+
+\[
+\boxed{
+\text{derive the tendency toward coherent organization}
+\quad\text{rather than assume it.}
+}
+\]
