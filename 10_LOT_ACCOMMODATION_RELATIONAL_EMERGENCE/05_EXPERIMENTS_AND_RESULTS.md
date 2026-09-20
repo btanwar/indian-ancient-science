@@ -9508,3 +9508,229 @@ The B∞ collective branch may proceed to:
 \]
 
 while the S∞ role is preserved as a parked dependency to be opened as a dedicated future branch/test sequence.
+
+
+## S — PGA 1.12.4.25: Single Relational Variable Test
+
+**Objective:** Test whether one primitive relational link variable \(q_{ij}\), under one local transition rule, can simultaneously generate binding, distributed response, transport/holonomy structure, and an effective propagation response.
+
+### 1. Question
+
+The branch currently has several structures that have been introduced separately:
+
+\[
+\text{binding},\quad
+\text{collective response},\quad
+\text{connection/transport},\quad
+\text{effective propagation tensor}.
+\]
+
+The test asks whether these can arise from one underlying relational quantity rather than being independently supplied.
+
+\[
+\boxed{
+q_{ij}
+\rightarrow
+\{\text{binding},\text{response},\text{transport},\text{propagation}\}
+}
+\]
+
+### 2. Minimal construction
+
+Let every edge of a relational graph carry one scalar:
+
+\[
+q_{ij}=q_{ji}.
+\]
+
+Define the relational energy:
+
+\[
+E[q,x]
+=
+\frac12\sum_{(i,j)}
+q_{ij}(x_i-x_j)^2
++
+U(q).
+\]
+
+Here \(q_{ij}\) simultaneously controls the strength of the relation and the response of the connected system.
+
+A local transition updates both the node state and the relation:
+
+\[
+x_i\rightarrow x_i',
+\qquad
+q_{ij}\rightarrow q_{ij}'.
+\]
+
+No independent metric, connection, or external field variable is introduced.
+
+### 3. Binding result
+
+When \(q_{ij}>0\), the energy penalizes differences between connected elements.
+
+Thus increasing \(q_{ij}\) strengthens the relational binding.
+
+A group can therefore be defined from connected edges whose \(q_{ij}\) remains above a threshold.
+
+\[
+\boxed{
+q_{ij}\rightarrow\text{binding/collective connectivity}
+}
+\]
+
+### 4. Distributed response result
+
+The same \(q_{ij}\) enters the response operator.
+
+For fixed \(q\), the corresponding weighted graph Laplacian \(L(q)\) gives:
+
+\[
+M\ddot{x}+L(q)x=J.
+\]
+
+A localized disturbance therefore produces distributed response through the same \(q\)-network.
+
+\[
+\boxed{
+q_{ij}\rightarrow\text{distributed collective response}
+}
+\]
+
+### 5. Propagation result
+
+The normal modes of \(L(q)\) determine the propagation characteristics of the collective response.
+
+If the \(q\)-network is spatially non-uniform, the effective propagation coefficients become spatially non-uniform.
+
+Therefore:
+
+\[
+\boxed{
+q_{ij}
+\rightarrow
+\text{propagation environment}
+}
+\]
+
+### 6. Transport / holonomy boundary
+
+A single **scalar** \(q_{ij}\) is sufficient to determine weighted connectivity and propagation response in this construction, but it is **not sufficient by itself to represent arbitrary local frame transport or nontrivial connection holonomy**.
+
+A scalar edge weight has no independent orientation/transport degree of freedom.
+
+Therefore:
+
+\[
+\boxed{
+q_{ij}\text{ alone}\rightarrow\text{binding + response + propagation}
+}
+\]
+
+but:
+
+\[
+\boxed{
+q_{ij}\text{ alone}\not\Rightarrow\text{general connection/holonomy}.
+}
+\]
+
+This is an important minimum-data result.
+
+### 7. Minimum relational data implication
+
+The test therefore suggests two levels:
+
+**Level 1 — scalar relational strength**
+
+\[
+q_{ij}
+\]
+
+can support:
+
+- binding;
+- collective response;
+- propagation environment.
+
+**Level 2 — relational transport structure**
+
+An additional oriented/link-state variable is required if the model is to represent general local frame transport and holonomy:
+
+\[
+(q_{ij},A_{ij})
+\]
+
+or an equivalent richer relational object.
+
+This does not mean two fundamental physical fields are required; it means one scalar degree of relational information is insufficient for the full tested set of structures.
+
+### 8. Important result for the "string" hypothesis
+
+The string/link need not be a separate physical substance.
+
+A relational link can itself carry dynamical information.
+
+The current test gives:
+
+\[
+\boxed{
+\text{relation}
+\rightarrow
+\text{binding}
+\rightarrow
+\text{collective response}
+\rightarrow
+\text{propagation}
+}
+\]
+
+but the full connection/geometry route may require richer internal structure on the relation.
+
+This is a concrete refinement of the earlier string/reel intuition.
+
+### 9. S∞ / B∞ boundary
+
+This PGA is deliberately a **B∞-side structural test**.
+
+It does not determine what creates \(q_{ij}\).
+
+That remains the parked S∞ question:
+
+\[
+\boxed{
+S_\infty
+\rightarrow
+\text{origin of }q_{ij}\;?
+}
+\]
+
+Thus the current result preserves the required two-sided architecture rather than silently making B∞ self-sufficient.
+
+### 10. Status
+
+**🟢 POSITIVE:** one scalar relational variable can unify binding, distributed response, and propagation response in a toy relational model.
+
+**🟢 MINIMUM-DATA RESULT:** one scalar relation is insufficient for arbitrary connection/holonomy structure.
+
+**🔴 OPEN:** derive \(q_{ij}\) and any additional link transport structure from the fundamental S∞ transition.
+
+### 11. Next decisive question
+
+Continue the B∞ side only as far as necessary:
+
+\[
+\boxed{
+\text{Can the same evolving }q_{ij}
+\text{ dynamically generate both collective response and the minimum transport structure needed for curvature?}
+}
+\]
+
+Then open the parked S∞ branch and ask:
+
+\[
+\boxed{
+\text{What microscopic property of }S_\infty\text{ generates }q_{ij}\text{?}
+}
+\]
