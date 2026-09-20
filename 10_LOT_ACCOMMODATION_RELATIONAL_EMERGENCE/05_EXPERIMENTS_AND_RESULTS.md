@@ -10075,3 +10075,250 @@ T
 without explicitly imposing the constraint \(F(s_i,s_j)=0\).
 
 If yes, S∞ may have a genuine dynamical route to relation formation.
+
+
+## V — PGA 1.12.4.28: Dynamic Formation of Non-Factorizability
+
+**Objective:** Test whether initially independent microscopic degrees of freedom can become intrinsically relational through a local transition rule, without imposing a static constraint \(F(s_i,s_j)=0\).
+
+### 1. Question
+
+PGA 1.12.4.27 showed that a non-factorizable state can contain an intrinsic relation:
+
+\[
+S_{ij}\neq S_i\times S_j
+\rightarrow q_{ij}.
+\]
+
+The decisive S∞ question is now:
+
+\[
+\boxed{
+S_i\times S_j
+\xrightarrow{T}
+S_{ij}\neq S_i\times S_j\;?
+}
+\]
+
+In plain language:
+
+> Can interaction create the relation rather than the relation being assumed from the beginning?
+
+### 2. Minimal control: independent transition
+
+Let the microscopic state be a probability distribution over two binary variables \(s_i,s_j\).
+
+Initially:
+
+\[
+P(s_i,s_j)=P_i(s_i)P_j(s_j).
+\]
+
+An independent transition has the form:
+
+\[
+T=T_i\times T_j.
+\]
+
+Such a transition preserves factorization:
+
+\[
+P'(s_i,s_j)=P_i'(s_i)P_j'(s_j).
+\]
+
+Therefore:
+
+\[
+\boxed{
+\text{independent transition}\not\rightarrow\text{relation formation}
+}
+\]
+
+### 3. Local mixing transition
+
+Now use one local transition that updates the pair jointly. A simple reversible binary example is:
+
+\[
+(s_i,s_j)\rightarrow(s_i,\;s_i\oplus s_j),
+\]
+
+where \(\oplus\) is XOR.
+
+This rule is local and invertible.
+
+For an initially uniform independent distribution, however, the transformation merely permutes the four equally probable states and does **not** create statistical dependence. This is an important control: local invertibility alone is insufficient.
+
+### 4. Correlation-generating local transition
+
+Introduce a deterministic local interaction followed by coarse-graining/noise, or equivalently a stochastic local update whose transition probability depends jointly on \(s_i,s_j\).
+
+For example, favour equal neighbouring states:
+
+\[
+P(s_i',s_j'|s_i,s_j)
+\propto
+\exp[
+\kappa\,s_i's_j'
+]
+\]
+
+with local \(\kappa>0\).
+
+Starting from an initially independent distribution, repeated local updates generate:
+
+\[
+\langle s_i s_j\rangle\neq
+\langle s_i\rangle\langle s_j\rangle.
+\]
+
+Thus:
+
+\[
+\boxed{
+\text{local interaction}
+\rightarrow
+\text{correlation}
+\rightarrow
+\text{non-factorizable effective state}
+}
+\]
+
+### 5. What this actually establishes
+
+The test establishes a mechanism by which:
+
+\[
+\boxed{
+\text{initial independence}
+\rightarrow
+\text{local interaction}
+\rightarrow
+\text{intrinsic relational dependence}
+}
+\]
+
+can occur.
+
+This is stronger for the S∞ branch than PGA 1.12.4.27 because the relation is now dynamically generated rather than statically imposed.
+
+### 6. Critical negative result
+
+However, the local interaction itself was supplied.
+
+Neither locality nor invertibility alone forces the transition to couple \(i\) and \(j\).
+
+An equally valid transition is:
+
+\[
+T=T_i\times T_j,
+\]
+
+which preserves factorization.
+
+Therefore:
+
+\[
+\boxed{
+\text{C+T+O + locality + invertibility}
+\not\Rightarrow
+\text{dynamic non-factorizability}.
+}
+\]
+
+This is the key boundary.
+
+### 7. S∞ interpretation
+
+The most useful candidate microscopic sequence is now:
+
+\[
+\boxed{
+S_\infty
+\rightarrow
+\text{local interacting reconfiguration}
+\rightarrow
+\text{correlated/non-factorizable state}
+\rightarrow
+q_{ij}
+}
+\]
+
+The important new idea is that \(q_{ij}\) need not be a primitive coupling constant. It may be an **emergent descriptor of dynamically correlated microscopic states**.
+
+### 8. Connection to B∞
+
+If the generated \(q_{ij}\) is then used as the B∞ relational strength:
+
+\[
+q_{ij}
+\rightarrow
+L(q)
+\rightarrow
+\text{distributed response}
+\rightarrow
+\text{propagation}
+\rightarrow
+\text{effective geometry},
+\]
+
+we obtain the complete candidate cross-scale chain:
+
+\[
+\boxed{
+S_\infty
+\rightarrow
+\text{local interaction}
+\rightarrow
+\text{non-factorizable relation}
+\rightarrow
+q_{ij}
+\rightarrow
+\text{collective response}
+\rightarrow
+\text{field-like propagation}
+\rightarrow
+\text{geometry}
+\rightarrow
+B_\infty
+}
+\]
+
+This is currently a **candidate architecture**, not a derived physical law.
+
+### 9. Important conceptual distinction
+
+Non-factorizability is not automatically quantum entanglement.
+
+The present result only establishes classical/statistical relational dependence.
+
+A future quantum branch would need additional tests for:
+
+- quantum state-space structure;
+- noncommuting observables;
+- entanglement;
+- Born probabilities;
+- \(\hbar\).
+
+None is established by this PGA.
+
+### 10. Status
+
+**🟢 S∞ MECHANISM LEAD:** local interaction can dynamically create non-factorizable/correlated states from initially independent states.
+
+**🟢 BRIDGE LEAD:** dynamically generated relational dependence can provide a candidate origin for \(q_{ij}\).
+
+**🔴 FUNDAMENTAL SELECTION OPEN:** current principles do not force the microscopic transition to contain interaction/cross-dependence.
+
+### 11. Next decisive question
+
+The next test should remove the externally chosen “agreement/correlation” tendency and compare the classes of local transition laws allowed by the existing foundational principles.
+
+The key question is:
+
+\[
+\boxed{
+\text{Does any already-justified principle select interaction-producing transitions over factorized transitions?}
+}
+\]
+
+If not, the branch has precisely located the missing ingredient rather than inventing one.
