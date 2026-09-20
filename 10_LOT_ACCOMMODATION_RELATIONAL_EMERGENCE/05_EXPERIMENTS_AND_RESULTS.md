@@ -7454,3 +7454,210 @@ If yes, then the path toward emergent geometry becomes:
 
 **🔴 OPEN:** determine whether non-uniform collective relational structure modifies propagation in a way that can be represented as an effective metric.
 
+
+
+## J — PGA 1.12.4.16: Relational Inhomogeneity → Propagation / Effective Geometry Test
+
+**Objective:** Test whether non-uniform relational structure changes propagation, and whether the resulting propagation behaviour can be represented by an effective spatial response tensor.
+
+### 1. Question
+
+The previous PGAs established a chain in toy models:
+
+\[
+\text{local relations}
+\rightarrow
+\text{binding}
+\rightarrow
+\text{collective response}
+\rightarrow
+\text{field-like propagation}.
+\]
+
+The next question is:
+
+\[
+\boxed{
+\text{Does non-uniform relational structure modify propagation?}
+}
+\]
+
+If yes, a possible bridge is:
+
+\[
+\boxed{
+\text{relational structure}
+\rightarrow
+\text{propagation environment}
+\rightarrow
+\text{effective geometry}
+}
+\]
+
+### 2. Test model
+
+Use a 1D chain with spatially varying nearest-neighbour stiffness \(K_i\):
+
+\[
+\ddot x_i=
+K_i(x_{i+1}-x_i)
+-
+K_{i-1}(x_i-x_{i-1}).
+\]
+
+Compare:
+
+**Uniform case**
+\[
+K_i=K_0
+\]
+
+with a region of stronger relational binding:
+
+\[
+K_i=
+\begin{cases}
+K_H,&i\in R\\
+K_L,&i\notin R
+\end{cases},
+\qquad K_H>K_L.
+\]
+
+The microscopic equations remain relational; no metric is inserted.
+
+### 3. Result
+
+A localized disturbance propagates differently through regions with different relational stiffness.
+
+The stronger-relational region has a different local wave-speed scale than the weaker region. For the continuum approximation of the corresponding scalar response,
+
+\[
+A(x)\partial_t^2\phi
+-
+\partial_x\left(C(x)\partial_x\phi\right)=0,
+\]
+
+the local characteristic speed is:
+
+\[
+c_{\rm eff}(x)=\sqrt{\frac{C(x)}{A(x)}}.
+\]
+
+Thus:
+
+\[
+\boxed{
+\text{non-uniform relational response}
+\rightarrow
+\text{non-uniform propagation}
+}
+\]
+
+### 4. Effective-geometry representation
+
+For a general collective response,
+
+\[
+A_{\rm eff}(\mathbf x)\partial_t^2\phi
+-
+\partial_i
+\left(
+C_{\rm eff}^{ij}(\mathbf x)\partial_j\phi
+\right)=0.
+\]
+
+The spatial response tensor can be represented as:
+
+\[
+C_{\rm eff}^{ij}=\sqrt g\,g^{ij}.
+\]
+
+In three spatial dimensions:
+
+\[
+g_{ij}=(\det C_{\rm eff})(C_{\rm eff}^{-1})_{ij}.
+\]
+
+Therefore a non-uniform relational response can be represented mathematically by a non-uniform effective metric.
+
+### 5. Critical interpretation
+
+This is a **representation result**, not yet a physical spacetime derivation.
+
+We have shown:
+
+\[
+\boxed{
+C_{\rm eff}^{ij}(\mathbf x)
+\Rightarrow
+g_{ij}(\mathbf x)
+}
+\]
+
+provided the collective response has the required positive-definite structure.
+
+We have **not** shown:
+
+\[
+\boxed{
+g_{ij}\text{ is physical spacetime geometry}
+}
+\]
+
+and we have not derived temporal geometry, Lorentz invariance, curvature dynamics, or Einstein's equations.
+
+### 6. New connection to the group/field picture
+
+The full chain can now be written:
+
+\[
+S_\infty
+\rightarrow
+\text{relational multiplicity}
+\rightarrow
+\text{binding}
+\rightarrow
+\text{collective entity}
+\rightarrow
+\text{collective response}
+\rightarrow
+\text{field-like propagation}
+\rightarrow
+\text{inhomogeneous propagation environment}
+\rightarrow
+\text{candidate effective geometry}
+\rightarrow
+B_\infty.
+\]
+
+This is currently the strongest coherent bridge architecture in this branch, but every arrow remains at a different evidential level.
+
+### 7. Important boundary
+
+This test does not establish that stronger binding means stronger gravity, nor that \(K\) is a gravitational field.
+
+The variable \(K\) is a toy relational stiffness. Its physical interpretation remains open.
+
+Likewise, the 1D model does not establish 3+1-dimensional spacetime.
+
+### 8. Status
+
+**🟢 STRUCTURAL LEAD:** relational inhomogeneity can produce position-dependent propagation.
+
+**🟢 GEOMETRIC REPRESENTATION LEAD:** the resulting collective response can be encoded as an effective spatial metric.
+
+**🔴 OPEN:** derive the response tensor and its dynamics from the fundamental S∞↔B∞ transition law.
+
+**🔴 OPEN:** establish whether the effective geometry has genuine curvature and whether its dynamics can approach general relativity.
+
+### 9. Next decisive question
+
+The next test should move from merely representing a variable propagation medium by \(g_{ij}\) to testing **intrinsic curvature**:
+
+\[
+\boxed{
+\text{Can relational inhomogeneity produce non-removable curvature rather than merely a coordinate-dependent variation of propagation speed?}
+}
+\]
+
+This is the next geometric gate.
