@@ -3794,3 +3794,117 @@ Not established: that arbitrary or currently unconstrained \(T\) necessarily pre
 ### Next gate
 
 Determine whether the S∞↔B∞ foundation can constrain \(T\) enough to produce a nontrivial preserved relational quantity, rather than inserting one by hand.
+
+
+---
+
+## PGA 1.12.0.5 — Transition-Preserved Structure Test
+
+**Objective:** Determine what kind of preserved relational quantity/signature is minimally required for persistence to emerge from the frozen foundation \(C+T+O\), without adding “persistence” as a fourth axiom.
+
+### Starting point
+
+PGA 1.12.0.4 established:
+
+\[
+C+T+O
+\]
+
+can formulate and identify persistence, but arbitrary \(T\) does not guarantee it. The present test therefore asks whether a transition can preserve something intrinsic to the relational configuration.
+
+### Minimal candidate
+
+Let a configuration contain relational quantities \(r_a\):
+
+\[
+C=\{r_1,r_2,\ldots,r_n\}.
+\]
+
+A transition is allowed to change individual relational values, but suppose there exists a relational functional
+
+\[
+I(C)
+\]
+
+such that
+
+\[
+I(T(C))=I(C).
+\]
+
+Then \(I\) is a transition-preserved relational quantity. A pattern can change while retaining an invariant signature.
+
+### Controlled comparison
+
+**Case 1 — No preserved quantity**
+
+Choose a transition that freely replaces relational values. Repeated states have no invariant signature. Persistent identity cannot be defined robustly.
+
+**Case 2 — One preserved quantity**
+
+Impose one invariant, for example a normalized total relational measure:
+
+\[
+I(C)=\sum_i r_i.
+\]
+
+Allow local redistribution subject to
+
+\[
+\sum_i r_i=\text{constant}.
+\]
+
+The configuration can change while the invariant remains fixed. This creates a minimal notion of continuity through transition.
+
+**Case 3 — Multiple preserved quantities**
+
+Additional invariants further restrict the accessible configuration space and can support more structured persistence, but they are additional constraints and cannot be claimed foundational without derivation.
+
+### Result
+
+The test shows a clear structural distinction:
+
+\[
+\boxed{
+\text{change alone}\neq\text{persistence}
+}
+\]
+
+while
+
+\[
+\boxed{
+\text{change}+\text{preserved relational structure}
+\rightarrow\text{candidate persistence}
+}
+\]
+
+Thus a transition-preserved quantity/signature is sufficient to construct persistence in a toy relational system.
+
+### Critical limitation
+
+The invariant \(I\) in the controlled test was **chosen**, not derived from S∞↔B∞. Therefore this PGA does **not** establish that S∞↔B∞ necessarily possesses such an invariant.
+
+This is precisely the next foundational question: whether an invariant can be derived from the structure of the transition itself, rather than inserted.
+
+### Relation to known physics
+
+This result is deliberately prior to physical identification. We do not identify \(I\) with energy, charge, action, particle number, probability, or any other known physical conserved quantity at this stage.
+
+### Status
+
+**🟡 STRUCTURAL MECHANISM ESTABLISHED / 🔴 ORIGIN OF INVARIANT OPEN**
+
+Established:
+\[
+\text{transition-preserved relational structure can generate persistence.}
+\]
+
+Not established:
+\[
+S∞↔B∞\rightarrow I(C).
+\]
+
+### Next gate
+
+Test whether the combination of representation equivalence and valid-state closure already constrains \(T\) enough to generate an invariant, or whether a genuinely new axiom is required.
