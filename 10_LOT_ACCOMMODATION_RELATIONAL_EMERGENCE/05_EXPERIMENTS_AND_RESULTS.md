@@ -3908,3 +3908,72 @@ S∞↔B∞\rightarrow I(C).
 ### Next gate
 
 Test whether the combination of representation equivalence and valid-state closure already constrains \(T\) enough to generate an invariant, or whether a genuinely new axiom is required.
+
+
+---
+
+## PGA 1.12.0.6 — Invariant-Origin Test
+
+**Objective:** Test whether the current foundation \(C+T+O\), together with its already established closure/equivalence requirements, can itself generate a transition-preserved relational invariant, or whether an additional axiom is genuinely required.
+
+### Starting point
+
+PGA 1.12.0.5 established the mechanism:
+
+\[
+I(T(C))=I(C)
+\Rightarrow
+\text{candidate persistence}.
+\]
+
+But the invariant \(I\) was chosen. The present test therefore asks whether the existing foundation forces any nontrivial invariant.
+
+### Result
+
+The current abstract foundation imposes only closure:
+
+\[
+T(C)\in\mathcal C.
+\]
+
+Closure does not imply preservation of a nontrivial scalar, norm, count, energy-like quantity, or other invariant. Arbitrary admissible transitions can move between configurations while preserving validity of the configuration space.
+
+Representation-equivalence requirements can remove purely descriptive differences, but they do not by themselves select a numerical invariant preserved by every transition.
+
+Therefore:
+
+\[
+\boxed{
+C+T+O\;\not\Rightarrow\;\text{nontrivial conserved/invariant quantity}
+}
+\]
+
+### Interpretation
+
+This is a useful negative result. It tells us that persistence cannot currently be claimed as a necessary consequence of the three axioms alone.
+
+At this point there are two logically distinct routes:
+
+**Route A — derive a constraint on T from S∞↔B∞.**
+
+If the S∞↔B∞ relation supplies an intrinsic transition principle, that principle may generate an invariant without adding an arbitrary fourth axiom.
+
+**Route B — add a fourth axiom explicitly.**
+
+If no such intrinsic constraint can be derived, an additional axiom may be necessary. It must then be stated explicitly and justified independently; it must not be hidden inside a simulation rule.
+
+### Status
+
+**🟢 FOUNDATIONAL NEGATIVE RESULT / 🔴 INVARIANT ORIGIN OPEN**
+
+The important result is not that the theory failed. It is that the current axioms have now reached a precise boundary: they define a relational dynamical-observable framework, but they do not yet select a persistent dynamics.
+
+### Next gate
+
+The next substantive investigation should therefore return directly to the meaning of
+
+\[
+S_\infty\leftrightarrow B_\infty
+\]
+
+and determine whether this relation itself supplies a non-arbitrary constraint on \(T\). This is the cleanest place to test whether S∞↔B∞ contributes genuine physical content rather than serving only as a label for a generic relational system.
