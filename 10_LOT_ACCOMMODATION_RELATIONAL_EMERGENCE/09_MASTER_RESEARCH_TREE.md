@@ -2,7 +2,7 @@
 # S∞ ↔ B∞ — Visual Master Research Tree
 
 **Canonical visual map:** RT-001  
-**Current node:** 🟡 **1.6.4.2 — Pattern → 2D / Mandala Representation**
+**Current node:** 🟡 **1.12.1 — Quantized B∞ Modes**
 
 ## Legend
 
@@ -54,9 +54,39 @@ flowchart TD
     classDef guard fill:#fff3cd,stroke:#9a6b00,stroke-width:4px,color:#111;
 ```
 
+## 2. Quantum / Current Research Position
+
+**Current research coordinate: `1.12.1`**
+
+```text
+1.12 Quantum Branch
+  ↓
+1.12.1 Quantized B∞ modes  ← ★ CURRENT
+  ↓
+PGA 1.12.1.1 — canonical quantization boundary test
+  ↓
+1.12.1.2 Pre-quantization quantum-like structure?
+  ↓
+1.12.2 Collective excitations
+  ↓
+1.12.3 QZE analogy
+  ↓
+1.12.4 Compact / topological phase
+  ↓
+1.12.5 Quantum ↔ geometry
+```
+
+### Current quantum test
+
+> **Can the relational B∞ dynamics itself generate quantum structure, rather than merely supplying classical normal modes that are subsequently quantized?**
+
+PGA 1.12.1.1 found a useful boundary: the relational operator produces a discrete collective-mode spectrum, but Hilbert-space structure and canonical commutation relations were added by the standard quantization procedure. Therefore the experiment supports compatibility with quantum mechanics, not emergence of quantum mechanics.
+
+**Next node:** `1.12.1.2` — test whether any pre-quantization relational mechanism can generate quantum-like state structure, interference, or nonclassical correlations without inserting quantum postulates.
+
 ## 2. Geometry / Current Research Position
 
-**Current research coordinate: `1.6.4.2`**
+**Preserved historical research coordinate: `1.6.4.2`**
 
 ```text
 1.6 Geometry
@@ -228,12 +258,20 @@ flowchart TD
     classDef guard fill:#fff3cd,stroke:#9a6b00,stroke-width:4px,color:#111;
 ```
 
+## RT-003 Change Record
+
+- **Research focus moved:** from historical geometry test `1.6.4.2` to strategic quantum node `1.12.1`.
+- **Reason:** the current strategic objective is to determine whether S∞ ↔ B∞ can produce quantum structure before attempting particle/atom/chemistry-level identification.
+- **PGA recorded:** `PGA 1.12.1.1` — quantized B∞ modes; result is a partial/boundary result, not a quantum derivation.
+- **Historical branches preserved:** the geometry/mandala branch remains in the tree and is not deleted or overwritten.
+
 ## RT-002 Change Record
 
 - **Presentation:** one wide graph → one vertical master spine + four focused vertical maps.
 - **Readability:** major branches now expand downward instead of spreading across the screen.
 - **Research status:** unchanged; no pass/fail/open result was altered.
-- **Current coordinate:** remains **1.6.4.2 — Pattern → 2D / Mandala Representation**.
+- **Historical coordinate at RT-002:** **1.6.4.2 — Pattern → 2D / Mandala Representation**.
+- **Current coordinate after RT-003:** **1.12.1 — Quantized B∞ Modes**.
 
 ## Pass / Fail / Open Dashboard
 
@@ -263,6 +301,7 @@ flowchart TD
 - Derivation of g₀₀ and Newtonian limit.
 - Tensorial/non-conformal B∞ response.
 - Quantum S∞↔B∞ model.
+- Pre-quantization derivation of quantum state structure.
 - Quantitative EM/GW common-field mechanism.
 - Charge/current derivation.
 
