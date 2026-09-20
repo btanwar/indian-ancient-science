@@ -1,1 +1,291 @@
-# S∞ ↔ B∞ Master Research Tree\n\n**Research Tree ID:** RT-001  \n**Version:** 1.0  \n**Date:** 2026-09-20  \n**Status:** ACTIVE / CANONICAL RESEARCH GENEALOGY  \n**Parent line:** S∞ ↔ B∞\n\n## Purpose\nThis file is the canonical numbered genealogy of the S∞ ↔ B∞ research. The numbering is independent of Git branches and preserves intellectual history even when Git branches change.\n\n### Numbering rule\n- Going deeper adds a level: 1.6 → 1.6.1 → 1.6.1.1.\n- A distinct sibling thread becomes a new branch: 1.6.1 → 1.6.2.\n- Failed or closed branches remain in the tree.\n- Every substantive PGA should record the current Research Tree ID.\n- New experiments must identify their motivating analogy or be marked NEW MODEL EXTENSION.\n\n## Current location\n**CURRENT RESEARCH POSITION: 1.6.4.2 — Pattern → 2D / Mandala Representation**\n\nImmediate parent: 1.6.4.1 — Relational arrangement → pattern.\n\nImmediate questions:\n- Can organized relational structure be represented as a mandala-like 2D pattern?\n- Can complex or higher-dimensional structure be unfolded, sectioned, projected, or mapped onto a flat representation?\n- Which relations, boundaries, motion, and invariants survive the mapping?\n- Is the mapping merely representational, or does it reveal a deeper relational invariant?\n\n**Protection:** A mandala representation does not by itself prove that physical dimensions emerge from relations.\n\n# 1. S∞ ↔ B∞\n\n## 1.1 Original Problem\n### 1.1.1 Quantum description vs macroscopic geometry\n### 1.1.2 Why does localized structure have an extended context?\n### 1.1.3 Can one underlying mechanism connect microscopic and macroscopic physics?\n### 1.1.4 Ultimate target: quantum ↔ gravity\n\n## 1.2 S∞ — Small Infinity\n### 1.2.1 Localized manifestation\n### 1.2.2 Finite/local excitation\n### 1.2.3 Particle-like appearance\n### 1.2.4 S∞ ↔ B∞ interaction\n\n## 1.3 B∞ — Big Infinity\n### 1.3.1 Extended relational context\n### 1.3.2 Accommodation/capacity\n### 1.3.3 B∞ is not assumed to be spacetime\n### 1.3.4 Relational network interpretation\n### 1.3.5 Continuum relational-field interpretation\n\n## 1.4 Accommodation / Capacity\n### 1.4.1 Hilbert Hotel\n#### 1.4.1.1 Infinite accommodation\n#### 1.4.1.2 Reconfiguration\n#### 1.4.1.3 Mathematical accommodation ≠ physical time\n### 1.4.2 Elastic accommodation\n#### 1.4.2.1 Local disturbance\n#### 1.4.2.2 Extended response\n#### 1.4.2.3 Deformation / critical-response interpretation\n### 1.4.3 Space as Capacity\n#### 1.4.3.1 Space not initially assumed as container\n#### 1.4.3.2 Capacity for relations\n#### 1.4.3.3 Physical space emergence remains OPEN\n\n## 1.5 Relationality\n### 1.5.1 Bead + String\n#### 1.5.1.1 Local element\n#### 1.5.1.2 Extended support\n#### 1.5.1.3 Local ↔ global relation\n### 1.5.2 Mala\n#### 1.5.2.1 Individual beads\n#### 1.5.2.2 Thread relations\n#### 1.5.2.3 Ordered organization\n#### 1.5.2.4 Whole structure\n### 1.5.3 DNA / Double Helix\n#### 1.5.3.1 Constituents\n#### 1.5.3.2 Bonds / constraints\n#### 1.5.3.3 Stable arrangement\n#### 1.5.3.4 Double-helix as organized geometry\n### 1.5.4 Relational arrangement → geometry\n#### 1.5.4.1 Relations\n#### 1.5.4.2 Arrangement\n#### 1.5.4.3 Stable pattern\n#### 1.5.4.4 Geometric interpretation\n\n## 1.6 Geometry / Arrangement\n### 1.6.1 Geometry is not initially assumed\n### 1.6.2 Arrangement of relations\n#### 1.6.2.1 Point-like/local interactions\n#### 1.6.2.2 Alignment\n#### 1.6.2.3 Surface-like organization\n#### 1.6.2.4 Curvature / fold\n### 1.6.3 Dimension as Fold — HYPOTHESIS\n#### 1.6.3.1 x⁰,x¹,x²,...,xⁿ need not be Cartesian axes\n#### 1.6.3.2 Relational degrees of freedom\n#### 1.6.3.3 Constraint changes arrangement\n#### 1.6.3.4 Effective dimension may be a property of relational organization / representation\n### 1.6.4 Mandala / Flat Representation\n#### 1.6.4.1 Relational arrangement → pattern\n**Status:** conceptual step established as the current working direction.\n#### 1.6.4.2 Pattern → 2D / Mandala representation\n**CURRENT POSITION.** A mandala is being investigated as a flat representation of organized relational structure.\n#### 1.6.4.3 Higher-dimensional / complex structure → flat representation\n**OPEN.** Determine which invariants survive mapping.\n#### 1.6.4.4 Boundaries + moving parts + relations in representation\n**OPEN.** Test whether boundaries, motion, connectivity, and relational organization can be represented on the flat map.\n### 1.6.5 Human-body unfolding analogy\n#### 1.6.5.1 3D organized structure\n#### 1.6.5.2 Sectioning / unfolding\n#### 1.6.5.3 Flat representation\n#### 1.6.5.4 Mandala-like mapping\n**Status:** ANALOGY / CONCEPTUAL MODEL. It motivates investigation of representation, not a claim that physical dimensions emerge this way.\n### 1.6.6 Perceived / Effective 3D\n#### 1.6.6.1 Underlying relational structure\n#### 1.6.6.2 Accessible relations\n#### 1.6.6.3 Reconstruction\n#### 1.6.6.4 Perceived geometry\n**Status:** OPEN. Generic relational networks do not automatically select 3D.\n\n## 1.7 Manifestation / Representation\n### 1.7.1 Cinema\n#### 1.7.1.1 Underlying sequence\n#### 1.7.1.2 Frames\n#### 1.7.1.3 Perceived continuous event\n### 1.7.2 VCR / Coverage\n#### 1.7.2.1 Complete structure\n#### 1.7.2.2 Partial accessibility\n#### 1.7.2.3 Ordered acquisition\n#### 1.7.2.4 Reconstruction\n### 1.7.3 Observer\n#### 1.7.3.1 Physical state\n#### 1.7.3.2 Projection / access\n#### 1.7.3.3 Representation\n### 1.7.4 Formal reconstruction\nX → π(X) → A(π(X))\n\n## 1.8 Relational Mathematics\n### 1.8.1 Network model\n#### 1.8.1.1 B_N=(V,E)\n#### 1.8.1.2 Couplings K_ij\n#### 1.8.1.3 Relational energy\n#### 1.8.1.4 Laplacian response\n### 1.8.2 Static response\n#### 1.8.2.1 Local forcing\n#### 1.8.2.2 Global response\n#### 1.8.2.3 Mediated interaction\n### 1.8.3 Collective modes\n#### 1.8.3.1 Normal modes\n#### 1.8.3.2 Coupling changes\n#### 1.8.3.3 Spectral shifts\n### 1.8.4 Dynamic B∞\n#### 1.8.4.1 Local disturbance\n#### 1.8.4.2 Propagation\n#### 1.8.4.3 Collective wave\n#### 1.8.4.4 Characteristic speed\n\n## 1.9 Emergent Geometry\n### 1.9.1 Relational tensor C^{ij}\n### 1.9.2 Candidate spatial metric\n### 1.9.3 Geometry from relational energy\n### 1.9.4 Geometry vs propagation\n#### 1.9.4.1 g_geometry ?= g_propagation\n### 1.9.5 Physical spacetime — OPEN\n\n## 1.10 Gravity\n### 1.10.1 Newtonian scaling\n#### 1.10.1.1 1D\n#### 1.10.1.2 2D\n#### 1.10.1.3 3D ~ 1/r\n### 1.10.2 Scalar-field route\n#### 1.10.2.1 Yukawa branch\n#### 1.10.2.2 λ=0 branch\n#### 1.10.2.3 Why λ=0? — OPEN\n### 1.10.3 Metric route\n#### 1.10.3.1 g₀₀\n#### 1.10.3.2 Spatial metric\n#### 1.10.3.3 Weak-field consistency\n### 1.10.4 General Relativity\n#### 1.10.4.1 Einstein tensor\n#### 1.10.4.2 Einstein equation\n#### 1.10.4.3 Derivation from S∞ ↔ B∞ — NOT ACHIEVED\n### 1.10.5 Failed scalar-conformal branch\n#### 1.10.5.1 Weak-field temporal/spatial sign mismatch\n\n## 1.11 Time / Ordering\n### 1.11.1 Hilbert/reconfiguration\n### 1.11.2 Sequential manifestation\n### 1.11.3 VCR ordered coverage\n### 1.11.4 Physical clock problem\n### 1.11.5 Theta / Ramanujan branch\n### 1.11.6 Effective temporal ordering — OPEN\n\n## 1.12 Quantum Branch\n### 1.12.1 Quantized B∞ modes\n### 1.12.2 Collective excitations\n### 1.12.3 QZE analogy\n### 1.12.4 Compact / topological phase branch\n### 1.12.5 Quantum ↔ geometry bridge — OPEN\n\n## 1.13 EM / GW / Damru\n### 1.13.1 Damru\n#### 1.13.1.1 Local oscillation\n#### 1.13.1.2 Extended response\n#### 1.13.1.3 Photon / gravity mechanism — NOT ESTABLISHED\n### 1.13.2 EM/GW audio-video analogy\n#### 1.13.2.1 EM = video analogy\n#### 1.13.2.2 GW = audio analogy\n#### 1.13.2.3 Common-field mechanism — OPEN\n### 1.13.3 Charge / Current branch\n#### 1.13.3.1 Localized source ↔ extended field/flow\n#### 1.13.3.2 Symmetry → conservation → charge/current-like observable? — OPEN\n\n## 1.14 Ultimate Unification\n### 1.14.1 One relational substrate\n### 1.14.2 Microscopic quantum manifestation\n### 1.14.3 Macroscopic geometric manifestation\n### 1.14.4 Propagation / causal structure\n### 1.14.5 Gravity\n### 1.14.6 Matter / particles\n### 1.14.7 Quantum + gravity from one mechanism — ULTIMATE OPEN TARGET\n\n# 2. Current Research Chain\nCurrent conceptual chain:\n```text\nS∞ ↔ B∞ → relations → arrangements → patterns → geometry → representation / mandala → effective perceived dimension → physical geometry? → gravity?\n\nS∞ ↔ B∞ → relations → dynamics → propagation → time / causality?\n```\nThe long-term meeting point is relational geometry + relational propagation → physical spacetime/metric dynamics?\n\n# 3. Evidence Boundary\n## Supported at toy / mathematical level\n- Localized forcing can create distributed relational response.\n- Relational changes can shift collective spectra.\n- A shared responsive background can mediate effective interaction in toy models.\n- A dynamic relational field can support finite-speed propagation.\n- A relational coupling tensor can construct a candidate spatial metric.\n- Geometry can be reconstructed from relational information when the relations contain geometric structure.\n\n## Failed / closed mechanisms\n- Hilbert Hotel does not derive physical time.\n- Scalar conformal metric g_μν=e^(2βq)η_μν failed the required GR weak-field temporal/spatial sign relation.\n- K is not established as gravity.\n- A network is not established as spacetime.\n- Sequential manifestation is not established as physical time.\n- Damru is not established as a photon/gravity mechanism.\n- EM/GW video/audio is not established physics.\n\n## Open\n- Relational arrangement → geometry without primitive geometric scaffolding.\n- Pattern → flat / mandala representation.\n- Fold / constraint → effective geometric change.\n- Whether any non-arbitrary relational principle selects approximately 3D effective geometry.\n- Geometry = propagation?\n- Derivation of g₀₀ and Newtonian limit.\n- Tensorial / non-conformal relational response.\n- Quantum version.\n- Quantitative EM/GW mechanism.\n- Charge/current derivation.\n\n# 4. Research-Control Rule\nEvery substantive PGA should record: Research Tree ID; parent node; motivating analogy; structural claim; new assumptions; experiment; result; status; what the result does NOT prove; and next child node.\n\nIf no original analogy motivates the work, mark it: **NEW MODEL EXTENSION — not yet justified by the original analogy set.**\n\n# 5. History Maintenance Rule\nThis file is a living genealogy. After a meaningful group of research steps, append a dated Tree Revision section rather than silently rewriting history.\n\nRecommended revision format:\nRT-002 — YYYY-MM-DD\n- Current node\n- New nodes added\n- Nodes whose status changed\n- Failed branches preserved\n- Experiments added\n- Cross-links created\n- Next active node\n\nThe tree number remains stable once assigned.\n\n# 6. Ultimate Decision Gate\n\boxed{Can the same minimal S∞ ↔ B∞ relational mechanism explain multiple independently tested phenomena without adding a separate mechanism for each one?}\n\nA successful branch should increasingly require fewer independent assumptions, not more.\n\n**This document is a research genealogy and control document. It does not claim physical validation of the S∞ ↔ B∞ hypothesis.**
+
+# S∞ ↔ B∞ — Visual Master Research Tree
+
+**Canonical visual map:** RT-001  
+**Current node:** 🟡 **1.6.4.2 — Pattern → 2D / Mandala Representation**
+
+## Legend
+
+- 🟢 **PASS / SURVIVES** — supported at toy/mathematical level
+- 🟡 **OPEN / HYPOTHESIS** — requires experiment or derivation
+- 🔴 **FAIL / CLOSED MECHANISM** — specific mechanism failed its stated target
+- 🔵 **KNOWN / MATH** — established mathematics/construction, not physical validation
+- 🟣 **ANALOGY** — conceptual source only
+- ⚪ **DEFERRED** — intentionally not yet pursued
+- 🛡️ **PROTECTION** — prevents analogy from becoming identification
+
+## Mermaid Master Tree
+
+```mermaid
+flowchart TD
+
+    ROOT["1. S∞ ↔ B∞<br/>LOCALIZED ↔ EXTENDED RELATIONAL"]:::root
+
+    ROOT --> P1["1.1 Original Problem"]:::open
+    ROOT --> S["1.2 S∞<br/>Small Infinity"]:::analogy
+    ROOT --> B["1.3 B∞<br/>Big Infinity"]:::analogy
+    ROOT --> A["1.4 Accommodation / Capacity"]:::analogy
+    ROOT --> R["1.5 Relationality"]:::analogy
+    ROOT --> G["1.6 Geometry / Arrangement"]:::open
+    ROOT --> M["1.7 Manifestation / Representation"]:::open
+    ROOT --> RM["1.8 Relational Mathematics"]:::math
+    ROOT --> EG["1.9 Emergent Geometry"]:::open
+    ROOT --> GR["1.10 Gravity"]:::open
+    ROOT --> TIME["1.11 Time / Ordering"]:::open
+    ROOT --> QM["1.12 Quantum Branch"]:::deferred
+    ROOT --> EM["1.13 EM / GW / Damru"]:::open
+    ROOT --> UNI["1.14 Ultimate Unification"]:::ultimate
+
+    %% 1.1
+    P1 --> P11["1.1.1 Quantum ↔ macroscopic geometry"]:::open
+    P1 --> P12["1.1.2 Localized structure ↔ extended context"]:::open
+    P1 --> P13["1.1.3 One underlying mechanism?"]:::open
+    P1 --> P14["1.1.4 Quantum ↔ gravity"]:::ultimate
+
+    %% 1.4
+    A --> H["1.4.1 Hilbert Hotel"]:::analogy
+    H --> H1["1.4.1.1 Accommodation"]:::pass
+    H --> H2["1.4.1.2 Reconfiguration"]:::pass
+    H --> H3["1.4.1.3 Does not derive physical time"]:::fail
+
+    A --> EL["1.4.2 Elastic accommodation"]:::analogy
+    EL --> EL1["1.4.2.1 Local disturbance"]:::pass
+    EL --> EL2["1.4.2.2 Extended response"]:::pass
+    EL --> EL3["1.4.2.3 Deformation / critical response"]:::open
+
+    A --> CAP["1.4.3 Space as Capacity"]:::open
+    CAP --> CAP1["1.4.3.1 Space not assumed as container"]:::open
+    CAP --> CAP2["1.4.3.2 Capacity for relations"]:::open
+    CAP --> CAP3["1.4.3.3 Physical space emergence"]:::open
+
+    %% 1.5
+    R --> BS["1.5.1 Bead + String"]:::analogy
+    BS --> BS1["Local element ↔ extended support"]:::pass
+
+    R --> MA["1.5.2 Mala"]:::analogy
+    MA --> MA1["Beads + thread relations"]:::pass
+    MA --> MA2["Collective organization"]:::pass
+
+    R --> DNA["1.5.3 DNA / Double Helix"]:::analogy
+    DNA --> DNA1["Constituents + bonds"]:::analogy
+    DNA --> DNA2["Stable arrangement"]:::analogy
+    DNA --> DNA3["Organized geometry"]:::analogy
+
+    R --> RA["1.5.4 Relational arrangement → geometry"]:::open
+    RA --> RA1["Relations"]:::open
+    RA --> RA2["Arrangement"]:::open
+    RA --> RA3["Stable pattern"]:::open
+    RA --> RA4["Geometric interpretation"]:::open
+
+    %% 1.6
+    G --> G1["1.6.1 Geometry is not initially assumed"]:::open
+    G --> G2["1.6.2 Arrangement of relations"]:::open
+    G2 --> G21["1.6.2.1 Local interactions"]:::open
+    G2 --> G22["1.6.2.2 Alignment"]:::open
+    G2 --> G23["1.6.2.3 Surface-like organization"]:::open
+    G2 --> G24["1.6.2.4 Curvature / fold"]:::open
+
+    G --> FOLD["1.6.3 Dimension as Fold"]:::open
+    FOLD --> F1["1.6.3.1 x⁰,x¹,...,xⁿ need not be Cartesian axes"]:::open
+    FOLD --> F2["1.6.3.2 Relational degrees of freedom"]:::open
+    FOLD --> F3["1.6.3.3 Constraint changes arrangement"]:::open
+    FOLD --> F4["1.6.3.4 Effective dimension"]:::open
+
+    G --> MAN["1.6.4 Mandala / Flat Representation"]:::open
+    MAN --> C41["1.6.4.1 Relational arrangement → pattern<br/>CURRENT WORKING DIRECTION"]:::pass
+    MAN --> C42["1.6.4.2 Pattern → 2D / Mandala<br/>★ CURRENT POSITION"]:::current
+    MAN --> C43["1.6.4.3 Complex/higher-dimensional structure → flat representation"]:::open
+    MAN --> C44["1.6.4.4 Boundaries + motion + relations preserved?"]:::open
+
+    G --> BODY["1.6.5 Human-body unfolding analogy"]:::analogy
+    BODY --> BODY1["3D organized structure"]:::analogy
+    BODY --> BODY2["Section / unfold"]:::analogy
+    BODY --> BODY3["Flat representation"]:::analogy
+    BODY --> BODY4["Mandala-like mapping"]:::analogy
+
+    G --> P3D["1.6.6 Perceived / Effective 3D"]:::open
+    P3D --> P31["Underlying relational structure"]:::open
+    P3D --> P32["Accessible relations"]:::open
+    P3D --> P33["Reconstruction"]:::open
+    P3D --> P34["Perceived geometry"]:::open
+
+    %% 1.7
+    M --> CIN["1.7.1 Cinema"]:::analogy
+    CIN --> CIN1["Underlying sequence"]:::analogy
+    CIN --> CIN2["Frames"]:::analogy
+    CIN --> CIN3["Perceived continuity"]:::analogy
+
+    M --> VCR["1.7.2 VCR / Coverage"]:::analogy
+    VCR --> V1["Whole ≠ instantaneous access"]:::open
+    VCR --> V2["Ordered acquisition"]:::open
+    VCR --> V3["Reconstruction"]:::open
+
+    M --> OBS["1.7.3 Observer"]:::open
+    OBS --> OBS1["Physical state"]:::open
+    OBS --> OBS2["Projection / access"]:::open
+    OBS --> OBS3["Representation"]:::open
+    OBS --> FORM["1.7.4 X → π(X) → A(π(X))"]:::math
+
+    %% 1.8
+    RM --> NET["1.8.1 Network model"]:::math
+    NET --> N1["B_N=(V,E)"]:::math
+    NET --> N2["K_ij couplings"]:::math
+    NET --> N3["Relational energy"]:::math
+    NET --> N4["Laplacian response"]:::math
+
+    RM --> STAT["1.8.2 Static response"]:::pass
+    STAT --> ST1["Local forcing → global response"]:::pass
+    STAT --> ST2["Mediated interaction"]:::pass
+
+    RM --> MODES["1.8.3 Collective modes"]:::pass
+    MODES --> MO1["Normal modes"]:::pass
+    MODES --> MO2["Spectral shifts"]:::pass
+
+    RM --> DYN["1.8.4 Dynamic B∞"]:::pass
+    DYN --> DY1["Local disturbance"]:::pass
+    DYN --> DY2["Finite-speed propagation"]:::pass
+    DYN --> DY3["Collective wave"]:::pass
+
+    %% 1.9
+    EG --> EG1["1.9.1 Relational tensor Cⁱʲ"]:::math
+    EG --> EG2["1.9.2 Candidate spatial metric"]:::math
+    EG --> EG3["1.9.3 Geometry from relational energy"]:::math
+    EG --> EG4["1.9.4 Geometry vs propagation"]:::open
+    EG4 --> TESTG["1.9.4.1 g_geometry ?= g_propagation"]:::open
+    EG --> EG5["1.9.5 Physical spacetime"]:::open
+
+    %% 1.10
+    GR --> NEWT["1.10.1 Newtonian scaling"]:::math
+    NEWT --> NR1["1D"]:::math
+    NEWT --> NR2["2D"]:::math
+    NEWT --> NR3["3D ~ 1/r"]:::math
+
+    GR --> SCALAR["1.10.2 Scalar-field route"]:::open
+    SCALAR --> YUK["1.10.2.1 Yukawa"]:::open
+    SCALAR --> L0["1.10.2.2 λ=0"]:::open
+    SCALAR --> L0Q["1.10.2.3 Why λ=0?"]:::open
+
+    GR --> MET["1.10.3 Metric route"]:::open
+    MET --> G00["g₀₀"]:::open
+    MET --> GSP["Spatial metric"]:::open
+    MET --> WF["Weak-field consistency"]:::open
+
+    GR --> GRMAIN["1.10.4 General Relativity"]:::open
+    GRMAIN --> EIN["Einstein tensor"]:::open
+    GRMAIN --> EINEQ["Einstein equation"]:::open
+    GRMAIN --> EINFAIL["Derivation from S∞↔B∞ NOT ACHIEVED"]:::fail
+
+    GR --> SCFAIL["1.10.5 Scalar-conformal branch"]:::fail
+    SCFAIL --> SCFAIL1["Weak-field temporal/spatial sign mismatch"]:::fail
+    SCFAIL --> TENSOR["Tensorial / non-conformal response"]:::open
+
+    %% 1.11
+    TIME --> T1["1.11.1 Hilbert / reconfiguration"]:::open
+    TIME --> T2["1.11.2 Sequential manifestation"]:::open
+    TIME --> T3["1.11.3 VCR ordered coverage"]:::open
+    TIME --> T4["1.11.4 Physical clock problem"]:::open
+    TIME --> T5["1.11.5 Theta / Ramanujan"]:::deferred
+    TIME --> T6["1.11.6 Effective temporal ordering"]:::open
+
+    %% 1.12
+    QM --> Q1["1.12.1 Quantized B∞ modes"]:::deferred
+    QM --> Q2["1.12.2 Collective excitations"]:::deferred
+    QM --> Q3["1.12.3 QZE analogy"]:::analogy
+    QM --> Q4["1.12.4 Compact / topological phase"]:::deferred
+    QM --> Q5["1.12.5 Quantum ↔ geometry"]:::open
+
+    %% 1.13
+    EM --> DAM["1.13.1 Damru"]:::analogy
+    DAM --> DAM1["Local oscillation → extended response"]:::pass
+    DAM --> DAM2["Photon / gravity mechanism"]:::fail
+
+    EM --> EMGW["1.13.2 EM / GW video-audio analogy"]:::analogy
+    EMGW --> E1["EM = video analogy"]:::analogy
+    EMGW --> E2["GW = audio analogy"]:::analogy
+    EMGW --> E3["Common-field mechanism"]:::open
+
+    EM --> CH["1.13.3 Charge / Current"]:::open
+    CH --> CH1["Localized source ↔ extended field/flow"]:::open
+    CH --> CH2["Symmetry → conservation → charge/current?"]:::open
+
+    %% 1.14
+    UNI --> U1["One relational substrate"]:::ultimate
+    UNI --> U2["Quantum manifestation"]:::ultimate
+    UNI --> U3["Geometric manifestation"]:::ultimate
+    UNI --> U4["Propagation / causality"]:::ultimate
+    UNI --> U5["Gravity"]:::ultimate
+    UNI --> U6["Matter / particles"]:::ultimate
+    UNI --> U7["Quantum + gravity from one mechanism"]:::ultimate
+
+    %% Cross-links
+    C42 -.-> P3D
+    C43 -.-> P3D
+    RA -.-> EG
+    EG -.-> TESTG
+    DYN -.-> TESTG
+    FORM -.-> P3D
+    A -.-> R
+    R -.-> G
+    G -.-> EG
+    EG -.-> GR
+
+    %% Protection
+    PROT["🛡️ DERIVE BEFORE IDENTIFY<br/>Do not equate K/C/q with gravity, time, spacetime, particles, charge, etc."]:::guard
+    PROT -.-> ROOT
+    PROT -.-> G
+    PROT -.-> EG
+    PROT -.-> GR
+    PROT -.-> TIME
+    PROT -.-> QM
+    PROT -.-> EM
+
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef current fill:#ffe680,stroke:#d18b00,stroke-width:4px,color:#111;
+    classDef pass fill:#d9f2d9,stroke:#3b7d3b,stroke-width:2px,color:#111;
+    classDef fail fill:#f8d7da,stroke:#a33,stroke-width:2px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+    classDef math fill:#e5e9ff,stroke:#5969a8,stroke-width:2px,color:#111;
+    classDef analogy fill:#eadcf8,stroke:#7952a8,stroke-width:2px,color:#111;
+    classDef deferred fill:#eeeeee,stroke:#888,stroke-width:2px,color:#111;
+    classDef ultimate fill:#d9f0ef,stroke:#287c78,stroke-width:3px,color:#111;
+    classDef guard fill:#fff3cd,stroke:#9a6b00,stroke-width:4px,color:#111;
+```
+
+## Pass / Fail / Open Dashboard
+
+### 🟢 PASS / SURVIVES
+- Localized forcing → distributed relational response.
+- Relational changes → collective spectral changes.
+- Responsive background → toy mediated interaction.
+- Dynamic relational response → finite-speed propagation.
+- Relational tensor → candidate spatial metric construction.
+- Geometry can be reconstructed when relational data already contains geometric structure.
+
+### 🔴 FAIL / CLOSED MECHANISM
+- Hilbert Hotel alone → physical time.
+- Scalar-conformal metric → required GR weak-field temporal/spatial relation.
+- K → established gravity.
+- Network → established spacetime.
+- Sequential manifestation → established physical time.
+- Damru → established photon/gravity mechanism.
+- EM/GW video/audio → established physical mechanism.
+
+### 🟡 OPEN / NEXT TESTS
+- Relational arrangement → geometry without primitive geometric scaffolding.
+- Pattern → flat / mandala representation.
+- Fold / constraint → geometric change.
+- Non-arbitrary selection of effective 3D.
+- g_geometry ?= g_propagation.
+- Derivation of g₀₀ and Newtonian limit.
+- Tensorial/non-conformal B∞ response.
+- Quantum S∞↔B∞ model.
+- Quantitative EM/GW common-field mechanism.
+- Charge/current derivation.
+
+### 🟣 ANALOGY SOURCES
+Hilbert Hotel · Bead/String · Mala · DNA/Double Helix · Sugar/Water · Elasticity · Damru · Cinema · VCR · QZE · EM/GW.
+
+### 🛡️ Research protection
+**Analogy → structural claim → minimal mathematics → experiment → audit → cross-analogy consistency.**
+
+No analogy is allowed to silently become a physical identification.
