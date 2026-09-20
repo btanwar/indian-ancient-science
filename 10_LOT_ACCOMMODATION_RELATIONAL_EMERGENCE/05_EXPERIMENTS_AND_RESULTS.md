@@ -8196,3 +8196,192 @@ Before adding any new axiom, test the simplest possibility:
 \]
 
 If not, record long-range behaviour as an additional required dynamical selection principle rather than forcing it.
+
+
+## N — PGA 1.12.4.20: Conservation / Zero-Mode Selection Test
+
+**Objective:** Test whether a basic relational invariance/conservation structure can naturally forbid the restoring term that gives the collective response a finite range.
+
+### 1. Question
+
+PGA 1.12.4.19 showed that the present principles do not select:
+
+\[
+-C\nabla^2K=J
+\]
+
+over:
+
+\[
+-C\nabla^2K+\lambda K=J.
+\]
+
+The simplest possible selection mechanism is a zero mode associated with uniform relational shifts.
+
+### 2. Discrete relational test
+
+Use the graph Laplacian \(L\) of a connected periodic chain. For a uniform shift:
+
+\[
+\mathbf 1=(1,1,\ldots,1)^T,
+\]
+
+the relational differences are unchanged, so:
+
+\[
+L\mathbf 1=0.
+\]
+
+This is an exact zero mode of the pure relational-difference operator.
+
+Now compare:
+
+\[
+A_0=L
+\]
+
+with the screened operator:
+
+\[
+A_\lambda=L+\lambda I.
+\]
+
+For the uniform mode:
+
+\[
+A_0\mathbf1=0,
+\]
+
+whereas:
+
+\[
+A_\lambda\mathbf1=\lambda\mathbf1\neq0
+\]
+
+for \(\lambda\neq0\).
+
+A 20-node numerical check gave the corresponding norms:
+
+\[
+\|L\mathbf1\|=0,
+\]
+
+\[
+\|(L+0.1I)\mathbf1\|\approx0.4472,
+\]
+
+\[
+\|(L+1.0I)\mathbf1\|\approx4.4721.
+\]
+
+### 3. Structural result
+
+If the fundamental relational energy depends only on differences:
+
+\[
+E=\frac12\sum_{ij}K_{ij}(x_i-x_j)^2,
+\]
+
+then a common shift:
+
+\[
+x_i\rightarrow x_i+a
+\]
+
+does not change the energy.
+
+A standalone restoring term:
+
+\[
+\frac{\lambda}{2}\sum_i x_i^2
+\]
+
+breaks this shift invariance.
+
+Therefore:
+
+\[
+\boxed{
+\text{difference-only relational invariance}
+\Rightarrow
+\lambda=0
+\text{ within this model class}
+}
+\]
+
+This is stronger than the previous result because a specific structural principle can distinguish the massless/long-range branch from the screened branch.
+
+### 4. Important qualification
+
+The invariance was not derived from C+T+O alone. It is an additional candidate principle:
+
+\[
+x_i\rightarrow x_i+a.
+\]
+
+Therefore we must not claim:
+
+\[
+S_\infty\leftrightarrow B_\infty\Rightarrow\lambda=0.
+\]
+
+The correct result is:
+
+\[
+\boxed{
+\text{If a justified fundamental relational shift invariance is retained,}
+\quad
+\lambda K
+\text{ is forbidden in this model class.}
+}
+\]
+
+### 5. Connection to the earlier axiom matrix
+
+This gives A12-c / symmetry-invariance and A11-c / invariant structure a concrete role.
+
+It also shows why the distinction between:
+
+- a principle that is **assumed**,
+- a consequence that is **derived**, and
+- a property that is **selected by a symmetry**
+
+must remain explicit.
+
+### 6. Gravity-bridge implication
+
+Under the additional shift-invariance principle, the candidate chain becomes:
+
+\[
+\text{relational differences}
+\rightarrow
+\text{zero mode}
+\rightarrow
+\text{no restoring term}
+\rightarrow
+\text{long-range response}
+\rightarrow
+K(r)\sim1/r
+\]
+
+in the idealized static three-dimensional limit.
+
+This is a structural route toward a long-range collective response, but it is still not a gravity derivation.
+
+### 7. Status
+
+**🟢 POSITIVE LEAD:** a concrete relational invariance can forbid the screened/restoring term in the tested model class.
+
+**🟢 NEW CONNECTION:** symmetry/invariance can act as a selection principle rather than merely a descriptive property.
+
+**🔴 OPEN:** justify the shift invariance from the deeper S∞↔B∞ relational architecture rather than adding it because it gives the desired result.
+
+### 8. Next decisive question
+
+Test whether the same relational invariance can be obtained from **relabeling/gauge-equivalence or composition of relational transformations**, rather than postulated as an independent continuous shift symmetry.
+
+\[
+\boxed{
+\text{Can the zero mode emerge from relational redundancy itself?}
+}
+\]
