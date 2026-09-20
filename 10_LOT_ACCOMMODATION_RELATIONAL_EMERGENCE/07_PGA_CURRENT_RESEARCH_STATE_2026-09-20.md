@@ -361,3 +361,20 @@ This is **not** a derivation of quantum mechanics. Noncommutativity alone does n
 ### Next node
 
 **PGA 1.12.1.5** — dimensional/scale audit of the relational algebra and search for a dynamically generated action scale.
+
+
+## 25. PGA 1.12.1.5 — Relational action-scale audit
+
+**Objective:** Determine whether the current relational dynamics internally fixes a universal action scale analogous to ℏ.
+
+### Result
+
+The current quadratic model admits an action (S=∫Ldt), but its numerical scale changes under normalization/rescaling of the dynamical variables and coupling/energy scales. No dimensionless invariant currently fixes a universal action quantum.
+
+**Status:** 🔴 FAIL / OPEN GATE
+
+The model has an action dimension, but it does not derive ℏ. ℏ must not be inserted and then called emergent.
+
+### Next node
+
+**PGA 1.12.1.6** — test whether a compact or topological relational degree of freedom can generate a discrete invariant and thereby remove the continuous action-scale freedom.
