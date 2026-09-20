@@ -915,3 +915,51 @@ provided the observations constrain the same underlying structure sufficiently.
 **PGA 1.12.2.6 — Coverage Threshold / Equivalence-Class Stability Test**
 
 Test how reconstruction changes as information coverage increases. Determine whether there is a non-arbitrary threshold or plateau at which additional microscopic information no longer changes the coarse-grained object/frame. This directly tests the hypothesis that an observable object is a stable coarse-grained equivalence class rather than a primitive microscopic description.
+
+
+---
+
+## PGA 1.12.2.6 — Coverage Threshold / Equivalence-Class Stability Test
+
+**Objective:** Test whether increasing relational information coverage reduces microscopic ambiguity and produces a stable coarse-grained observable structure while microscopic differences remain unresolved.
+
+**Result:** An 8×8 microscopic relational system (64 elements) grouped into sixteen 2×2 coarse regions showed a transition from ambiguous reconstruction to stable coarse-grained reconstruction as coverage increased. Representative unique macro-reconstruction rates were approximately 0.2% at 12.5% coverage, 59.1% at 25%, 99.7% at 37.5%, and 100% from 50% onward. Across 30 random coverage orders, effective identification thresholds spanned approximately 37.5%–62.5%, median ~43.75%.
+
+**Structural result:**
+[
+X 
+eq [X]_C 
+eq M(X)
+]
+where (X) is the microscopic configuration, ([X]_C) the observational equivalence class under coverage (C), and (M(X)) the coarse-grained structure.
+
+**Status:** 🟢 structural/operational toy result.
+
+**Protection:** The coarse-graining was prescribed, so this does not establish that physical objects are fundamentally coarse-grained structures. It does not derive spacetime, time, (c), quantum measurement, particles, or Standard Model structure.
+
+**Whole-research contribution:** increasing relational information coverage can reduce observational ambiguity and stabilize an effective coarse-grained description.
+
+---
+
+## PGA 1.12.2.7 — Emergent Coarse-Graining / Unprescribed Equivalence-Class Test
+
+**Objective:** Test whether a stable coarse-grained relational structure can be recovered without supplying the macroscopic partition to the reconstruction algorithm.
+
+**Result:** A 64-node weighted relational network with three hidden internally dense regions and weaker inter-region coupling was analyzed using relational Laplacian low-frequency modes and spectral clustering. The hidden partition was recovered with ARI = 1.00 in the baseline realization. Small random edge perturbations preserved the inferred structure strongly in the tested realization; a homogeneous comparable-density control did not show comparable stable partitioning.
+
+**Status:** 🟢 structural toy result — stronger than PGA 1.12.2.6 in the specific sense that the macro partition was not supplied to the reconstruction algorithm.
+
+**Protection:** The modular structure was still deliberately present in the microscopic network. Therefore this does not establish spontaneous formation of physical objects or derive particles, geometry, time, (c), quantum mechanics, or the Standard Model.
+
+**Whole-research contribution:**
+[
+	ext{microscopic relations}
+ightarrow
+	ext{collective relational modes}
+ightarrow
+	ext{stable effective structure}
+]
+is a viable tested mechanism in a controlled relational network.
+
+**Next substantive question:** Can the same relational dynamics simultaneously produce stable effective structures, causal propagation, and the spectral structure required by the quantum branch without introducing separate mechanisms?
+
