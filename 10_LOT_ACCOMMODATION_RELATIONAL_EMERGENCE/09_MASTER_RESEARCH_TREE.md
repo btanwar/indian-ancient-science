@@ -437,3 +437,17 @@ This does not yet derive photons, physical c, or spacetime.
 - Propagation-limit versus coverage distinction established.
 - Photon/boundary/information/coarse-graining line restored as an active hypothesis.
 - Next node: **PGA 1.12.2.5**.
+
+## PGA 1.12.2.5 — Observer-Coverage / Reconstruction Invariance Test
+
+A toy observer-coverage test gave three observers complementary angular sectors of the same irregular relational boundary. Each observer reconstructed only its local information. Their partial descriptions were compatible, and combining the sectors reconstructed the target exactly within the accessible region.
+
+**Status:** 🟢 toy-level observer-compatibility result; 🟡 stronger observer-independent reconstruction remains open.
+
+The critical protection is that the common underlying configuration and accessible boundary model were supplied by the experiment. Therefore this is not yet a derivation of objective physical objects. It supports only the narrower chain:
+
+propagation → boundary interaction → partial information → local reconstruction → compatible reconstruction.
+
+The next question is whether increasing information coverage produces a stable coarse-grained equivalence class, beyond which additional microscopic information no longer changes the observable object/frame.
+
+**Current node: 1.12.2.6 — Coverage Threshold / Equivalence-Class Stability Test.**
