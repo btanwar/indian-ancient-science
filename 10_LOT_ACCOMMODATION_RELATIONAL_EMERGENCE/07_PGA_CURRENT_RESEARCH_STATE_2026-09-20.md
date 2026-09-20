@@ -406,3 +406,30 @@ c* = emergent relational distance / emergent relational duration.
 **Next node: PGA 1.12.2.3 — Metric-Free Relational Time + c + Causal-Cone Test.**
 
 This next test must not insert coordinates, metric, physical time, or c into the microscopic rules.
+
+
+## 27. PGA 1.12.2.3 — Metric-Free Relational Time + c + Causal-Cone Test
+
+A minimal integrated test was executed using only relational graph connectivity and local causal update depth.
+
+Relational distance was defined operationally as shortest-path length D_G. Operational duration was defined as causal update depth T_G. No physical coordinates, metric, seconds, metres, or named c were inserted.
+
+For organized local square/triangular connectivity with one-link-per-update propagation, the leading front satisfies D_G = T_G, giving the internal ratio c_R = 1 relational link/update. This demonstrates a coherent finite causal cone and an internal dimensionless propagation ratio.
+
+The 256-node random 4-regular control again saturates rapidly (1 → 5 → 17 → 51 → 125 → 226 → 256), confirming that generic connectivity does not automatically generate a geometric causal cone.
+
+### Result
+
+- 🟢 Organized local relational dynamics → finite causal cone.
+- 🟢 Internal relational propagation ratio survives.
+- 🔴 Universal physical c is not derived; distance and duration still share the same substrate calibration.
+- 🔴 Lorentz invariance is not derived.
+- 🔴 Lorentzian spacetime is not derived.
+
+### Key conclusion
+
+The branch has progressed from merely demonstrating finite propagation to demonstrating that a causal cone can be described **without inserting a physical metric or physical time**, but the scale problem remains.
+
+The next gate is therefore not another cone test. It is to determine whether relational distance and relational duration can acquire **independent, observer-independent scales** from the same S∞↔B∞ dynamics.
+
+**Next node: PGA 1.12.2.4 — Independent Relational Space/Time Scale and Observer-Clock Consistency Test.**
