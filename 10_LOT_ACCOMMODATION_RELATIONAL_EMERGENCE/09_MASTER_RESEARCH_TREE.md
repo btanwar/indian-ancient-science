@@ -2,7 +2,7 @@
 # S∞ ↔ B∞ — Visual Master Research Tree
 
 **Canonical visual map:** RT-001  
-**Current node:** 🟡 **1.12.1 — Quantized B∞ Modes**
+**Current node:** 🟡 **1.12.2.3 — Metric-Free Relational Time + c + Causal-Cone Test**
 
 ## Legend
 
@@ -235,6 +235,56 @@ flowchart TD
     classDef analogy fill:#eadcf8,stroke:#7952a8,stroke-width:2px,color:#111;
     classDef deferred fill:#eeeeee,stroke:#888,stroke-width:2px,color:#111;
 ```
+
+
+
+## 5. Observable Reconstruction / Emergent Time / Emergent-c Branch
+
+**Research coordinate:** 1.12.2
+
+The historical framing–sampling–coverage–sequence work has been audited rather than repeated.
+
+```text
+1.12.2 Observable Reconstruction
+  ↓
+1.12.2.1 Historical framing / sampling / coverage synthesis
+  ↓
+1.12.2.2 Audit checkpoint
+  ↓
+🟡 PARTIAL SUCCESS
+  ├─ information acquisition → reconstruction ✅ toy
+  ├─ different coverage → compatible reconstruction ✅ toy
+  ├─ local causal precedence → global partial order ✅ toy
+  ├─ finite causal propagation in suitable local models ✅ toy
+  ├─ continuous physical time ❌ not derived
+  ├─ observer-independent temporal scale ❌ not derived
+  ├─ universal physical c ❌ not derived
+  └─ Lorentzian spacetime ❌ not derived
+  ↓
+1.12.2.3 Metric-Free Relational Time + c + Causal-Cone Test
+```
+
+### Corrected emergent-c status
+
+Earlier work did demonstrate finite propagation fronts in toy relational models, including c_D = a√(κ/m) and c* = ℓ*/τ*. A random 256-node 4-regular network failed to generate a geometric causal cone; ordered-local/fixed-lattice models produced finite cones but retained preferred microscopic structure. Sampling frequency was rejected as c on dimensional grounds.
+
+Therefore the precise status is:
+
+- **Finite propagation:** 🟢 toy-model result.
+- **Universal observer-independent c:** 🔴 not derived.
+- **Lorentz invariance:** 🔴 not derived.
+- **Lorentzian spacetime from S∞ ↔ B∞:** 🔴 not derived.
+
+The next test must derive relational distance and operational duration from the same substrate and determine whether their ratio approaches a stable, isotropic, observer-independent propagation invariant without inserting c into the microscopic rules.
+
+### RT-004 Change Record
+
+- **PGA 1.12.2.2 audit completed:** historical framing/sampling/sequence/reconstruction work was checked against explicit branch gates.
+- **Corrected status:** finite propagation is a surviving toy result; universal c remains un-derived.
+- **Partial-order boundary preserved:** causal partial order is not promoted to physical time.
+- **New next node:** PGA 1.12.2.3 — Metric-Free Relational Time + c + Causal-Cone Test.
+- **Quantum branch preserved:** 1.12.1.6 remains a parallel quantum branch and is not deleted or overwritten.
+
 
 ## 5. Ultimate Research Gate
 
