@@ -2,7 +2,7 @@
 # S∞ ↔ B∞ — Visual Master Research Tree
 
 **Canonical visual map:** RT-001  
-**Current integrated research position:** 🟡 **PGA 1.12.2.9 completed — relational modes → quantum-state boundary; next gate returns to PGA 1.12.1.5 action-scale problem**
+**Current integrated research position:** 🟡 **PGA 1.12.6.1-J completed — emergent relational identity + self-recovery candidate; next gate is 1.12.6.1-K propagation of persistent organization**
 
 ## Legend
 
@@ -423,6 +423,54 @@ This remains a hypothesis.
 PGA 1.12.2.8 demonstrates common relational structure plus finite propagation in a toy model, but its protection states that the effective regional structure was encoded in the microscopic coupling pattern. It therefore does not establish spontaneous particle formation.
 
 PGA 1.12.1.13 demonstrates elementary relational reconfiguration in a controlled local toy model with an assumed conservative update law. It supports the reconfiguration mechanism at toy level but does not derive the fundamental update law.
+
+### PGA 1.12.6.1 — Research-First Progress Record (A–J)
+
+The following PGAs were worked through before the documentation checkpoint. They refine the matter question without yet claiming a physical particle derivation.
+
+| PGA | Result | Status |
+|---|---|---|
+| 1.12.6.1-A | Defined the starting point as distributed relational activity rather than a pre-existing particle. “Energy” remains an uncalibrated relational energy-like quantity. | 🟢 structural / 🟡 physical calibration open |
+| 1.12.6.1-B | Identified relational coupling, nonlinearity, and configuration-dependent reconfiguration as candidate localization mechanisms. External traps are excluded from the fundamental test. | 🟡 hypothesis |
+| 1.12.6.1-C | Human social organization supplied the structural analogy of distributed elements + needs/constraints + interaction → organization. “Need” is not imported as a physical primitive; compatibility is abstracted structurally. | 🟢 analogy → structural claim |
+| 1.12.6.1-D | Relational compatibility can be interpreted provisionally as dynamical coherence under allowed transitions, potentially using existing K_ij and T rather than a new force. | 🟡 hypothesis |
+| 1.12.6.1-E | Shifted focus from localization alone to emergence of hierarchy: relations → organization → higher-order organization. | 🟢 structural hypothesis |
+| 1.12.6.1-F | Defined an effective unit by internal coherence, relational boundary, collective response, persistence, identity/invariant, and effective higher-level dynamics. | 🟢 criteria defined |
+| 1.12.6.1-G | Proposed recursive organization: the same relational rule should operate on emergent effective units to produce higher organizational levels, without a new rule at each level. | 🟡 hypothesis |
+| 1.12.6.1-H | Identified possible genuinely higher-level effective properties arising from organization; mass/charge/etc. remain un-derived and must not be identified prematurely. | 🟡 hypothesis |
+| 1.12.6.1-I | Proposed emergent identity: microscopic configuration may change while a relational invariant/organizational pattern persists. Propagation could then be transport of persistent relational identity. | 🟡 hypothesis |
+| 1.12.6.1-J | Strengthened persistence to self-recovery under perturbation. A genuine object candidate should restore its defining relational organization without external forcing, ideally over a nonzero perturbation basin. | 🟡 hypothesis / experiment pending |
+
+### Consolidated result of the PGA set
+
+The matter hypothesis is now expressed as:
+
+**distributed relational activity → interaction/reconfiguration → compatible organization → effective unit → persistent relational identity → possible higher-order hierarchy → possible propagation.**
+
+This is a stronger and more general target than “localized energy becomes a particle.” Localization is now treated as one possible emergent property, not the definition of objecthood.
+
+### Protection rules added by this PGA set
+
+- distributed activity ≠ particle;
+- localized activity ≠ particle;
+- collective mode ≠ particle;
+- organization ≠ particle;
+- effective unit ≠ automatically a physical particle;
+- persistent pattern ≠ automatically a particle;
+- human organizational hierarchy is an analogy for relational emergence, not a physical identification;
+- plasma ≠ B∞;
+- wick ≠ spacetime;
+- relational energy-like quantity ≠ calibrated physical energy.
+
+### Next decisive gate
+
+**PGA 1.12.6.1-K — Propagation of Persistent Relational Organization**
+
+Test whether a self-maintaining organization can move/reconfigure through the underlying relational system while preserving its defining identity:
+
+O(x,t) → O(x+Δx,t+Δt), with I[O(x,t)] ≈ I[O(x+Δx,t+Δt)].
+
+A successful toy result would establish propagation of a persistent relational organization, not yet a physical particle. It would directly revisit the earlier question: “what is the something that propagates?”
 
 ### First proposed gate
 
@@ -1392,4 +1440,4 @@ The 1.12.2.7 label is deliberately kept as a historical continuation reference r
 
 The master tree now distinguishes existing numbered nodes, newly registered missing nodes, deferred unnumbered concepts, and closed mechanisms with explicit continuation references.
 
-**Next substantive research action:** PGA 1.12.6.1 — Stable Localized Relational Excitation Test.
+**Next substantive research action:** PGA 1.12.6.1-K — Propagation of Persistent Relational Organization.
