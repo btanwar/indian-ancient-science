@@ -285,8 +285,13 @@ flowchart TD
     A --> Q4["1.12.4 Compact / topological phase"]
     A --> Q5["1.12.5 Quantum ↔ geometry"]
     A --> Q6["1.12.6 Matter / Particle Excitations"]
-    Q6 --> QE["Stable localized relational excitation?"]:::open
+    Q6 --> Q61["1.12.6.1 Energetic relational medium → stable localized excitation"]
+    Q61 --> E0["Distributed energetic state"]:::open
+    E0 --> C0["Relational constraints / redistribution"]:::open
+    C0 --> L0["Localized self-maintaining configuration?"]:::open
+    L0 --> QE["Stable localized relational excitation?"]:::open
     QE --> PP["Particle-like properties?"]:::open
+    Q61 -.-> A20["A020 Plasma / Wick analogy"]:::analogy
     classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
     classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
 ```
@@ -421,9 +426,13 @@ PGA 1.12.1.13 demonstrates elementary relational reconfiguration in a controlled
 
 ### First proposed gate
 
-**PGA 1.12.6.1 — Stable Localized Relational Excitation Test**
+**PGA 1.12.6.1 — Energetic Relational Medium → Stable Localized Excitation Test**
 
-Test whether an elementary relational reconfiguration can produce a localized excitation that:
+**Analogy input:** A020 — Plasma / Wick: Distributed Energetic Flow → Localized Manifestation.
+
+The analogy is used only to sharpen the mechanism question. It does **not** assert that B∞ is a physical plasma, that particles are cooled plasma, or that spacetime behaves like a wick.
+
+Test whether an initially distributed, dynamically active relational state can, under explicitly stated relational constraints and energy redistribution, produce a localized excitation that:
 
 1. forms from the relational dynamics rather than being manually inserted;
 2. remains localized for a sustained interval;
@@ -435,6 +444,173 @@ Test whether an elementary relational reconfiguration can produce a localized ex
 The first experiment should remain dimensionless/toy-level unless a physical scale is independently derived.
 
 **This node does not yet claim to derive mass, charge, spin, quantum statistics, or known elementary particles.**
+
+
+## 2B. A020 — Energetic Relational Medium / Plasma / Wick Analogy
+
+The new analogy is attached to **1.12.6.1**, not promoted to a new top-level branch.
+
+### Structural proposition
+
+The two physical analogies suggest a common structural pattern:
+
+```text
+distributed energetic activity
+        ↓
+local constraints / coupling structure
+        ↓
+redistribution + binding + stabilization
+        ↓
+localized persistent configuration
+        ↓
+localized manifestation / interaction
+```
+
+The **plasma analogy** contributes the idea that a highly energetic many-body state can contain interacting charged constituents whose state changes as energy is transferred, radiated, or redistributed; cooling and recombination can change the organization of the state. NASA describes plasma as an ionized state and documents recombination and heating/cooling processes in plasma models. This is established physics used only as an analogy source, not as evidence for S∞/B∞.
+
+The **wick analogy** contributes a different structural feature: a distributed reservoir is transported through a constrained porous pathway and reaches a localized reaction/manifestation region. In candle/wick physics, liquid fuel is transported through capillary action and then vaporizes and burns near the flame; the flame location and survival depend on coupled transport and reaction processes. This is established physics used only as an analogy source.
+
+### S∞ ↔ B∞ reinterpretation
+
+A useful hypothesis is:
+
+[
+B_infty approx 	ext{distributed relational activity}
+]
+
+[
+S_infty approx 	ext{localized relational organization}
+]
+
+[
+S_infty leftrightarrow B_infty
+approx
+	ext{continuous exchange between local organization and extended relational response}.
+]
+
+The stronger matter hypothesis is therefore:
+
+[
+oxed{
+	ext{particle-like object}
+=
+	ext{stable localized relational configuration}
+}
+]
+
+with the important qualifier that the configuration must **emerge dynamically** rather than being inserted as a particle by hand.
+
+### What the analogy actually adds
+
+It adds a more precise question to the existing matter branch:
+
+> **Can distributed relational energy/activity become locally organized because the relational constraints redistribute the available degrees of freedom, and can that organization maintain itself without an externally imposed particle boundary?**
+
+This is stronger than the earlier generic "localized disturbance" question because it explicitly separates:
+
+- **reservoir / distributed activity**;
+- **transport or relational coupling**;
+- **constraint/binding**;
+- **redistribution of energy**;
+- **localization**;
+- **persistence**;
+- **observable manifestation**.
+
+### Minimal toy representation
+
+Introduce relational degrees of freedom (x_i), local coupling (K_{ij}), and an effective local energy density (e_i):
+
+[
+E[x]
+=
+rac12sum_{ij}K_{ij}(x_i-x_j)^2
++
+sum_i V(x_i).
+]
+
+The exploratory question is whether a suitable **derived or explicitly constrained** dynamics can evolve an initially distributed state,
+
+[
+e_i(0)approx 	ext{broad / distributed},
+]
+
+toward a state with a localized excess,
+
+[
+e_i(t)ightarrow e_i^{m background}+Delta e_i(t),
+]
+
+where (Delta e_i) remains localized for long times **without prescribing the location and shape of the final object in advance**.
+
+The present equation is only a candidate toy model. The potential (V), couplings (K_{ij}), conservation law, and update dynamics must not be chosen merely to force localization.
+
+### Critical distinction: energy concentration is not yet a particle
+
+A localized energy maximum alone is insufficient. The candidate structure must also show:
+
+1. localization;
+2. persistence;
+3. identity under evolution;
+4. response to perturbation;
+5. propagation or interaction;
+6. a conserved or approximately conserved relational quantity;
+7. robustness to representation/coarse-graining.
+
+Only if these survive together does the result become evidence for an emergent particle-like relational excitation.
+
+### Failure modes to test explicitly
+
+- **Transient pulse only:** energy localizes briefly and disperses.
+- **Externally seeded object:** localization exists only because the initial condition already contains the object.
+- **Fixed trap:** an imposed potential creates localization; the object is therefore not emergent.
+- **Dissipative attractor:** localization depends on unmodelled external cooling or friction.
+- **Parameter fine-tuning:** localization occurs only in a narrow hand-picked parameter region.
+- **Energy leakage:** apparent persistence is an artifact of finite simulation time.
+- **Multiple indistinguishable modes:** no stable object identity can be defined.
+
+### Status
+
+🟠 **ACTIVE INVESTIGATION / ANALOGY INPUT**
+
+The analogy itself is not a result.
+
+The strongest current research target is:
+
+[
+oxed{
+	ext{distributed relational state}
+ightarrow
+	ext{constraint-driven reorganization}
+ightarrow
+	ext{stable localized excitation}
+}
+]
+
+If this fails, the analogy remains illustrative. If it succeeds under generic, independently motivated constraints, it becomes a useful structural lead for **1.12.6 Matter / Particle Excitations**.
+
+### Protection
+
+Do **not** write:
+
+[
+	ext{plasma}=	ext{B}_infty,
+qquad
+	ext{particle}=	ext{cooled plasma},
+qquad
+	ext{wick}=	ext{spacetime}.
+]
+
+The defensible mapping is only:
+
+[
+	ext{distributed activity}
+leftrightarrow
+	ext{constraint-mediated redistribution}
+leftrightarrow
+	ext{localized manifestation}.
+]
+
+This preserves the analogy while keeping the physical derivation open.
 
 
 ## 2. Geometry / Current Research Position
