@@ -74,6 +74,8 @@ PGA 1.12.1.1 — canonical quantization boundary test
 1.12.4 Compact / topological phase
   ↓
 1.12.5 Quantum ↔ geometry
+  ↓
+1.12.6 Matter / Particle Excitations  ← NEW MASTER-TREE NODE
 ```
 
 ### Current quantum test
@@ -83,6 +85,69 @@ PGA 1.12.1.1 — canonical quantization boundary test
 PGA 1.12.1.1 found a useful boundary: the relational operator produces a discrete collective-mode spectrum, but Hilbert-space structure and canonical commutation relations were added by the standard quantization procedure. Therefore the experiment supports compatibility with quantum mechanics, not emergence of quantum mechanics.
 
 **Next node:** `1.12.1.2` — test whether any pre-quantization relational mechanism can generate quantum-like state structure, interference, or nonclassical correlations without inserting quantum postulates.
+
+## 2A. Matter / Particle Excitations — Newly Numbered Node
+
+**New master-tree node:** `1.12.6`  
+**Source:** existing Research Program Branch B9 — Matter / Particle Excitations.  
+**Reason for numbering:** this substantive branch already existed in the Research Program but had no numbered home in the visual master tree.
+
+### Research question
+
+> **Can stable localized relational excitations reproduce particle-like properties without inserting a particle as a primitive object?**
+
+Working dependency:
+
+[
+S_\infty \leftrightarrow B_\infty
+\rightarrow \text{elementary relational reconfiguration}
+\rightarrow \text{collective / local excitation}
+\rightarrow \text{stability / persistence}
+\rightarrow \text{localized relational pattern}
+\rightarrow \text{particle-like properties}.
+]
+
+### Protection
+
+Do not identify any of the following with a particle without a separate derivation:
+
+- spectral cluster = particle;
+- collective mode = particle;
+- localized disturbance = particle;
+- coarse-grained reconstruction = particle;
+- persistent pattern = particle.
+
+The working hypothesis is:
+
+> **A particle-like object may be an emergent persistent relational pattern whose identity is maintained by relational structure.**
+
+This remains a hypothesis.
+
+### Initial status
+
+🟡 **OPEN / NOT YET TESTED AS A DEDICATED MASTER-TREE BRANCH**
+
+PGA 1.12.2.8 demonstrates common relational structure plus finite propagation in a toy model, but its protection states that the effective regional structure was encoded in the microscopic coupling pattern. It therefore does not establish spontaneous particle formation.
+
+PGA 1.12.1.13 demonstrates elementary relational reconfiguration in a controlled local toy model with an assumed conservative update law. It supports the reconfiguration mechanism at toy level but does not derive the fundamental update law.
+
+### First proposed gate
+
+**PGA 1.12.6.1 — Stable Localized Relational Excitation Test**
+
+Test whether an elementary relational reconfiguration can produce a localized excitation that:
+
+1. forms from the relational dynamics rather than being manually inserted;
+2. remains localized for a sustained interval;
+3. preserves an identifiable invariant or identity under evolution;
+4. propagates or interacts without losing its defining relational structure;
+5. survives changes in representation and coarse-graining;
+6. can be distinguished from an ordinary transient wave packet.
+
+The first experiment should remain dimensionless/toy-level unless a physical scale is independently derived.
+
+**This node does not yet claim to derive mass, charge, spin, quantum statistics, or known elementary particles.**
+
 
 ## 2. Geometry / Current Research Position
 
@@ -356,6 +421,8 @@ flowchart TD
 - EM/GW video/audio → established physical mechanism.
 
 ### 🟡 OPEN / NEXT TESTS
+- Stable localized relational excitation → particle-like properties (new branch **1.12.6**).
+- Persistence / identity of a relational excitation under reconfiguration and propagation.
 - Relational arrangement → geometry without primitive geometric scaffolding.
 - Pattern → flat / mandala representation.
 - Fold / constraint → geometric change.
@@ -450,7 +517,9 @@ propagation → boundary interaction → partial information → local reconstru
 
 The next question is whether increasing information coverage produces a stable coarse-grained equivalence class, beyond which additional microscopic information no longer changes the observable object/frame.
 
-**Current node: 1.12.2.6 — Coverage Threshold / Equivalence-Class Stability Test.**
+**Historical RT-006 next node: 1.12.2.6 — Coverage Threshold / Equivalence-Class Stability Test.**
+
+Subsequent work continued through 1.12.2.8 and 1.12.2.9; the current integrated position is recorded at the top of this master tree.
 
 
 ## RT-006 — Complete Audit of Branch 1.12.2
@@ -536,7 +605,10 @@ Proper status: **🟢 limited toy compatibility result**, not observer-independe
   ├── 1.12.2.3 Metric-free causal propagation
   ├── 1.12.2.4 Boundary information / coverage
   ├── 1.12.2.5 Observer-coverage compatibility
-  └── 1.12.2.6 Coverage threshold / equivalence-class stability
+  ├── 1.12.2.6 Coverage threshold / equivalence-class stability
+  ├── 1.12.2.7 [historical continuation; see experiment/current-state records]
+  ├── 1.12.2.8 Integrated Relational Dynamics Test
+  └── 1.12.2.9 Relational Mode → Quantum-State Structure Test
 
 ### Next decisive test
 
@@ -643,11 +715,14 @@ A methodological clarification has been added: physical-unit calibration is a la
 
 [
 	ext{derive relational structure}
-ightarrow
+
+ightarrow
 	ext{derive relational laws}
-ightarrow
+
+ightarrow
 	ext{identify observables}
-ightarrow
+
+ightarrow
 	ext{physical calibration}
 ]
 
@@ -671,7 +746,8 @@ The deeper hypothesis under investigation is:
 [
 oxed{
 S_inftyleftrightarrow B_infty
-ightarrow
+
+ightarrow
 	ext{relational reconfiguration}
 }
 ]
@@ -679,7 +755,8 @@ S_inftyleftrightarrow B_infty
 rather than:
 
 [
-	ext{new object}ightarrow	ext{empty physical room}.
+	ext{new object}
+ightarrow	ext{empty physical room}.
 ]
 
 An effective object/excitation may correspond to a new stable relational configuration of the same underlying substrate.
@@ -687,7 +764,8 @@ An effective object/excitation may correspond to a new stable relational configu
 Represent this schematically as:
 
 [
-B_infty(C)ightarrow B_infty(C').
+B_infty(C)
+ightarrow B_infty(C').
 ]
 
 ### Physical intuition retained
@@ -718,7 +796,10 @@ The test should begin with:
 4. the invariant/change between (C_0) and (C_1);
 5. repeated evolution
    [
-   C_0ightarrow C_1ightarrow C_2ightarrowcdots;
+   C_0
+ightarrow C_1
+ightarrow C_2
+ightarrowcdots;
    ]
 6. whether the resulting change can support, without separately inserting them:
    - ordering,
@@ -734,15 +815,20 @@ The intended research dependency is now:
 [
 oxed{
 	ext{relational reconfiguration}
-ightarrow
+
+ightarrow
 	ext{interaction ordering}
-ightarrow
+
+ightarrow
 	ext{phase / propagation}
-ightarrow
+
+ightarrow
 	ext{stable excitation}
-ightarrow
+
+ightarrow
 	ext{observable reconstruction}
-ightarrow
+
+ightarrow
 	ext{physical calibration}
 }
 ]
@@ -750,7 +836,8 @@ The intended research dependency is now:
 This supersedes the overly shallow immediate sequence:
 
 [
-	ext{assume update rule}ightarrowphi.
+	ext{assume update rule}
+ightarrowphi.
 ]
 
 Therefore the previously proposed **PGA 1.12.1.13 — Relational Update-Law Selection Test** is superseded by:
@@ -781,7 +868,8 @@ The deeper missing layer is now explicitly identified as:
 [
 oxed{
 S_inftyleftrightarrow B_infty
-ightarrow
+
+ightarrow
 	ext{elementary relational reconfiguration}
 }
 ]
@@ -790,3 +878,54 @@ This is the level that must be investigated next.
 
 **Research principle:**  
 > **Do not confuse the representation of accommodation (Hilbert Hotel rooms) with the physical mechanism of accommodation (relational reconfiguration).**
+---
+
+## RT-010 — Master-Tree Numbering Audit and Missing-Node Registration
+
+**Audit scope:** complete numbered master spine 1.1–1.14, detailed 1.6 branch, quantum 1.12 branch, observable-reconstruction 1.12.2 branch, and Research Program B1–B10.
+
+### Decision
+
+No existing master-tree number is renumbered, deleted, or repurposed.
+
+The existing Research Program contains **B9 — Matter / Particle Excitations**, but the visual master tree previously had no numbered home for that substantive branch.
+
+It is therefore registered as:
+
+**1.12.6 — Matter / Particle Excitations**
+
+This is a new sibling under the existing 1.12 Quantum Branch. Existing 1.12.1–1.12.5 numbering is unchanged.
+
+### Other unnumbered/deferred concepts
+
+- **Criticality / Instability (B6):** existing substantive concept; no new number yet because its proper parent/dependency remains unresolved.
+- **Thermodynamics (B7):** existing substantive concept; no new number yet because its proper parent/dependency remains unresolved.
+- **Charge / Current (B8):** already represented under 1.13; no duplicate number created.
+- **Arrow of Time (B10):** already represented under 1.11; no duplicate number created.
+- **Relational reconfiguration:** already represented by **PGA 1.12.1.13**; no duplicate number created.
+
+### Closure / continuation rule
+
+Failed mechanisms remain at their original locations. If the underlying research question survives, the continuation explicitly references the new node rather than overwriting the historical branch.
+
+Examples preserved in the tree include:
+
+- scalar-conformal gravity → failed mechanism → tensorial/non-conformal response;
+- Damru photon/gravity identification → failed identification → common relational mechanism remains open;
+- coverage-rate = c → rejected identification → propagation/scale question remains open.
+
+### Synchronization correction
+
+Historical navigation text had stopped at 1.12.2.6 even though later records completed 1.12.2.8 and 1.12.2.9. The detailed architecture is now synchronized to show:
+
+**1.12.2.6 → 1.12.2.7 → 1.12.2.8 → 1.12.2.9**
+
+The 1.12.2.7 label is deliberately kept as a historical continuation reference rather than inventing a new title not established by the source records.
+
+### Result
+
+**RT-010 status: 🟢 completed.**
+
+The master tree now distinguishes existing numbered nodes, newly registered missing nodes, deferred unnumbered concepts, and closed mechanisms with explicit continuation references.
+
+**Next substantive research action:** PGA 1.12.6.1 — Stable Localized Relational Excitation Test.
