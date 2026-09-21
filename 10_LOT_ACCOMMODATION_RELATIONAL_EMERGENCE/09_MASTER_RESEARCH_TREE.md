@@ -54,6 +54,294 @@ flowchart TD
     classDef guard fill:#fff3cd,stroke:#9a6b00,stroke-width:4px,color:#111;
 ```
 
+## 2. Individual Top-Level Branch Maps — 1.1 to 1.14
+
+The **top-level master spine above remains unchanged**. This section deliberately gives each top-level branch its own Mermaid diagram so that each branch can be read independently without navigating a large combined graph.
+
+The diagrams are structural navigation maps, not new experimental claims. Existing research status and detailed results remain in the sections below.
+
+### 2.1 — Branch 1.1: Original Problem
+
+```mermaid
+flowchart TD
+    A["1.1 ORIGINAL PROBLEM"]:::root
+    A --> Q["Quantum"]
+    A --> G["Geometry"]
+    A --> R["Gravity"]
+    Q --> X["Quantum ↔ geometry ↔ gravity"]
+    G --> X
+    R --> X
+    X --> H["Can one underlying framework connect them?"]:::open
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+```
+
+### 2.2 — Branch 1.2: S∞
+
+```mermaid
+flowchart TD
+    A["1.2 S∞"]:::root
+    A --> L["Localized relational structure"]
+    A --> S["Small/localized side of S∞ ↔ B∞"]
+    A --> R["Mutual constraint with B∞"]
+    R --> D["Candidate response: S∞ → δB∞"]:::open
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+```
+
+### 2.3 — Branch 1.3: B∞
+
+```mermaid
+flowchart TD
+    A["1.3 B∞"]:::root
+    A --> E["Extended relational structure"]
+    A --> R["Relational background / substrate"]
+    A --> S["Mutual constraint with S∞"]
+    S --> D["Candidate response: δB∞ → δK → collective response"]:::open
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+```
+
+### 2.4 — Branch 1.4: Accommodation / Capacity
+
+```mermaid
+flowchart TD
+    A["1.4 ACCOMMODATION / CAPACITY"]:::root
+    A --> H["Hilbert Hotel"]:::analogy
+    H --> M["Infinite re-indexing / accommodation"]:::analogy
+    A --> R["Relational reconfiguration"]:::open
+    R --> C["B∞(C) → B∞(C')"]
+    C --> E["Can effective structures be accommodated without new substrate cells?"]:::open
+    A --> D["Capacity / finite response / stability"]
+    D --> T["Toy dynamics and energy accounting"]:::open
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+    classDef analogy fill:#eadcf8,stroke:#7952a8,stroke-width:2px,color:#111;
+```
+
+**Protection:** Hilbert-Hotel rooms are a mathematical analogy only. RT-009 explicitly redirects the physical question toward relational reconfiguration.
+
+### 2.5 — Branch 1.5: Relationality
+
+```mermaid
+flowchart TD
+    A["1.5 RELATIONALITY"]:::root
+    A --> L["Local elements"]
+    L --> R["Relations"]
+    R --> C["Relational configuration"]
+    C --> E["Extended relational structure"]
+    E --> M["Mutual constraint / mediated response"]:::open
+    M --> P["Candidate persistent relational pattern"]:::open
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+```
+
+### 2.6 — Branch 1.6: Geometry / Arrangement
+
+```mermaid
+flowchart TD
+    A["1.6 GEOMETRY / ARRANGEMENT"]:::root
+    A --> G1["1.6.1 Geometry not initially assumed"]
+    G1 --> R["Relations"]
+    R --> AR["Arrangement"]
+    AR --> P["Stable pattern"]
+    P --> GI["Geometric interpretation?"]:::open
+    A --> G2["1.6.2 Arrangement of relations"]
+    G2 --> L["Local interactions"]
+    L --> AL["Alignment"]
+    AL --> F["Curvature / fold"]
+    A --> G3["1.6.3 Dimension as Fold"]
+    G3 --> D["Relational degrees of freedom"]
+    D --> ED["Effective dimension"]
+    A --> G4["1.6.4 Mandala / Flat Representation"]
+    G4 --> M1["1.6.4.1 Relational arrangement → pattern"]
+    M1 --> M2["1.6.4.2 Pattern → 2D / Mandala"]
+    M2 --> M3["1.6.4.3 Complex / higher-dimensional → flat"]
+    M3 --> M4["1.6.4.4 Boundaries + motion + relations preserved?"]
+    A --> G5["1.6.5 Human-body unfolding analogy"]:::analogy
+    A --> G6["1.6.6 Perceived / Effective 3D"]
+    G6 --> U["Underlying relational structure"]
+    U --> RC["Reconstruction"]
+    RC --> PG["Perceived geometry"]
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+    classDef analogy fill:#eadcf8,stroke:#7952a8,stroke-width:2px,color:#111;
+```
+
+### 2.7 — Branch 1.7: Manifestation / Representation
+
+```mermaid
+flowchart TD
+    A["1.7 MANIFESTATION / REPRESENTATION"]:::root
+    A --> C["Cinema"]
+    C --> F["Sequence → frames → perceived continuity"]:::analogy
+    A --> V["VCR / Coverage"]
+    V --> W["Whole ≠ instantaneous access"]
+    W --> R["Ordered acquisition → reconstruction"]
+    A --> O["Observer"]
+    O --> P["Physical state → projection / access → representation"]
+    P --> X["X → π(X) → A(π(X))"]
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef analogy fill:#eadcf8,stroke:#7952a8,stroke-width:2px,color:#111;
+```
+
+### 2.8 — Branch 1.8: Relational Mathematics
+
+```mermaid
+flowchart TD
+    A["1.8 RELATIONAL MATHEMATICS"]:::root
+    A --> N["1.8.1 Network model"]
+    N --> V["B_N=(V,E)"]
+    V --> K["Kᵢⱼ couplings"]
+    K --> E["Relational energy"]
+    E --> L["Laplacian response"]
+    A --> S["1.8.2 Static response"]
+    S --> SR["Local forcing → distributed response"]
+    SR --> MI["Mediated interaction"]
+    A --> M["1.8.3 Collective modes"]
+    M --> NM["Normal modes"]
+    NM --> SS["Spectral shifts"]
+    A --> D["1.8.4 Dynamic B∞"]
+    D --> FP["Local disturbance → finite-speed propagation"]
+    FP --> CW["Collective wave"]
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+```
+
+### 2.9 — Branch 1.9: Emergent Geometry
+
+```mermaid
+flowchart TD
+    A["1.9 EMERGENT GEOMETRY"]:::root
+    A --> T["Relational tensor Cⁱʲ"]
+    T --> M["Candidate spatial metric"]
+    M --> E["Geometry from relational energy"]
+    E --> C["Geometry vs propagation"]:::open
+    C --> Q["g_geometry ?= g_propagation"]:::open
+    Q --> S["Physical spacetime?"]:::open
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+```
+
+### 2.10 — Branch 1.10: Gravity
+
+```mermaid
+flowchart TD
+    A["1.10 GRAVITY"]:::root
+    A --> N["Newtonian scaling: 3D ~ 1/r"]
+    N --> Z["Why does λ = 0 arise?"]:::open
+    A --> M["Metric route"]
+    M --> G00["g₀₀"]
+    M --> SM["Spatial metric"]
+    G00 --> W["Weak-field consistency"]
+    SM --> W
+    A --> GR["General Relativity"]
+    GR --> ET["Einstein tensor / equation"]:::open
+    ET --> F["Derivation from S∞ ↔ B∞ not achieved"]:::fail
+    A --> SC["Scalar-conformal branch"]:::fail
+    SC --> MM["Weak-field temporal/spatial sign mismatch"]
+    MM --> TN["Tensorial / non-conformal response"]:::open
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+    classDef fail fill:#f8d7da,stroke:#a33,stroke-width:2px,color:#111;
+```
+
+### 2.11 — Branch 1.11: Time / Ordering
+
+```mermaid
+flowchart TD
+    A["1.11 TIME / ORDERING"]:::root
+    A --> R["Reconfiguration / sequential manifestation"]
+    R --> O["Ordering"]
+    O --> N["Ordering ≠ physical time"]:::fail
+    N --> C["Physical clock problem"]:::open
+    A --> TH["Theta / Ramanujan"]:::deferred
+    A --> P["Operational ordering / causal precedence"]:::open
+    P --> T["Can physical time be derived rather than assumed?"]:::open
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+    classDef fail fill:#f8d7da,stroke:#a33,stroke-width:2px,color:#111;
+    classDef deferred fill:#eeeeee,stroke:#888,stroke-width:2px,color:#111;
+```
+
+### 2.12 — Branch 1.12: Quantum
+
+```mermaid
+flowchart TD
+    A["1.12 QUANTUM BRANCH"]:::root
+    A --> Q1["1.12.1 Quantized B∞ modes"]
+    Q1 --> Q11["Canonical quantization boundary"]
+    Q1 --> Q12["Pre-quantization quantum-like structure"]
+    Q1 --> Q15["Relational action-scale problem"]
+    Q1 --> Q113["1.12.1.13 Elementary relational reconfiguration"]
+    A --> Q2["1.12.2 Observable Reconstruction / Information / Causality"]
+    Q2 --> Q21["Historical synthesis"]
+    Q2 --> Q23["Metric-free causal propagation"]
+    Q2 --> Q24["Boundary information / coverage"]
+    Q2 --> Q25["Observer-coverage compatibility"]
+    Q2 --> Q26["Coverage threshold / equivalence-class stability"]
+    Q2 --> Q28["Integrated Relational Dynamics"]
+    Q2 --> Q29["Relational Mode → Quantum-State Structure"]
+    A --> Q3["1.12.3 QZE analogy"]
+    A --> Q4["1.12.4 Compact / topological phase"]
+    A --> Q5["1.12.5 Quantum ↔ geometry"]
+    A --> Q6["1.12.6 Matter / Particle Excitations"]
+    Q6 --> QE["Stable localized relational excitation?"]:::open
+    QE --> PP["Particle-like properties?"]:::open
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+```
+
+### 2.13 — Branch 1.13: EM / GW / Damru
+
+```mermaid
+flowchart TD
+    A["1.13 EM / GW / DAMRU"]:::root
+    A --> D["Damru: local oscillation → extended response"]
+    D --> F["Photon / gravity mechanism"]:::fail
+    A --> E["EM / GW video-audio analogy"]:::analogy
+    E --> C["Common-field mechanism"]:::open
+    A --> CH["Charge / Current"]
+    CH --> LF["Localized source ↔ extended field / flow"]
+    LF --> SC["Symmetry → conservation → charge/current?"]:::open
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+    classDef fail fill:#f8d7da,stroke:#a33,stroke-width:2px,color:#111;
+    classDef analogy fill:#eadcf8,stroke:#7952a8,stroke-width:2px,color:#111;
+```
+
+### 2.14 — Branch 1.14: Ultimate Unification
+
+```mermaid
+flowchart TD
+    A["1.14 ULTIMATE UNIFICATION"]:::root
+    A --> B["One minimal S∞ ↔ B∞ mechanism"]:::open
+    B --> R["Relations"]
+    R --> AR["Arrangement"]
+    AR --> P["Pattern"]
+    P --> G["Geometry"]
+    G --> PR["Propagation"]
+    G --> REP["Representation / effective dimension"]
+    PR --> ST["Physical spacetime?"]:::open
+    REP --> ST
+    ST --> PH["Gravity / quantum / matter?"]:::open
+    PH --> U["ONE MINIMAL MECHANISM?"]:::ultimate
+    U --> T["Multiple independently tested phenomena explained without a separate mechanism for each"]:::guard
+    classDef root fill:#d9e8ff,stroke:#2454a6,stroke-width:4px,color:#111;
+    classDef open fill:#fff1c7,stroke:#b07b00,stroke-width:2px,color:#111;
+    classDef ultimate fill:#d9f0ef,stroke:#287c78,stroke-width:3px,color:#111;
+    classDef guard fill:#fff3cd,stroke:#9a6b00,stroke-width:4px,color:#111;
+```
+
+### Navigation rule
+
+Read the repository tree in this order:
+
+**1 → 1.1 → 1.2 → 1.3 → 1.4 → 1.5 → 1.6 → 1.7 → 1.8 → 1.9 → 1.10 → 1.11 → 1.12 → 1.13 → 1.14.**
+
+Then use the existing detailed experiment/status sections below the diagrams for the branch-specific evidence, failures, audits, and PGAs.
+
+---
+
 ## 2. Quantum / Current Research Position
 
 **Current research coordinate: `1.12.1`**
