@@ -1,0 +1,87 @@
+meta:
+  graph_id: RSG-001
+  status: prototype
+  purpose: Stable graph identity and traversal layer over existing research numbering.
+
+scales:
+  L0: S∞ ↔ B∞ foundation
+  L1: Fundamental relational degrees of freedom
+  L2: Elementary excitations
+  L3: Fundamental particle candidates
+  L4: Particle interactions
+  L5: Composite structures
+  L6: Atoms and molecules
+  L7: Macroscopic matter
+  L8: Complex systems
+  L9: Spacetime, gravity and universe
+
+edge_codes:
+  P: parent / belongs to
+  D: depends on
+  T: tested by
+  R: produced result
+  S: supports
+  C: contradicts
+  I: implies / affects
+  X: cross-branch connection
+  U: upstream constraint
+  N: next research gate
+
+nodes:
+  - id: G-0001
+    address: 1.12.6.1-L
+    title: Wave Mode vs Persistent Organizational Identity
+    scale: L2
+    status: OPEN
+    question: Can an existing collective wave mode carry persistent organizational identity?
+    hypothesis: A coherent relational mode may preserve an organizational descriptor.
+    limitations:
+      - Persistent identity has not yet been demonstrated.
+      - Physical matter has not been established.
+    edges:
+      - {type: D, target: G-0002}
+      - {type: U, target: G-0003}
+      - {type: X, target: G-0004}
+      - {type: N, target: G-0005}
+
+  - id: G-0002
+    address: 1.12.6.1-K
+    title: Propagation of Persistent Relational Organization
+    scale: L2
+    status: OPEN
+    question: Can a persistent relational organization propagate while preserving its identity?
+    edges:
+      - {type: U, target: G-0003}
+      - {type: N, target: G-0001}
+
+  - id: G-0003
+    address: 1.8.4
+    title: Finite-Speed Relational Propagation
+    scale: L1
+    status: STRUCTURAL
+    result: Toy relational dynamics support finite-speed propagation and collective waves.
+
+  - id: G-0004
+    address: 1.12.2.8
+    title: Stable Regional Organization and Finite Causal Propagation
+    scale: L2
+    status: STRUCTURAL
+    result: A common coupling structure can support stable regional organization and finite causal propagation in the toy model.
+    limitations:
+      - This does not by itself establish spontaneous particle formation.
+
+  - id: G-0005
+    address: 1.12.6.1-M
+    title: Next Matter Research Gate
+    scale: L3
+    status: PLANNED
+    question: Next gate after the L wave/organization identity test.
+
+  - id: G-0100
+    address: 1.12.6
+    title: Matter / Particle Excitations
+    scale: L3
+    status: ACTIVE
+    question: Can stable localized configurations emerge from distributed relational activity?
+    edges:
+      - {type: X, target: G-0001}
