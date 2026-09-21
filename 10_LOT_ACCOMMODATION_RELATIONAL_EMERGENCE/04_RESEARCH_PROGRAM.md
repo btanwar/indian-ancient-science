@@ -29,7 +29,28 @@ Can entropy, equilibrium and irreversibility emerge from coarse-graining? **Stat
 Does the relational theory naturally contain conserved charge-like or gauge-like structures? No identification without derivation. **Status:** DEFERRED / OPEN.
 
 ## Branch 9 — B9: Matter / Particle Excitations
-Can stable localized relational excitations reproduce particle-like properties? **Status:** DEFERRED / OPEN.
+Can stable localized relational excitations reproduce particle-like properties? **Status:** ACTIVE RESEARCH / OPEN.**
+
+### Current matter-line hypothesis
+The active line has been refined through PGA 1.12.6.1-A–J:
+
+distributed relational activity → interaction/reconfiguration → compatible organization → effective unit → persistent relational identity → possible hierarchy → possible propagation.
+
+This does not identify the resulting organization with a physical particle. It establishes the research target and protection boundaries.
+
+### Completed conceptual PGA set
+- **1.12.6.1-A:** distributed relational activity defined without inserting a particle; physical energy calibration remains open.
+- **1.12.6.1-B:** relational coupling, nonlinearity, and configuration-dependent reconfiguration identified as candidate localization mechanisms; no external trap for the fundamental test.
+- **1.12.6.1-C:** social organization used as a structural analogy for distributed elements + constraints + interaction → organization.
+- **1.12.6.1-D:** compatibility provisionally interpreted as dynamical coherence under allowed transitions, preferably using existing K_ij and T rather than a new force.
+- **1.12.6.1-E:** hierarchy separated from localization; organization may form successive levels.
+- **1.12.6.1-F:** effective-unit criteria defined: coherence, relational boundary, collective response, persistence, identity/invariant, and effective higher-level dynamics.
+- **1.12.6.1-G:** recursive application of the same relational rule proposed as the test for emergent hierarchy.
+- **1.12.6.1-H:** higher-level effective properties identified as a test target; mass, charge, spin, etc. remain un-derived.
+- **1.12.6.1-I:** emergent identity proposed as persistence of relational structure through microscopic change.
+- **1.12.6.1-J:** self-recovery under perturbation proposed as the stronger persistence criterion.
+
+**Next:** PGA 1.12.6.1-K — Propagation of Persistent Relational Organization.
 
 ## Branch 10 — B10: Arrow of Time
 Is temporal ordering distinct from thermodynamic irreversibility, and can both emerge from the same substrate? **Status:** DEFERRED / OPEN.
