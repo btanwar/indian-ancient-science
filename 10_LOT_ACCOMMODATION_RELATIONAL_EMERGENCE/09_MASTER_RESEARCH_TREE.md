@@ -281,6 +281,7 @@ flowchart TD
     Q2 --> Q26["Coverage threshold / equivalence-class stability"]
     Q2 --> Q28["Integrated Relational Dynamics"]
     Q2 --> Q29["Relational Mode → Quantum-State Structure"]
+    Q2 --> Q210["1.12.2.10 EPR / Bell Correlation Test"]
     A --> Q3["1.12.3 QZE analogy"]
     A --> Q4["1.12.4 Compact / topological phase"]
     A --> Q5["1.12.5 Quantum ↔ geometry"]
@@ -1441,3 +1442,54 @@ The 1.12.2.7 label is deliberately kept as a historical continuation reference r
 The master tree now distinguishes existing numbered nodes, newly registered missing nodes, deferred unnumbered concepts, and closed mechanisms with explicit continuation references.
 
 **Next substantive research action:** PGA 1.12.6.1-K — Propagation of Persistent Relational Organization.
+
+
+## RT-011 — EPR / Bell / Chandas Relational Correlation Branch
+
+**Research-tree registration:** `1.12.2.10`  
+**Detailed record:** `10_LOT_ACCOMMODATION_RELATIONAL_EMERGENCE/11_EPR_BELL_CHANDAS/01_EPR_BELL_CHANDAS_CORRELATION_RESEARCH.md`
+
+### Purpose
+
+This branch records the EPR/Bell investigation developed from the hypothesis that A and B can remain operationally isolated while their observable outcomes are generated from a shared relational state rather than independent local predetermined instruction tables.
+
+### Registered experiments
+
+- **1.12.2.10.1 / EXP-BELL-01** — EPR / Bell baseline
+- **1.12.2.10.2 / EXP-BELL-02** — X–Z–Q Boolean configuration
+- **1.12.2.10.3 / EXP-BELL-03** — Piṅgala Prastāra ↔ Bell configuration
+- **1.12.2.10.4 / EXP-BELL-04** — Continuous local hidden-variable test
+- **1.12.2.10.5 / EXP-BELL-05** — Continuous relational-state target
+- **1.12.2.10.6 / EXP-CHANDAS-01** — Chandas → periodic / multimode representation
+- **1.12.2.10.7 / EXP-CHANDAS-02** — Harmonic mode → cosine correlation
+- **1.12.2.10.8 / EXP-BELL-06** — CHSH / Bell-inequality test
+- **1.12.2.10.9 / EXP-BELL-07** — No-signalling test
+- **1.12.2.10.10 / EXP-CHANDAS-03…08** — Chandas → relational Bell mechanism
+
+### Consolidated result
+
+The mathematical target
+
+`E(a,b) = -cos(a-b)`
+
+produces the CHSH value `2√2` for the standard test settings and is compatible with no-signalling when represented by
+
+`P(A,B|a,b) = 1/4 [1 - AB cos(a-b)]`.
+
+A continuous local hidden-variable threshold construction instead gives the piecewise-linear correlation `-1 + 2θ/π`, so continuity alone does not reproduce the quantum target.
+
+Relative phase of a common harmonic naturally produces cosine correlation. Chandas provides a candidate structured periodic/multimode input, but the raw metrical structure has not been shown to automatically produce a pure cosine. Most importantly, the binary joint-outcome rule has not yet been derived from Chandas or S∞ ↔ B∞; the target distribution remains a benchmark rather than a physical derivation.
+
+### Protection
+
+Piṅgala/Chandas ↔ Bell is recorded as a mathematical structural correspondence only. No claim is made that Piṅgala discovered Bell's theorem or quantum mechanics.
+
+### Next gate
+
+**PGA 1.12.2.10.11 — Relational Binary Outcome Derivation Test**
+
+Derive the binary outcomes from the relational/metrical state without inserting a local predetermined instruction table or the target quantum distribution by hand. Acceptance requires operational A/B isolation, `E=-cosθ`, no-signalling, and CHSH violation.
+
+**Status:** 🟡 OPEN / DECISIVE.
+
+See the detailed research record for the complete experiment register, protections, negative results, and next test.
