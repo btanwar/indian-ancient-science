@@ -1493,3 +1493,36 @@ Derive the binary outcomes from the relational/metrical state without inserting 
 **Status:** 🟡 OPEN / DECISIVE.
 
 See the detailed research record for the complete experiment register, protections, negative results, and next test.
+
+## RT-012 — Cube / Yamātārājabhānasalagam / Relational Projection Checkpoint
+
+**Research-tree registration:** `1.12.2.10.11` and continuation record under `11_EPR_BELL_CHANDAS/02_CUBE_YAMATARAjABHANASALAGAM_RELATIONAL_PROJECTION.md`.
+
+### Consolidated result
+
+The X–Z–Q three-variable configuration space has exactly \(2^3=8\) states and can be represented geometrically as the eight vertices of a Boolean cube. A predetermined vertex assignment remains a classical hidden-variable structure and therefore does not evade Bell.
+
+The Yamātārājabhānasalagam ordering was then treated as an ordering/traversal of the eight configurations. The tested deterministic projection remained within the Bell bound (\(|S|=2\)); therefore ordering alone does not generate Bell violation.
+
+The next structural step treated the ordered configuration space as supporting a periodic relational mode. A discrete Fourier mode on the eight-state cycle supplies a phase representation, and relative phase naturally generates cosine correlation. When a relational mode is projected onto binary measurement components with the standard quadratic norm/probability rule, the familiar \(E(a,b)=-\cos(a-b)\) and CHSH \(|S|=2\sqrt2\) follow, with the standard target distribution remaining no-signalling.
+
+### Main insight
+
+> **Binary observed outcomes need not imply a binary underlying state. A relational state can carry continuous mode/phase structure while measurement produces discrete binary outcomes through projection.**
+
+This is a promising structural mechanism capable of reproducing selected quantum phenomena, but it is not yet a derivation of quantum mechanics from S∞ ↔ B∞. The unresolved assumptions are the physical origin of phase geometry, orthogonality, the quadratic norm/Born rule, and the binary joint-outcome mechanism.
+
+### Parked future direction
+
+Color and charge were identified as possible physical anchors for two currently abstract structures:
+
+- three-component internal structure ↔ possible clue for the three-variable architecture;
+- charge/conservation/sector structure ↔ possible clue for compatibility or orthogonality.
+
+These are explicitly parked and are **not** identified with the cube or orthogonality at this stage.
+
+### Branch status
+
+**🟡 PARKED — LOGICAL CHECKPOINT REACHED.**
+
+The branch is not closed as a failure. It has identified a concrete relational-state → projection architecture and a precise list of unresolved assumptions. Further work should resume only when a new branch or the parked Color + Charge direction is deliberately selected.
