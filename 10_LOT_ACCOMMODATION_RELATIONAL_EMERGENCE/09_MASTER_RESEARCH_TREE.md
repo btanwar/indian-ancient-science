@@ -1639,3 +1639,14 @@ Integrated chain: Prastāra → Meru quadratic projection → continuous state g
 **Status:** 🟡 substantial structural route; full first-principles QM not yet proven.
 
 **Next:** `1.12.2.10.17` — arbitrary-dimensional and composite-system derivation from multinomial Meru structure.
+
+
+## RT-018 — PGA 1.12.2.10.17: General-dimensional and composite-system test
+
+Meru multinomial grouping was extended to arbitrary-dimensional candidate complex amplitudes and composite relational configurations. The construction naturally gives 2d real quadratic coordinates for d complex amplitudes and d_A d_B joint configuration dimension for two subsystems. Global phase becomes an equivalence under quadratic probabilities. Tensor-product dimension is combinatorially motivated. However, uniqueness of complex Hilbert-space structure, orthogonality, completeness, and the full operator algebra is not yet derived.
+
+**Status:** 🟡 consistent generalization; uniqueness open.
+
+**Record:** `11_EPR_BELL_CHANDAS/07_GENERAL_DIMENSION_COMPOSITION_TEST.md`.
+
+**Next gate:** derive the relational composition law capable of forcing orthogonality, completeness, tensor products, noncommutativity, and no-signalling together.
