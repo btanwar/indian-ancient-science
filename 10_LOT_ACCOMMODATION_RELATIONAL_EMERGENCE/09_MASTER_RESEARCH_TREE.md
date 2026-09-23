@@ -1700,3 +1700,16 @@ The strongest surviving route is therefore structural rather than numerical: Mer
 **Record:** 11_EPR_BELL_CHANDAS/11_MERU_YANTRA_GEOMETRIC_SCALE_PHASE_TEST.md.
 
 **Next:** 1.12.2.10.22 — Meru cycle invariant test.
+
+
+## RT-023 — PGA 1.12.2.10.22: Meru cycle invariant test
+
+The five centre-outward Meru groups (1, 8, 10, 10, 14) and cumulative counts (1, 9, 19, 29, 43) were tested as a possible source of a dimensionless phase cycle. Overall scaling leaves normalized ratios invariant, so Meru can supply a scale-independent relational coordinate. However, the radial groups alone do not uniquely define a periodic cycle or derive 2π. The earlier quadratic Meru construction already supplies unit-circle phase geometry; the Yantra geometry can therefore serve as a candidate normalized coordinate driving that phase, but the closed cycle must come from S∞↔B∞ dynamics.
+
+No numerological mapping of 96, 4:9:11:48, or the triangle counts to ħ is accepted.
+
+**Status:** 🟢 scale-independent relational coordinate / 🟡 dynamical cycle and phase mapping open / 🔴 ħ not derived.
+
+**Record:** 11_EPR_BELL_CHANDAS/12_MERU_CYCLE_INVARIANT_TEST.md.
+
+**Next:** 1.12.2.10.23 — derive the energy/frequency of the closed S∞↔B∞ relational cycle without inserting ħ.
