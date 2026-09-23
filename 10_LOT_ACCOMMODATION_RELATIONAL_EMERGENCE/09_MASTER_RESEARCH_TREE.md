@@ -1746,3 +1746,14 @@ The accommodation/capacity concept can motivate effective relational inertia/res
 **Record:** 11_EPR_BELL_CHANDAS/15_S_INFINITY_B_INFINITY_ACCOMMODATION_ENERGY_SCALE_TEST.md.
 
 **Next:** 1.12.2.10.26 — test whether universal action-per-cycle follows from relational closure/topological winding using the established unit-circle/quadratic phase structure without inserting ħ.
+
+
+## RT-027 — PGA 1.12.2.10.26: relational winding/action invariant test
+
+Closed unit-circle phase trajectories have integer winding n and phase circulation Θ=2πn. This is a genuine topological invariant under continuous deformation within the phase space. It provides a non-arbitrary origin for integer full-turn phase circulation once the circular phase structure is established. However, winding is dimensionless and therefore cannot by itself generate the dimensional action scale κ. The physical Spirograph curve must also not be confused with the winding of the derived unit-circle phase.
+
+**Status:** 🟢 topological phase quantization / 🔴 universal dimensional κ not derived.
+
+**Record:** 11_EPR_BELL_CHANDAS/16_RELATIONAL_WINDING_ACTION_INVARIANT_TEST.md.
+
+**Next:** 1.12.2.10.27 — test whether an S∞↔B∞ accommodation/capacity invariant can supply an action density per topological winding and force a universal κ across closed cycles.
