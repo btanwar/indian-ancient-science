@@ -1661,3 +1661,14 @@ A single composition principle was tested: exclusive relational channels add qua
 **Record:** `11_EPR_BELL_CHANDAS/08_RELATIONAL_COMPOSITION_LAW_QUANTUM_ALGEBRA_TEST.md`.
 
 **Next:** `1.12.2.10.19` — derive quantum commutator and ħ from relational phase/coverage dynamics.
+
+
+## RT-020 — PGA 1.12.2.10.19: Commutator and ħ from relational phase/coverage
+
+The derived Meru phase was treated as a coordinate of ordered relational coverage. Translation generators give a conditional canonical commutator `[x,p]=iκ`, where κ has dimensions of action. The same κ appears in the continuous evolution equation `iκ∂ψ/∂τ=Hψ`. Thus one action-scale constant can unify the commutator and Schrödinger dynamics.
+
+**Status:** 🟢 commutator structure conditional on relational translation / 🟡 physical canonical structure and universal action scale open / 🔴 numerical ħ not derived.
+
+**Record:** `11_EPR_BELL_CHANDAS/09_COMMUTATOR_HBAR_RELATIONAL_PHASE_DERIVATION.md`.
+
+**Next:** derive invariant action from S∞↔B∞ dynamics without inserting ħ.
