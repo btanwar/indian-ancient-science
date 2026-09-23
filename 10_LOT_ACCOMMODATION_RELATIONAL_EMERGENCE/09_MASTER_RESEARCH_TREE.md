@@ -1735,3 +1735,14 @@ The closed two-mode trajectory admits a time-translation-invariant quadratic dyn
 **Record:** 11_EPR_BELL_CHANDAS/14_TWO_MODE_RELATIONAL_ENERGY_FUNCTIONAL_TEST.md.
 
 **Next:** 1.12.2.10.25 — derive the relational energy scale from S∞↔B∞ accommodation/capacity dynamics and test whether a universal phase-to-action constant emerges without inserting ħ.
+
+
+## RT-026 — PGA 1.12.2.10.25: S∞↔B∞ accommodation energy-scale test
+
+The accommodation/capacity concept can motivate effective relational inertia/restoring coefficients and hence a conserved quadratic energy for the closed two-mode cycle. For a harmonic mode, the cycle action is well-defined, but the resulting candidate phase-to-action scale is generally mode-dependent. No universal action scale, numerical ħ, or E=ħω follows automatically. The hard bottleneck is now isolated: why should the action per fundamental relational phase cycle be invariant?
+
+**Status:** 🟢 effective energy structure / 🟢 cycle action / 🔴 universal action scale not derived.
+
+**Record:** 11_EPR_BELL_CHANDAS/15_S_INFINITY_B_INFINITY_ACCOMMODATION_ENERGY_SCALE_TEST.md.
+
+**Next:** 1.12.2.10.26 — test whether universal action-per-cycle follows from relational closure/topological winding using the established unit-circle/quadratic phase structure without inserting ħ.
