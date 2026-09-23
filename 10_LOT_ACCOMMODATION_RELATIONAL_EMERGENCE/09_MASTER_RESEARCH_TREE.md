@@ -1672,3 +1672,18 @@ The derived Meru phase was treated as a coordinate of ordered relational coverag
 **Record:** `11_EPR_BELL_CHANDAS/09_COMMUTATOR_HBAR_RELATIONAL_PHASE_DERIVATION.md`.
 
 **Next:** derive invariant action from S∞↔B∞ dynamics without inserting ħ.
+
+
+## RT-021 — PGA 1.12.2.10.20: Invariant action from S∞↔B∞ dynamics
+
+An invariant relational phase functional was constructed without inserting ħ. The closed relational phase is Θ[Γ]=∮Γ A_I dq^I, with reparameterization-invariant action form S=κΘ.
+
+This yields canonical momentum p_I=κ ∂_IΘ, conditional commutator [q^I,p_J]=iκδ^I_J, and Schrödinger-type evolution iκ∂ψ/∂τ=Hψ. The same dimensional conversion constant therefore links relational phase, action, momentum, and quantum evolution.
+
+**Status:** 🟢 invariant-action form survives / 🟡 physical canonical structure and independent dimensional scale remain open / 🔴 numerical ħ not derived.
+
+**Key result:** the unresolved problem is now specifically the derivation of an absolute action scale from S∞↔B∞ dynamics, rather than the form of the quantum action.
+
+**Record:** 11_EPR_BELL_CHANDAS/10_INVARIANT_ACTION_HBAR_RELATIONAL_DERIVATION.md.
+
+**Next gate:** derive a physical dimensional action scale from an independently derived S∞↔B∞ invariant, without naming it ħ in advance.
