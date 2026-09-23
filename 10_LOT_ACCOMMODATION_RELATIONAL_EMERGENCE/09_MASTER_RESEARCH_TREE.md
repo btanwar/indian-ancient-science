@@ -1724,3 +1724,14 @@ A two-mode relational trajectory Z(t)=A exp(iω_S t)+B exp(iω_B t) was tested. 
 **Record:** 11_EPR_BELL_CHANDAS/13_S_INFINITY_B_INFINITY_SPIROGRAPH_CLOSED_MODE_CYCLE_TEST.md.
 
 **Next:** 1.12.2.10.24 — derive the energy functional of the two-mode S∞↔B∞ system without inserting E=ħω or a pre-existing quantum action scale.
+
+
+## RT-025 — PGA 1.12.2.10.24: two-mode relational energy functional test
+
+The closed two-mode trajectory admits a time-translation-invariant quadratic dynamical description. This gives a structurally conserved energy functional and, in the weakly coupled limit, separable mode contributions. A relational cross-term can encode correlation through relative phase. However, closure remains dimensionless and cannot by itself supply an energy unit. The coefficients of the energy functional are not yet derived from S∞↔B∞ accommodation/capacity, and E=ħω is explicitly not inserted or derived.
+
+**Status:** 🟢 conserved-energy structure / 🟢 relational coupling structure / 🔴 absolute energy scale and ħ remain open.
+
+**Record:** 11_EPR_BELL_CHANDAS/14_TWO_MODE_RELATIONAL_ENERGY_FUNCTIONAL_TEST.md.
+
+**Next:** 1.12.2.10.25 — derive the relational energy scale from S∞↔B∞ accommodation/capacity dynamics and test whether a universal phase-to-action constant emerges without inserting ħ.
