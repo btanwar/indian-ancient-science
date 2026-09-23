@@ -1585,3 +1585,18 @@ The earlier local 3-gaṇa-mode projection produced `E=-(1/3)cos(theta)` and sta
 ### Next gate
 
 **PGA 1.12.2.10.13 — Parameter-free Meru/S∞↔B∞ derivation:** derive the two-dimensional state, half-angle parameterization, outcome selection, and nonseparable A/B relational state without importing quantum projection rules.
+
+
+## RT-014 — PGA 1.12.2.10.13: Parameter-free Meru quadratic map
+
+**Status:** 🟢 mathematical structure survives / 🟡 physical derivation open.
+
+The previous Bell-route construction explicitly introduced a=cos(theta/2), b=sin(theta/2). The new test removes that as a starting assumption.
+
+From normalized a²+b²=1, Meru gives a², 2ab, b². Define X=a²-b² and Y=2ab. Then X²+Y²=1 identically. Hence the normalized Meru projection itself defines a unit-circle pair, with an angle subsequently defined by cos(theta)=X and sin(theta)=Y.
+
+For two such projected states, Euclidean overlap gives cos(theta-theta'). This is a stronger mathematical result than the previous half-angle-assumed route.
+
+**Protection:** this still does not derive the physical outcome rule, nonseparable A/B state, or Bell violation from S∞ ↔ B∞.
+
+**Next:** 1.12.2.10.14 — Meru-derived two-sided relational state test.
