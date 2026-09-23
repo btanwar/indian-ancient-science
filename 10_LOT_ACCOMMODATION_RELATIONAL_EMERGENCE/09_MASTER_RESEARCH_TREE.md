@@ -1600,3 +1600,26 @@ For two such projected states, Euclidean overlap gives cos(theta-theta'). This i
 **Protection:** this still does not derive the physical outcome rule, nonseparable A/B state, or Bell violation from S∞ ↔ B∞.
 
 **Next:** 1.12.2.10.14 — Meru-derived two-sided relational state test.
+## RT-015 — PGA 1.12.2.10.14: Attempted Full Quantum Mechanics Derivation
+
+**Status:** 🟡 Partial derivation; full derivation not established.
+
+The Meru route was extended from quadratic projection toward the complete quantum-mechanical framework:
+
+Prastāra → Meru multiplicity → quadratic projection → unit circle → complex phase → quadratic norm → Born-type weights → superposition/interference → norm-preserving transformations → unitary evolution → Schrödinger form → projectors/observables → tensor composition → entanglement/Bell.
+
+The strongest newly supported point is that the two-dimensional complex-phase structure can be motivated by the Meru quadratic map rather than simply postulated.
+
+The remaining fundamental gates are:
+- derive orthogonality/projector algebra;
+- derive physical probability interpretation;
+- derive tensor-product composition;
+- derive noncommutativity;
+- derive the Hamiltonian and physical time parameter;
+- derive position/momentum structure;
+- derive the entangled two-sided state from S∞ ↔ B∞;
+- ultimately extend to relativistic quantum field theory if “full quantum mechanics” is to include QFT.
+
+**Protection:** Schrödinger equation, Born rule, Hilbert space, tensor products, and Bell violation must not be labelled fully derived until their underlying physical assumptions are independently obtained from S∞ ↔ B∞.
+
+**Record:** `11_EPR_BELL_CHANDAS/04_FULL_QUANTUM_MECHANICS_DERIVATION.md`.
