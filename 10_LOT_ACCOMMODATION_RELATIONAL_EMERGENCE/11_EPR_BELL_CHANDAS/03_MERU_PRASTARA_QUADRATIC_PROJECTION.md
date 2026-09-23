@@ -55,3 +55,35 @@ The earlier local 3-gaṇa-mode projection produced `E=-(1/3)cos(theta)` and sta
 ### Next gate
 
 **PGA 1.12.2.10.13 — Parameter-free Meru/S∞↔B∞ derivation:** derive the two-dimensional state, half-angle parameterization, outcome selection, and nonseparable A/B relational state without importing quantum projection rules.
+## PGA 1.12.2.10.13 — Parameter-free Meru quadratic map
+
+### Test question
+Can the quadratic/circular structure be obtained from Meru/Prastāra without explicitly assuming the half-angle parameterization a=cos(theta/2), b=sin(theta/2)?
+
+### Derivation
+Start with normalized two-component amplitudes: a²+b²=1.
+Meru supplies the quadratic components: a², 2ab, b².
+Define the projected pair directly from the Meru classes:
+X=a²-b²,   Y=2ab.
+Then:
+X²+Y²=(a²-b²)²+(2ab)²=(a²+b²)²=1.
+Therefore the Meru projection itself places the normalized state on a unit circle. An angle theta can then be defined from the projected coordinates by cos(theta)=X and sin(theta)=Y; the half-angle parameterization is consequently a coordinate representation of the result, not an initial assumption.
+For two projected states u=(X,Y) and v=(X',Y'), their Euclidean overlap is XX'+YY'=cos(theta-theta').
+
+### What this improves
+This removes one previously explicit assumption: the half-angle form need not be postulated first. The quadratic Meru map generates the unit-circle coordinates directly.
+
+### What remains open
+1. Why the Meru outer classes are the physical binary outcomes.
+2. Why the middle class acts as the relational cross/interference component physically.
+3. Why the relevant A/B joint state is nonseparable while A and B remain operationally isolated.
+4. Why the A/B correlation uses the Euclidean overlap (and the anti-correlated sign) rather than another relational bilinear form.
+5. Whether these structures follow from S∞ ↔ B∞ rather than being selected as mathematical constructions.
+
+### Verdict
+🟢 MATHEMATICAL STRUCTURE SURVIVES / 🟡 PHYSICAL DERIVATION OPEN.
+The half-angle parameterization is no longer a necessary starting assumption. The stronger statement is: normalized Meru quadratic projection naturally defines a unit-circle pair (a²-b²,2ab).
+This is a genuine advance over PGA 1.12.2.10.12, but it does not by itself establish Bell violation.
+
+### Next gate
+PGA 1.12.2.10.14 — Meru-derived two-sided relational state test: determine whether paired Meru structures can generate the anti-correlated joint bilinear relation without inserting the quantum singlet correlation by hand.
