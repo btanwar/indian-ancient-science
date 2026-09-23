@@ -1757,3 +1757,14 @@ Closed unit-circle phase trajectories have integer winding n and phase circulati
 **Record:** 11_EPR_BELL_CHANDAS/16_RELATIONAL_WINDING_ACTION_INVARIANT_TEST.md.
 
 **Next:** 1.12.2.10.27 — test whether an S∞↔B∞ accommodation/capacity invariant can supply an action density per topological winding and force a universal κ across closed cycles.
+
+
+## RT-028 — PGA 1.12.2.10.27: accommodation action-per-winding test
+
+The action-per-winding quantity κ_cycle=S_rel/(2πn) can be defined, but comparing closed cycles shows that topology does not force equal action for equal winding. The existing accommodation/energy model permits cycle action to depend on amplitudes, frequencies, and dynamical coefficients. A universal capacity quantum could generate a universal κ only if introduced as an additional physical postulate. Therefore the true ħ bottleneck is now isolated: the foundational S∞↔B∞ model must contain or derive a dimensional invariant with action units.
+
+**Status:** 🟢 winding/action quantity definable / 🔴 universal action-per-winding not derived.
+
+**Record:** 11_EPR_BELL_CHANDAS/17_ACCOMMODATION_ACTION_PER_WINDING_TEST.md.
+
+**Next:** 1.12.2.10.28 — foundational dimensional audit: enumerate permitted/derived dimensional quantities and test for an action-dimensional invariant without ħ or quantum input.
