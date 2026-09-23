@@ -1713,3 +1713,14 @@ No numerological mapping of 96, 4:9:11:48, or the triangle counts to ħ is accep
 **Record:** 11_EPR_BELL_CHANDAS/12_MERU_CYCLE_INVARIANT_TEST.md.
 
 **Next:** 1.12.2.10.23 — derive the energy/frequency of the closed S∞↔B∞ relational cycle without inserting ħ.
+
+
+## RT-024 — PGA 1.12.2.10.23: S∞↔B∞ Spirograph closed-mode cycle test
+
+A two-mode relational trajectory Z(t)=A exp(iω_S t)+B exp(iω_B t) was tested. When ω_S/ω_B=p/q is rational, the combined trajectory has a finite common period and closes exactly; for an irrational ratio, no finite exact closure occurs. This supplies a mathematically defined reproducible relational cycle while keeping the two modes distinct. The result does not by itself establish a physical S∞↔B∞ interaction or derive E=ħω. A cycle action S_cycle=∫E dt is definable, and κ=S_cycle/Θ_cycle remains the candidate phase-to-action scale.
+
+**Status:** 🟢 closure criterion / 🟢 separate-but-correlated two-mode structure / 🔴 energy functional and ħ remain open.
+
+**Record:** 11_EPR_BELL_CHANDAS/13_S_INFINITY_B_INFINITY_SPIROGRAPH_CLOSED_MODE_CYCLE_TEST.md.
+
+**Next:** 1.12.2.10.24 — derive the energy functional of the two-mode S∞↔B∞ system without inserting E=ħω or a pre-existing quantum action scale.
