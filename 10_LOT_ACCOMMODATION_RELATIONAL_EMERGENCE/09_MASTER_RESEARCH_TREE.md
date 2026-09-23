@@ -1623,3 +1623,19 @@ The remaining fundamental gates are:
 **Protection:** Schrödinger equation, Born rule, Hilbert space, tensor products, and Bell violation must not be labelled fully derived until their underlying physical assumptions are independently obtained from S∞ ↔ B∞.
 
 **Record:** `11_EPR_BELL_CHANDAS/04_FULL_QUANTUM_MECHANICS_DERIVATION.md`.
+
+## RT-016 — PGA 1.12.2.10.15: Quantum state space and measurement from Meru
+
+The same quadratic projection was extended beyond Bell to state construction and measurement. The strongest result is a direct two-level route from normalized Meru quadratic data to a unit circle, complex phase representation, quadratic outcome weights, binary probabilities, interference, and conditional measurement projection. General-dimensional Hilbert structure remains conditional on extension/uniqueness tests.
+
+**Record:** `11_EPR_BELL_CHANDAS/05_QUADRATIC_STATE_SPACE_BORN_MEASUREMENT_DERIVATION.md`.
+
+## RT-017 — PGA 1.12.2.10.16: Integrated full quantum-mechanics derivation attempt
+
+Integrated chain: Prastāra → Meru quadratic projection → continuous state geometry → complex phase → normalized amplitudes → quadratic probability → measurement/update → observables → norm-preserving dynamics → unitary evolution → Schrödinger form → composite relational states → entanglement → existing Bell-violation benchmark.
+
+**Important:** the Bell violation is treated as an already-passed benchmark, not reopened.
+
+**Status:** 🟡 substantial structural route; full first-principles QM not yet proven.
+
+**Next:** `1.12.2.10.17` — arbitrary-dimensional and composite-system derivation from multinomial Meru structure.
