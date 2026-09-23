@@ -1687,3 +1687,16 @@ This yields canonical momentum p_I=κ ∂_IΘ, conditional commutator [q^I,p_J]=
 **Record:** 11_EPR_BELL_CHANDAS/10_INVARIANT_ACTION_HBAR_RELATIONAL_DERIVATION.md.
 
 **Next gate:** derive a physical dimensional action scale from an independently derived S∞↔B∞ invariant, without naming it ħ in advance.
+
+
+## RT-022 — PGA 1.12.2.10.21: Meru Yantra geometric scale / phase test
+
+The Sri Yantra / Sri Meru geometry was examined as a separate route from the earlier Meru Prastāra quadratic construction. The geometry provides a constrained nine-triangle system, 43 subsidiary triangles arranged 1, 8, 10, 10, 14 from centre outward, documented dimensionless ratios, and a source-reported traditional 96-unit construction datum with 4:9:11:48 proportions. These are useful geometric structures, but no justified mapping from those numbers to physical phase or ħ was found.
+
+The strongest surviving route is therefore structural rather than numerical: Meru may supply an invariant phase/cycle architecture, while S∞↔B∞ dynamics would need to supply the physical energy/frequency of that cycle. Candidate action scale: κ = E_cycle/ω_cycle = S_cycle/(2π) = pλ/(2π), without inserting ħ.
+
+**Status:** 🟢 geometric structure / 🟡 phase-cycle interpretation open / 🔴 numerical ħ not derived.
+
+**Record:** 11_EPR_BELL_CHANDAS/11_MERU_YANTRA_GEOMETRIC_SCALE_PHASE_TEST.md.
+
+**Next:** 1.12.2.10.22 — Meru cycle invariant test.
