@@ -1779,3 +1779,14 @@ The proposed route was followed directly. A fundamental closed relational cycle 
 **Record:** 11_EPR_BELL_CHANDAS/18_FUNDAMENTAL_RELATIONAL_CYCLE_ACTION_TEST.md.
 
 **Next:** 1.12.2.10.29 — derive or falsify E_cycle T_cycle = universal constant directly from foundational S∞↔B∞ accommodation/capacity equations.
+
+
+## RT-030 — PGA 1.12.2.10.29: universal relational cycle action derivation test
+
+The proposed ET route was stress-tested. For the harmonic relational model E=M_rel A²ω², the ratio E/ω=M_rel A²ω changes under amplitude scaling, so the simple quadratic model does not force a universal action-per-cycle. This is a useful negative result. A universal κ can survive only if the foundational S∞↔B∞ accommodation law imposes an invariant relating capacity, amplitude and frequency. The route is now directly falsifiable: two admissible fundamental one-winding cycles must have equal ET for universality.
+
+**Status:** 🟢 ET/(2π) route / 🔴 simple harmonic universality falsified / 🟡 foundational invariant open.
+
+**Record:** 11_EPR_BELL_CHANDAS/19_UNIVERSAL_CYCLE_ACTION_DERIVATION_TEST.md.
+
+**Next:** 1.12.2.10.30 — derive energy, frequency and cycle period from the same primitive S∞↔B∞ accommodation/capacity variables and test whether ET cancels to an invariant.
