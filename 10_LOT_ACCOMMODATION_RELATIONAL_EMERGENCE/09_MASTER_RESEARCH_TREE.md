@@ -1768,3 +1768,14 @@ The action-per-winding quantity κ_cycle=S_rel/(2πn) can be defined, but compar
 **Record:** 11_EPR_BELL_CHANDAS/17_ACCOMMODATION_ACTION_PER_WINDING_TEST.md.
 
 **Next:** 1.12.2.10.28 — foundational dimensional audit: enumerate permitted/derived dimensional quantities and test for an action-dimensional invariant without ħ or quantum input.
+
+
+## RT-029 — PGA 1.12.2.10.28: fundamental relational cycle action test
+
+The proposed route was followed directly. A fundamental closed relational cycle with Δθ=2π, frequency f, period T=1/f, and conserved energy E has S_cycle=ET and κ_cycle=S_cycle/(2π)=E/ω. For the existing harmonic relational energy model, E=M_rel A²ω², giving κ_cycle=M_rel A²ω. Thus the route reduces the ħ problem to a concrete invariant: whether S∞↔B∞ accommodation/capacity forces E_cycle/ω_cycle, equivalently E_cycle T_cycle/(2π), to be universal. No ħ or E=ħω was inserted.
+
+**Status:** 🟢 cycle→phase→energy×time route / 🟢 exact κ target isolated / 🟡 universal E/ω remains open.
+
+**Record:** 11_EPR_BELL_CHANDAS/18_FUNDAMENTAL_RELATIONAL_CYCLE_ACTION_TEST.md.
+
+**Next:** 1.12.2.10.29 — derive or falsify E_cycle T_cycle = universal constant directly from foundational S∞↔B∞ accommodation/capacity equations.
