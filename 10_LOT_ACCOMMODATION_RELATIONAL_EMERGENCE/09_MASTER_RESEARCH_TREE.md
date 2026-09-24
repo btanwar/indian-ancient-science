@@ -1801,3 +1801,14 @@ The Bose/Yamātārājabhānasalagam connection was formalized as a new test. The
 **Record:** 11_EPR_BELL_CHANDAS/20_RELATIONAL_GANA_PHOTON_STATE_COUNTING_TEST.md.
 
 **Next:** 1.12.2.10.31 — unified minimal model: same relational primitive → state multiplicity + mode frequency + cycle period + cycle energy; test whether ET is invariant.
+
+
+## RT-032 — PGA 1.12.2.10.31: unified relational state–cycle model
+
+A single abstract relational primitive was tested as the source of configuration multiplicity, frequency, period, and energy. The architecture is coherent: relational primitive → admissible modes/occupation multiplicity → periodic dynamics → E,T → ET. However, generic periodic dynamics and combinatorial counting do not force ET to be universal. The missing ingredient is the actual constitutive S∞↔B∞ accommodation/capacity law that fixes the dynamical coefficients. No ħ or E=ħω was inserted.
+
+**Status:** 🟢 unified architecture / 🔴 universal ET not derived / 🟡 foundational constitutive law required.
+
+**Record:** 11_EPR_BELL_CHANDAS/21_UNIFIED_RELATIONAL_STATE_CYCLE_MODEL.md.
+
+**Next:** 1.12.2.10.32 — derive M(C), V(C), or an equivalent invariant directly from the foundational S∞↔B∞ accommodation/capacity definitions; avoid introducing generic oscillator parameters unless expressed in those primitives.
