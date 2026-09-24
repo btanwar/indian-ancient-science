@@ -1790,3 +1790,14 @@ The proposed ET route was stress-tested. For the harmonic relational model E=M_r
 **Record:** 11_EPR_BELL_CHANDAS/19_UNIVERSAL_CYCLE_ACTION_DERIVATION_TEST.md.
 
 **Next:** 1.12.2.10.30 — derive energy, frequency and cycle period from the same primitive S∞↔B∞ accommodation/capacity variables and test whether ET cancels to an invariant.
+
+
+## RT-031 — PGA 1.12.2.10.30: relational Gaṇa → photon-state counting test
+
+The Bose/Yamātārājabhānasalagam connection was formalized as a new test. The common mathematical structure is state/configuration enumeration followed by counting, but no historical or physical identification is claimed. Bosonic occupation multiplicity can be represented combinatorially, while the existing 8-state Chandas structure supplies a finite configuration basis. Counting is dimensionless and therefore cannot itself generate h or ħ. The decisive possibility is whether the same S∞↔B∞ primitive determines both state/mode multiplicity and the physical E,T of a fundamental state, yielding an invariant ET.
+
+**Status:** 🟢 combinatorial bridge / 🟡 unified physical primitive open / 🔴 h, ħ not derived.
+
+**Record:** 11_EPR_BELL_CHANDAS/20_RELATIONAL_GANA_PHOTON_STATE_COUNTING_TEST.md.
+
+**Next:** 1.12.2.10.31 — unified minimal model: same relational primitive → state multiplicity + mode frequency + cycle period + cycle energy; test whether ET is invariant.
