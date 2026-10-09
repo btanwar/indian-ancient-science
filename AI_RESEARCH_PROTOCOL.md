@@ -8,10 +8,10 @@ Apply this protocol to requests involving the repository, including research, wr
 
 ## Repository phases
 
-1. `Analogies/` records source analogies and separates metaphor from testable content.
-2. `Line-Of-Thoughts/` defines research directions and their goals.
-3. `Requirements/` defines falsifiable gates and pass/fail conditions before deep research.
-4. `Research/` contains versioned runbooks, experiments, and results.
+1. `ANALOGIES.md` is the canonical inventory; source entries are preserved in `archive/Analogies/`.
+2. `LINES_OF_THOUGHT.md` is the canonical index; full entries are preserved in `archive/Line-Of-Thoughts/`.
+3. Requirements are preserved in `archive/Requirements/` and remain linked to their historical branches.
+4. `experiments/` and `results/` are the canonical test and outcome areas; runbooks are preserved in `archive/Research/`.
 5. `templates/` contains reusable document templates.
 6. `assets/analogies/` contains small local explanatory schematics used by analogy documents.
 
@@ -97,8 +97,9 @@ State what is being inspected, what local hypothesis is being tested, what was c
 ## Canonical references
 
 - [Project README](README.md)
-- [Analogies](Analogies/README.md)
-- [Line of Thoughts](Line-Of-Thoughts/README.md)
-- [Requirements](Requirements/README.md)
-- [Research](Research/README.md)
+- [Analogies](ANALOGIES.md)
+- [Lines of Thought](LINES_OF_THOUGHT.md)
+- [Requirements](archive/Requirements/README.md)
+- [Experiments](experiments/README.md)
+- [Results](results/README.md)
 - [Templates](templates/)

@@ -10,7 +10,7 @@ conceptual only)
 **Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("3 gunas/
 chakras/bandhas/anubandhas").
 
-<img src="../assets/analogies/A016_gunas_chakras_bandhas.svg" alt="Conceptual multi-channel diagram showing three state components, channels, and constraints" width="300" />
+<img src="../../assets/analogies/A016_gunas_chakras_bandhas.svg" alt="Conceptual multi-channel diagram showing three state components, channels, and constraints" width="300" />
 
 *Conceptual schematic: the terms provide historical state and constraint vocabulary, not a quantitative model.*
 

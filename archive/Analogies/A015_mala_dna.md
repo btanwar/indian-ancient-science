@@ -8,7 +8,7 @@ structure, as a shared image of ordered repeated elements encoding memory/patter
 
 **Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Mala/DNA").
 
-<img src="../assets/analogies/A015_mala_dna.svg" alt="Conceptual Mala and DNA diagram showing repeated ordered elements and sequence memory" width="300" />
+<img src="../../assets/analogies/A015_mala_dna.svg" alt="Conceptual Mala and DNA diagram showing repeated ordered elements and sequence memory" width="300" />
 
 *Conceptual schematic: the shared property is sequence and repetition; no biological equivalence is claimed.*
 

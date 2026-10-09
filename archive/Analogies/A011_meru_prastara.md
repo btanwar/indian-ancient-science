@@ -11,7 +11,7 @@ compression mechanism from microscopic histories to coarse classes.
 Prastara / Pascal row"); `shared/test/PGA-IIVM-6.md` ("Meru Prastara compression ↔ expansion"),
 `shared/test/IIVM-7.md` ("Dynamic Meru Compression"); \(research/REPRODUCTION_{QUEUE}.md\) (R005, R006).
 
-<img src="../assets/analogies/A011_meru_prastara.svg" alt="Conceptual Meru Prastara diagram showing binary histories grouped into weight classes" width="300" />
+<img src="../../assets/analogies/A011_meru_prastara.svg" alt="Conceptual Meru Prastara diagram showing binary histories grouped into weight classes" width="300" />
 
 *Conceptual schematic: the row illustrates the exact 2^n to n+1 grouping used in the mathematical analogy.*
 

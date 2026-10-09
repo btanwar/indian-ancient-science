@@ -15,7 +15,7 @@ mythology-chat archive reconstruction
 \(research/S_{INFINITY}_B_INFINITY/experiments/E002_ordered_coverage_effective_time.md\),
 \(research/MATHEMATICAL_{MODELS}.md\), \(research/IDEA_{EVOLUTION}.md\), \(research/ANALOGY_{MAP}.md\).
 
-<img src="../assets/analogies/A018_s_infinity_b_infinity.svg" alt="Conceptual S-infinity and B-infinity diagram showing a local manifestation within a larger relational background" width="300" />
+<img src="../../assets/analogies/A018_s_infinity_b_infinity.svg" alt="Conceptual S-infinity and B-infinity diagram showing a local manifestation within a larger relational background" width="300" />
 
 *Conceptual schematic: S-infinity and B-infinity are working labels for relational scales, not established entities.*
 

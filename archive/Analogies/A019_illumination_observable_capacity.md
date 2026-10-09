@@ -12,7 +12,7 @@ illumination/observable-capacity experiment.
 illumination") and 10 (V2.6 "Illumination / Observable Capacity");
 `V2/experiments/V2.6-illumination-observable-capacity/`.
 
-<img src="../assets/analogies/A019_illumination_capacity.svg" alt="Conceptual illumination diagram showing a sampled grid, illuminated support, and capacity fraction" width="300" />
+<img src="../../assets/analogies/A019_illumination_capacity.svg" alt="Conceptual illumination diagram showing a sampled grid, illuminated support, and capacity fraction" width="300" />
 
 *Conceptual schematic: occupancy estimates an observable fraction; it does not establish a physical scale.*
 

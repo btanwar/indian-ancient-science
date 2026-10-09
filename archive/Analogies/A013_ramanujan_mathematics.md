@@ -16,7 +16,7 @@ V2.2-Ramanujan-three-branch-decomposition.md`;
 \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Ramanujan/theta functions");
 `shared/test/PGA-8C.md` ("Ramanujan: identify one specific mathematical mechanism").
 
-<img src="../assets/analogies/A013_ramanujan.svg" alt="Conceptual Ramanujan mathematics diagram showing q-series, theta modes, and modular transformation" width="300" />
+<img src="../../assets/analogies/A013_ramanujan.svg" alt="Conceptual Ramanujan mathematics diagram showing q-series, theta modes, and modular transformation" width="300" />
 
 *Conceptual schematic: these are mathematical tools and structures, not evidence that Ramanujan predicted the theory.*
 

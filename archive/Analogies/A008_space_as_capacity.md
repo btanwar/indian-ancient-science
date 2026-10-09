@@ -12,7 +12,7 @@ accommodating principle rather than a passive void.
 ("A6 Space = capacity / accommodation"); \(indian-philosophy-modern-physics/V1/CLAIMS_{STATUS}.md\)
 (C10).
 
-<img src="../assets/analogies/A008_space_capacity.svg" alt="Conceptual space-as-capacity diagram showing relations needing accommodation and independent relations" width="300" />
+<img src="../../assets/analogies/A008_space_capacity.svg" alt="Conceptual space-as-capacity diagram showing relations needing accommodation and independent relations" width="300" />
 
 *Conceptual schematic: capacity is a proposed counting question, not an established origin of physical dimension.*
 

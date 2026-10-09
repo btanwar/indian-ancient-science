@@ -10,7 +10,7 @@ seed of the "Interacting Infinities & Visibility Model" (IIVM).
 dissolving in water"); `shared/test/PGA-IIVM-5.md` and related `IIVM-1` through `IIVM-4`,
 `PGA-IIVM-6`, `IIVM-7`, `PGA-IIVM-8` entries in `shared/test/` and `shared/results/`.
 
-<img src="../assets/analogies/A009_hidden_state.svg" alt="Conceptual hidden-state diagram showing a full sugar-and-water state and a projection where sugar is inaccessible" width="300" />
+<img src="../../assets/analogies/A009_hidden_state.svg" alt="Conceptual hidden-state diagram showing a full sugar-and-water state and a projection where sugar is inaccessible" width="300" />
 
 *Conceptual schematic: loss of visibility is represented as projection/coarse-graining, not disappearance.*
 

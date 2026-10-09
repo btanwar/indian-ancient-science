@@ -10,7 +10,7 @@ mala (prayer beads on a thread) as a model of discrete, ordered, connected eleme
 string"), `research/DAMRU/HISTORY.md`, early `PGA` string/mode sequence in `shared/test/`
 (e.g. `PGA-28`, `PGA-34`, `PGA-40`).
 
-<img src="../assets/analogies/A006_bead_string.svg" alt="Conceptual bead and string diagram showing localized excitations on a connected support" width="300" />
+<img src="../../assets/analogies/A006_bead_string.svg" alt="Conceptual bead and string diagram showing localized excitations on a connected support" width="300" />
 
 *Conceptual schematic: beads and string label local features and relational support, not a literal ontology.*
 

@@ -24,7 +24,7 @@ Use one short evidence label below each visual as a reader-facing sticker:
   itself.
 - Mark the testable component (if any) versus the purely metaphorical component.
 - One analogy can be used by multiple lines of thought; do not duplicate the file, link to it.
-- When a visual adds explanatory value, embed a small local schematic from `../assets/analogies/`.
+- When a visual adds explanatory value, embed a small local schematic from `../../assets/analogies/`.
   Give it meaningful alt text and a short caption stating which properties are being mapped.
 - Visuals must clarify the analogy, not imply historical authenticity or scientific proof. Label
   conceptual reconstructions as schematics and keep them modest in size.

@@ -9,7 +9,7 @@ universal interconnection and mutual reflection.
 **Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Indra-Net /
 recursive visibility"); `shared/test/PGA-IIVM-5.md` ("Recursive Visibility / Indra-Net Test").
 
-<img src="../assets/analogies/A010_indra_net.svg" alt="Conceptual Indra-Net diagram showing connected jewels and propagation from a local perturbation" width="300" />
+<img src="../../assets/analogies/A010_indra_net.svg" alt="Conceptual Indra-Net diagram showing connected jewels and propagation from a local perturbation" width="300" />
 
 *Conceptual schematic: links show recursive propagation, not evidence for a physical Indra-Net.*
 

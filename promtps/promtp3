@@ -1,0 +1,864 @@
+# TASK: Refactor `indian-ancient-science` into a Lean, Structured Research Repository
+
+You are working inside the existing Git repository:
+
+```text
+indian-ancient-science
+```
+
+This is a long-running research repository containing exploratory work connecting Indian knowledge traditions, mathematics, philosophy, and modern science/physics.
+
+The immediate task is **repository restructuring only**.
+
+Do NOT continue the scientific research yet.
+
+Do NOT select a current research branch.
+
+Do NOT identify the next PGA.
+
+First make the repository clean, lean, traceable, and useful as a foundation for the next stage of research.
+
+---
+
+# 1. CORE OBJECTIVE
+
+Transform the repository into a small research laboratory with a clear separation between:
+
+```text
+Research structure
+Foundational axioms
+Analogies
+Lines of thought
+Experiments
+Results
+Historical/archive material
+```
+
+The repository should avoid duplicated documentation and unnecessary folders.
+
+The desired root should be approximately:
+
+```text
+indian-ancient-science/
+│
+├── README.md
+├── RESEARCH_MASTER_TREE.md
+├── AXIOMS.md
+├── ANALOGIES.md
+├── LINES_OF_THOUGHT.md
+│
+├── experiments/
+├── results/
+│
+└── archive/
+```
+
+Do not blindly create this structure before auditing the existing repository.
+
+---
+
+# 2. PHASE 1 — COMPLETE REPOSITORY AUDIT
+
+Before moving, merging, renaming, archiving, or deleting anything:
+
+1. Inspect the complete repository tree.
+2. Identify all research documents.
+3. Identify all existing research-tree documents.
+4. Identify all axiom/assumption documents.
+5. Identify all analogy collections.
+6. Identify all lines-of-thought / idea-generation documents.
+7. Identify all experiments.
+8. Identify all results.
+9. Identify all failed/rejected experiments.
+10. Identify historical material.
+11. Identify duplicate documents.
+12. Identify obsolete organizational files.
+13. Identify files containing unique research information.
+
+Do not delete anything during the initial audit.
+
+The audit must distinguish:
+
+```text
+UNIQUE RESEARCH CONTENT
+DUPLICATE CONTENT
+STRUCTURAL/DOCUMENTATION CONTENT
+HISTORICAL CONTENT
+OBSOLETE CONTENT
+UNKNOWN / NEEDS REVIEW
+```
+
+If uncertain whether information is unique, preserve it.
+
+---
+
+# 3. TARGET ROOT STRUCTURE
+
+After auditing, consolidate the repository toward:
+
+```text
+indian-ancient-science/
+│
+├── README.md
+├── RESEARCH_MASTER_TREE.md
+├── AXIOMS.md
+├── ANALOGIES.md
+├── LINES_OF_THOUGHT.md
+│
+├── experiments/
+│   └── ...
+│
+├── results/
+│   └── ...
+│
+└── archive/
+    └── ...
+```
+
+This is the desired **lean architecture**.
+
+Do not create additional top-level research folders unless there is a demonstrated need.
+
+Avoid unnecessary structures such as:
+
+```text
+docs/
+research/
+research-docs/
+research-notes/
+research-results/
+analysis/
+analysis-results/
+ideas/
+concepts/
+misc/
+old/
+new/
+final/
+draft/
+```
+
+If existing content fits naturally into one of the canonical locations above, consolidate it.
+
+---
+
+# 4. RESEARCH_MASTER_TREE.md
+
+Create or consolidate the authoritative research tree into:
+
+```text
+RESEARCH_MASTER_TREE.md
+```
+
+at the repository root.
+
+This is the **single source of truth for research branch structure**.
+
+It should show:
+
+```text
+Research domain
+    ↓
+Major branch
+    ↓
+Sub-branch
+    ↓
+Research question
+    ↓
+Experiments
+    ↓
+Results
+    ↓
+Survived / failed / open
+```
+
+Keep it concise.
+
+The master tree is NOT a research essay.
+
+It is a navigation and lineage map.
+
+---
+
+## Master tree should contain
+
+```markdown
+# Research Master Tree
+
+## 1. Research Objective
+
+## 2. Core Research Tree
+
+## 3. Active Branches
+
+## 4. Completed / Established Branches
+
+## 5. Failed / Rejected Branches
+
+## 6. Deferred Branches
+
+## 7. Cross-Branch Relationships
+
+## 8. Research / PGA Index
+
+## 9. Current Research Checkpoint
+
+## 10. Open Foundational Questions
+```
+
+### Important
+
+Do not invent or choose a new "current research checkpoint" during this restructuring.
+
+If an existing checkpoint is already documented, preserve it.
+
+If the repository contains conflicting checkpoints, record the conflict for later research review rather than deciding which one is correct.
+
+---
+
+# 5. PRESERVE EXISTING BRANCH NUMBERING
+
+The existing research hierarchy is historically important.
+
+Therefore:
+
+* preserve existing branch numbers;
+* preserve existing PGA identifiers;
+* do not renumber branches just for cosmetic reasons;
+* do not merge branches merely because they appear similar;
+* do not delete failed branches.
+
+If the existing tree is inconsistent, preserve the historical numbering and document the inconsistency rather than silently rewriting history.
+
+---
+
+# 6. AXIOMS.md
+
+Create one canonical root file:
+
+```text
+AXIOMS.md
+```
+
+This is the single authoritative file for foundational statements used by the research.
+
+Consolidate existing axiom/assumption documents into it.
+
+Separate clearly:
+
+```text
+## Axioms
+
+## Definitions
+
+## Working Assumptions
+
+## Open Hypotheses
+
+## Derived Consequences
+
+## Rejected / Superseded Assumptions
+```
+
+Every foundational statement should have a stable identifier where practical:
+
+```text
+A-001
+A-002
+A-003
+...
+```
+
+Do NOT promote an assumption into an axiom simply because it appears frequently in previous discussions.
+
+Do NOT convert analogies into axioms.
+
+Do NOT convert speculative physics into established facts.
+
+---
+
+# 7. ANALOGIES.md
+
+Create one canonical root file:
+
+```text
+ANALOGIES.md
+```
+
+This is the single inventory of analogies used or considered throughout the research.
+
+Examples may include, where actually present in the repository:
+
+```text
+Indian philosophical analogies
+Mathematical analogies
+Physical analogies
+Visual/mechanical analogies
+Information/computation analogies
+Biological analogies
+Cinema/VCR analogies
+Wave/interference analogies
+```
+
+Do not invent new analogies.
+
+For each analogy, use a compact structure such as:
+
+```markdown
+## A-001 — [Analogy Name]
+
+Source / Origin:
+Related research branch:
+What it attempts to illustrate:
+Structural correspondence:
+What it does NOT establish:
+Status:
+Related experiments:
+Related results:
+```
+
+Most importantly:
+
+```text
+ANALOGY ≠ MECHANISM
+ANALOGY ≠ DERIVATION
+ANALOGY ≠ EVIDENCE
+```
+
+Preserve interesting analogies even if the corresponding scientific hypothesis failed.
+
+---
+
+# 8. LINES_OF_THOUGHT.md
+
+Create one canonical root file:
+
+```text
+LINES_OF_THOUGHT.md
+```
+
+This is the inventory of major conceptual directions explored during the research.
+
+It is NOT the formal research tree.
+
+It should preserve ideas that may have generated branches, including ideas that were later abandoned.
+
+Use a compact structure:
+
+```markdown
+## LOT-001 — [Line of Thought]
+
+Origin:
+Core idea:
+Question it generated:
+Branches generated:
+Tests performed:
+Current status:
+Reason continued/closed:
+```
+
+Possible statuses:
+
+```text
+ACTIVE
+OPEN
+TESTED
+PARTIAL
+FAILED
+DEFERRED
+ABANDONED
+```
+
+Do not convert every line of thought into a research branch.
+
+This file exists specifically to preserve the intellectual evolution of the project without cluttering the formal research tree.
+
+---
+
+# 9. EXPERIMENTS/
+
+Create one canonical research-test area:
+
+```text
+experiments/
+```
+
+Only actual tests belong here.
+
+An experiment should answer a specific question.
+
+Do not create folders for every tiny calculation unless the calculation forms part of a meaningful experiment.
+
+A substantial experiment can have:
+
+```text
+experiments/
+└── <experiment-id>/
+    └── EXPERIMENT.md
+```
+
+Use a compact format:
+
+```markdown
+# Experiment
+
+## ID
+
+## Research Branch
+
+## Question
+
+## Relevant Axioms
+
+## Hypothesis
+
+## Model
+
+## Inputs
+
+## Method
+
+## Expected Result
+
+## Actual Result
+
+## Status
+
+## Interpretation
+
+## Next Test
+```
+
+Clearly distinguish:
+
+```text
+DERIVED
+ASSUMED
+IMPORTED
+OBSERVED
+FAILED
+```
+
+---
+
+# 10. RESULTS/
+
+Create one canonical outcome area:
+
+```text
+results/
+```
+
+The distinction must be:
+
+```text
+experiments/
+    What did we test?
+
+results/
+    What did the test establish?
+```
+
+A result should record:
+
+```markdown
+# Result
+
+## Result ID
+
+## Experiment
+
+## Research Branch
+
+## Question
+
+## Result
+
+## Derived
+
+## Assumed
+
+## Imported
+
+## Limitations
+
+## Failure / Negative Result
+
+## Implication
+
+## Follow-up
+```
+
+Do not create:
+
+```text
+final-results/
+successful-results/
+positive-results/
+negative-results/
+```
+
+All results belong in one place.
+
+---
+
+# 11. NEGATIVE RESULTS MUST BE PRESERVED
+
+Failed research is part of the research record.
+
+Never silently delete:
+
+* failed experiments
+* rejected hypotheses
+* abandoned mechanisms
+* negative mathematical results
+* failed analogies that informed later work
+
+If a failed experiment led to a new approach:
+
+```text
+Old experiment → FAILED
+                 ↓
+          new hypothesis
+                 ↓
+          new experiment
+```
+
+Do not overwrite the original experiment.
+
+---
+
+# 12. ARCHIVE/
+
+Create:
+
+```text
+archive/
+```
+
+for material that should remain preserved but is no longer part of the active working structure.
+
+Examples:
+
+* obsolete documentation
+* duplicate summaries
+* superseded repository structures
+* old generated files
+* historical organizational material
+* redundant copies after consolidation
+
+Do not archive unique research merely because it is old.
+
+Do not delete uncertain material.
+
+If necessary:
+
+```text
+archive/REVIEW_REQUIRED/
+```
+
+may be used temporarily, but do not create unnecessary archive hierarchy.
+
+---
+
+# 13. README.md
+
+Clean the root README.
+
+It should be short and orient a new researcher.
+
+Suggested structure:
+
+```markdown
+# Indian Ancient Science
+
+## Purpose
+
+## Research Philosophy
+
+## Repository Structure
+
+## How to Navigate the Research
+
+## How to Add an Experiment
+
+## How to Record a Result
+
+## Research Discipline
+```
+
+The README should explain:
+
+```text
+RESEARCH_MASTER_TREE.md
+→ research structure
+
+AXIOMS.md
+→ foundational assumptions and definitions
+
+ANALOGIES.md
+→ analogy inventory
+
+LINES_OF_THOUGHT.md
+→ conceptual evolution
+
+experiments/
+→ tests
+
+results/
+→ outcomes
+
+archive/
+→ historical/superseded material
+```
+
+Keep it concise.
+
+---
+
+# 14. SINGLE-SOURCE-OF-TRUTH RULE
+
+After restructuring, use this rule:
+
+```text
+Research hierarchy
+→ RESEARCH_MASTER_TREE.md
+
+Foundational assumptions
+→ AXIOMS.md
+
+Analogy inventory
+→ ANALOGIES.md
+
+Conceptual evolution
+→ LINES_OF_THOUGHT.md
+
+Experiments
+→ experiments/
+
+Results
+→ results/
+
+Historical/superseded material
+→ archive/
+```
+
+Do not maintain parallel versions of these.
+
+If duplicate content exists, consolidate it.
+
+---
+
+# 15. DO NOT OVER-ENGINEER
+
+This repository should remain simple.
+
+Do NOT introduce:
+
+* databases
+* vector databases
+* complex metadata systems
+* elaborate YAML schemas
+* automated research-management frameworks
+* unnecessary indexes
+* multiple levels of documentation
+* generated documentation systems
+
+unless existing repository functionality genuinely requires them.
+
+The desired root should be understandable immediately.
+
+---
+
+# 16. SCIENTIFIC INTEGRITY
+
+This task is repository restructuring, NOT scientific reinterpretation.
+
+Therefore:
+
+DO NOT:
+
+* change scientific conclusions;
+* promote hypotheses;
+* remove failed research;
+* convert analogies into mechanisms;
+* convert mathematical constructions into physical derivations;
+* rewrite historical research to make it appear more successful;
+* invent missing explanations;
+* select the next research branch.
+
+Preserve the research exactly as supported by the existing material, while improving its organization.
+
+---
+
+# 17. GIT SAFETY
+
+Before modifying files:
+
+```text
+git status
+git log --oneline -n 10
+```
+
+Do not:
+
+* rewrite Git history;
+* force-push;
+* delete Git branches;
+* perform destructive cleanup without verification.
+
+Prefer:
+
+```text
+move
+merge
+archive
+```
+
+over deletion.
+
+Every deleted file must have a documented reason.
+
+---
+
+# 18. TWO-PHASE EXECUTION
+
+## PHASE 1 — AUDIT ONLY
+
+Inspect the repository and produce:
+
+```text
+CURRENT TREE
+
+PROPOSED TREE
+
+FILES TO MOVE
+
+FILES TO MERGE
+
+FILES TO ARCHIVE
+
+FILES THAT MUST BE PRESERVED
+
+DUPLICATES
+
+UNCERTAIN FILES
+```
+
+Do not perform destructive changes yet.
+
+---
+
+## PHASE 2 — RESTRUCTURE
+
+After the audit:
+
+1. Create/consolidate `RESEARCH_MASTER_TREE.md`.
+2. Create/consolidate `AXIOMS.md`.
+3. Create/consolidate `ANALOGIES.md`.
+4. Create/consolidate `LINES_OF_THOUGHT.md`.
+5. Consolidate experiments into `experiments/`.
+6. Consolidate results into `results/`.
+7. Move obsolete/superseded material into `archive/`.
+8. Clean the root `README.md`.
+9. Fix internal references and links.
+10. Verify no unique research content was lost.
+
+---
+
+# 19. FINAL VALIDATION
+
+After restructuring, verify:
+
+```text
+[ ] Repository root is clean
+[ ] One master research tree exists
+[ ] One axiom file exists
+[ ] One analogy file exists
+[ ] One lines-of-thought file exists
+[ ] One experiment area exists
+[ ] One result area exists
+[ ] Historical material is preserved
+[ ] Failed research is preserved
+[ ] Existing branch numbering is preserved
+[ ] Existing PGA identifiers are preserved
+[ ] No duplicate master documents remain
+[ ] No duplicate axiom authorities remain
+[ ] No unique research content was lost
+[ ] No new scientific conclusions were introduced
+[ ] No new research branch was selected
+```
+
+---
+
+# 20. FINAL REPORT
+
+When finished, show:
+
+```text
+FINAL REPOSITORY TREE
+
+FILES CREATED
+
+FILES CONSOLIDATED
+
+FILES MOVED
+
+FILES ARCHIVED
+
+FILES DELETED
+    - reason for each
+
+DUPLICATES REMOVED
+
+RESEARCH CONTENT PRESERVED
+
+ITEMS REQUIRING HUMAN REVIEW
+```
+
+Keep the final report concise.
+
+# FINAL DESIGN PRINCIPLE
+
+The repository should function as a **lean research laboratory**:
+
+```text
+                         RESEARCH
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+       AXIOMS          MASTER TREE       IDEA HISTORY
+          │                 │          ┌──────┴──────┐
+          │                 │      ANALOGIES   LINES OF THOUGHT
+          │                 │
+          └─────────────────┼─────────────────┘
+                            │
+                       EXPERIMENTS
+                            │
+                            ▼
+                         RESULTS
+                            │
+                    ┌───────┴───────┐
+                    │               │
+                 SURVIVED         FAILED
+                    │               │
+                    └───────┬───────┘
+                            │
+                       NEXT RESEARCH
+```
+
+Keep the structure small.
+
+Keep the research lineage intact.
+
+Keep ideas separate from validated research.
+
+Keep analogies separate from mechanisms.
+
+Keep assumptions separate from derived results.
+
+Keep failures.
+
+And most importantly:
+
+**Do not decide what the next research branch is during this cleanup.**

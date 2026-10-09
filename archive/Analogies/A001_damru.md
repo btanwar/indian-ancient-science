@@ -12,7 +12,7 @@ strikes each face alternately.
 ("A3 Cosmic Damru"); `indian-mythology-modern-science/research/DAMRU/HISTORY.md` and
 \(research/ANALOGY_{MAP}.md\).
 
-<img src="../assets/analogies/A001_damru.svg" alt="Conceptual Shiva and Damru diagram showing the lobes, waist, striker, and oscillation mapping" width="300" />
+<img src="../../assets/analogies/A001_damru.svg" alt="Conceptual Shiva and Damru diagram showing the lobes, waist, striker, and oscillation mapping" width="300" />
 
 *Conceptual schematic, not a historical depiction. The labels identify only the Damru properties used in this analogy.*
 

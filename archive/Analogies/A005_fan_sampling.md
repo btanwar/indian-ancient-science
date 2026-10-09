@@ -11,7 +11,7 @@ process.
 sampling"), \(research/FAILED_{AND}_ABANDONED_PATHS.md\) ("Fan/ordinary sampling explains universal
 c"); early `PGA-6` through `PGA-20` sequence in `shared/test/`.
 
-<img src="../assets/analogies/A005_fan_sampling.svg" alt="Conceptual fan sampling diagram showing true rotation, sampled snapshots, and aliasing" width="300" />
+<img src="../../assets/analogies/A005_fan_sampling.svg" alt="Conceptual fan sampling diagram showing true rotation, sampled snapshots, and aliasing" width="300" />
 
 *Conceptual schematic: sampling can change apparent motion; it does not explain the invariant speed c.*
 

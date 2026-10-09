@@ -11,7 +11,7 @@ underlying reality being observed.
 cinema/audience"); \(research/MATHEMATICAL_{MODELS}.md\) (\(X \rightarrow \pi(X) \rightarrow A(\pi(X))\));
 \(research/FAILED_{AND}_ABANDONED_PATHS.md\) ("Observer creates physical reality").
 
-<img src="../assets/analogies/A017_observer_projection.svg" alt="Conceptual observer diagram showing physical state, projection, and representation" width="300" />
+<img src="../../assets/analogies/A017_observer_projection.svg" alt="Conceptual observer diagram showing physical state, projection, and representation" width="300" />
 
 *Conceptual schematic: the observer receives a representation; observation is not treated as creation of reality.*
 

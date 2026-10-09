@@ -9,7 +9,7 @@ relational substrate might deform and propagate disturbances.
 **Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Fabric/
 spacetime"), `research/DAMRU/HISTORY.md`.
 
-<img src="../assets/analogies/A007_fabric_spacetime.svg" alt="Conceptual fabric diagram showing deformation, curvature response, and propagation" width="300" />
+<img src="../../assets/analogies/A007_fabric_spacetime.svg" alt="Conceptual fabric diagram showing deformation, curvature response, and propagation" width="300" />
 
 *Conceptual schematic: the fabric image is explanatory language, not a derivation of general relativity.*
 

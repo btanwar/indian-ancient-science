@@ -13,7 +13,7 @@ FRAMEWORK in the mythology-archive reconstruction
 coverage"); \(indian-mythology-modern-science/research/AUDIO_{VIDEO}_VCR/HISTORY.md\) and
 \(research/ANALOGY_{MAP}.md\) ("VCR/cinema", "Moving/tilted head").
 
-<img src="../assets/analogies/A003_vcr_coverage.svg" alt="Conceptual VCR diagram showing a moving read head, coverage, order, and reconstruction" width="300" />
+<img src="../../assets/analogies/A003_vcr_coverage.svg" alt="Conceptual VCR diagram showing a moving read head, coverage, order, and reconstruction" width="300" />
 
 *Conceptual schematic: the path separates visited coverage from the order in which samples are read.*
 

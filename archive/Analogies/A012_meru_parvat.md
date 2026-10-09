@@ -9,7 +9,7 @@ order are arranged.
 **Prior-project source:** \(indian-mythology-modern-science/research/ANALOGY_{MAP}.md\) ("Meru
 Parvat").
 
-<img src="../assets/analogies/A012_meru_parvat.svg" alt="Conceptual Meru Parvat diagram showing a central axis and ordered surroundings" width="300" />
+<img src="../../assets/analogies/A012_meru_parvat.svg" alt="Conceptual Meru Parvat diagram showing a central axis and ordered surroundings" width="300" />
 
 *Conceptual schematic: Meru is used here as cosmological framing, not as a physical mechanism.*
 

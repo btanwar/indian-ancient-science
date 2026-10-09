@@ -10,7 +10,7 @@ tantric/meditative tradition to represent cosmic order and the structure of crea
 Yantra"); `shared/test/PGA-8D.md` ("Sri/Meru Yantra: mathematically characterize its geometry and
 information content").
 
-<img src="../assets/analogies/A014_sri_meru_yantra.svg" alt="Conceptual Sri Yantra diagram showing interlocking triangles, bindu, and symmetry" width="300" />
+<img src="../../assets/analogies/A014_sri_meru_yantra.svg" alt="Conceptual Sri Yantra diagram showing interlocking triangles, bindu, and symmetry" width="300" />
 
 *Conceptual schematic: the geometry is a characterization target, not an established physical field.*
 

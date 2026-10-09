@@ -12,7 +12,7 @@ medium, and whether gravitational waves could be an "audio" analogue to electrom
 "Complementary-Channel Reconstruction Test"); `indian-philosophy-modern-physics/V2/experiments/`
 (`V2.7-gravitational-wave-em-coupling`, `V2.8-gw-em-polarization-invariant`).
 
-<img src="../assets/analogies/A004_audio_video.svg" alt="Conceptual complementary-channel diagram showing electromagnetic and gravitational-wave observations of one event" width="300" />
+<img src="../../assets/analogies/A004_audio_video.svg" alt="Conceptual complementary-channel diagram showing electromagnetic and gravitational-wave observations of one event" width="300" />
 
 *Conceptual schematic: the channels are an abstract comparison, not literal audio and video.*
 

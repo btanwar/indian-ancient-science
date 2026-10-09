@@ -11,7 +11,7 @@ Damru.)
 **Prior-project source:** `indian-philosophy-modern-physics/V1/analogies/README.md`,
 \(V1/RESEARCH_{LOG}.md\) (Entry 2), \(V1/CLAIMS_{STATUS}.md\) (C14), `V1/DECISIONS.md` ([B]).
 
-<img src="../assets/analogies/A002_orchestra.svg" alt="Conceptual orchestra diagram showing distinct instruments coordinated into one collective mode" width="300" />
+<img src="../../assets/analogies/A002_orchestra.svg" alt="Conceptual orchestra diagram showing distinct instruments coordinated into one collective mode" width="300" />
 
 *Conceptual schematic: the instruments represent coupled degrees of freedom, not a physical derivation.*
 
